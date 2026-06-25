@@ -1,10 +1,10 @@
-site_name: Fiore dei Liberi for the Modern Fencer
-site_description: A structured guide to the longsword system of Fior di Battaglia
+site_name: Steel Crown Historical Fencing
+site_description: Historical European Martial Arts in Charlotte, NC
 site_url: https://steelcrownhistoricalfencing.com/
-docs_dir: 'Fiore for HEMA Fencers'
+docs_dir: 'Steel Crown Historical Fencing'
 site_dir: site
 exclude_docs: |
-  Fiore Di Libre Lesson*
+  Fiore for HEMA Fencers/Fiore Di Libre Lesson*
 
 theme:
   name: material
@@ -30,28 +30,34 @@ theme:
 
 nav:
   - Home: index.md
-  - History:
-    - Introduction: 'History/Introduction and Historical Context.md'
-    - The Segno & Four Virtues: 'History/The Segno, the Four Virtues, and the Structure of the System.md'
-  - Glossary: Glossary.md
-  - Guards:
-    - Posta di Donna Destra: 'Guards/Posta di Donna Destra.md'
-    - Posta di Fenestra: 'Guards/Posta di Fenestra.md'
-    - Dente di Zenghiaro: 'Guards/Dente di Zenghiaro.md'
-    - Coda Longa: 'Guards/Coda Longa.md'
-    - Posta Longa: 'Guards/Posta Longa.md'
-    - Posta Breve: 'Guards/Posta Breve.md'
-    - Tutta Porta di Ferro: 'Guards/Tutta Porta di Ferro.md'
-    - Porta di Ferro Mezzana: 'Guards/Porta di Ferro Mezzana.md'
-    - Porta di Ferro Alta: 'Guards/Porta di Ferro Alta.md'
-    - Posta Frontale: 'Guards/Posta Frontale.md'
-    - Posta Corona: 'Guards/Posta Corona.md'
-    - Bicorno: 'Guards/Bicorno.md'
-  - Strikes:
-    - Fendente Destra: 'Strikes/Fendente Destra.md'
-    - Fendente Sinestra: 'Strikes/Fendente Sinestra.md'
-    - Mezzano Destra: 'Strikes/Mezzano Destra.md'
-    - Mezzano Sinestra: 'Strikes/Mezzano Sinestra.md'
-    - Sottano Destra: 'Strikes/Sottano Destra.md'
-    - Sottano Sinestra: 'Strikes/Sottano Sinestra.md'
-    - Punta: 'Strikes/Punta.md'
+  - About: About.md
+  - Standards:
+    - Instructor Standards: 'Standards/Instructor Standards.md'
+    - Student Standards: 'Standards/Student Standards.md'
+    - Safety Standards: 'Standards/Safety Standards.md'
+  - Fiore Curriculum:
+    - History:
+      - Introduction: 'Fiore for HEMA Fencers/History/Introduction and Historical Context.md'
+      - The Segno & Four Virtues: 'Fiore for HEMA Fencers/History/The Segno, the Four Virtues, and the Structure of the System.md'
+    - Glossary: 'Fiore for HEMA Fencers/Glossary.md'
+    - Guards:
+      - Posta di Donna Destra: 'Fiore for HEMA Fencers/Guards/Posta di Donna Destra.md'
+      - Posta di Fenestra: 'Fiore for HEMA Fencers/Guards/Posta di Fenestra.md'
+      - Dente di Zenghiaro: 'Fiore for HEMA Fencers/Guards/Dente di Zenghiaro.md'
+      - Coda Longa: 'Fiore for HEMA Fencers/Guards/Coda Longa.md'
+      - Posta Longa: 'Fiore for HEMA Fencers/Guards/Posta Longa.md'
+      - Posta Breve: 'Fiore for HEMA Fencers/Guards/Posta Breve.md'
+      - Tutta Porta di Ferro: 'Fiore for HEMA Fencers/Guards/Tutta Porta di Ferro.md'
+      - Porta di Ferro Mezzana: 'Fiore for HEMA Fencers/Guards/Porta di Ferro Mezzana.md'
+      - Porta di Ferro Alta: 'Fiore for HEMA Fencers/Guards/Porta di Ferro Alta.md'
+      - Posta Frontale: 'Fiore for HEMA Fencers/Guards/Posta Frontale.md'
+      - Posta Corona: 'Fiore for HEMA Fencers/Guards/Posta Corona.md'
+      - Bicorno: 'Fiore for HEMA Fencers/Guards/Bicorno.md'
+    - Strikes:
+      - Fendente Destra: 'Fiore for HEMA Fencers/Strikes/Fendente Destra.md'
+      - Fendente Sinestra: 'Fiore for HEMA Fencers/Strikes/Fendente Sinestra.md'
+      - Mezzano Destra: 'Fiore for HEMA Fencers/Strikes/Mezzano Destra.md'
+      - Mezzano Sinestra: 'Fiore for HEMA Fencers/Strikes/Mezzano Sinestra.md'
+      - Sottano Destra: 'Fiore for HEMA Fencers/Strikes/Sottano Destra.md'
+      - Sottano Sinestra: 'Fiore for HEMA Fencers/Strikes/Sottano Sinestra.md'
+      - Punta: 'Fiore for HEMA Fencers/Strikes/Punta.md'
