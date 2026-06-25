@@ -1,0 +1,56 @@
+site_name: Fiore dei Liberi for the Modern Fencer
+site_description: A structured guide to the longsword system of Fior di Battaglia
+docs_dir: 'Fiore for HEMA Fencers'
+site_dir: site
+exclude_docs: |
+  Fiore Di Libre Lesson*
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+nav:
+  - Home: index.md
+  - History:
+    - Introduction: 'History/Introduction and Historical Context.md'
+    - The Segno & Four Virtues: 'History/The Segno, the Four Virtues, and the Structure of the System.md'
+  - Glossary: Glossary.md
+  - Guards:
+    - Posta di Donna Destra: 'Guards/Posta di Donna Destra.md'
+    - Posta di Fenestra: 'Guards/Posta di Fenestra.md'
+    - Dente di Zenghiaro: 'Guards/Dente di Zenghiaro.md'
+    - Coda Longa: 'Guards/Coda Longa.md'
+    - Posta Longa: 'Guards/Posta Longa.md'
+    - Posta Breve: 'Guards/Posta Breve.md'
+    - Tutta Porta di Ferro: 'Guards/Tutta Porta di Ferro.md'
+    - Porta di Ferro Mezzana: 'Guards/Porta di Ferro Mezzana.md'
+    - Porta di Ferro Alta: 'Guards/Porta di Ferro Alta.md'
+    - Posta Frontale: 'Guards/Posta Frontale.md'
+    - Posta Corona: 'Guards/Posta Corona.md'
+    - Bicorno: 'Guards/Bicorno.md'
+  - Strikes:
+    - Fendente Destra: 'Strikes/Fendente Destra.md'
+    - Fendente Sinestra: 'Strikes/Fendente Sinestra.md'
+    - Mezzano Destra: 'Strikes/Mezzano Destra.md'
+    - Mezzano Sinestra: 'Strikes/Mezzano Sinestra.md'
+    - Sottano Destra: 'Strikes/Sottano Destra.md'
+    - Sottano Sinestra: 'Strikes/Sottano Sinestra.md'
+    - Punta: 'Strikes/Punta.md'
