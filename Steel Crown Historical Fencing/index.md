@@ -1,3 +1,7 @@
+<div style="text-align: center; padding: 2rem 0 1rem;">
+  <img src="assets/Logo.png" alt="Steel Crown Historical Fencing" style="width: 220px; max-width: 100%;">
+</div>
+
 # Steel Crown Historical Fencing
 
 *Historical European Martial Arts — Charlotte, NC*
