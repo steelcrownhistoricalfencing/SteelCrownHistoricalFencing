@@ -1,4 +1,4 @@
-# Rule 3 — Surrounded in a Narrow Street from Behind and in Front
+# Chapter 3 — Surrounded in a Narrow Street from Behind and in Front
 
 *Including: How to Grip the Montante*
 

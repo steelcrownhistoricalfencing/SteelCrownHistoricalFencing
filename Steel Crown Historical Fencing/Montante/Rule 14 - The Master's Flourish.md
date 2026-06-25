@@ -12,12 +12,9 @@ Taking hold of the montante in the manner pointed out in Rule Three, and positio
 
 ## Summary
 
-Begin by taking hold of the montante as instructed in Rule Three. Position yourself sideways, and step to the left with the left foot, playing two or three tajos as you move. Each time, let the right foot follow, stepping ahead of the left in the line of sight. After executing the tajos, withdraw the last one in the air, keeping the quillons in front of your face and the point of the montante angled towards the floor.
-
-Stand firm on your right knee, and from this position, deliver a reves. Then, perform a raking tajo, followed immediately by another tajo, this time swinging it overhead while turning your entire body on the right foot. Your face should end up where your back was before the turn.
-
-With this turn complete, repeat the series of tajos and reves as described, finishing each sequence with the last tajo withdrawn in the air. Continue this pattern, ensuring that each movement mirrors the steps from the first part of the rule.
-
----
-
-*Godinho notes that this rule is intended for masters and leaves its practical application to the judgment of the Diestros — experienced practitioners capable of adapting the flourish to real combat conditions.*
+1. **Grip and stance**: Take hold of the montante as instructed in Chapter Three and position yourself sideways.
+2. **Initial tajos**: Step left with the left foot and play two or three tajos, right foot following and placing ahead of the left in the line of sight each time.
+3. **Withdraw into position**: Leave the last tajo withdrawn in the air with the quillons in front of the face, arms turned in the manner of an armed reves, and the point toward the floor.
+4. **Reves on the knee**: Play a reves standing firm, bending over the right knee.
+5. **Raking tajo and turn**: From that same firm position, play a raking tajo, then immediately a tajo rounded above the head, turning the whole body on the right foot so the face ends where the back was.
+6. **Repeat**: From the new facing, give the same tajos in the same order, withdraw the last, play the reves on the knee, the raking tajo, and the overhead turning tajo. What is done in the first step of this rule is done in all the rest.

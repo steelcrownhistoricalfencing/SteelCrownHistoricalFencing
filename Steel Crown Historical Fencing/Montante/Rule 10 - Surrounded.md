@@ -18,7 +18,7 @@ Being outside, take advantage of them with Rule 9. Be advised that the moment yo
 
 When surrounded by opponents in battle, you must act with great speed, acuity, and vigor:
 
-1. **Prepare with Rule Three**: Quickly take up the montante in the form described in Rule Three, ensuring your stance and grip are firm.
+1. **Prepare with Chapter Three**: Quickly take up the montante in the form described in Chapter Three, ensuring your stance and grip are firm.
 2. **Initial Defense — Tajos**: Position yourself in the center of your attackers. Begin by cutting a tajo, bending at the knees while keeping your head straight and centered on the left foot. Follow with another tajo, stepping with the right foot, moving sideways. Continue alternating between left and right foot, cutting tajos with each step. Circle yourself in a continuous motion, delivering up to three or four tajos as you turn, but avoid more than five to prevent weakening your position.
 3. **Follow-up — Reveses**: Once the steps with tajos are complete, return to your starting point by executing reveses. Follow the same footwork pattern as with the tajos, but now delivering reveses with each step. Circle your entire body with these reveses, ensuring your feet are placed securely and straight from each other.
 4. **Maintaining Posture**: Keep your body upright throughout the motion, with your face alternating from side to side as you turn with each blow. The steps should be executed continuously, with tajos to one side followed by reveses to the other, until the battle ends.

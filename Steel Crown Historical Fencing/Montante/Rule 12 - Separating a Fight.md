@@ -10,17 +10,11 @@ Much sense and caution is required to break up a fight and separate the opponent
 
 ## Summary
 
-To break up a fight and safely separate opponents without escalating the situation:
-
-- **Caution and Awareness**: It's crucial to approach the situation with a clear mind, as brawls tend to cause carelessness. Your goal is to de-escalate the situation without causing additional injuries.
-- **Positioning**: Place yourself in the middle of the fighting group, where you can have the most control over the situation.
-
-**Execution:**
-
-1. **Clearing the Way**: Once you are in the middle of the brawl, start clearing a path by positioning yourself between the fighters. Alternate from one foot to the other in jumps or hops, maintaining your balance and mobility.
-2. **Strikes**: Execute tajos and reveses **above the head**. Strikes should only be aimed overhead, as this creates fear and discourages further fighting without causing harm. Avoid striking below the head — lower strikes increase the risk of injury and do not serve the purpose of breaking up the fight. Always aim to meet the opponents' swords with your montante, deflecting their attacks rather than injuring them.
-3. **Footwork**: Your steps should be deliberate and controlled. For every step you take, deliver one blow — no more. This helps maintain order and prevents the situation from escalating. Focus on pressing toward the side where there are more people involved, as this is where you can have the most impact in dispersing the crowd.
-4. **No Thrusts**: Thrusting with the montante is strictly prohibited in this scenario. Thrusts are too dangerous in a crowded situation and can lead to serious injuries.
-5. **Dominating the Middle**: Once you have established control in the center of the fight, you can begin to disperse the fighters further. If necessary, you can switch to Rule Six, which focuses on guarding goods, to ensure the safety of any valuable items or people nearby.
-
-**Speed**: Avoid excessive speed. While speed is generally useful in combat, in this context it can lead to mistakes and harm. Move with purpose but not haste.
+1. **Approach with caution**: Brawls cause carelessness. Enter with a clear mind, your goal being to de-escalate — not to cause additional injuries.
+2. **Enter the middle**: Place yourself between the fighters at the center of the brawl.
+3. **Move and strike**: Alternate from foot to foot in jumps or hops, delivering tajos and reveses **above the head only**. Overhead strikes create fear and discourage further fighting without causing harm; strikes below the head risk injury and defeat the purpose.
+4. **One blow per step, no more**: Every step delivers exactly one blow. Press toward the side where the most people are gathered.
+5. **Deflect, don't injure**: Meet the opponents' swords with the montante rather than targeting their bodies.
+6. **No thrusts**: Thrusting is strictly prohibited here — too dangerous in a crowd.
+7. **Avoid excessive speed**: Speed causes mistakes in this scenario. Move with purpose, not haste.
+8. **Once the center is dominated**: If needed, transition to Rule Six to guard any goods or persons.
