@@ -1,0 +1,41 @@
+/* ── Accent: muted steel blue ─────────────────────────────────────────────── */
+:root,
+[data-md-color-scheme="slate"],
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color:              #5b9bd5;
+  --md-accent-fg-color--transparent: rgba(91, 155, 213, 0.1);
+}
+
+/* ── Dark scheme background: off-black, easier on the eyes than pure black ── */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:        #0f1117;
+  --md-default-fg-color:        #e6e9ef;
+  --md-default-fg-color--light: #adb5c4;
+  --md-code-bg-color:           #1a1f2b;
+}
+
+/* ── Logo size in the nav bar ─────────────────────────────────────────────── */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+}
+
+/* ── Section headers: steel blue left border ──────────────────────────────── */
+.md-content article h2 {
+  border-left: 2px solid var(--md-accent-fg-color);
+  padding-left: 0.75rem;
+  font-weight: 500;
+}
+
+/* ── Horizontal rules: subtle, not distracting ────────────────────────────── */
+.md-content article hr {
+  border-color: rgba(91, 155, 213, 0.2);
+  margin: 1.5rem 0;
+}
+
+/* ── Slightly wider line-height for readability ───────────────────────────── */
+.md-content article p,
+.md-content article li {
+  line-height: 1.75;
+}
