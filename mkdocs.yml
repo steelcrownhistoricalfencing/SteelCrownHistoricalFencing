@@ -1,5 +1,6 @@
 site_name: Fiore dei Liberi for the Modern Fencer
 site_description: A structured guide to the longsword system of Fior di Battaglia
+site_url: https://steelcrownhistoricalfencing.github.io/SteelCrownHistoricalFencing/
 docs_dir: 'Fiore for HEMA Fencers'
 site_dir: site
 exclude_docs: |
