@@ -1,10 +1,13 @@
-<div style="text-align: center; padding: 2rem 0 1rem;">
-  <img src="assets/Logo.png" alt="Steel Crown Historical Fencing" style="width: 220px; max-width: 100%;">
+<div class="hero-section">
+  <img src="assets/Logo.png" alt="Steel Crown Historical Fencing" class="hero-logo">
+  <div class="hero-title">Steel Crown Historical Fencing</div>
+  <p class="hero-tagline">Historical European Martial Arts · Charlotte, NC</p>
 </div>
 
-# Steel Crown Historical Fencing
-
-*Historical European Martial Arts — Charlotte, NC*
+<div class="hero-cta" markdown>
+[Explore the Curriculum](Fiore for HEMA Fencers/Glossary.md){ .md-button .md-button--primary }
+[About the Club](About.md){ .md-button }
+</div>
 
 Steel Crown Historical Fencing is a HEMA organization in Charlotte, North Carolina dedicated to the serious study and practice of historical fencing. We train longsword and other weapons drawn from primary historical sources, with an emphasis on disciplined technique, honest instruction, and a culture where every member is both a student and a contributor.
 
@@ -14,14 +17,33 @@ Whether you are new to HEMA or an experienced practitioner, you will find a trai
 
 ## What We Do
 
-We study the martial arts of historical Europe through rigorous training, historical research, and competitive preparation. Our current primary focus is the longsword system of **Fiore dei Liberi**, an Italian master whose *Fior di Battaglia* (c. 1409) remains one of the most complete surviving fencing manuals of the medieval period.
+<div class="grid cards" markdown>
 
-Training covers:
+-   :material-sword-cross:{ .lg .middle } **Guards & Footwork**
 
-- Guards (poste) and footwork
-- The seven blows of the longsword
-- Tactical play and fencing judgment
-- Drilling, controlled sparring, and pressure testing
+    ---
+
+    Study the thirteen guards of Fiore's system and the footwork connecting them.
+
+-   :material-lightning-bolt:{ .lg .middle } **Seven Blows**
+
+    ---
+
+    Master the fendente, mezzano, sottano, and punta — Fiore's fundamental strikes.
+
+-   :material-target:{ .lg .middle } **Tactical Play**
+
+    ---
+
+    Develop fencing judgment through drilling, controlled sparring, and pressure testing.
+
+-   :material-book-open-page-variant:{ .lg .middle } **Historical Research**
+
+    ---
+
+    Study from primary sources, including the Getty Manuscript of Fiore dei Liberi (c. 1409).
+
+</div>
 
 ---
 

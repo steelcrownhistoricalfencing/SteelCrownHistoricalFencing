@@ -39,3 +39,43 @@
 .md-content article li {
   line-height: 1.75;
 }
+
+/* ── Homepage hero ────────────────────────────────────────────────────────── */
+.hero-section {
+  text-align: center;
+  padding: 3.5rem 1rem 0.5rem;
+}
+
+.hero-logo {
+  width: 160px;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-title {
+  font-size: 2.1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin-bottom: 0.6rem;
+}
+
+.hero-tagline {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.hero-cta {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero-cta .md-button {
+  margin: 0.25rem;
+}
