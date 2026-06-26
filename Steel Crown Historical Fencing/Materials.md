@@ -11,7 +11,7 @@ hide:
 
     ---
 
-    *Chris Mineweaser*
+    *Author: Chris Mineweaser*
 
     An interpretation of the longsword system of Fiore dei Liberi for modern HEMA fencing practice. Drawn from the Getty Manuscript (c. 1409), this material covers guards, the seven blows, and tactical concepts — with commentary focused on competitive and practical application rather than strict historical reconstruction.
 
@@ -21,7 +21,7 @@ hide:
 
     ---
 
-    *Chris Mineweaser*
+    *Author: Chris Mineweaser*
 
     An interpretation of the Montante section from Domingo Luis Godinho's *Arte de Esgrima* (1599). Covers Godinho's rules for the great two-handed sword, simply presented.
 
