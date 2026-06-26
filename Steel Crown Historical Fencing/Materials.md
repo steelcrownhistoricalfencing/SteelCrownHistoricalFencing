@@ -18,7 +18,7 @@
 
     *Chris Mineweaser*
 
-    An interpretation of Domingo Luis Godinho's *Arte de Esgrima* (1599) for modern training. Covers Godinho's rules and principles for the Montante — the great sword — with commentary on how each rule translates to contemporary practice and sparring.
+    An interpretation of the Montante section from Domingo Luis Godinho's *Arte de Esgrima* (1599). Covers Godinho's rules for the great two-handed sword, simply presented.
 
     [Browse →](Montante/Introduction.md){ .md-button }
 
