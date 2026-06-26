@@ -29,7 +29,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes
-    - navigation.footer
+
     - navigation.top
     - navigation.instant
     - search.highlight
