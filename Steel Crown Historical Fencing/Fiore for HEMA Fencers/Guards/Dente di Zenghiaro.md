@@ -44,8 +44,6 @@ The sword rises into the attack, then returns downward along the same path.
 
 ---
 
-## 
-
 ## **Right and Left Variations**
 
 Like many positions in Fiore’s system, Dente di Zenghiaro can be expressed on both sides of the body.
@@ -201,8 +199,6 @@ For modern practitioners, the greatest value of Dente di Zenghiaro lies in its a
 The mirrored left-side variation is especially important in modern fencing because it prevents the system from becoming one-sided. Both directions must be trained equally.
 
 ---
-
-## 
 
 ## **Connection to the Four Virtues**
 

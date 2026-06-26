@@ -1,4 +1,4 @@
-## **Posta Breve**
+# Posta Breve
 
 *The Short Guard*
 

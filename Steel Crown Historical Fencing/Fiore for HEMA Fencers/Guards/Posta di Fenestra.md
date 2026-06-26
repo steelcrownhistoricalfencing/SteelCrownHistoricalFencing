@@ -1,4 +1,4 @@
-## **Posta di Fenestra (Right and Left)**
+# Posta di Fenestra
 
 *The Window Guard*
 
@@ -25,12 +25,6 @@ Fiore describes this guard as one of deception, adaptability, and intelligence. 
 Fiore emphasizes deception, versatility, and the ability to threaten with the point. This guard is defined not by a single action, but by its ability to adapt and provoke.
 
 ---
-
-## 
-
-## 
-
-## 
 
 ## **Physical Structure**
 
@@ -129,10 +123,6 @@ The guard is also used to provoke reactions. By maintaining a threatening point,
 With both sides available, the fencer can shift between right and left to create openings. This constant change prevents the opponent from settling into a defensive rhythm.
 
 ---
-
-## 
-
-## 
 
 ## **What This Guard Is Not For**
 

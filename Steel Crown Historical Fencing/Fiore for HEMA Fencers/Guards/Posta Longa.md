@@ -1,4 +1,4 @@
-## **Posta Longa**
+# Posta Longa
 
 *The Long Guard*
 

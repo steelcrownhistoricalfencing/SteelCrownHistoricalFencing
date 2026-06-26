@@ -36,7 +36,7 @@ The arms guide the cut, but the power comes from the coordinated movement of the
 
 The fendente most commonly finishes in Dente di Zenghiaro, a low guard with the point forward.
 
-It may also finish in Porta di Ferro Mezana, depending on the height and intent of the strike.
+It may also finish in Porta di Ferro Mezzana, depending on the height and intent of the strike.
 
 In either case, the blade should end low with structure intact, ready to continue into the next action.
 
@@ -78,7 +78,7 @@ It may also be delivered from Posta Breve for a quicker, more compact version, o
 
 The strike most often concludes in Dente di Zenghiaro, providing a strong low position for continuation.
 
-It may also end in Porta di Ferro Mezana when the cut finishes at a higher level or transitions into a defensive structure.
+It may also end in Porta di Ferro Mezzana when the cut finishes at a higher level or transitions into a defensive structure.
 
 ---
 

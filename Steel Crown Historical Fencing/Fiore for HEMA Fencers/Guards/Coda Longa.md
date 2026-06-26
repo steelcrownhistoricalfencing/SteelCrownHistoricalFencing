@@ -20,16 +20,6 @@ This chapter treats Coda Longa Destra and Coda Longa Sinestra together, since bo
 
 ---
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
 ## **Fiore’s Description**
 
 ### **Getty Manuscript Text**
@@ -45,8 +35,6 @@ This description immediately establishes the identity of the guard.
 Coda Longa is deceptive by nature. Its purpose is not simply to defend, but to disguise offensive intent behind an apparently withdrawn posture.
 
 ---
-
-## 
 
 ## **The Meaning of the Name**
 
@@ -215,8 +203,6 @@ The important thing is that the guard remains mechanically connected and prepare
 
 ---
 
-## 
-
 ## **Tactical Function**
 
 Coda Longa is a guard of deception, invitation, and explosive offense.
@@ -371,12 +357,6 @@ It is also not intended for static point control or prolonged centerline dominan
 Finally, the guard should not become rigid or visibly tense. Its effectiveness depends heavily on relaxed explosiveness and deceptive presentation.
 
 ---
-
-## 
-
-## 
-
-## 
 
 ## **Training the Guard**
 

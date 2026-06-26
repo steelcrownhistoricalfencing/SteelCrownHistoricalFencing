@@ -115,7 +115,7 @@ Each contains variations in text and illustration, but all present the same unde
 
 ### **Why This Manual Uses the Getty**
 
-This book draws primarily from the Getty Manuscript.
+This curriculum draws primarily from the Getty Manuscript.
 
 It is the most complete version, with the clearest illustrations and the most detailed text. It is also publicly available, allowing readers to reference the original material directly.
 

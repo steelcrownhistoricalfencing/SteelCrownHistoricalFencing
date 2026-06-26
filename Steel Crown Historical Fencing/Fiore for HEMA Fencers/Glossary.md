@@ -1,6 +1,4 @@
-# **Learning Fiore for the Modern Fencer**
-
-## **Student Reference Guide**
+# Glossary
 
 ---
 

@@ -108,13 +108,13 @@ From there, the fencer may recover to Posta di Fenestra or transition into anoth
 
 The punta reflects all four of Fiore’s virtues.
 
-Prudence governs targeting and timing, ensuring the thrust is delivered into the correct opening.
+The **Lynx** governs targeting and timing, ensuring the thrust is delivered into the correct opening.
 
-Audacity is required to commit to the action, particularly when entering the opponent’s measure.
+The **Lion** is required to commit to the action, particularly when entering the opponent’s measure.
 
-Celerity appears in the speed of the extension, allowing the thrust to arrive before the opponent can react.
+The **Tiger** appears in the speed of the extension, allowing the thrust to arrive before the opponent can react.
 
-Fortitude maintains structure, ensuring the body supports the action without collapsing or overextending.
+The **Elephant** maintains structure, ensuring the body supports the action without collapsing or overextending.
 
 ---
 
