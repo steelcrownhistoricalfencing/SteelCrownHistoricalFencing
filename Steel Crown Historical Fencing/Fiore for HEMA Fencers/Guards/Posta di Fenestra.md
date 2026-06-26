@@ -26,6 +26,16 @@ Fiore emphasizes deception, versatility, and the ability to threaten with the po
 
 ---
 
+## **The Meaning of the Name**
+
+*Fenestra* means "window" in Italian. The guard takes its name from the position of the sword held to one side of the head, creating the visual appearance of a window frame — the blade and arm forming one edge, the body the other.
+
+Like many of Fiore's names, "Fenestra" captures both the shape and the tactical character. A window is simultaneously an opening and a point of observation: a controlled aperture that provides information and creates opportunity in both directions.
+
+Fiore emphasizes this dual nature in his description — the guard is "always ready with malice and deception" and is a "master of covering and striking." The fencer sees clearly through the guard while the opponent faces a constant threat they cannot simply ignore. The opening is also a trap.
+
+---
+
 ## **Physical Structure**
 
 Posta di Fenestra places the sword to one side of the head with the point extended forward toward the opponent.
@@ -111,6 +121,18 @@ The fencer observes, provokes, and responds based on the opponent’s behavior.
 **The Tiger** appears in the speed of the thrust and transitions.  
 **The Elephant** maintains structure despite movement.  
 **The Lion** commits when the opportunity appears.
+
+---
+
+## **Defeating the Guard**
+
+Posta di Fenestra is most effective when the opponent reacts to the point and commits to a single defensive response. It becomes less effective when the opponent refuses to chase the threat or controls distance carefully.
+
+Because the guard depends heavily on deception and transition, forcing it to remain stationary limits its effectiveness. A guard with strong centerline control — such as Posta Longa or Dente di Zenghiaro — can contest Fenestra's forward point without being drawn into the guard's preferred transitional exchanges.
+
+Closing the measure aggressively can also reduce the guard's transitional advantage. Fenestra functions best at the distance where it can shift between sides and deliver thrusts with room to develop. At very close measure, the extended arm becomes more vulnerable and lateral transitions require more committed footwork.
+
+Consistent pressure that denies the fencer time to shift between Destra and Sinestra removes the deceptive core of the guard — at that point, the opponent only needs to solve one line rather than two.
 
 ---
 

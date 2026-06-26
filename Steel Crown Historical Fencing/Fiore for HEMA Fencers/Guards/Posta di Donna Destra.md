@@ -25,6 +25,16 @@ These elements shape how the guard should be understood and practiced.
 
 ---
 
+## **The Meaning of the Name**
+
+*Donna* in medieval Italian means "noblewoman" or "lady" — a figure of authority, composure, and command. The guard takes this name not from weakness or passivity, but from its elevated, composed posture and the authority it projects over the surrounding space.
+
+Fiore's guard names consistently describe both the shape of the position and its tactical character. Posta di Donna stands tall with the sword raised over the shoulder, presenting a figure that is fully prepared and capable of decisive action. Like a person of authority who does not need to shout to command attention, the guard threatens through readiness rather than through immediate contact.
+
+The name also carries a structural implication: the guard is poised. Every element is coiled and composed before release. This is a guard that acts when it chooses to, not when provoked.
+
+---
+
 ## **Physical Structure**
 
 Posta di Donna Destra places the sword in a deep chamber behind the right shoulder.
@@ -111,6 +121,16 @@ Fiore also describes a tactic for countering thrusts. By stepping off the line w
 
 ---
 
+## **Modern Application**
+
+In modern longsword practice, Posta di Donna remains the primary power-generating guard and one of the first positions taught in most curricula. Its combination of mechanical advantage, blade coverage, and tactical versatility makes it foundational.
+
+The most common error in modern practice is shortening the chamber. Against faster opponents or with lighter synthetic weapons, students often reduce the wind-back of the blade to gain speed — but this reduces power generation and limits the arc of acceleration. The full chamber is intentional; the strike should feel like releasing stored energy rather than pushing the sword forward.
+
+The bilateral dimension of the guard is especially important in modern training. Many schools default to right-side work; Donna Sinestra deserves equal attention. The threat of powerful descending attacks on both lines forces the opponent to defend from above on both sides simultaneously — far more demanding than a single powerful line.
+
+---
+
 ## **Connection to the Four Virtues**
 
 Each of Fiore’s guards reflects the four virtues represented in the segno.
@@ -124,6 +144,18 @@ The **Tiger**, symbolizing speed, is seen in the accelerating strike that launch
 The **Lynx**, representing prudence, reminds the fencer that distance must be judged carefully. Because the sword travels a long path, correct measure is essential.
 
 The **Lion**, symbolizing audacity, reflects the decisive commitment of the strike. When the cut launches, it does so with confidence and intent.
+
+---
+
+## **Defeating the Guard**
+
+Posta di Donna is most powerful when it can initiate from a full chamber at proper measure.
+
+The guard's primary vulnerability is distance. At the correct measure, the descending cut is overwhelming. Forced closer than ideal, the large chamber becomes a liability rather than an advantage. Closing measure aggressively before the guard can wind up and release limits its effectiveness significantly.
+
+Guards with a forward point — particularly Posta di Fenestra and Posta Longa — can contest the centerline before the fendente arrives. A thrust launched into the developing cut, timed to reach the opponent before the blade fully releases, can contest the exchange from the inside.
+
+Because the chamber is large and visible, experienced opponents can sometimes read the initiation early. Maintaining distance control, refusing to commit to a single defensive line, and pressuring Donna before it can settle into its preferred measure are the most reliable ways to limit it.
 
 ---
 
