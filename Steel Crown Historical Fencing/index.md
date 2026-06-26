@@ -56,11 +56,11 @@ We believe that excellence and community reinforce one another. Our training cul
 
 ---
 
-## Curriculum
+## Materials
 
-Our structured curriculum covers the historical sources we study, with full documentation of guards, strikes, and tactical concepts.
+Our study materials cover the historical sources we train from, with full documentation of guards, strikes, and tactical concepts.
 
-[Fiore dei Liberi Curriculum](Fiore for HEMA Fencers/Glossary.md){ .md-button .md-button--primary }
+[Fiore for HEMA Fencers](Fiore for HEMA Fencers/Glossary.md){ .md-button .md-button--primary }
 
 ---
 
