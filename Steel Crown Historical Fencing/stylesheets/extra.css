@@ -80,6 +80,22 @@
   margin: 0.25rem;
 }
 
+/* ── About page statement callouts ───────────────────────────────────────── */
+.statement-callout {
+  border-left: 3px solid var(--md-accent-fg-color);
+  border-radius: 0 0.3rem 0.3rem 0;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .statement-callout {
+  background: rgba(91, 155, 213, 0.05);
+}
+
+[data-md-color-scheme="default"] .statement-callout {
+  background: rgba(91, 155, 213, 0.04);
+}
+
 /* ── Contact callout ──────────────────────────────────────────────────────── */
 .contact-callout {
   border: 1px solid rgba(91, 155, 213, 0.25);
