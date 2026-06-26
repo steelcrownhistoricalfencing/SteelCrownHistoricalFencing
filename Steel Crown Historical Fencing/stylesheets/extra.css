@@ -118,6 +118,23 @@
   margin-top: 0;
 }
 
+/* Manuscript images */
+.manuscript-img {
+  display: block;
+  max-width: 320px;
+  width: 100%;
+  margin: 1.5rem auto;
+  border: 1px solid rgba(91, 155, 213, 0.2);
+  border-radius: 0.25rem;
+}
+.manuscript-caption {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+}
+
 /* When inside a course section, hide sibling course sections from sidebar */
 .md-nav[data-md-level="1"] > ul:has(> .md-nav__item--section.md-nav__item--active) > .md-nav__item--section:not(.md-nav__item--active) {
   display: none;

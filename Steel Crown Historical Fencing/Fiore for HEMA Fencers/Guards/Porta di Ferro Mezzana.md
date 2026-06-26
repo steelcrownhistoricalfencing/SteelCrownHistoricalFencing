@@ -1,4 +1,7 @@
-# Porta di Ferro Mezzana
+﻿# Porta di Ferro Mezzana
+
+<img src="../../../assets/fiore/guards/porta-di-ferro-mezzana.jpg" alt="Porta di Ferro Mezzana" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
 *The Middle Iron Gate*
 

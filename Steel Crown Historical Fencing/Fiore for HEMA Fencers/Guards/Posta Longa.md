@@ -1,4 +1,7 @@
-# Posta Longa
+﻿# Posta Longa
+
+<img src="../../../assets/fiore/guards/posta-longa.jpg" alt="Posta Longa" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
 *The Long Guard*
 

@@ -1,4 +1,7 @@
-# Dente di Zenghiaro Destra and Sinestra
+﻿# Dente di Zenghiaro Destra and Sinestra
+
+<img src="../../../assets/fiore/guards/dente-di-zenghiaro.jpg" alt="Dente di Zenghiaro" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
 *The Wild Boar’s Tusk*
 
