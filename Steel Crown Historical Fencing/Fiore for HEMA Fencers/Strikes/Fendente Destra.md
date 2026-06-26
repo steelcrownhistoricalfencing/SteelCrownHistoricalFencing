@@ -1,5 +1,8 @@
 # Fendente Destra
 
+<img src="../../assets/fiore/guards/fendente.jpg" alt="Fendente — Downward Blows" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 23r, c. 1409 — "We are downward blows and we dispute; by cleaving the teeth with proper intention." J. Paul Getty Museum (Open Content)</em></p>
+
 *The Descending Cut from the Right*
 
 Fendente (Destra) is one of the fundamental cuts in Fiore dei Liberi’s system. It is a descending diagonal strike delivered from the right side, combining gravity, structure, and forward motion to generate powerful impact.

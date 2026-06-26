@@ -2,6 +2,9 @@
 
 [← Back to Materials](../Materials.md){ .md-button }
 
+<img src="../assets/fiore/guards/six-masters.jpg" alt="Six Masters of the Longsword" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 22r, c. 1409 — "Six masters we are, and we dispute one to another; each does something that the others do not." J. Paul Getty Museum (Open Content)</em></p>
+
 *Author: Chris Mineweaser*
 
 An interpretation of the longsword system of Fiore dei Liberi for modern HEMA fencing practice. Drawn from the Getty Manuscript (c. 1409), this material covers guards, the seven blows, and tactical concepts — with commentary focused on competitive and practical application rather than strict historical reconstruction.
