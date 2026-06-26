@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # Materials
 
 <div class="grid cards" markdown>
