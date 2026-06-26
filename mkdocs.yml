@@ -33,6 +33,7 @@ theme:
     - navigation.instant
     - search.highlight
     - search.share
+    - navigation.prune
 
 markdown_extensions:
   - attr_list

@@ -1,14 +1,14 @@
 # Materials
 
-Study materials for the historical sources trained at Steel Crown Historical Fencing.
-
 <div class="grid cards" markdown>
 
 -   :material-sword:{ .lg .middle } **Fiore for HEMA Fencers**
 
     ---
 
-    The longsword system of Fiore dei Liberi, drawn from the Getty Manuscript (c. 1409). Covers guards, the seven blows, tactical concepts, and training drills.
+    *Chris Mineweaser*
+
+    An interpretation of the longsword system of Fiore dei Liberi for modern HEMA fencing practice. Drawn from the Getty Manuscript (c. 1409), this material covers guards, the seven blows, and tactical concepts — with commentary focused on competitive and practical application rather than strict historical reconstruction.
 
     [Browse →](Fiore for HEMA Fencers/Glossary.md){ .md-button }
 
@@ -16,7 +16,9 @@ Study materials for the historical sources trained at Steel Crown Historical Fen
 
     ---
 
-    Domingo Luis Godinho's *Arte de Esgrima* (1599), covering the rules and applications of the great sword — the Montante.
+    *Chris Mineweaser*
+
+    An interpretation of Domingo Luis Godinho's *Arte de Esgrima* (1599) for modern training. Covers Godinho's rules and principles for the Montante — the great sword — with commentary on how each rule translates to contemporary practice and sparring.
 
     [Browse →](Montante/Introduction.md){ .md-button }
 
