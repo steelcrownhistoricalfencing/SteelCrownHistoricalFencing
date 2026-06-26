@@ -29,6 +29,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - navigation.instant
     - search.highlight
@@ -54,7 +55,7 @@ nav:
     - Safety Standards: 'Standards/Safety Standards.md'
   - Waiver: Waiver.md
   - Materials:
-    - Overview: Materials.md
+    - Materials.md
     - Fiore for HEMA Fencers:
       - History:
         - Introduction: 'Fiore for HEMA Fencers/History/Introduction and Historical Context.md'
