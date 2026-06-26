@@ -19,29 +19,29 @@ Whether you are new to HEMA or an experienced practitioner, you will find a trai
 
 <div class="grid cards" markdown>
 
--   :material-sword-cross:{ .lg .middle } **Guards & Footwork**
+-   :material-sword:{ .lg .middle } **Longsword**
 
     ---
 
-    Study the thirteen guards of Fiore's system and the footwork connecting them.
+    Primary weapon and focus of all training, from foundational technique to competitive application.
 
--   :material-lightning-bolt:{ .lg .middle } **Seven Blows**
-
-    ---
-
-    Master the fendente, mezzano, sottano, and punta — Fiore's fundamental strikes.
-
--   :material-target:{ .lg .middle } **Tactical Play**
+-   :material-trophy:{ .lg .middle } **Competition**
 
     ---
 
-    Develop fencing judgment through drilling, controlled sparring, and pressure testing.
+    We train to compete. Sparring culture and curriculum are built around tournament preparation.
 
--   :material-book-open-page-variant:{ .lg .middle } **Historical Research**
+-   :material-account-group:{ .lg .middle } **Training Culture**
 
     ---
 
-    Study from primary sources, including the Getty Manuscript of Fiore dei Liberi (c. 1409).
+    Honest feedback, shared knowledge, mutual growth. No gatekeeping, no ego.
+
+-   :material-book-open-page-variant:{ .lg .middle } **Study Materials**
+
+    ---
+
+    Full curriculum documentation for Fiore dei Liberi and Godinho Montante, available to all members.
 
 </div>
 
