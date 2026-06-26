@@ -29,6 +29,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.indexes
+    - navigation.footer
     - navigation.top
     - navigation.instant
     - search.highlight
@@ -56,6 +57,7 @@ nav:
   - Materials:
     - Materials.md
     - Fiore for HEMA Fencers:
+      - 'Fiore for HEMA Fencers/index.md'
       - History:
         - Introduction: 'Fiore for HEMA Fencers/History/Introduction and Historical Context.md'
         - The Segno & Four Virtues: 'Fiore for HEMA Fencers/History/The Segno, the Four Virtues, and the Structure of the System.md'
@@ -82,6 +84,7 @@ nav:
         - Sottano Sinestra: 'Fiore for HEMA Fencers/Strikes/Sottano Sinestra.md'
         - Punta: 'Fiore for HEMA Fencers/Strikes/Punta.md'
     - Godinho Montante:
+      - 'Montante/index.md'
       - Introduction: 'Montante/Introduction.md'
       - Glossary: 'Montante/Glossary.md'
       - Chapter 1 - Carrying and Holding: 'Montante/Chapter 1 - Carrying and Holding the Montante.md'
