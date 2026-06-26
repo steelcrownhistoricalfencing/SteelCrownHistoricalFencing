@@ -79,3 +79,25 @@
 .hero-cta .md-button {
   margin: 0.25rem;
 }
+
+/* ── Contact callout ──────────────────────────────────────────────────────── */
+.contact-callout {
+  border: 1px solid rgba(91, 155, 213, 0.25);
+  border-radius: 0.4rem;
+  padding: 1.75rem 2rem;
+  margin-top: 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .contact-callout {
+  background: rgba(91, 155, 213, 0.05);
+}
+
+[data-md-color-scheme="default"] .contact-callout {
+  background: rgba(91, 155, 213, 0.04);
+}
+
+.contact-callout h2 {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-top: 0;
+}

@@ -46,29 +46,25 @@ Whether you are new to HEMA or an experienced practitioner, you will find a trai
 
 ---
 
-## Our Approach
-
-We believe that excellence and community reinforce one another. Our training culture is built around honesty, sportsmanship, and shared growth — not ego, gatekeeping, or political maneuvering. Knowledge is shared freely. Feedback is given directly and respectfully. Every member is expected to contribute to the strength of the club.
-
-[Read our Mission and Values](About.md){ .md-button }
-[Club Standards](Standards/Instructor Standards.md){ .md-button }
-
----
-
 ## Materials
 
 Our study materials cover the historical sources we train from, with full documentation of guards, strikes, and tactical concepts.
 
-[Fiore for HEMA Fencers](Fiore for HEMA Fencers/Glossary.md){ .md-button .md-button--primary }
-[Godinho Montante](Montante/Introduction.md){ .md-button .md-button--primary }
+[Fiore for HEMA Fencers](Fiore for HEMA Fencers/Glossary.md){ .md-button }
+[Godinho Montante](Montante/Introduction.md){ .md-button }
 
 ---
 
-## Contact
+<div class="contact-callout" markdown>
+
+## Get in Touch
 
 We are based in **Charlotte, North Carolina**.
 
-- **Email:** [steelcrownhistoricalfencing@gmail.com](mailto:steelcrownhistoricalfencing@gmail.com)
-- **Instagram:** [@steelcrownhistoricalfencing](https://www.instagram.com/steelcrownhistoricalfencing)
+**Email:** [steelcrownhistoricalfencing@gmail.com](mailto:steelcrownhistoricalfencing@gmail.com)
+
+**Instagram:** [@steelcrownhistoricalfencing](https://www.instagram.com/steelcrownhistoricalfencing)
 
 Reach out if you are interested in training, have questions about our program, or want to connect with the club.
+
+</div>
