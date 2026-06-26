@@ -1,4 +1,7 @@
-# Posta Frontale
+﻿# Posta Frontale
+
+<img src="../../../assets/fiore/guards/posta-frontale-corona.png" alt="Posta Frontale" class="manuscript-img">
+<p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
 *The Frontal Guard*
 

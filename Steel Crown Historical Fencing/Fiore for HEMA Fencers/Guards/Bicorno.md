@@ -2,6 +2,9 @@
 
 <img src="../../../assets/fiore/guards/bicorno.jpg" alt="Bicorno" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+<img src="../../../assets/fiore/guards/bicorno-pd.png" alt="Bicorno" class="manuscript-img">
+<p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
+
 
 *The Two-Horned Guard*
 
