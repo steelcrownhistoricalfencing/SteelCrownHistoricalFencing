@@ -5,7 +5,6 @@
 </div>
 
 <div class="hero-cta" markdown>
-[Explore the Curriculum](Fiore for HEMA Fencers/Glossary.md){ .md-button .md-button--primary }
 [About the Club](About.md){ .md-button }
 </div>
 
