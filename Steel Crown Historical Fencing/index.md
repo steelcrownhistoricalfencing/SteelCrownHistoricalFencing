@@ -61,6 +61,7 @@ We believe that excellence and community reinforce one another. Our training cul
 Our study materials cover the historical sources we train from, with full documentation of guards, strikes, and tactical concepts.
 
 [Fiore for HEMA Fencers](Fiore for HEMA Fencers/Glossary.md){ .md-button .md-button--primary }
+[Godinho Montante](Montante/Introduction.md){ .md-button .md-button--primary }
 
 ---
 
