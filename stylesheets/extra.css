@@ -1,0 +1,197 @@
+/* ── Accent: muted steel blue ─────────────────────────────────────────────── */
+:root,
+[data-md-color-scheme="slate"],
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color:              #5b9bd5;
+  --md-accent-fg-color--transparent: rgba(91, 155, 213, 0.1);
+}
+
+/* ── Dark scheme background: off-black, easier on the eyes than pure black ── */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:        #0f1117;
+  --md-default-fg-color:        #e6e9ef;
+  --md-default-fg-color--light: #adb5c4;
+  --md-code-bg-color:           #1a1f2b;
+}
+
+/* ── Logo size in the nav bar ─────────────────────────────────────────────── */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+}
+
+/* ── Section headers: steel blue left border ──────────────────────────────── */
+.md-content article h2 {
+  border-left: 2px solid var(--md-accent-fg-color);
+  padding-left: 0.75rem;
+  font-weight: 500;
+}
+
+/* ── Horizontal rules: subtle, not distracting ────────────────────────────── */
+.md-content article hr {
+  border-color: rgba(91, 155, 213, 0.2);
+  margin: 1.5rem 0;
+}
+
+/* ── Slightly wider line-height for readability ───────────────────────────── */
+.md-content article p,
+.md-content article li {
+  line-height: 1.75;
+}
+
+/* ── Homepage hero ────────────────────────────────────────────────────────── */
+.hero-section {
+  text-align: center;
+  padding: 3.5rem 1rem 0.5rem;
+}
+
+.hero-logo {
+  width: 160px;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-title {
+  font-size: 2.1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin-bottom: 0.6rem;
+}
+
+.hero-tagline {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+.hero-cta {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero-cta .md-button {
+  margin: 0.25rem;
+}
+
+/* ── About page statement callouts ───────────────────────────────────────── */
+.statement-callout {
+  border-left: 3px solid var(--md-accent-fg-color);
+  border-radius: 0 0.3rem 0.3rem 0;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .statement-callout {
+  background: rgba(91, 155, 213, 0.05);
+}
+
+[data-md-color-scheme="default"] .statement-callout {
+  background: rgba(91, 155, 213, 0.04);
+}
+
+/* ── Contact callout ──────────────────────────────────────────────────────── */
+.contact-callout {
+  border: 1px solid rgba(91, 155, 213, 0.25);
+  border-radius: 0.4rem;
+  padding: 1.75rem 2rem;
+  margin-top: 1.5rem;
+}
+
+[data-md-color-scheme="slate"] .contact-callout {
+  background: rgba(91, 155, 213, 0.05);
+}
+
+[data-md-color-scheme="default"] .contact-callout {
+  background: rgba(91, 155, 213, 0.04);
+}
+
+.contact-callout h2 {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-top: 0;
+}
+
+/* Manuscript images */
+.manuscript-img {
+  display: block;
+  max-width: 320px;
+  width: 100%;
+  margin: 1.5rem auto;
+  border: 1px solid rgba(91, 155, 213, 0.2);
+  border-radius: 0.25rem;
+}
+.manuscript-caption {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+  margin-top: -1rem;
+  margin-bottom: 1.5rem;
+}
+
+/* ── Team member cards ────────────────────────────────────────────────────── */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.75rem;
+  margin: 2rem 0;
+}
+
+.team-card {
+  border: 1px solid rgba(91, 155, 213, 0.2);
+  border-radius: 0.4rem;
+  overflow: hidden;
+  text-align: center;
+}
+
+[data-md-color-scheme="slate"] .team-card {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+[data-md-color-scheme="default"] .team-card {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.team-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+.team-card-body {
+  padding: 1rem 1.25rem 1.25rem;
+}
+
+.team-card-name {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.2rem;
+  color: var(--md-default-fg-color);
+}
+
+.team-card-role {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--md-accent-fg-color);
+  margin: 0 0 0.75rem;
+}
+
+.team-card-bio {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* When inside a course section, hide sibling course sections from sidebar */
+.md-nav[data-md-level="1"] > ul:has(> .md-nav__item--section.md-nav__item--active) > .md-nav__item--section:not(.md-nav__item--active) {
+  display: none;
+}
