@@ -18,8 +18,8 @@ Take note that when you turn the body, the step having been made, you have to tu
 
 When surrounded by opponents in a narrow street where you cannot use tajos or reveses, hold the montante with your right hand near the quillons and your left hand near the pommel. Position yourself with your back against one wall.
 
-Begin by executing a tajo to the right side, stepping to the right with your right foot. The tajo should cut from high to low and continue into a nails-up thrust toward the left side. As you complete this sequence, move your left foot to the left side, turning your body so your back faces the other wall. This entire sequence — stepping, tajo, turning, and thrust — should be done smoothly in one motion.
+Begin by executing a tajo to the right side, stepping to the right with your right foot. The tajo should cut from high to low and continue into a nails-up thrust toward the left side. As you complete this sequence, move your left foot to the left side, turning your body so your back faces the other wall. This entire sequence, stepping, tajo, turning, and thrust, should be done smoothly in one motion.
 
 Next, perform a reves to the right side, starting above your head like the tajo and finishing with a nails-down thrust to the left side. As you complete the reves, step in with your left foot, similar to the initial right foot movement, turning your body so your back faces the opposite wall. This sequence of reves, thrust, and foot movement should also be executed in one fluid motion.
 
-As you turn your body during these movements, make sure to face the opponents where the blows started, keeping your eyes on the montante. Continue using these steps — advancing and retreating with both feet — until the battle is resolved.
+As you turn your body during these movements, make sure to face the opponents where the blows started, keeping your eyes on the montante. Continue using these steps, advancing and retreating with both feet, until the battle is resolved.

@@ -16,7 +16,7 @@ This is why Fiore teaches it separately. The Mezzano is not a flattened Fendente
 
 The Mezzano Destra travels horizontally from the right side of the body across to the left, at roughly chest to neck height.
 
-The blade moves parallel to the ground — or close to it — rather than descending diagonally. The cut may be aimed at the neck or throat at its highest, the ribs and torso at middle height, or the arms if the opponent has extended them.
+The blade moves parallel to the ground, or close to it, rather than descending diagonally. The cut may be aimed at the neck or throat at its highest, the ribs and torso at middle height, or the arms if the opponent has extended them.
 
 Unlike the descending cuts, the Mezzano's path does not rely on gravity to carry it through. The rotation of the hips generates the force entirely.
 
@@ -28,7 +28,7 @@ The Mezzano is powered by hip rotation.
 
 The hips initiate the motion, turning from right to left. The shoulders follow, and the arms carry the blade across the line. The legs remain grounded, providing the stable base from which the rotational force is generated.
 
-Because the cut travels horizontally rather than descending, the fencer must be deliberate about maintaining the blade's height throughout. There is a natural tendency for the blade to drift downward during the cut — the hips must stay level and the motion controlled.
+Because the cut travels horizontally rather than descending, the fencer must be deliberate about maintaining the blade's height throughout. There is a natural tendency for the blade to drift downward during the cut. The hips must stay level and the motion controlled.
 
 A forward step may accompany the cut to close distance, but the step must not disrupt the horizontal plane of the blade.
 
@@ -44,11 +44,11 @@ From there, the fencer is immediately positioned to deliver a Mezzano Sinestra i
 
 ## **Tactical Function**
 
-The Mezzano Destra targets the neck, throat, arms, and torso — lines that the descending cuts do not easily reach without telegraphing.
+The Mezzano Destra targets the neck, throat, arms, and torso: lines that the descending cuts do not easily reach without telegraphing.
 
 Because it travels horizontally, it can slip beneath a high guard or arrive before a descending response can develop. It is especially effective against an opponent who holds their hands high, as the horizontal line passes directly through their exposed arms and midsection.
 
-The cut is faster than the Fendente. Without a long descending arc, the blade arrives quickly. This speed makes it useful as a tempo attack — striking into a moment of hesitation or a transition between positions.
+The cut is faster than the Fendente. Without a long descending arc, the blade arrives quickly. This speed makes it useful as a tempo attack, striking into a moment of hesitation or a transition between positions.
 
 ---
 
@@ -70,7 +70,7 @@ The Mezzano is also highly effective as a continuation strike. After a Fendente 
 
 Posta di Fenestra Destra is the most natural starting position. The blade is already angled forward, and the hip rotation into the cut requires minimal preparation.
 
-Posta di Donna Destra can also generate the Mezzano, though it requires the fencer to redirect the descending energy into a horizontal line — a useful transition that develops tactical flexibility.
+Posta di Donna Destra can also generate the Mezzano, though it requires the fencer to redirect the descending energy into a horizontal line, a useful transition that develops tactical flexibility.
 
 ---
 
@@ -86,7 +86,7 @@ If the rotation continues further, it may flow into Posta di Donna Sinestra, loa
 
 The Mezzano Destra draws primarily on the **Tiger**.
 
-The cut's effectiveness lies in its speed. Without the gravitational assist of a descending strike, the Mezzano must arrive quickly — powered by sharp, explosive hip rotation rather than a long arc.
+The cut's effectiveness lies in its speed. Without the gravitational assist of a descending strike, the Mezzano must arrive quickly, powered by sharp, explosive hip rotation rather than a long arc.
 
 The **Lynx** governs targeting. The horizontal line is precise. The cut must be aimed at the correct height and directed into a specific opening, not swung broadly.
 
@@ -124,7 +124,7 @@ Begin in Posta di Fenestra Destra with the point directed forward.
 
 Rotate the hips to the left, allowing the blade to follow horizontally at chest height. Finish in Posta di Fenestra Sinestra with the point still directed forward.
 
-Reverse the motion — rotate the hips right and return to Fenestra Destra.
+Reverse the motion: rotate the hips right and return to Fenestra Destra.
 
 Repeat ten times in each direction. The blade should maintain consistent height throughout. The initiation comes from the hips, not the shoulders or arms.
 
@@ -146,7 +146,7 @@ This drill develops the fencer's ability to direct the cut intentionally rather 
 
 The most common mistake is swinging with the arms instead of rotating the hips. An arm-driven Mezzano is slower, weaker, and harder to control. The hips must initiate the motion.
 
-Another frequent error is allowing the blade to drift downward during the cut. The Mezzano travels horizontally — this must be maintained throughout. Dropping the cut at the end turns it into a diagonal strike rather than a true horizontal.
+Another frequent error is allowing the blade to drift downward during the cut. The Mezzano travels horizontally, this must be maintained throughout. Dropping the cut at the end turns it into a diagonal strike rather than a true horizontal.
 
 Some students also fail to complete the rotation. The cut should travel fully across the body and finish in Fenestra Sinestra. Stopping the blade partway through reduces both reach and force.
 
@@ -156,7 +156,7 @@ Some students also fail to complete the rotation. The cut should travel fully ac
 
 The Mezzano Destra is a cut of rotation and speed.
 
-It does not fall — it travels. Where the Fendente descends along a diagonal arc assisted by gravity, the Mezzano is carried across the line entirely by the turning of the body.
+It does not fall. It travels. Where the Fendente descends along a diagonal arc assisted by gravity, the Mezzano is carried across the line entirely by the turning of the body.
 
 **This distinction in mechanics is also a distinction in threat: the Mezzano attacks openings that descending cuts cannot reach, and arrives before a descending response can develop.**
 

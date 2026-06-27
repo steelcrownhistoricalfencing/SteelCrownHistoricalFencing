@@ -11,7 +11,7 @@ Coda Longa is one of the most deceptive guards in the Getty manuscript of Fiore 
 
 But this appearance is intentional.
 
-Fiore describes Coda Longa as a *false guard*—a position designed to mislead the opponent about your true intentions. Although the posture appears defensive, the guard is built for sudden offense, explosive upward strikes, and aggressive entry.
+Fiore describes Coda Longa as a *false guard*, a position designed to mislead the opponent about your true intentions. Although the posture appears defensive, the guard is built for sudden offense, explosive upward strikes, and aggressive entry.
 
 For the modern fencer, Coda Longa teaches an essential tactical principle:
 
@@ -82,11 +82,11 @@ In the left-side variation, the sword trails behind the left side of the body, w
 
 This version naturally generates:
 
-* Sottano Sinestra — the rising cut from the left
+* Sottano Sinestra, the rising cut from the left
 * Rising thrusts from the left line
 * Explosive diagonal entry from the left side
 
-The angle of acceleration and the line of attack feel noticeably different from the Destra version. The rising cut from the left approaches the opponent’s right side — a line they may be less practiced at defending — and the entry angle shifts enough to require genuine bilateral training rather than simple mirroring.
+The angle of acceleration and the line of attack feel noticeably different from the Destra version. The rising cut from the left approaches the opponent’s right side, a line they may be less practiced at defending, and the entry angle shifts enough to require genuine bilateral training rather than simple mirroring.
 
 The false guard concept applies equally on both sides. An opponent who has learned to read Coda Longa Destra as a bait may not immediately recognize the same trap presented from the left. Training Sinestra with equal intention gives the guard a second deceptive dimension.
 
@@ -210,7 +210,7 @@ The important thing is that the guard remains mechanically connected and prepare
 
 Coda Longa is a guard of deception, invitation, and explosive offense.
 
-Fiore explicitly calls it a *posta falsa*—a false guard.
+Fiore explicitly calls it a *posta falsa*, a false guard.
 
 The position encourages the opponent to believe:
 

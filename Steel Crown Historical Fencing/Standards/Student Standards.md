@@ -6,7 +6,7 @@ All members of Steel Crown Historical Fencing are expected to uphold the followi
 
 ## 1. Respect for Training Partners
 
-Students are expected to treat everyone — including fellow members, instructors, opponents, guests, and event staff — with respect at all times.
+Students are expected to treat everyone, including fellow members, instructors, opponents, guests, and event staff, with respect at all times.
 
 This includes:
 

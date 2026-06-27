@@ -1,17 +1,17 @@
 # Exchange of Thrusts — Scambiar di Punta
 
-<img src="../../../../assets/fiore/plays/exchange-of-thrusts.jpg" alt="Exchange of Thrusts — Scambiar di Punta" class="manuscript-img">
+<img src="../../../../assets/fiore/plays/exchange-of-thrusts.jpg" alt="Exchange of Thrusts, Scambiar di Punta" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 25r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
 *The Exchange of Points*
 
 Classification: *Gioco Largo — Wide Play*
 
-The *scambiar di punta* is the most direct counter to a thrust. When the opponent advances with a point aimed at your face or chest, you do not retreat. You do not block and then counter. You step offline and thrust simultaneously — a single motion that removes your target and creates your own.
+The *scambiar di punta* is the most direct counter to a thrust. When the opponent advances with a point aimed at your face or chest, you do not retreat. You do not block and then counter. You step offline and thrust simultaneously, a single motion that removes your target and creates your own.
 
 **Step out of the attack, not into it. The same movement that removes your target creates your own.**
 
-The name carries a deliberate pun. *Punta* means both *thrust* and *point*. The exchange is not simply an exchange of thrusts — it is an exchange of points, in which your point replaces theirs.
+The name carries a deliberate pun. *Punta* means both *thrust* and *point*. The exchange is not simply an exchange of thrusts: it is an exchange of points, in which your point replaces theirs.
 
 ---
 
@@ -35,7 +35,7 @@ The step is not a preparation for the counter-thrust. The step and the thrust ar
 
 The opponent advances with a thrust aimed at your face or chest.
 
-You are in wide play — blades have not yet crossed, or have just made contact at the point.
+You are in wide play, blades have not yet crossed, or have just made contact at the point.
 
 The threat is direct and committed.
 
@@ -45,11 +45,11 @@ The threat is direct and committed.
 
 The action has three components that happen as one motion:
 
-**Step offline with the front foot.** Move the leading foot out of the line of attack — forward and to the outside, approximately forty-five degrees off the original line. This removes you from the path of the thrust.
+**Step offline with the front foot.** Move the leading foot out of the line of attack, forward and to the outside, approximately forty-five degrees off the original line. This removes you from the path of the thrust.
 
 **Pass the rear foot to follow.** The back foot steps obliquely across, completing the offline movement and bringing the body fully out of line. This is not a retreat. You are moving forward and off the line simultaneously.
 
-**Cross his sword with your arms extended low.** As your feet move, your arms extend outward and downward. The goal is to collect the incoming blade — not block it, but redirect it past you. Your arms go low and wide. This controls his point without stopping your own motion.
+**Cross his sword with your arms extended low.** As your feet move, your arms extend outward and downward. The goal is to collect the incoming blade, not block it, but redirect it past you. Your arms go low and wide. This controls his point without stopping your own motion.
 
 **Drive your point into his face.** While your arms collect his blade low, your sword's point is already angling upward toward his face. By the time the crossing is complete, your thrust has arrived.
 
@@ -75,7 +75,7 @@ The geometry is simple: you are no longer where he is thrusting, and your point 
 
 A skilled opponent can defeat the *scambiar*.
 
-If he anticipates your offline step — or if he maintains control of his blade as you collect it — he can beat your counterthrust aside before it arrives.
+If he anticipates your offline step, or if he maintains control of his blade as you collect it, he can beat your counterthrust aside before it arrives.
 
 When this happens, your right foot has likely passed forward in the course of the action. That means stretto is now available.
 
@@ -89,7 +89,7 @@ The *scambiar di punta* flows most naturally from guards that already prepare th
 
 *Posta di Donna Destra* positions the sword behind the shoulder and the body turned slightly, ready to pass offline with the rear foot.
 
-*Tutta Porta di Ferro* — the Full Iron Gate — generates the exchange directly. Fiore describes it as the guard "from which the exchange of thrusts naturally comes."
+*Tutta Porta di Ferro*, the Full Iron Gate, generates the exchange directly. Fiore describes it as the guard "from which the exchange of thrusts naturally comes."
 
 The play also connects forward: if the exchange succeeds, the opponent is struck. If the opponent counters and your right foot is now forward, the pommel strike and close-play entries are immediately available.
 
@@ -103,7 +103,7 @@ The reason is structural. Most HEMA scoring systems reward clean hits to open ta
 
 The technique also trains a principle that applies regardless of ruleset or weapon: when someone commits to a thrust, the correct answer is usually not to intercept it but to not be there.
 
-In practice, the single-tempo execution — step and thrust as one motion — is what competitors find most difficult to achieve and most valuable when they do. Train it until the step and the thrust feel like the same impulse, not two separate decisions.
+In practice, the single-tempo execution, step and thrust as one motion, is what competitors find most difficult to achieve and most valuable when they do. Train it until the step and the thrust feel like the same impulse, not two separate decisions.
 
 ---
 
@@ -111,7 +111,7 @@ In practice, the single-tempo execution — step and thrust as one motion — is
 
 The *scambiar di punta* expresses all four virtues, but primarily two.
 
-The **Tiger** governs the speed of the action. The exchange of thrusts is a single-tempo counter — it must be fast enough that your point arrives before the opponent can recover or adjust. A slow *scambiar* is not a *scambiar*.
+The **Tiger** governs the speed of the action. The exchange of thrusts is a single-tempo counter, it must be fast enough that your point arrives before the opponent can recover or adjust. A slow *scambiar* is not a *scambiar*.
 
 The **Lynx** governs the timing. You must read the opponent's thrust as it begins, not after it has fully committed. The step offline must happen early enough to clear the line of attack.
 
@@ -127,7 +127,7 @@ The *scambiar di punta* is not a defense against a cut.
 
 A descending strike travels along a wide arc. The offline step that removes you from a thrust does not necessarily remove you from a cut that follows the same arc. Do not attempt to exchange the thrust against an attack that begins as a cut.
 
-It is also not a blocking technique. The arm extension is a collecting motion — it redirects the incoming blade, not stops it. Attempting to block with force defeats the geometry of the play.
+It is also not a blocking technique. The arm extension is a collecting motion, it redirects the incoming blade, not stops it. Attempting to block with force defeats the geometry of the play.
 
 Finally, it is not a two-step action. Stepping offline and then thrusting is slower, more telegraphed, and easier to counter. If you find yourself pausing between the step and the thrust, the technique is not yet trained.
 
@@ -185,7 +185,7 @@ A common mistake is executing the offline step and the thrust as two separate ac
 
 Another error is stepping offline at too shallow an angle. A slight lean to the side does not remove you from the line of attack. The step must genuinely clear the path of the incoming weapon.
 
-Many students keep their arms too high as they collect the incoming blade. The arms should extend low and outward — this redirects the opponent's thrust past you at the low line. Arms at chest height do not collect the thrust, they meet it.
+Many students keep their arms too high as they collect the incoming blade. The arms should extend low and outward, this redirects the opponent's thrust past you at the low line. Arms at chest height do not collect the thrust, they meet it.
 
 Finally, some students stop moving once the crossing is made, rather than driving the point through to the target. The play does not end at the crossing. It ends at the touch.
 

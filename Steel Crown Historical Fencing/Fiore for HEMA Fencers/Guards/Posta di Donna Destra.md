@@ -11,7 +11,7 @@
 
 Posta di Donna Destra is one of the most powerful and recognizable guards in Fiore dei Liberi’s longsword system. For the modern fencer, Posta di Donna teaches an essential principle: **power comes from preparation**. By winding the sword behind the shoulder, the body stores energy that can be released into a long, accelerating strike.
 
-Fiore describes this guard as capable of both offense and defense. It can deliver all seven blows of the sword while also providing strong coverage against incoming attacks. Properly understood, Posta di Donna is not simply a striking position—it is a guard that threatens overwhelming action.
+Fiore describes this guard as capable of both offense and defense. It can deliver all seven blows of the sword while also providing strong coverage against incoming attacks. Properly understood, Posta di Donna is not simply a striking position: it is a guard that threatens overwhelming action.
 
 ---
 
@@ -33,7 +33,7 @@ These elements shape how the guard should be understood and practiced.
 
 ## **The Meaning of the Name**
 
-*Donna* in medieval Italian means "noblewoman" or "lady" — a figure of authority, composure, and command. The guard takes this name not from weakness or passivity, but from its elevated, composed posture and the authority it projects over the surrounding space.
+*Donna* in medieval Italian means "noblewoman" or "lady", a figure of authority, composure, and command. The guard takes this name not from weakness or passivity, but from its elevated, composed posture and the authority it projects over the surrounding space.
 
 Fiore's guard names consistently describe both the shape of the position and its tactical character. Posta di Donna stands tall with the sword raised over the shoulder, presenting a figure that is fully prepared and capable of decisive action. Like a person of authority who does not need to shout to command attention, the guard threatens through readiness rather than through immediate contact.
 
@@ -75,7 +75,7 @@ When the Fendente is launched from this position, the forward step is with the *
 
 ### **Why Both Sides Matter**
 
-The left-side guard is not a drill for its own sake. It is a distinct tactical position that attacks the opponent's right side — a line that most defensive habits and guard structures protect less reliably.
+The left-side guard is not a drill for its own sake. It is a distinct tactical position that attacks the opponent's right side, a line that most defensive habits and guard structures protect less reliably.
 
 When Donna Destra and Donna Sinestra are used in combination, they force the opponent to defend two separate lines of powerful descending attack. Neither side can be covered without partially exposing the other. This bilateral threat is significantly more difficult to defend against than either cut alone.
 
@@ -85,7 +85,7 @@ Many of Fiore's plays involve flowing from one side to the other after an exchan
 
 The most natural path between the two Donna guards passes through Dente di Zenghiaro.
 
-A Fendente from Donna Destra finishes in Dente di Zenghiaro. From there, the fencer winds across — hips rotating, blade rising behind the opposite shoulder — into Donna Sinestra. The Fendente Sinestra finishes again in Dente di Zenghiaro, from which the fencer can return to Donna Destra.
+A Fendente from Donna Destra finishes in Dente di Zenghiaro. From there, the fencer winds across, hips rotating, blade rising behind the opposite shoulder, into Donna Sinestra. The Fendente Sinestra finishes again in Dente di Zenghiaro, from which the fencer can return to Donna Destra.
 
 This cycle is one of the fundamental flowing sequences in the system:
 
@@ -101,7 +101,7 @@ Deliver a Fendente Sinestra, finishing in Dente di Zenghiaro.
 
 Return to Posta di Donna Destra and repeat.
 
-Perform ten complete cycles — twenty cuts total. The left-side guard and cut should feel as stable and committed as the right. If the left side is noticeably weaker, isolate left-side repetitions before returning to the bilateral flow. Equal proficiency on both sides is the goal, not just awareness that both sides exist.
+Perform ten complete cycles, twenty cuts total. The left-side guard and cut should feel as stable and committed as the right. If the left side is noticeably weaker, isolate left-side repetitions before returning to the bilateral flow. Equal proficiency on both sides is the goal, not just awareness that both sides exist.
 
 ---
 
@@ -131,9 +131,9 @@ Fiore also describes a tactic for countering thrusts. By stepping off the line w
 
 In modern longsword practice, Posta di Donna remains the primary power-generating guard and one of the first positions taught in most curricula. Its combination of mechanical advantage, blade coverage, and tactical versatility makes it foundational.
 
-The most common error in modern practice is shortening the chamber. Against faster opponents or with lighter synthetic weapons, students often reduce the wind-back of the blade to gain speed — but this reduces power generation and limits the arc of acceleration. The full chamber is intentional; the strike should feel like releasing stored energy rather than pushing the sword forward.
+The most common error in modern practice is shortening the chamber. Against faster opponents or with lighter synthetic weapons, students often reduce the wind-back of the blade to gain speed, but this reduces power generation and limits the arc of acceleration. The full chamber is intentional; the strike should feel like releasing stored energy rather than pushing the sword forward.
 
-The bilateral dimension of the guard is especially important in modern training. Many schools default to right-side work; Donna Sinestra deserves equal attention. The threat of powerful descending attacks on both lines forces the opponent to defend from above on both sides simultaneously — far more demanding than a single powerful line.
+The bilateral dimension of the guard is especially important in modern training. Many schools default to right-side work; Donna Sinestra deserves equal attention. The threat of powerful descending attacks on both lines forces the opponent to defend from above on both sides simultaneously, far more demanding than a single powerful line.
 
 ---
 
@@ -159,7 +159,7 @@ Posta di Donna is most powerful when it can initiate from a full chamber at prop
 
 The guard's primary vulnerability is distance. At the correct measure, the descending cut is overwhelming. Forced closer than ideal, the large chamber becomes a liability rather than an advantage. Closing measure aggressively before the guard can wind up and release limits its effectiveness significantly.
 
-Guards with a forward point — particularly Posta di Fenestra and Posta Longa — can contest the centerline before the fendente arrives. A thrust launched into the developing cut, timed to reach the opponent before the blade fully releases, can contest the exchange from the inside.
+Guards with a forward point, particularly Posta di Fenestra and Posta Longa, can contest the centerline before the fendente arrives. A thrust launched into the developing cut, timed to reach the opponent before the blade fully releases, can contest the exchange from the inside.
 
 Because the chamber is large and visible, experienced opponents can sometimes read the initiation early. Maintaining distance control, refusing to commit to a single defensive line, and pressuring Donna before it can settle into its preferred measure are the most reliable ways to limit it.
 

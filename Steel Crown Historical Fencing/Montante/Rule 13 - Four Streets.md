@@ -15,7 +15,7 @@ If I am told that it is necessary to turn the corner, the same should be done to
 ## Summary
 
 1. **Avoid the intersection itself**: Fighting at a four-corner intersection leaves you exposed on multiple sides. If battle is joined there, apply Rule Ten for being surrounded.
-2. **Stay in the middle of the street**: When opponents push you toward the intersection, hold the center of the street — more room to maneuver and defend.
+2. **Stay in the middle of the street**: When opponents push you toward the intersection, hold the center of the street: more room to maneuver and defend.
 3. **Move to the front**: If opponents are stationed at the corners, advance to the front of the street where they are gathered rather than letting them flank you.
 4. **Turning a corner**: If you must turn close to a corner, send the montante forward with a thrust pressed to the wall, arms fully extended, then continue with whatever rule the situation demands.
 5. **No unnecessary flourishes**: With your life at stake, perform only effective technique. Godinho's view: anything else is folly.

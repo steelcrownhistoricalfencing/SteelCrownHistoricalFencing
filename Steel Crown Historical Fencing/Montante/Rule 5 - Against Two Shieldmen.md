@@ -28,12 +28,12 @@ To engage multiple opponents in front using the montante:
 2. **Execute a tajo** toward the opponent on the right, stepping toward him with your right foot. The tajo should cut through and continue toward the opponent on the left. As you cut, lift your right foot and place it in front of your left foot to more easily reach the left-side opponent.
 3. **Turn the tajo into a half reves** above your head, with the point of the montante ending nails-up toward the right-side opponent and pointing downward. This position prevents the opponent from slipping underneath, while the quillons are raised to protect your head from a possible strike by a shieldman.
 
-This entire sequence — executing the tajo, stepping with the foot, turning into a reves, and positioning the montante — must be done in one fluid motion.
+This entire sequence, executing the tajo, stepping with the foot, turning into a reves, and positioning the montante, must be done in one fluid motion.
 
 4. **Next, step with your left foot** to the left side and perform a reves, cutting through to the opponents on the right. Lift your left foot and place it in front of the right as you cut. The reves should not stop until it turns above your head, with the point nails-down toward the right-side opponents, again pointed downward to prevent an opponent from slipping underneath.
 
 As with the tajo, the reves, foot movements, and arming the point must all be done in a single, continuous motion.
 
-The quick turn of the blow is essential to prepare these defensive positions, which help to parry any incoming attacks and prevent opponents from slipping under the montante. Continue this sequence — alternating between tajo and reves with the corresponding footwork — as long as the battle lasts.
+The quick turn of the blow is essential to prepare these defensive positions, which help to parry any incoming attacks and prevent opponents from slipping under the montante. Continue this sequence, alternating between tajo and reves with the corresponding footwork, as long as the battle lasts.
 
 If facing more than two shieldmen, adapt by cutting to the legs with tajos and returning with reveses, similar to the technique described in Rule Nine.

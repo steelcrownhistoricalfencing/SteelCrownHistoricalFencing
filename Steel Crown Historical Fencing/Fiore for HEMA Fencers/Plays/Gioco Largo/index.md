@@ -4,7 +4,7 @@
 
 The Wide Game takes place at extended measure.
 
-When two swords meet near their tips — at the *punta* crossing — you are in largo. When they meet at mid-blade — the *mezza spada* — you may still be in largo, or you may choose to close.
+When two swords meet near their tips, at the *punta* crossing, you are in largo. When they meet at mid-blade, the *mezza spada*, you may still be in largo, or you may choose to close.
 
 At this distance, you cannot grab your opponent. You cannot reach their body with your hands.
 
@@ -18,7 +18,7 @@ Three things identify largo:
 
 The blades cross near their points.
 
-The left foot is forward — your stance opens toward your opponent's weapon side.
+The left foot is forward, your stance opens toward your opponent's weapon side.
 
 Your distance is such that a cut or thrust requires commitment to reach, but a grab does not reach at all.
 
@@ -30,9 +30,9 @@ If any of these conditions change, the game changes with them.
 
 Fiore's wide play is organized under two remedy masters, each presiding over a different crossing type.
 
-**The First Remedy Master** addresses the *punta* crossing — blades touching at the tips. This contact is unstable. Neither fencer has leverage. The only option is to act immediately, switching the sword to the other side and striking hard. There is no time to deliberate.
+**The First Remedy Master** addresses the *punta* crossing, blades touching at the tips. This contact is unstable. Neither fencer has leverage. The only option is to act immediately, switching the sword to the other side and striking hard. There is no time to deliberate.
 
-**The Second Remedy Master** addresses the *mezza spada* crossing — blades touching at mid-blade. This contact offers more stability and more options. From here, you can cut, thrust, press, change sides, or begin to close. The bulk of Fiore's wide play — some twenty plays in the manuscript — flows from this crossing.
+**The Second Remedy Master** addresses the *mezza spada* crossing, blades touching at mid-blade. This contact offers more stability and more options. From here, you can cut, thrust, press, change sides, or begin to close. The bulk of Fiore's wide play, some twenty plays in the manuscript, flows from this crossing.
 
 ---
 
@@ -42,7 +42,7 @@ In wide play, you typically approach with the left foot forward.
 
 When a largo technique fails, or when distance collapses unexpectedly, the right foot often ends up forward instead. This is the signal: stretto is now available, and the appropriate close-play technique should follow.
 
-Fiore designs the footwork of his largo plays to flow naturally into this transition. When you pass your right foot forward in the course of a play, you are not making an error — you are arriving at a new situation with its own set of options.
+Fiore designs the footwork of his largo plays to flow naturally into this transition. When you pass your right foot forward in the course of a play, you are not making an error, you are arriving at a new situation with its own set of options.
 
 The pattern: left foot forward as you enter → right foot forward as the exchange develops → left foot passes to the outside to complete a close-play resolution.
 
@@ -52,11 +52,11 @@ The pattern: left foot forward as you enter → right foot forward as the exchan
 
 At largo distance, your options are:
 
-* Cuts and thrusts with the blade's final third — the section with the most speed and control
-* Elbow-level grabs on the opponent's weapon arm — the only body contact available at this range
-* Kicks and low-line attacks — Fiore explicitly includes these as part of the wide game
-* Changes of line — switching the sword to the other side of the opponent's weapon
-* False cuts — using the back edge unexpectedly
+* Cuts and thrusts with the blade's final third, the section with the most speed and control
+* Elbow-level grabs on the opponent's weapon arm, the only body contact available at this range
+* Kicks and low-line attacks, Fiore explicitly includes these as part of the wide game
+* Changes of line, switching the sword to the other side of the opponent's weapon
+* False cuts, using the back edge unexpectedly
 
 Grabbing the opponent's wrist, their collar, or their body is not available in largo. That belongs to stretto.
 
@@ -72,7 +72,7 @@ Before any largo technique can be applied, you must identify: which crossing are
 
 This recognition must become reflexive. In live sparring, there is no time to think through the options. The crossing is read, the play begins.
 
-The pages in this section each teach one play. But what they are collectively teaching is pattern recognition — the ability to see which situation you are in and respond to it without deliberation.
+The pages in this section each teach one play. But what they are collectively teaching is pattern recognition, the ability to see which situation you are in and respond to it without deliberation.
 
 ---
 

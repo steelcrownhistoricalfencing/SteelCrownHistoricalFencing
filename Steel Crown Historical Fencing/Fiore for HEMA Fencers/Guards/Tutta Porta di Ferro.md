@@ -25,7 +25,7 @@ This chapter treats Tutta Porta di Ferro Destra and Sinestra together. Both side
 
 "I am the Full Iron Gate and I stand in great strength. I am good for waiting for every hand weapon, long and short, if I have a good sword, not one that is too long. And I leave with a cover and I go to close. I exchange the thrusts and put mine in. Also, I beat the thrusts to the ground, and I always go with a pass, and I make a cover of every blow."
 
-Fiore describes a guard that is at once a fortress and a forward-moving force. Every action it takes includes a defensive element — but none of those actions involve retreating.
+Fiore describes a guard that is at once a fortress and a forward-moving force. Every action it takes includes a defensive element, but none of those actions involve retreating.
 
 The guard waits, then enters. The guard covers, then strikes. The guard beats the thrust down, and puts its own point in.
 
@@ -37,7 +37,7 @@ The guard waits, then enters. The guard covers, then strikes. The guard beats th
 
 The image is deliberately architectural. An iron gate does not yield. It resists force through its own mass and structure, not through movement or deception.
 
-The word *tutta* — full, or complete — distinguishes this guard from the middle variant. Where the Porta di Ferro Mezzana occupies the middle height, Tutta is the lowest and most grounded expression of the iron gate principle.
+The word *tutta*, full, or complete, distinguishes this guard from the middle variant. Where the Porta di Ferro Mezzana occupies the middle height, Tutta is the lowest and most grounded expression of the iron gate principle.
 
 ---
 
@@ -85,7 +85,7 @@ The sword sits close to the body in a compact, connected position. The structure
 
 Tutta Porta di Ferro operates through three interconnected actions that Fiore describes explicitly.
 
-**Covering every blow:** The guard's low and close structure makes it resistant to displacement. Every incoming strike is met with a covering action rather than absorbed through the body. This cover is not purely defensive — it is the first step toward counterattack.
+**Covering every blow:** The guard's low and close structure makes it resistant to displacement. Every incoming strike is met with a covering action rather than absorbed through the body. This cover is not purely defensive, it is the first step toward counterattack.
 
 **Beating the thrust to the ground:** Against a direct thrust, Tutta Porta di Ferro responds by driving the incoming blade downward. The guard's low hand position makes this natural: a slight rise of the point can deflect a thrust from above while simultaneously threatening an upward exchange.
 
@@ -109,7 +109,7 @@ This is the guard's most important psychological lesson: strength in fencing com
 
 Fiore's description includes a precise tactical action: "I exchange the thrusts and put mine in."
 
-This refers to the *scambiar di punta* — the exchange of thrusts — one of the defining techniques of Fiore's system.
+This refers to the *scambiar di punta*, the exchange of thrusts, one of the defining techniques of Fiore's system.
 
 From Tutta Porta di Ferro, as an incoming thrust arrives, the fencer performs a small deflecting motion that redirects the threatening blade while simultaneously launching their own thrust into the opening. The two actions occur together, not sequentially.
 
@@ -125,7 +125,7 @@ This misreading is corrected by remembering the forward-moving nature of the gua
 
 The guard is particularly effective against aggressive thrusting. Opponents who rely on extended thrusts from guards like Posta Longa or Posta di Fenestra will find that Tutta Porta di Ferro can consistently beat those thrusts downward and enter before they can recover.
 
-It is also an excellent receiving position for the end of a cutting flow. Many of Fiore's plays end in a low guard after a descending cut — Tutta Porta di Ferro provides the strongest structural position at that height.
+It is also an excellent receiving position for the end of a cutting flow. Many of Fiore's plays end in a low guard after a descending cut, Tutta Porta di Ferro provides the strongest structural position at that height.
 
 ---
 
@@ -133,11 +133,11 @@ It is also an excellent receiving position for the end of a cutting flow. Many o
 
 Tutta Porta di Ferro expresses the **Elephant** most fully of any guard in the system.
 
-Its grounded, immovable structure and refusal to yield ground under pressure are the direct expression of Fortitude. The guard stands in great strength precisely because it does not attempt to evade — it meets force with structure.
+Its grounded, immovable structure and refusal to yield ground under pressure are the direct expression of Fortitude. The guard stands in great strength precisely because it does not attempt to evade, it meets force with structure.
 
 The **Tiger** appears in the forward-moving pass that accompanies every defensive action. The entry must be explosive, not hesitant.
 
-The **Lynx** governs the precise moment of the exchange. The deflection and the forward step must coordinate exactly — too early and the deflection misses; too late and the thrust has already arrived.
+The **Lynx** governs the precise moment of the exchange. The deflection and the forward step must coordinate exactly, too early and the deflection misses; too late and the thrust has already arrived.
 
 The **Lion** is required for the willingness to stand in a low guard and receive incoming attacks rather than retreating. It demands courage to hold the ground and enter.
 
@@ -147,7 +147,7 @@ The **Lion** is required for the willingness to stand in a low guard and receive
 
 Tutta Porta di Ferro is most vulnerable when forced to deal with changing angles.
 
-Because the guard is low and close, attacks that change direction — rising cuts from below, high attacks that don't follow the expected line — can find openings that the downward-beating motion cannot address.
+Because the guard is low and close, attacks that change direction, rising cuts from below, high attacks that don't follow the expected line, can find openings that the downward-beating motion cannot address.
 
 The guard is also less effective at longer measure. Its design is built around close entry and deflection. An opponent who maintains distance and avoids the entering step limits the guard's primary tactical capability.
 
@@ -161,7 +161,7 @@ Tutta Porta di Ferro is not a guard for controlling long measure or projecting t
 
 It is also not a guard of deception. Unlike Coda Longa, which creates false openings, or Posta di Fenestra, which manipulates the opponent's decisions, Tutta Porta di Ferro presents itself honestly. Its strength lies in structure, not subterfuge.
 
-Finally, the guard should not become static. Fiore's description specifically includes constant forward motion with a passing step. A fencer who holds Tutta Porta di Ferro without moving is misusing the guard — it is built to advance, not to wait indefinitely.
+Finally, the guard should not become static. Fiore's description specifically includes constant forward motion with a passing step. A fencer who holds Tutta Porta di Ferro without moving is misusing the guard, it is built to advance, not to wait indefinitely.
 
 ---
 
@@ -187,7 +187,7 @@ As the thrust arrives, the fencer in the iron gate rises slightly and deflects t
 
 The forward step closes distance as the thrust is beaten to the ground.
 
-Repeat ten times from each side, then switch roles. Focus on the coordination of deflection and entry — both must happen together, not sequentially.
+Repeat ten times from each side, then switch roles. Focus on the coordination of deflection and entry, both must happen together, not sequentially.
 
 ---
 
@@ -227,5 +227,5 @@ Tutta Porta di Ferro is the guard of immovable forward motion.
 
 It does not evade. It does not deceive. It stands in great strength, receives every attack with a covering action, beats thrusts to the ground, and simultaneously enters the opponent's space.
 
-**Its paradox is that it defends by advancing — and in advancing, it converts the opponent's attack into the opportunity for its own.**
+**Its paradox is that it defends by advancing, and in advancing, it converts the opponent's attack into the opportunity for its own.**
 

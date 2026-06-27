@@ -1,6 +1,6 @@
 # Introduction to Godinho's Montante
 
-*Domingo Luis Godinho — Arte de Esgrima (1599)*
+*Domingo Luis Godinho, Arte de Esgrima (1599)*
 
 ---
 
@@ -45,12 +45,12 @@ Godinho's treatise, *Arte de Esgrima* ("On the Art of Fencing"), was written in 
 
 The book is comprehensive in its scope, covering various weapons and techniques:
 
-- **Sword alone** — Basic techniques and strategies for using a single sword.
-- **Sword and shield** — Combining a sword with a shield for defense and attack.
-- **Sword and buckler** — Using a smaller shield (buckler) in conjunction with a sword.
-- **Sword and dagger** — Dual-wielding a sword and a dagger for close combat.
-- **Sword and cloak** — Utilizing a cloak as both a defensive and offensive tool alongside a sword.
-- **Double swords** — Techniques for wielding a sword in each hand.
-- **Montante** — Instructions for the use of the montante, a large two-handed sword.
+- **Sword alone**, Basic techniques and strategies for using a single sword.
+- **Sword and shield**, Combining a sword with a shield for defense and attack.
+- **Sword and buckler**, Using a smaller shield (buckler) in conjunction with a sword.
+- **Sword and dagger**, Dual-wielding a sword and a dagger for close combat.
+- **Sword and cloak**, Utilizing a cloak as both a defensive and offensive tool alongside a sword.
+- **Double swords**, Techniques for wielding a sword in each hand.
+- **Montante**, Instructions for the use of the montante, a large two-handed sword.
 
 The montante section is the focus of this curriculum.

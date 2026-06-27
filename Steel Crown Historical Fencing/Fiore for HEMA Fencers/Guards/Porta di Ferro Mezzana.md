@@ -10,13 +10,13 @@
 
 Classification: *Stabile — Stable Guard*
 
-Porta di Ferro Mezzana occupies the center of Fiore's guard system in every sense. Positioned at middle height between the high guards and the low iron gate, it threatens the centerline while remaining within reach of every other guard in the system. Where Tutta Porta di Ferro grounds the fencer in a deep defensive structure, Mezzana balances that solidity with access — the ability to flow upward, downward, or across the line without committing to any single direction.
+Porta di Ferro Mezzana occupies the center of Fiore's guard system in every sense. Positioned at middle height between the high guards and the low iron gate, it threatens the centerline while remaining within reach of every other guard in the system. Where Tutta Porta di Ferro grounds the fencer in a deep defensive structure, Mezzana balances that solidity with access: the ability to flow upward, downward, or across the line without committing to any single direction.
 
 For the modern fencer, Porta di Ferro Mezzana teaches a principle that no extreme guard can: **the center controls everything**. By occupying the middle ground between high and low, the guard remains relevant regardless of what the opponent does.
 
 Fiore calls it the truest column. This is not merely a compliment. A column stands at the center, bears equal weight from all directions, and holds the structure together. That is precisely what this guard does.
 
-This chapter treats Porta di Ferro Mezzana Destra and Sinestra together. Both sides share the same tactical identity — the principles are identical, the mechanics are mirrored.
+This chapter treats Porta di Ferro Mezzana Destra and Sinestra together. Both sides share the same tactical identity: the principles are identical, the mechanics are mirrored.
 
 ---
 
@@ -40,9 +40,9 @@ This description tells us that Porta di Ferro Mezzana is less a guard of specifi
 
 *Porta di Ferro Mezzana* means *Middle Iron Door*.
 
-The iron door imagery — shared with Tutta Porta di Ferro and Porta di Ferro Alta — emphasizes the structural, non-yielding quality of the guard family. Like a door in an iron gate, the position holds fast without being forced open.
+The iron door imagery, shared with Tutta Porta di Ferro and Porta di Ferro Alta, emphasizes the structural, non-yielding quality of the guard family. Like a door in an iron gate, the position holds fast without being forced open.
 
-The word *mezzana* — middle — specifies the guard's position within that family. It stands between the low gate (Tutta Porta di Ferro) and the high gate (Porta di Ferro Alta), occupying the median of the vertical line.
+The word *mezzana*, middle, specifies the guard's position within that family. It stands between the low gate (Tutta Porta di Ferro) and the high gate (Porta di Ferro Alta), occupying the median of the vertical line.
 
 ---
 
@@ -68,7 +68,7 @@ Training both sides maintains the guard's hub function. If only the right side i
 
 ### **Body Position**
 
-The stance is balanced and neutral — neither strongly forward-weighted like Tutta Porta di Ferro, nor rear-weighted like Posta di Fenestra.
+The stance is balanced and neutral: neither strongly forward-weighted like Tutta Porta di Ferro, nor rear-weighted like Posta di Fenestra.
 
 The body remains upright and mobile. Because the guard must be able to transition in any direction, it cannot commit its weight too strongly in one direction. The balanced stance preserves that readiness.
 
@@ -78,11 +78,11 @@ The posture should feel alert and capable, not passive. Porta di Ferro Mezzana i
 
 ### **Hand and Sword Position**
 
-The hands are held at approximately chest to solar plexus height — the middle of the vertical line.
+The hands are held at approximately chest to solar plexus height, the middle of the vertical line.
 
 The point is directed forward along the centerline, threatening the opponent's face, throat, or chest depending on precise height. The arms are extended enough to project that threat without overreaching.
 
-The sword should feel connected to the body's structure — neither too close nor too far. It occupies the space between the fencer and the opponent, creating a presence that the opponent must address before advancing.
+The sword should feel connected to the body's structure, neither too close nor too far. It occupies the space between the fencer and the opponent, creating a presence that the opponent must address before advancing.
 
 ---
 
@@ -90,11 +90,11 @@ The sword should feel connected to the body's structure — neither too close no
 
 Porta di Ferro Mezzana functions as a hub.
 
-Every other guard in the system can be reached from this position with minimal transition time. The high guards — Posta di Donna, Posta di Fenestra — require the hands to travel upward. The low guards — Tutta Porta di Ferro, Dente di Zenghiaro — require the hands to travel downward. The lateral guards — Coda Longa, Posta Breve — require movement to one side or the other. From the middle, all of these transitions are equally short.
+Every other guard in the system can be reached from this position with minimal transition time. The high guards, Posta di Donna, Posta di Fenestra, require the hands to travel upward. The low guards, Tutta Porta di Ferro, Dente di Zenghiaro, require the hands to travel downward. The lateral guards, Coda Longa, Posta Breve, require movement to one side or the other. From the middle, all of these transitions are equally short.
 
 This versatility is what Fiore means when he says "I can do all things." The guard is not all-powerful. It is all-accessible.
 
-The forward point simultaneously serves as a threat. An opponent approaching Porta di Ferro Mezzana must deal with the extended centerline presence before they can safely close distance. This creates the same tactical dynamic as Posta Longa — but from a more defended, structurally stable position.
+The forward point simultaneously serves as a threat. An opponent approaching Porta di Ferro Mezzana must deal with the extended centerline presence before they can safely close distance. This creates the same tactical dynamic as Posta Longa, but from a more defended, structurally stable position.
 
 ---
 
@@ -114,9 +114,9 @@ For students who become lost in the middle of an exchange, Porta di Ferro Mezzan
 
 Porta di Ferro Mezzana appears frequently in Fiore's plays as the position a fencer occupies after completing an action.
 
-Many cuts that do not follow through to the low position — descending strikes that stop at middle height, thrusts that don't fully extend — naturally find their structure here. The guard receives and holds the line.
+Many cuts that do not follow through to the low position, descending strikes that stop at middle height, thrusts that don't fully extend, naturally find their structure here. The guard receives and holds the line.
 
-Understanding Mezzana as both a starting and finishing position helps students see it less as a static stance and more as a constant reference point — the place the fencer returns to when they are between intentions.
+Understanding Mezzana as both a starting and finishing position helps students see it less as a static stance and more as a constant reference point, the place the fencer returns to when they are between intentions.
 
 ---
 
@@ -126,7 +126,7 @@ In modern fencing, Porta di Ferro Mezzana is often overlooked in favor of more d
 
 Its value lies precisely in what is easy to miss: it requires the opponent to solve a problem before attacking, it transitions to anything with equal efficiency, and it provides a clear structural reference in the middle of a dynamic exchange.
 
-Students who are prone to overcommitting to one guard or one side of the body will find that regularly returning to Mezzana teaches them to recognize the center and understand when they have drifted away from it. This spatial awareness — knowing where the middle is — is fundamental to controlling distance and reading an exchange.
+Students who are prone to overcommitting to one guard or one side of the body will find that regularly returning to Mezzana teaches them to recognize the center and understand when they have drifted away from it. This spatial awareness, knowing where the middle is, is fundamental to controlling distance and reading an exchange.
 
 ---
 
@@ -136,11 +136,11 @@ Porta di Ferro Mezzana expresses all four virtues with unusual balance.
 
 The **Elephant** appears in the stable, column-like structure of the guard. It holds its position under pressure rather than yielding.
 
-The **Lynx** is strongly present. The guard's central position is defined by observation — it watches all directions equally and transitions toward whatever the opponent offers. Prudent positioning is the guard's core tactical idea.
+The **Lynx** is strongly present. The guard's central position is defined by observation, it watches all directions equally and transitions toward whatever the opponent offers. Prudent positioning is the guard's core tactical idea.
 
 The **Tiger** governs the transitions. The value of being at the center is only realized if the transitions to other guards are fast. A slow transition from Mezzana negates the hub advantage.
 
-The **Lion** commits when the observation reveals an opening. The guard does not generate attacks on its own — it creates conditions for attacks and then requires courage to launch them.
+The **Lion** commits when the observation reveals an opening. The guard does not generate attacks on its own, it creates conditions for attacks and then requires courage to launch them.
 
 ---
 
@@ -148,11 +148,11 @@ The **Lion** commits when the observation reveals an opening. The guard does not
 
 Porta di Ferro Mezzana is most vulnerable at its edges.
 
-Because it holds the center, it is less immediately dominant in any specific line than a guard specialized to that line. A fencer who forces the Mezzana fencer to commit to one direction — through a strong feint or a real attack on one side — removes the guard's central advantage.
+Because it holds the center, it is less immediately dominant in any specific line than a guard specialized to that line. A fencer who forces the Mezzana fencer to commit to one direction, through a strong feint or a real attack on one side, removes the guard's central advantage.
 
-The guard is also less powerful at the extremes of measure. Very close or very far, the middle height becomes less relevant — the range of available transitions narrows, and the guard's hub quality is reduced.
+The guard is also less powerful at the extremes of measure. Very close or very far, the middle height becomes less relevant, the range of available transitions narrows, and the guard's hub quality is reduced.
 
-Finally, guards that occupy the same centerline — particularly Posta Longa — create a direct contest for the line. In that situation, the Mezzana must win through timing and structure rather than positional dominance.
+Finally, guards that occupy the same centerline, particularly Posta Longa, create a direct contest for the line. In that situation, the Mezzana must win through timing and structure rather than positional dominance.
 
 ---
 
@@ -162,7 +162,7 @@ Porta di Ferro Mezzana is not a power-generating guard. It does not chamber for 
 
 It is also not a guard for deception. Where Coda Longa invites attack through apparent weakness, Mezzana is transparent in its positioning. The opponent knows where the point is.
 
-Finally, the guard should not become static. Its value is as a mobile, responsive center — the column that connects everything. A fencer who stands in Mezzana without transitioning, probing, or threatening has missed the point of the guard.
+Finally, the guard should not become static. Its value is as a mobile, responsive center, the column that connects everything. A fencer who stands in Mezzana without transitioning, probing, or threatening has missed the point of the guard.
 
 ---
 
@@ -223,5 +223,5 @@ Porta di Ferro Mezzana is the center of Fiore's guard system made tangible.
 
 From the middle height, every guard is equally close. Every threat is equally accessible. Every response is equally prepared.
 
-**Fiore calls it the truest column because a column holds everything up by standing in the right place — and that is exactly what this guard does.**
+**Fiore calls it the truest column because a column holds everything up by standing in the right place, and that is exactly what this guard does.**
 

@@ -1,13 +1,13 @@
 # Fendente Sinestra
 
-<img src="../../assets/fiore/guards/fendente.jpg" alt="Fendente — Downward Blows" class="manuscript-img">
-<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 23r, c. 1409 — "We are downward blows and we dispute; by cleaving the teeth with proper intention." J. Paul Getty Museum (Open Content)</em></p>
+<img src="../../assets/fiore/guards/fendente.jpg" alt="Fendente, Downward Blows" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 23r, c. 1409, "We are downward blows and we dispute; by cleaving the teeth with proper intention." J. Paul Getty Museum (Open Content)</em></p>
 
 *The Descending Cut from the Left*
 
 Fendente Sinestra is the second of Fiore's seven blows. It is a descending diagonal cut delivered from the left side, the mirror image of Fendente Destra in both mechanics and tactical purpose.
 
-For the modern fencer, the Fendente Sinestra teaches a principle that the right-side cut alone cannot: **a fencer who can descend from both sides controls two lines simultaneously**. The left-side cut is not simply a backup to the dominant hand — it is a distinct attack that forces the opponent to defend a different angle entirely.
+For the modern fencer, the Fendente Sinestra teaches a principle that the right-side cut alone cannot: **a fencer who can descend from both sides controls two lines simultaneously**. The left-side cut is not simply a backup to the dominant hand: it is a distinct attack that forces the opponent to defend a different angle entirely.
 
 Fiore's system is built around bilateral movement. The Fendente Sinestra is the first expression of this principle in the strikes.
 
@@ -29,7 +29,7 @@ The path is a direct mirror of the Fendente Destra. The acceleration and arc are
 
 The cut is typically delivered with a forward step of the left foot.
 
-As the step occurs, the hips rotate to the right, followed by the shoulders and arms. The weight shifts forward, driving the body into the cut. The motion is a complete bilateral reversal of the right-side fendente — the same coordinated structure, the same hip-led drive, the same follow-through.
+As the step occurs, the hips rotate to the right, followed by the shoulders and arms. The weight shifts forward, driving the body into the cut. The motion is a complete bilateral reversal of the right-side fendente, the same coordinated structure, the same hip-led drive, the same follow-through.
 
 Students who have trained the right-side cut extensively will often find the left feels mechanical or underpowered at first. This is normal. The mechanics are identical; only the habit is lacking.
 
@@ -45,7 +45,7 @@ It may also finish in Porta di Ferro Mezzana, depending on the height and intent
 
 ## **Tactical Function**
 
-The primary value of the Fendente Sinestra is that it attacks the opponent's right side — a line that is typically less guarded than the left.
+The primary value of the Fendente Sinestra is that it attacks the opponent's right side, a line that is typically less guarded than the left.
 
 Because most guards and defensive habits are built around protecting the left-center line, a well-timed descending cut from the left can find openings that the right-side cut cannot. The opponent must actively reorganize their defense to cover the right, and that reorganization creates vulnerabilities elsewhere.
 
@@ -59,7 +59,7 @@ In modern fencing, the left-side fendente is often underdeveloped. Because most 
 
 This is a training problem, not a mechanical one.
 
-The solution is deliberate bilateral practice — equal repetitions on both sides until the left cut matches the right in structure, speed, and commitment. A fencer who can deliver a credible fendente from both sides has meaningfully doubled their attacking options.
+The solution is deliberate bilateral practice: equal repetitions on both sides until the left cut matches the right in structure, speed, and commitment. A fencer who can deliver a credible fendente from both sides has meaningfully doubled their attacking options.
 
 In sparring, the Fendente Sinestra is most effective when used in combination with the Fendente Destra. Alternating sides prevents the opponent from settling into a defensive pattern and often produces openings that neither cut would create alone.
 
@@ -93,7 +93,7 @@ The **Tiger** requires that the left side match the right in speed. A slow left 
 
 The **Elephant** maintains structure through the reversal. The body mechanics on the left side must be as stable and connected as on the right.
 
-The **Lynx** governs the moment of transition — reading when the opponent has committed to defending the right and the left line has opened.
+The **Lynx** governs the moment of transition, reading when the opponent has committed to defending the right and the left line has opened.
 
 ---
 
@@ -127,7 +127,7 @@ Flow from Zenghiaro into Posta di Donna Sinestra, then deliver the Fendente Sine
 
 Return to Donna Destra and repeat.
 
-Perform ten complete cycles — twenty cuts total. Focus on matching the structure, speed, and follow-through of both sides. The left should feel like the right before the drill is finished.
+Perform ten complete cycles, twenty cuts total. Focus on matching the structure, speed, and follow-through of both sides. The left should feel like the right before the drill is finished.
 
 ---
 
@@ -149,7 +149,7 @@ The most common problem is a weaker or slower left cut. This is a habit, not a p
 
 Another common error is different mechanics on the two sides. The body tends to compensate on the non-dominant side by using the arms more and the hips less. Film or mirror work helps identify this. The mechanics must be identical.
 
-Some students also fail to commit fully on the left side. The left cut should be delivered with the same intent as the right — any hesitation reduces its effectiveness.
+Some students also fail to commit fully on the left side. The left cut should be delivered with the same intent as the right, any hesitation reduces its effectiveness.
 
 ---
 
@@ -159,5 +159,5 @@ The Fendente Sinestra is not simply the Fendente Destra performed on the other s
 
 It is a separate attack that controls a different line, creates different pressure, and demands a different defensive response from the opponent.
 
-**When both cuts are equally developed, the fencer does not fight on one side — they fight across the full width of the opponent.**
+**When both cuts are equally developed, the fencer does not fight on one side: they fight across the full width of the opponent.**
 

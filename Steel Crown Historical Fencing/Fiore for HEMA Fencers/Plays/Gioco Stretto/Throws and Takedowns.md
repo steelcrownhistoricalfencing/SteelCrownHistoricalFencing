@@ -9,11 +9,11 @@ Classification: *Gioco Stretto — Close Play*
 
 A stretto sequence does not resolve by stopping.
 
-It resolves by putting someone on the ground, disarming them, or forcing them to yield. Throws and takedowns are not a separate chapter of Fiore's system — they are how the other stretto plays end.
+It resolves by putting someone on the ground, disarming them, or forcing them to yield. Throws and takedowns are not a separate chapter of Fiore's system: they are how the other stretto plays end.
 
 The lock extends. The blade wraps. The pommel arrives. Each of these creates a position. The throw is what you do with that position.
 
-**Every stretto play can end on the ground. Throws are not separate — they are destinations.**
+**Every stretto play can end on the ground. Throws are not separate: they are destinations.**
 
 ---
 
@@ -29,7 +29,7 @@ The lock extends. The blade wraps. The pommel arrives. Each of these creates a p
 
 Fiore describes the hip throw entry directly: embrace, step behind the foot, throw with the arms.
 
-Other throw descriptions appear throughout the stretto section attached to specific plays. The throws are not consolidated in a single location — they are distributed as the natural ends of preceding sequences.
+Other throw descriptions appear throughout the stretto section attached to specific plays. The throws are not consolidated in a single location: they are distributed as the natural ends of preceding sequences.
 
 ---
 
@@ -41,7 +41,7 @@ Fiore's vocabulary distinguishes them.
 
 *Abbattere* — felling — involves leverage against a static or resisting opponent. The opponent is not moving; you break their structure through leverage and they fall. The lock-based takedowns from the three ligadure are *abbattere*.
 
-In practice, the distinction matters for training. The gettare requires timing — you must catch the motion. The abbattere requires position — the leverage must be established before the press begins.
+In practice, the distinction matters for training. The gettare requires timing, you must catch the motion. The abbattere requires position, the leverage must be established before the press begins.
 
 ---
 
@@ -49,7 +49,7 @@ In practice, the distinction matters for training. The gettare requires timing �
 
 ### **From the Pommel Strike and Blade Wrap**
 
-After the volta di pomo — pommel to face, blade behind the neck — the pulling motion used for the throat cut is also a throw.
+After the volta di pomo, pommel to face, blade behind the neck, the pulling motion used for the throat cut is also a throw.
 
 When you pull the sword with the blade behind the opponent's neck, you are not only cutting. You are controlling the head. A pull to the side while stepping past the opponent's leg takes them to the ground. This is one of Fiore's most direct throw sequences.
 
@@ -63,7 +63,7 @@ What distinguishes this as *abbattere*: the opponent may be completely static an
 
 ### **From a Clinch at Close Range**
 
-When two fencers arrive in close body contact — not necessarily through a specific technique, but through the collision of engagement — Fiore's abrazare principles apply.
+When two fencers arrive in close body contact, not necessarily through a specific technique, but through the collision of engagement, Fiore's abrazare principles apply.
 
 The hip throw: embrace the opponent's body, step your right foot behind their left foot, turn your hips, throw with your arms and body weight.
 
@@ -75,7 +75,7 @@ The neck push: from behind or the side, a push against the neck and a simultaneo
 
 Fiore designs the stretto system so that when one technique fails, another is available.
 
-The failed mezana that produces the soprana when the opponent resists. The failed pommel strike where the opponent grabs the Scholar's hands — at which point both are bound in a clinch, and the abrazare hip throw is immediately available.
+The failed mezana that produces the soprana when the opponent resists. The failed pommel strike where the opponent grabs the Scholar's hands, at which point both are bound in a clinch, and the abrazare hip throw is immediately available.
 
 The throws are not fallback techniques. They are continuations of the same engagement.
 
@@ -101,8 +101,8 @@ The Fiore-trained fencer uses the distance collapse as the entry point it was de
 
 Specific competition notes:
 
-* The hip throw from a clinch is consistently available when two fencers crash together — which happens frequently in competition. Train it as a reflexive response to clinch, not a deliberate setup.
-* The blade-behind-neck pull throw is quick to apply and hard to see coming. It does not require a complex entry — only the pommel strike (or any action that brings the blade behind the neck) preceding it.
+* The hip throw from a clinch is consistently available when two fencers crash together, which happens frequently in competition. Train it as a reflexive response to clinch, not a deliberate setup.
+* The blade-behind-neck pull throw is quick to apply and hard to see coming. It does not require a complex entry, only the pommel strike (or any action that brings the blade behind the neck) preceding it.
 * The soprana throw is the most reliable of the lock-based takedowns in competition because it flows from the mezana, which is itself trained as a response to the pommel strike. The chain trains naturally.
 
 ---
@@ -111,9 +111,9 @@ Specific competition notes:
 
 Fiore's wrestling section (*abrazare*) is not optional reading for the longsword student.
 
-The hip throw, the neck push, the leg sweep, the clinch entries — all of these appear in the wrestling section before they appear in the longsword plays. The mechanics are identical. The longsword adds the swords.
+The hip throw, the neck push, the leg sweep, the clinch entries, all of these appear in the wrestling section before they appear in the longsword plays. The mechanics are identical. The longsword adds the swords.
 
-Students who train the abrazare throws separately — without swords, drilling the movement — will find that the longsword versions feel natural and available, not awkward. Students who have only ever trained throws in the context of the sword often find them stiff and unconvincing.
+Students who train the abrazare throws separately, without swords, drilling the movement, will find that the longsword versions feel natural and available, not awkward. Students who have only ever trained throws in the context of the sword often find them stiff and unconvincing.
 
 Train the wrestling section. The stretto plays will improve.
 
@@ -121,13 +121,13 @@ Train the wrestling section. The stretto plays will improve.
 
 ## **Connection to the Four Virtues**
 
-The **Tiger** governs all gettare throws — the timing of catching motion and redirecting it. A hip throw attempted after the opponent has recovered their balance is not a hip throw; it is a wrestling match.
+The **Tiger** governs all gettare throws, the timing of catching motion and redirecting it. A hip throw attempted after the opponent has recovered their balance is not a hip throw; it is a wrestling match.
 
-The **Elephant** governs all abbattere takedowns — the structural weight required to press a locked arm or a controlled neck position through to the ground.
+The **Elephant** governs all abbattere takedowns, the structural weight required to press a locked arm or a controlled neck position through to the ground.
 
 The **Lynx** governs the transition between plays. Reading which throw is available at each node of the stretto chain requires accurate situational awareness during a fast, close-range exchange.
 
-The **Lion** governs the commitment to completion. A partial throw is worse than no throw — it alerts the opponent to your intent and gives them the opportunity to reverse the engagement. Once the throw begins, commit through to the ground.
+The **Lion** governs the commitment to completion. A partial throw is worse than no throw, it alerts the opponent to your intent and gives them the opportunity to reverse the engagement. Once the throw begins, commit through to the ground.
 
 ---
 
@@ -137,11 +137,11 @@ Throws are not techniques to improvise.
 
 Each throw in Fiore's system emerges from a specific prior position. The hip throw from the clinch. The neck-pull from the blade wrap. The soprana throw from the arm elevation. These prior positions must be established first.
 
-A fencer who attempts throws from undefined positions — simply grabbing and hoping — will find them unreliable. The prior play creates the throw.
+A fencer who attempts throws from undefined positions, simply grabbing and hoping, will find them unreliable. The prior play creates the throw.
 
 Throws are also not techniques to use at largo range. The blade wrap, the arm lock, and the clinch entry all require stretto distance. A throw attempted while both parties are at arm's length is not a Fiore throw.
 
-Finally, throws are not endings. They are transitions. Once the opponent is on the ground, the exchange continues — in the manuscript, the Scholar often follows a throw with a thrust to prevent the opponent from rising. Training throws to a landing, then pausing, teaches an incomplete sequence.
+Finally, throws are not endings. They are transitions. Once the opponent is on the ground, the exchange continues, in the manuscript, the Scholar often follows a throw with a thrust to prevent the opponent from rising. Training throws to a landing, then pausing, teaches an incomplete sequence.
 
 ---
 
@@ -155,7 +155,7 @@ Partner B steps their right foot behind Partner A's left foot.
 
 Partner B turns the hips, extends the arms, and throws Partner A.
 
-Partner A takes the fall safely. (Proper falling technique should be learned first — this is not optional.)
+Partner A takes the fall safely. (Proper falling technique should be learned first, this is not optional.)
 
 Practice until the step and turn feel like one motion.
 
@@ -167,7 +167,7 @@ Practice until the step and turn feel like one motion.
 
 Begin with the pommel strike sequence: bind → roll under → pommel to face → blade continues behind neck.
 
-With the blade behind Partner A's neck, Partner B draws the sword back slowly — applying pressure to the back of Partner A's neck.
+With the blade behind Partner A's neck, Partner B draws the sword back slowly, applying pressure to the back of Partner A's neck.
 
 Practice the slow pull until the direction of the throw is clear: the pull takes Partner A's head back, their feet come forward, they fall backward.
 
@@ -195,9 +195,9 @@ Partner A does not telegraph which resistance they will offer at the mezana stag
 
 Attempting a throw without a prior setup is the most fundamental error. The position must come first.
 
-Committing to the throw before the entry position is established — a premature hip entry before the foot is behind the opponent's — creates a contest that the larger fencer wins by default.
+Committing to the throw before the entry position is established, a premature hip entry before the foot is behind the opponent's, creates a contest that the larger fencer wins by default.
 
-Stopping the throw at the moment of initial commitment — beginning the hip rotation and then hesitating — is worse than not starting. The partial throw alerts the opponent and compromises your own balance. Once it starts, continue to the ground.
+Stopping the throw at the moment of initial commitment, beginning the hip rotation and then hesitating, is worse than not starting. The partial throw alerts the opponent and compromises your own balance. Once it starts, continue to the ground.
 
 Finally, training throws without proper falling practice for both partners. Takedowns carry real injury risk when the recipient does not know how to fall. Invest time in falling before introducing throws into partner drilling.
 

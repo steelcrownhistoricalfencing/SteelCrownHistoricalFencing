@@ -6,7 +6,7 @@ Sottano Destra is the fifth of Fiore's seven blows. It is a rising diagonal cut 
 
 For the modern fencer, the Sottano introduces a principle that no descending or horizontal cut can teach: **the attack that rises from below the opponent's line of sight is the hardest to see coming**. Where the Fendente falls from above and the Mezzano crosses at middle height, the Sottano emerges from the low guard and travels upward into openings the opponent is not watching.
 
-It is also the natural counter to the descending cut — not by blocking it, but by cutting into the arms that deliver it.
+It is also the natural counter to the descending cut, not by blocking it, but by cutting into the arms that deliver it.
 
 ---
 
@@ -16,7 +16,7 @@ It is also the natural counter to the descending cut — not by blocking it, but
 
 The Sottano Destra begins low on the right side, most commonly from Dente di Zenghiaro or Coda Longa.
 
-From this position, the blade travels diagonally upward, rising from the right hip toward the opponent's left side — targeting the chin, jaw, left arm, or left shoulder depending on the height of delivery. The trajectory is the direct inverse of the Fendente Destra: where the Fendente descends from upper right to lower left, the Sottano rises from lower right to upper left.
+From this position, the blade travels diagonally upward, rising from the right hip toward the opponent's left side, targeting the chin, jaw, left arm, or left shoulder depending on the height of delivery. The trajectory is the direct inverse of the Fendente Destra: where the Fendente descends from upper right to lower left, the Sottano rises from lower right to upper left.
 
 ---
 
@@ -26,7 +26,7 @@ The Sottano is powered by the legs and the full extension of the body.
 
 Where the Fendente uses gravity and hip rotation, the Sottano uses leg drive and upward body extension. The rear leg pushes the body forward and up, the hips extend, and the arms carry the blade along the rising line. This coordinated upward thrust is what gives the cut its force.
 
-A forward step typically accompanies the delivery, closing distance as the blade rises. The motion should feel like a compressed spring releasing — all the energy stored in the low guard converts into an explosive upward strike.
+A forward step typically accompanies the delivery, closing distance as the blade rises. The motion should feel like a compressed spring releasing: all the energy stored in the low guard converts into an explosive upward strike.
 
 ---
 
@@ -54,7 +54,7 @@ The Sottano Destra functions on three primary tactical principles.
 
 In modern fencing, the Sottano is one of the most underused strikes in the system.
 
-Because training tends to emphasize descending cuts and thrusts — the most visually prominent actions — the rising cut is often neglected. This is a significant oversight. An opponent who has never trained against a committed rising cut will frequently fail to recognize it in time to defend.
+Because training tends to emphasize descending cuts and thrusts, the most visually prominent actions, the rising cut is often neglected. This is a significant oversight. An opponent who has never trained against a committed rising cut will frequently fail to recognize it in time to defend.
 
 The Sottano's value as a counter-strike is particularly relevant in modern sparring, where descending attacks are common and opponents often over-commit to delivering them. A fencer who can read the descending cut and redirect into a rising intercept gains both a hit on the arms and a disrupted attack.
 
@@ -76,7 +76,7 @@ Any of the Porta di Ferro variations can also generate the rising cut, as all th
 
 The Sottano finishes most commonly in Posta Frontale or Posta Corona, with the blade held high and the body fully extended.
 
-From there, the fencer may immediately deliver a descending Fendente, creating a high-low combination — rising cut followed by descending cut — that attacks two lines in sequence.
+From there, the fencer may immediately deliver a descending Fendente, creating a high-low combination, rising cut followed by descending cut, that attacks two lines in sequence.
 
 ---
 
@@ -84,13 +84,13 @@ From there, the fencer may immediately deliver a descending Fendente, creating a
 
 The Sottano Destra expresses the **Tiger** most fully of any of the seven blows.
 
-The cut demands explosive speed. Without the assistance of gravity, the rising cut must be driven with genuine physical commitment — the legs must fire, the body must extend, and the blade must arrive before the opponent can recognize and respond.
+The cut demands explosive speed. Without the assistance of gravity, the rising cut must be driven with genuine physical commitment, the legs must fire, the body must extend, and the blade must arrive before the opponent can recognize and respond.
 
 The **Lion** is required in equal measure. Committing to an upward cut into an opponent's descending attack demands courage. The fencer must act before certainty is available.
 
 The **Elephant** provides the stable base from which the explosive action generates. Without a grounded stance, the leg drive disperses rather than transfers into the blade.
 
-The **Lynx** reads the moment. The Sottano's effectiveness as a counter depends on timing — too early or too late and the cut misses its window. The Lynx watches for the opponent's commitment and sends the rising cut at the precise moment it will land.
+The **Lynx** reads the moment. The Sottano's effectiveness as a counter depends on timing, too early or too late and the cut misses its window. The Lynx watches for the opponent's commitment and sends the rising cut at the precise moment it will land.
 
 ---
 
@@ -110,7 +110,7 @@ Both uses share the same fundamental quality: the cut rises from where the oppon
 
 The Sottano is not effective against an opponent who holds their guard very low. If the opponent's hands are already at hip height or below, the rising cut has no clear line to travel upward through.
 
-It is also not suited to the close distance that follows a failed rising cut. After a Sottano finishes high, the fencer is momentarily extended and elevated — a follow-up action must be ready.
+It is also not suited to the close distance that follows a failed rising cut. After a Sottano finishes high, the fencer is momentarily extended and elevated, a follow-up action must be ready.
 
 Finally, the Sottano should not be delivered without leg drive. An arm-only rising cut is slow and carries little force. The legs must initiate the motion.
 
@@ -126,7 +126,7 @@ Explosively step forward with the rear foot and release the rising cut, allowing
 
 Finish in Posta Frontale with the blade held high and the body fully extended.
 
-Repeat ten times. The cut should feel like a spring releasing — the stored energy of the low position converting entirely into the upward motion. Focus on leg drive rather than arm effort.
+Repeat ten times. The cut should feel like a spring releasing, the stored energy of the low position converting entirely into the upward motion. Focus on leg drive rather than arm effort.
 
 ---
 
@@ -146,7 +146,7 @@ Repeat ten times, then switch roles. Begin very slowly, establishing the correct
 
 The most common error is using only the arms. The Sottano must be driven by leg extension and body rise. An arm-driven rising cut is weak and slow.
 
-Another frequent mistake is delivering the cut too flat — allowing the blade to travel more horizontally than diagonally upward. The Sottano must genuinely rise along a diagonal line to access the targets it is designed for.
+Another frequent mistake is delivering the cut too flat, allowing the blade to travel more horizontally than diagonally upward. The Sottano must genuinely rise along a diagonal line to access the targets it is designed for.
 
 Some students also wait too long when using the Sottano as a counter-strike. The timing window for intercepting a descending cut is narrow. Practice the drill slowly until the correct moment becomes instinctive.
 
@@ -158,5 +158,5 @@ The Sottano Destra is a cut of explosive upward force.
 
 It rises from below the line of engagement, targeting arms, hands, and exposed openings that descending attacks cannot reach. Used as a counter-strike, it turns the opponent's descending commitment against them.
 
-**Its power comes not from falling, but from the legs driving the body upward with the blade — and its effectiveness comes from attacking where the opponent is not watching.**
+**Its power comes not from falling, but from the legs driving the body upward with the blade, and its effectiveness comes from attacking where the opponent is not watching.**
 

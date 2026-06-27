@@ -1,13 +1,13 @@
 # Disarms — Disarmare
 
-<img src="../../../../assets/fiore/plays/disarms.jpg" alt="Disarms — Disarmare" class="manuscript-img">
+<img src="../../../../assets/fiore/plays/disarms.jpg" alt="Disarms, Disarmare" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 29v, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
 *The Taking of the Weapon*
 
 Classification: *Gioco Stretto — Close Play*
 
-In Fiore's plays, disarming the opponent is not a standalone technique. It is a destination — the end of a chain that begins with a stretto entry and builds through position until the opponent's grip can be broken and their weapon taken.
+In Fiore's plays, disarming the opponent is not a standalone technique. It is a destination: the end of a chain that begins with a stretto entry and builds through position until the opponent's grip can be broken and their weapon taken.
 
 No one is disarmed from nothing. The disarm follows the position that makes it possible.
 
@@ -33,7 +33,7 @@ The crucial step most students overlook: letting your own sword go.
 
 ## **The Setup**
 
-You are in stretto range with a prior play established — a pommel strike, a blade wrap, or an arm grab has brought you close and created a controlled position.
+You are in stretto range with a prior play established, a pommel strike, a blade wrap, or an arm grab has brought you close and created a controlled position.
 
 The opponent's grip on their sword is accessible.
 
@@ -43,7 +43,7 @@ The disarm follows from this position. It does not precede it.
 
 ## **The Primary Disarm Sequence**
 
-**With your right hand, grab the opponent's blade at the mid-point.** Not at the tip — the blade is dangerously sharp — and not near the pommel where their grip is strongest. The middle of the blade, controlled with the flat, is the target. This is half-swording your opponent's weapon.
+**With your right hand, grab the opponent's blade at the mid-point.** Not at the tip, the blade is dangerously sharp, and not near the pommel where their grip is strongest. The middle of the blade, controlled with the flat, is the target. This is half-swording your opponent's weapon.
 
 **Release your own sword.** This is the counterintuitive step. You let go.
 
@@ -61,7 +61,7 @@ Most fencers resist this deeply. The sword in your hand feels like control. But 
 
 The human grip has a strong and a weak direction.
 
-When you control both ends of the opponent's sword — mid-blade and near the pommel — and rotate it against their wrist's natural range, the grip fails mechanically. It is not about squeezing harder or pulling faster. The rotation defeats the grip.
+When you control both ends of the opponent's sword, mid-blade and near the pommel, and rotate it against their wrist's natural range, the grip fails mechanically. It is not about squeezing harder or pulling faster. The rotation defeats the grip.
 
 The release of your own sword is what makes both your hands available. Without it, you can grab the mid-blade with one hand, but your other hand is occupied with your own hilt. Two-handed control of the opponent's weapon is what allows the rotation to work.
 
@@ -83,9 +83,9 @@ All variants share the same final sequence: two hands on their sword, rotate aga
 
 Fiore is explicit: the disarm is the *last* play of stretto. Not the first.
 
-A fencer who tries to disarm without a prior setup — who simply reaches for the opponent's sword from open measure — will find their hand cut.
+A fencer who tries to disarm without a prior setup, who simply reaches for the opponent's sword from open measure, will find their hand cut.
 
-The prior play does two things. First, it creates physical proximity — you cannot disarm from a distance. Second, it compromises the opponent's posture and attention. A fencer who has just taken a pommel to the face, or whose arm is locked at the shoulder, is not in a position to maintain a strong grip on their weapon.
+The prior play does two things. First, it creates physical proximity, you cannot disarm from a distance. Second, it compromises the opponent's posture and attention. A fencer who has just taken a pommel to the face, or whose arm is locked at the shoulder, is not in a position to maintain a strong grip on their weapon.
 
 The disarm requires both of these conditions.
 
@@ -109,25 +109,25 @@ The disarm leads to:
 
 ## **Modern Application**
 
-In modern HEMA competition, the disarm is a scored action in most rulesets — often worth significant points.
+In modern HEMA competition, the disarm is a scored action in most rulesets, often worth significant points.
 
 The competitive insight Fiore provides is that disarms are not luck. They are engineered through the preceding play. A competitor who consistently arrives in stretto range with an established arm grab or pommel strike is also consistently in disarm territory.
 
 Train the prior play chain first. The disarm follows from position, not from athleticism.
 
-Specific competition notes: the transition moment — releasing your own sword — is where most beginners hesitate. The opponent often recovers in that moment. Practice the release as a committed, fast action, not a tentative letting-go. The timing of the release and the mid-blade grab should happen as close to simultaneously as possible.
+Specific competition notes: the transition moment, releasing your own sword, is where most beginners hesitate. The opponent often recovers in that moment. Practice the release as a committed, fast action, not a tentative letting-go. The timing of the release and the mid-blade grab should happen as close to simultaneously as possible.
 
 ---
 
 ## **Connection to the Four Virtues**
 
-The **Lion** governs the release. The moment of releasing your own sword requires commitment — a willingness to be briefly without a weapon in service of a superior position. Half-measures here fail.
+The **Lion** governs the release. The moment of releasing your own sword requires commitment, a willingness to be briefly without a weapon in service of a superior position. Half-measures here fail.
 
 The **Tiger** governs the speed of the two-handed grab. Once your own sword is released, both hands must secure their positions on the opponent's sword before they can react.
 
 The **Lynx** governs the read of the opponent's grip strength. Is the prior play sufficient? Has the pommel strike disrupted them enough, or the arm lock weakened their grip enough? Acting on the disarm from an insufficiently prepared position is the most common failure.
 
-The **Elephant** governs the final rotation — turning the sword against the grip requires body weight behind it, not just arm strength.
+The **Elephant** governs the final rotation, turning the sword against the grip requires body weight behind it, not just arm strength.
 
 ---
 
@@ -135,11 +135,11 @@ The **Elephant** governs the final rotation — turning the sword against the gr
 
 The disarm is not a first technique.
 
-Reaching for the opponent's weapon without a prior play is not the disarm — it is an invitation to be cut.
+Reaching for the opponent's weapon without a prior play is not the disarm, it is an invitation to be cut.
 
-It is also not a partial action. Grabbing the mid-blade without releasing your own sword is not the disarm; it is a bind. Grabbing near the pommel without the mid-blade control is not the disarm; it is a pull that the opponent can resist. Both hands on the sword, rotate, strip — this is the technique. Partial versions produce partial results.
+It is also not a partial action. Grabbing the mid-blade without releasing your own sword is not the disarm; it is a bind. Grabbing near the pommel without the mid-blade control is not the disarm; it is a pull that the opponent can resist. Both hands on the sword, rotate, strip, this is the technique. Partial versions produce partial results.
 
-Finally, the disarm is not appropriate at extended measure. You must be inside stretto range — close enough that the opponent's sword is within reach of both your hands simultaneously.
+Finally, the disarm is not appropriate at extended measure. You must be inside stretto range, close enough that the opponent's sword is within reach of both your hands simultaneously.
 
 ---
 
@@ -155,7 +155,7 @@ Then Partner B grabs near Partner A's pommel with the left hand.
 
 Rotate left. Strip.
 
-Repeat until the release of Partner B's own sword happens as a committed, fast action — not reluctantly.
+Repeat until the release of Partner B's own sword happens as a committed, fast action, not reluctantly.
 
 **Focus:** The release is the technique. Train it without flinching.
 
@@ -177,9 +177,9 @@ Partner A maintains grip until the rotation strip.
 
 The most common error is refusing to release the own sword. Students hold on. The disarm requires both hands free. Train the release as a committed action.
 
-Another error is grabbing at the wrong points — too close to the tip (dangerous; the edge cuts) or too close to the pommel (the opponent's grip is strongest there). Mid-blade for the right hand, near the pommel for the left.
+Another error is grabbing at the wrong points, too close to the tip (dangerous; the edge cuts) or too close to the pommel (the opponent's grip is strongest there). Mid-blade for the right hand, near the pommel for the left.
 
-Rotating in the wrong direction is also frequent. The rotation must go against the opponent's wrist — left in Fiore's primary description. Rotating the wrong way adds pressure in a direction the grip can resist.
+Rotating in the wrong direction is also frequent. The rotation must go against the opponent's wrist, left in Fiore's primary description. Rotating the wrong way adds pressure in a direction the grip can resist.
 
 Finally, attempting the disarm without a prior entry. Without a prior play establishing position and disruption, the opponent's grip is strong and their attention is fully on their weapon. The disarm does not begin cold.
 

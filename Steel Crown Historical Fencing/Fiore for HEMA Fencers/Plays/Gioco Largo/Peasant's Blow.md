@@ -1,6 +1,6 @@
 # Peasant's Blow — Colpo di Villano
 
-<img src="../../../../assets/fiore/plays/colpo-di-villano.jpg" alt="Colpo di Villano — Peasant's Blow" class="manuscript-img">
+<img src="../../../../assets/fiore/plays/colpo-di-villano.jpg" alt="Colpo di Villano, Peasant's Blow" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 26r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
 *The Villain's Blow*
@@ -27,7 +27,7 @@ It teaches you when to stop contesting the bind and step out of it entirely.
 
 The name requires explanation.
 
-*Villano* — often translated as peasant or villain — refers to the attacker in this play. Not because the blow is unrefined, but because it is overcommitted. A trained swordsman controls his blade after the bind. The *villano* does not. His strike continues past the center line and does not stop there.
+*Villano*, often translated as peasant or villain, refers to the attacker in this play. Not because the blow is unrefined, but because it is overcommitted. A trained swordsman controls his blade after the bind. The *villano* does not. His strike continues past the center line and does not stop there.
 
 Fiore is not mocking the attack. He is describing what happens mechanically. The blow goes too far and creates a gap.
 
@@ -35,7 +35,7 @@ Fiore is not mocking the attack. He is describing what happens mechanically. The
 
 ## **The Setup**
 
-The opponent delivers a descending strike — typically a *fendente* — and the blades meet in a bind.
+The opponent delivers a descending strike, typically a *fendente*, and the blades meet in a bind.
 
 In the bind, you recognize that you are weak. Your blade is losing the contest of force and pressure.
 
@@ -51,7 +51,7 @@ That continuation is what you are waiting for.
 
 **Recognize that you are weak in the bind.** This is the critical first step. You are not going to win this contest of force. Accepting that fact is what makes the play possible.
 
-**Wait for the opponent's blade to pass the cover.** The *villano* commits the stroke with enough force that it travels past center — past where a controlled blow would stop. This is the moment.
+**Wait for the opponent's blade to pass the cover.** The *villano* commits the stroke with enough force that it travels past center, past where a controlled blow would stop. This is the moment.
 
 **Step to the outside line.** Move to the side away from the opponent's blade as it passes. You are stepping into the space his overextension has created. The blade is no longer between you; it has continued past.
 
@@ -83,7 +83,7 @@ The Counter Master in this play does not demonstrate a counter-technique.
 
 He demonstrates how not to be the *villano*.
 
-A controlled strike — one that stops at center, that does not overcommit, that retains recovery — does not create this opening. The counter to the *colpo di villano* is simply to be a disciplined attacker.
+A controlled strike, one that stops at center, that does not overcommit, that retains recovery, does not create this opening. The counter to the *colpo di villano* is simply to be a disciplined attacker.
 
 This is one of Fiore's most direct teaching moments. He is not only showing a technique; he is showing what happens to fencers who swing without control.
 
@@ -95,7 +95,7 @@ Fiore also notes explicitly: this play works against an axe or a staff strike de
 
 The *colpo di villano* sits as the fourth play of the Second Remedy Master of wide play.
 
-It connects to all guards that might find themselves weak in a bind — particularly low guards like *Tutta Porta di Ferro* or *Dente di Zenghiaro*, which invite heavy binds and can be overwhelmed by a powerful descending blow.
+It connects to all guards that might find themselves weak in a bind, particularly low guards like *Tutta Porta di Ferro* or *Dente di Zenghiaro*, which invite heavy binds and can be overwhelmed by a powerful descending blow.
 
 It also connects to a broader principle in Fiore's system: the fencer who cannot win the current engagement should not fight it. Exiting an unfavorable position is not retreat. It is tactical awareness.
 
@@ -103,13 +103,13 @@ It also connects to a broader principle in Fiore's system: the fencer who cannot
 
 ## **Modern Application**
 
-In modern HEMA competition, the *colpo di villano* pattern appears constantly — though rarely by name.
+In modern HEMA competition, the *colpo di villano* pattern appears constantly, though rarely by name.
 
-Any time a competitor swings hard and overcommits — a common tendency under pressure — the correct response is not to try to out-muscle the bind. It is to step offline and exploit the geometry.
+Any time a competitor swings hard and overcommits, a common tendency under pressure, the correct response is not to try to out-muscle the bind. It is to step offline and exploit the geometry.
 
 The challenge in training this play is that recognizing overcommitment in real time is difficult. A controlled blow and an overcommitted blow may look similar in the early stages. The *villano* reveals itself at the moment of contact, when blade pressure tells you that the opponent has more force than control.
 
-Train the outside-line step as a reflex. When the bind feels wrong — when you are losing the contest of force — the answer is not more force. The answer is to leave.
+Train the outside-line step as a reflex. When the bind feels wrong, when you are losing the contest of force, the answer is not more force. The answer is to leave.
 
 ---
 
@@ -121,11 +121,11 @@ The Lynx is awareness: seeing clearly, reading the situation, and acting on what
 
 Recognizing that you are weak in the bind is a Lynx action. So is waiting for the overextension rather than acting prematurely. And so is identifying the precise moment when the opponent's blade has passed far enough for the outside line to open.
 
-The **Tiger** governs the speed of the step — you must move to the outside line before the opponent recovers.
+The **Tiger** governs the speed of the step, you must move to the outside line before the opponent recovers.
 
 The **Lion** governs the commitment to the strike from the outside line. Once the moment arrives, act without hesitation.
 
-The **Elephant** — structural strength — is notably *absent* from this play. The play works precisely because you have abandoned the contest of strength.
+The **Elephant**, structural strength, is notably *absent* from this play. The play works precisely because you have abandoned the contest of strength.
 
 ---
 
@@ -133,11 +133,11 @@ The **Elephant** — structural strength — is notably *absent* from this play.
 
 The *colpo di villano* does not work against a controlled strike.
 
-A fencer who delivers a disciplined *fendente* — one that commits only to center and recovers — does not create the overextension that makes this play possible. Attempting the outside-line step against such a blow may leave you exposed.
+A fencer who delivers a disciplined *fendente*, one that commits only to center and recovers, does not create the overextension that makes this play possible. Attempting the outside-line step against such a blow may leave you exposed.
 
 It is also not a preemptive technique. You cannot decide in advance to use the *colpo di villano* and then act on that plan. The play must respond to what the opponent actually does. If you step to the outside line before the opponent's blade has passed center, you step into their weapon.
 
-Finally, it is not a solution to a bind that is merely difficult. Difficult binds may still be winnable. The *villano*'s blow is overextended — past center, past recovery. The distinction matters.
+Finally, it is not a solution to a bind that is merely difficult. Difficult binds may still be winnable. The *villano*'s blow is overextended, past center, past recovery. The distinction matters.
 
 ---
 
@@ -154,7 +154,7 @@ Partner B must identify which version was delivered and respond accordingly: con
 
 Do not tell Partner B which is coming. The goal is recognition, not anticipation.
 
-**Focus:** Identifying the overextension through blade pressure and visual cue — not by prediction.
+**Focus:** Identifying the overextension through blade pressure and visual cue, not by prediction.
 
 ---
 
@@ -176,7 +176,7 @@ Partner A should occasionally deliver a controlled blow (Drill 1 behavior) to pr
 
 The most common error is attempting the play against a controlled strike. The geometry does not work. If the opponent's blade has not passed center, stepping to the outside line puts you beside a weapon that can still threaten you.
 
-Another common error is stepping too late. The window is brief — from the moment the blade passes center to the moment the opponent recovers. Hesitation closes the window.
+Another common error is stepping too late. The window is brief, from the moment the blade passes center to the moment the opponent recovers. Hesitation closes the window.
 
 Many students also try to win the bind instead of leaving it. When the blade pressure tells you that you are losing, the habit of trying harder is deeply ingrained. The *colpo di villano* teaches you to override that habit.
 

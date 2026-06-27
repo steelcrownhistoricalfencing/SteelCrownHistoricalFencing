@@ -10,9 +10,9 @@ In the opening pages of his manuscript, an aging swordsman begins his story:
 
 “I, Fiore de’i Liberi of Cividale in the diocese of Aquileia, have studied the art of arms for more than forty years…”
 
-This is how we meet Fiore dei Liberi—not through records of his birth or noble genealogy, but through his own voice, speaking across six centuries to introduce himself and his life’s work.
+This is how we meet Fiore dei Liberi, not through records of his birth or noble genealogy, but through his own voice, speaking across six centuries to introduce himself and his life’s work.
 
-He was, by his own account, undefeated. He fought in judicial duels—trial by combat where disputes were settled with steel. He trained at the courts of Italian nobility. He studied under multiple masters across different regions and traditions. And late in his career, sometime around 1409, he chose to write it all down.
+He was, by his own account, undefeated. He fought in judicial duels, trial by combat where disputes were settled with steel. He trained at the courts of Italian nobility. He studied under multiple masters across different regions and traditions. And late in his career, sometime around 1409, he chose to write it all down.
 
 ---
 
@@ -36,7 +36,7 @@ This approach was uncommon. Most students trained within a single lineage. Fiore
 
 Martial arts in Fiore’s time existed within a competitive and often hostile environment.
 
-Masters did not simply teach—they defended their reputations. Fiore describes being challenged by rivals:
+Masters did not simply teach, they defended their reputations. Fiore describes being challenged by rivals:
 
 “…many masters of this art, through envy, disparaged me, I had to fight…”
 
@@ -52,9 +52,9 @@ Whether or not this is entirely literal, it reflects the environment in which hi
 
 It is important to understand what kind of combat Fiore specialized in.
 
-His claims of success refer primarily to judicial duels and formal challenges—one-on-one encounters governed by rules but fought with real consequences. He does not emphasize battlefield experience, which aligns with his role as a master at arms in noble courts.
+His claims of success refer primarily to judicial duels and formal challenges, one-on-one encounters governed by rules but fought with real consequences. He does not emphasize battlefield experience, which aligns with his role as a master at arms in noble courts.
 
-Fiore was not teaching formations or large-scale warfare. He was teaching personal combat—how to fight another armed individual when skill, timing, and decision-making determine the outcome.
+Fiore was not teaching formations or large-scale warfare. He was teaching personal combat, how to fight another armed individual when skill, timing, and decision-making determine the outcome.
 
 This distinction matters. The system preserved in his manuscript is built for **individual encounters**, not battlefield tactics.
 

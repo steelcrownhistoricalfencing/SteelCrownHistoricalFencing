@@ -31,11 +31,11 @@ Fiore emphasizes deception, versatility, and the ability to threaten with the po
 
 ## **The Meaning of the Name**
 
-*Fenestra* means "window" in Italian. The guard takes its name from the position of the sword held to one side of the head, creating the visual appearance of a window frame — the blade and arm forming one edge, the body the other.
+*Fenestra* means "window" in Italian. The guard takes its name from the position of the sword held to one side of the head, creating the visual appearance of a window frame: the blade and arm forming one edge, the body the other.
 
 Like many of Fiore's names, "Fenestra" captures both the shape and the tactical character. A window is simultaneously an opening and a point of observation: a controlled aperture that provides information and creates opportunity in both directions.
 
-Fiore emphasizes this dual nature in his description — the guard is "always ready with malice and deception" and is a "master of covering and striking." The fencer sees clearly through the guard while the opponent faces a constant threat they cannot simply ignore. The opening is also a trap.
+Fiore emphasizes this dual nature in his description: the guard is "always ready with malice and deception" and is a "master of covering and striking." The fencer sees clearly through the guard while the opponent faces a constant threat they cannot simply ignore. The opening is also a trap.
 
 ---
 
@@ -61,17 +61,17 @@ The arms remain slightly bent, preserving fluidity and responsiveness.
 
 ## **Right and Left Variations**
 
-Posta di Fenestra exists on both sides of the body. Fiore does not provide a separate manuscript text for the left-side guard — the same verse and principles apply mirrored across the body.
+Posta di Fenestra exists on both sides of the body. Fiore does not provide a separate manuscript text for the left-side guard, the same verse and principles apply mirrored across the body.
 
 **Posta di Fenestra Destra** holds the sword to the right of the head, with the point directed forward and left toward the opponent. The true edge faces upward. From this position, the thrust travels to the left along the natural extension of the arm.
 
-**Posta di Fenestra Sinestra** mirrors the position exactly — sword to the left of the head, point directed forward and right, true edge upward. The thrust from Sinestra crosses to the right.
+**Posta di Fenestra Sinestra** mirrors the position exactly: sword to the left of the head, point directed forward and right, true edge upward. The thrust from Sinestra crosses to the right.
 
 The structure, mechanics, and tactical function are identical on both sides. What changes is the **line of threat**. Fenestra Destra threatens the opponent's left-center; Fenestra Sinestra threatens their right-center. Shifting between sides forces the opponent to track and adjust to a new line.
 
 This is the practical meaning of Fiore's phrase "from one to another I wander to deceive." A fencer who can question the opponent from both sides has doubled the deceptive range of the guard. The opponent cannot settle into a single defensive answer because the threatening line keeps moving.
 
-Both sides must be trained to equal standard. A Fenestra Sinestra that is slower or less credible than the Destra eliminates the deceptive value of the side-switch — the opponent learns to ignore the left side and guard only the right.
+Both sides must be trained to equal standard. A Fenestra Sinestra that is slower or less credible than the Destra eliminates the deceptive value of the side-switch, the opponent learns to ignore the left side and guard only the right.
 
 ---
 
@@ -111,7 +111,7 @@ The forward point allows for quick thrusts and immediate reactions. It is especi
 
 When both sides are used, the guard becomes even more powerful. Switching between right and left allows the fencer to control the centerline dynamically, forcing the opponent to adjust repeatedly.
 
-This creates hesitation—and hesitation creates openings.
+This creates hesitation, and hesitation creates openings.
 
 ---
 
@@ -131,11 +131,11 @@ The fencer observes, provokes, and responds based on the opponent’s behavior.
 
 Posta di Fenestra is most effective when the opponent reacts to the point and commits to a single defensive response. It becomes less effective when the opponent refuses to chase the threat or controls distance carefully.
 
-Because the guard depends heavily on deception and transition, forcing it to remain stationary limits its effectiveness. A guard with strong centerline control — such as Posta Longa or Dente di Zenghiaro — can contest Fenestra's forward point without being drawn into the guard's preferred transitional exchanges.
+Because the guard depends heavily on deception and transition, forcing it to remain stationary limits its effectiveness. A guard with strong centerline control, such as Posta Longa or Dente di Zenghiaro, can contest Fenestra's forward point without being drawn into the guard's preferred transitional exchanges.
 
 Closing the measure aggressively can also reduce the guard's transitional advantage. Fenestra functions best at the distance where it can shift between sides and deliver thrusts with room to develop. At very close measure, the extended arm becomes more vulnerable and lateral transitions require more committed footwork.
 
-Consistent pressure that denies the fencer time to shift between Destra and Sinestra removes the deceptive core of the guard — at that point, the opponent only needs to solve one line rather than two.
+Consistent pressure that denies the fencer time to shift between Destra and Sinestra removes the deceptive core of the guard, at that point, the opponent only needs to solve one line rather than two.
 
 ---
 

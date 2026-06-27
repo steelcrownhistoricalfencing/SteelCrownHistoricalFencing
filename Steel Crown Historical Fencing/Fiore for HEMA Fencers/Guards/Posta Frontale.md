@@ -13,7 +13,7 @@ This openness is the guard's weapon.
 
 For the modern fencer, Posta Frontale teaches a principle that reverses the instinct of every beginner: **apparent vulnerability can be tactical strength**. The guard does not hide what it is or pretend to protect something. It displays itself openly, invites reaction, and punishes whoever acts on what they see.
 
-Posta Frontale is closely related to Posta Corona — Fiore's own manuscript presents them as names for the same guard or nearly identical positions. This chapter focuses on Frontale's identity as a forward-facing, covering, and counterattacking guard. The distinction between the two is discussed in the Connection to Posta Corona section below.
+Posta Frontale is closely related to Posta Corona, Fiore's own manuscript presents them as names for the same guard or nearly identical positions. This chapter focuses on Frontale's identity as a forward-facing, covering, and counterattacking guard. The distinction between the two is discussed in the Connection to Posta Corona section below.
 
 ---
 
@@ -25,19 +25,19 @@ Posta Frontale is closely related to Posta Corona — Fiore's own manuscript pre
 
 ### **Translation**
 
-"I am the Frontal Guard, or Crown, for I want to offend and defend. I reveal my speech to everyone. For whoever can cross me point to point, such counsel — to strike well after — I reveal to him no more."
+"I am the Frontal Guard, or Crown, for I want to offend and defend. I reveal my speech to everyone. For whoever can cross me point to point, such counsel, to strike well after, I reveal to him no more."
 
-Fiore's verse is unusual in its philosophical character. Where most guards describe physical actions — beating thrusts, entering close play, delivering powerful cuts — the Frontal Guard describes a game of information.
+Fiore's verse is unusual in its philosophical character. Where most guards describe physical actions, beating thrusts, entering close play, delivering powerful cuts, the Frontal Guard describes a game of information.
 
-It reveals everything. And when the opponent acts on what they see, it reveals nothing further. The fencer who attempts to cross the frontal guard point to point receives no more instruction from the guard's open presentation — because that exchange is when the guard closes the trap.
+It reveals everything. And when the opponent acts on what they see, it reveals nothing further. The fencer who attempts to cross the frontal guard point to point receives no more instruction from the guard's open presentation, because that exchange is when the guard closes the trap.
 
 ---
 
 ## **The Meaning of the Name**
 
-*Posta Frontale* means *Frontal Guard* — a guard that faces the opponent directly without turning or chambering.
+*Posta Frontale* means *Frontal Guard*, a guard that faces the opponent directly without turning or chambering.
 
-Where most guards angle the body to reduce the target and concentrate force, Frontale presents the full front of the body toward the opponent. This direct orientation is both literal — the guard faces forward — and tactical: it presents an honest, transparent challenge.
+Where most guards angle the body to reduce the target and concentrate force, Frontale presents the full front of the body toward the opponent. This direct orientation is both literal, the guard faces forward, and tactical: it presents an honest, transparent challenge.
 
 The name also emphasizes the guard's role as a forward cover. From the elevated position, the guard can project its structure in front of the body rather than to one side, making it a natural obstruction to high attacks.
 
@@ -47,7 +47,7 @@ The name also emphasizes the guard's role as a forward cover. From the elevated 
 
 Fiore's own text presents these as one guard: "Posta Frontale, or Crown." In the manuscript, he uses them interchangeably within the same verse.
 
-In practice, many HEMA scholars and practitioners treat them as a single guard seen from two perspectives — Frontale emphasizing the guard's function as a forward-facing cover, Corona emphasizing its structural shape (the elevated blade forming a crown overhead).
+In practice, many HEMA scholars and practitioners treat them as a single guard seen from two perspectives, Frontale emphasizing the guard's function as a forward-facing cover, Corona emphasizing its structural shape (the elevated blade forming a crown overhead).
 
 This curriculum treats them as separate chapters to develop distinct aspects of each. Frontale emphasizes the covering and counterattacking function: the guard that intercepts incoming strikes and counters immediately. Corona emphasizes the structural shape and the power generation it enables for descending strikes. Both perspectives come from the same physical position.
 
@@ -59,7 +59,7 @@ This curriculum treats them as separate chapters to develop distinct aspects of 
 
 The stance is upright and neutral, with weight balanced rather than forward or rear-weighted.
 
-The body faces the opponent directly. This is not a turned or angled posture — Frontale is genuinely frontal. The shoulders are squared, the torso is forward, and the fencer presents their full facing to the opponent.
+The body faces the opponent directly. This is not a turned or angled posture. Frontale is genuinely frontal. The shoulders are squared, the torso is forward, and the fencer presents their full facing to the opponent.
 
 The upright posture ensures that the elevated blade can drop into a descending strike quickly and with full body support.
 
@@ -67,7 +67,7 @@ The upright posture ensures that the elevated blade can drop into a descending s
 
 ### **Hand and Sword Position**
 
-The hands are elevated above the head — at approximately forehead height or above — with the sword raised and the point directed upward and slightly forward.
+The hands are elevated above the head, at approximately forehead height or above, with the sword raised and the point directed upward and slightly forward.
 
 The arms are extended upward without being rigid. The blade angles slightly forward so that the point is projecting toward the opponent's space rather than pointing directly at the ceiling.
 
@@ -79,7 +79,7 @@ The position creates a roof-like structure above the fencer's head. Incoming hig
 
 Posta Frontale operates on two simultaneous principles: coverage and counterattack.
 
-**Coverage:** The elevated blade and arms create a protecting canopy above the fencer's head. Descending attacks — Fendente from Posta di Donna, overhead cuts, high thrusts — must negotiate the elevated structure before they can reach the body. The guard does not actively deflect these in the way that Tutta Porta di Ferro beats thrusts to the ground; instead, it presents an obstruction that forces the opponent to change their line or commit to attacking through the elevated blade.
+**Coverage:** The elevated blade and arms create a protecting canopy above the fencer's head. Descending attacks, Fendente from Posta di Donna, overhead cuts, high thrusts, must negotiate the elevated structure before they can reach the body. The guard does not actively deflect these in the way that Tutta Porta di Ferro beats thrusts to the ground; instead, it presents an obstruction that forces the opponent to change their line or commit to attacking through the elevated blade.
 
 **Counterattack:** As the opponent attempts to cross the point or attack through the open body below the elevated blade, the guard responds by dropping the sword in a powerful descending cut. The elevated starting position generates maximum arc and speed for a Fendente. The counterattack arrives as the opponent is mid-commitment to their own attack.
 
@@ -97,7 +97,7 @@ What the opponent does not see:
 
 The elevated position generates the most powerful descending cut available. The sword has maximum arc from above the head, maximum acceleration through the full descent, and the full body weight committed to the drop.
 
-The arms, positioned above the head, create a direct path of interception for any incoming overhead cut. The guard does not need to move to cover a high attack — it is already at height.
+The arms, positioned above the head, create a direct path of interception for any incoming overhead cut. The guard does not need to move to cover a high attack, it is already at height.
 
 The open torso is bait. The fencer wants the opponent to attack the body. That forward commitment is what the counterattack exploits.
 
@@ -119,7 +119,7 @@ A fencer who understands the false guard concept of Coda Longa will recognize it
 
 Posta Frontale also functions as a natural finishing position for rising cuts.
 
-The Sottano Destra and Sottano Sinestra both naturally carry the blade upward into a high position. When that rising action completes, the guard it arrives in is approximately Frontale — the blade elevated, the hands high, the fencer positioned above the line.
+The Sottano Destra and Sottano Sinestra both naturally carry the blade upward into a high position. When that rising action completes, the guard it arrives in is approximately Frontale, the blade elevated, the hands high, the fencer positioned above the line.
 
 This connection means that for students learning the rising cuts, Frontale provides the immediate finishing reference: the cut rises, arrives in Frontale, and from there the descending countercut is available if needed.
 
@@ -141,7 +141,7 @@ Posta Frontale most strongly expresses the **Lion**.
 
 Holding an open, apparently vulnerable position against an aggressive opponent demands genuine courage. The fencer must resist the impulse to close up, protect the body, or move away. Instead, they stand in the open and invite attack. This is the Lion's audacity applied to guard selection.
 
-The **Lynx** governs the timing of the counterattack. The trap only closes at the right moment — when the opponent has genuinely committed and the opening is real. Releasing the Fendente too early or too late fails the principle.
+The **Lynx** governs the timing of the counterattack. The trap only closes at the right moment, when the opponent has genuinely committed and the opening is real. Releasing the Fendente too early or too late fails the principle.
 
 The **Tiger** provides the speed of the descending response. The countercut from Frontale must arrive before the opponent's committed attack completes.
 
@@ -157,7 +157,7 @@ A disciplined opponent who controls measure carefully and attacks with feints ra
 
 The guard is also challenged by indirect approaches. An opponent who attacks the low line or approaches laterally rather than directly into the frontal coverage finds different vulnerabilities.
 
-Finally, a fencer who holds the position past the point of tactical relevance — becoming static in the elevated position rather than living in it dynamically — loses the guard's effectiveness.
+Finally, a fencer who holds the position past the point of tactical relevance, becoming static in the elevated position rather than living in it dynamically, loses the guard's effectiveness.
 
 ---
 
@@ -205,7 +205,7 @@ The lesson: the guard is held until the partner truly commits. Responding too ea
 
 ## **Common Errors**
 
-The most common mistake is leaning backward or retreating. The guard invites attack — retreating with it confuses its message and loses the forward structure needed for the counterattack.
+The most common mistake is leaning backward or retreating. The guard invites attack, retreating with it confuses its message and loses the forward structure needed for the counterattack.
 
 Another error is angling the blade too far forward, so the point aims at the opponent rather than upward. The blade should be elevated with a slight forward tilt, not directed like a threat. The open appearance is the tactic.
 
@@ -219,5 +219,5 @@ Posta Frontale is the guard of declared openness and hidden readiness.
 
 It reveals everything and conceals one thing: the descending cut waiting to be released.
 
-**A guard that appears to offer everything invites the attack that defeats itself — and from above the head, the Fendente arrives before the opponent's committed action can complete.**
+**A guard that appears to offer everything invites the attack that defeats itself, and from above the head, the Fendente arrives before the opponent's committed action can complete.**
 

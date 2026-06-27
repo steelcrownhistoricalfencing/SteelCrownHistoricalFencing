@@ -1,7 +1,7 @@
 # The Segno, the Four Virtues, and the Structure of the System
 
-<img src="../../assets/fiore/segno.jpg" alt="The Segno — Four Virtues" class="manuscript-img">
-<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 32r, c. 1409 — "We are four animals of such a nature; whoever wants to fence, let them compare themselves to us." J. Paul Getty Museum (Open Content)</em></p>
+<img src="../../assets/fiore/segno.jpg" alt="The Segno, Four Virtues" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 32r, c. 1409, "We are four animals of such a nature; whoever wants to fence, let them compare themselves to us." J. Paul Getty Museum (Open Content)</em></p>
 
 ---
 
@@ -23,7 +23,7 @@ To understand why Fiore chose these specific animals, it is important to underst
 
 In the medieval period, bestiaries were widely circulated texts that described animals not as biological creatures, but as carriers of meaning. These books combined observation, myth, and symbolism, using animals to communicate moral, philosophical, and practical ideas.
 
-An educated reader would not simply see an animal—they would recognize what it represented.
+An educated reader would not simply see an animal. They would recognize what it represented.
 
 The lion signified courage and authority. The elephant represented strength and stability. The tiger embodied speed and decisiveness. The lynx represented perception and insight.
 
@@ -66,7 +66,7 @@ And I always set things in order with compass and measure.”
 
 Prudence is judgment.
 
-It is the ability to perceive what is happening, to measure distance and timing, and to understand the opponent’s intentions. The compass reinforces this idea—it represents precision and correct evaluation.
+It is the ability to perceive what is happening, to measure distance and timing, and to understand the opponent’s intentions. The compass reinforces this idea, it represents precision and correct evaluation.
 
 Fiore places this virtue above all others because it governs them. Without correct judgment, all other qualities become unreliable.
 
@@ -132,7 +132,7 @@ None of these qualities can stand alone.
 
 A fencer with good judgment but no courage will hesitate. A fencer with courage but no judgment will act at the wrong time. Speed without structure produces weak actions, and structure without speed produces slow ones.
 
-The segno places all four virtues around the master equally. This is not symbolic decoration—it is instruction.
+The segno places all four virtues around the master equally. This is not symbolic decoration: it is instruction.
 
 All four must be present and balanced.
 
@@ -152,7 +152,7 @@ In this way, every exchange becomes a reflection of the virtues.
 
 ## **How the Segno Is Used**
 
-The segno is not only symbolic—it is practical.
+The segno is not only symbolic, it is practical.
 
 It provides a method for evaluating performance in training. After any action, a fencer can ask whether the decision was correct, whether the action was committed, whether it was fast enough, and whether the structure held.
 
@@ -240,7 +240,7 @@ Fiore does not begin with techniques. He begins with principles.
 
 This is intentional.
 
-Without understanding the virtues, a student may learn the shape of a technique without understanding when or why it works. The result is mechanical fencing—correct movements applied at the wrong time.
+Without understanding the virtues, a student may learn the shape of a technique without understanding when or why it works. The result is mechanical fencing, correct movements applied at the wrong time.
 
 By establishing these ideas first, Fiore provides a framework for decision-making. The guards and techniques that follow are expressions of these principles.
 

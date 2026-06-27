@@ -17,8 +17,8 @@ To defend a cloak using the montante:
 1. **Start with the montante as described in Chapter Three**: Place your left foot firmly on the cloak to secure it.
 2. **Bend your body and extend your arms** as far as possible while performing a low tajo aimed at the legs.
 3. **Step with your right foot** to the left side, turning your body so your face ends up where your back was, and perform a second, higher tajo. These two tajos should be executed with a single step of the right foot.
-4. **After the tajos**, turn your body back to its original position by moving your right foot to where it was before, and perform two reveses — one low and one higher. Again, this should be done in one step with the right foot.
+4. **After the tajos**, turn your body back to its original position by moving your right foot to where it was before, and perform two reveses: one low and one higher. Again, this should be done in one step with the right foot.
 5. **Keep your left foot on the cloak** throughout the movement, ensuring it doesn't move. After completing the final tajo and reves, rotate the montante around your back, turning your entire body in a circle while keeping both feet in place.
-6. **Maintain the position** of your feet — left foot on the cloak and right foot to the side of the left, both held straight.
+6. **Maintain the position** of your feet: left foot on the cloak and right foot to the side of the left, both held straight.
 
 Continue this motion, alternating between tajos and reveses, as long as necessary. This rule emphasizes continuous movement and does not rely on speed or thrusts.

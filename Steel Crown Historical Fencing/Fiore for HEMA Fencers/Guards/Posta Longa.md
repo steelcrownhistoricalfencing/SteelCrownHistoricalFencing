@@ -44,11 +44,11 @@ The guard forces the opponent to act first.
 
 ## **Bilateral Use**
 
-Posta Longa is a near-central guard. Because the sword extends directly forward rather than to one side, the distinction between Destra and Sinestra is minimal — both expressions of the guard hold the point along the centerline with the same forward-facing structure.
+Posta Longa is a near-central guard. Because the sword extends directly forward rather than to one side, the distinction between Destra and Sinestra is minimal: both expressions of the guard hold the point along the centerline with the same forward-facing structure.
 
 In practice, the slight lateral lean of the arms or the foot that steps forward may vary between right and left approaches, but the tactical function does not change. Both sides should be trained, primarily through the Fenestra-to-Longa thrust drill from each side and through the guard flow transitions that arrive in Longa from both directions.
 
-The key bilateral lesson in Posta Longa is not about left versus right — it is about ensuring that the extended point is available regardless of which guard precedes it and which side the preceding action was executed from.
+The key bilateral lesson in Posta Longa is not about left versus right: it is about ensuring that the extended point is available regardless of which guard precedes it and which side the preceding action was executed from.
 
 ---
 

@@ -1,6 +1,6 @@
 # Who We Are
 
-Steel Crown Historical Fencing was founded in Charlotte, NC by a group of practitioners who wanted to build something more than a training group — a club with genuine standards, a shared identity, and a long-term commitment to the art.
+Steel Crown Historical Fencing was founded in Charlotte, NC by a group of practitioners who wanted to build something more than a training group, a club with genuine standards, a shared identity, and a long-term commitment to the art.
 
 <div class="team-grid" markdown>
 

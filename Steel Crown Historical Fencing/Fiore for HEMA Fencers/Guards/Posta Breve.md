@@ -44,9 +44,9 @@ This balance between offense and defense defines Posta Breve.
 
 ## **Bilateral Use**
 
-Posta Breve is a compact, forward-facing guard with minimal lateral orientation. Like Posta Longa, the distinction between Destra and Sinestra is small — the sword is held close to the body with the point forward, and that core structure does not change meaningfully from side to side.
+Posta Breve is a compact, forward-facing guard with minimal lateral orientation. Like Posta Longa, the distinction between Destra and Sinestra is small: the sword is held close to the body with the point forward, and that core structure does not change meaningfully from side to side.
 
-The guard can lean slightly right or left depending on which hand is dominant or which preceding action has been performed, but the tactical function — compact readiness, quick offense, structural defense — remains identical. Both expressions should be practiced, particularly in the context of transitioning into Breve from left-side guards and launching the thrust or short fendente from the left-leaning position.
+The guard can lean slightly right or left depending on which hand is dominant or which preceding action has been performed, but the tactical function, compact readiness, quick offense, structural defense, remains identical. Both expressions should be practiced, particularly in the context of transitioning into Breve from left-side guards and launching the thrust or short fendente from the left-leaning position.
 
 The bilateral importance of Posta Breve is most relevant in guard flow exercises, where the fencer must be able to arrive in Breve from any direction and immediately launch an efficient action without resetting.
 
