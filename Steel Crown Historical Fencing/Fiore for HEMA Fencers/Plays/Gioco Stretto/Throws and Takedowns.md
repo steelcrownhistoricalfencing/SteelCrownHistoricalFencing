@@ -1,5 +1,8 @@
 # Throws and Takedowns — Gettare e Abbattere
 
+<img src="../../../../assets/fiore/plays/throws.jpg" alt="Throws and Takedowns" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 30r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *Throwing and Felling*
 
 Classification: *Gioco Stretto — Close Play*

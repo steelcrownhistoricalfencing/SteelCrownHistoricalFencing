@@ -1,5 +1,8 @@
 # Disarms — Disarmare
 
+<img src="../../../../assets/fiore/plays/disarms.jpg" alt="Disarms — Disarmare" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 29v, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The Taking of the Weapon*
 
 Classification: *Gioco Stretto — Close Play*

@@ -1,5 +1,8 @@
 # Tutta Porta di Ferro
 
+<img src="../../../assets/fiore/guards/tutta-porta-di-ferro.jpg" alt="Tutta Porta di Ferro" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 22r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The Full Iron Gate*
 
 Classification: *Stabile — Stable Guard*

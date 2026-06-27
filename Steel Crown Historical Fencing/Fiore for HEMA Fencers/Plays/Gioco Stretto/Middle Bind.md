@@ -1,5 +1,8 @@
 # Middle Bind — Ligadura Mezana
 
+<img src="../../../../assets/fiore/plays/middle-bind.jpg" alt="Middle Bind — Ligadura Mezana" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 29r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The Middlebind*
 
 Classification: *Gioco Stretto — Close Play*

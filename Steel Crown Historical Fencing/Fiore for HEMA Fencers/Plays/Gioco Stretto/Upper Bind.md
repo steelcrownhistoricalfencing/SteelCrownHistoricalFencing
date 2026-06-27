@@ -1,5 +1,8 @@
 # Upper Bind — Ligadura Soprana
 
+<img src="../../../../assets/fiore/plays/upper-bind.jpg" alt="Upper Bind — Ligadura Soprana" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 29v, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The Overbind*
 
 Classification: *Gioco Stretto — Close Play*

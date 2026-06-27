@@ -1,5 +1,8 @@
 # Porta di Ferro Alta
 
+<img src="../../../assets/fiore/guards/porta-di-ferro-alta.jpg" alt="Porta di Ferro Alta" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 22r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The High Iron Gate*
 
 Classification: *Stabile — Stable Guard*

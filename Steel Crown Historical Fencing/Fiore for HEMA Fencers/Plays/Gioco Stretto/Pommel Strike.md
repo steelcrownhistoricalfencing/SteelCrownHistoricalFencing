@@ -1,5 +1,8 @@
 # Pommel Strike — Colpo di Pomo
 
+<img src="../../../../assets/fiore/plays/pommel-strike.jpg" alt="Pommel Strike — Colpo di Pomo" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 29r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The Pommel Turn*
 
 Classification: *Gioco Stretto — Close Play*

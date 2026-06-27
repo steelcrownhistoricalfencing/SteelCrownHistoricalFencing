@@ -1,5 +1,8 @@
 # Lower Bind — Ligadura Sotana
 
+<img src="../../../../assets/fiore/plays/lower-bind.jpg" alt="Lower Bind — Ligadura Sotana" class="manuscript-img">
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 29r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
+
 *The Underbind*
 
 Classification: *Gioco Stretto — Close Play*
