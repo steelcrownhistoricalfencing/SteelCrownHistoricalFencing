@@ -12,6 +12,14 @@
 
     [Browse →](Fiore for HEMA Fencers/index.md){ .md-button }
 
+-   :material-earth:{ .lg .middle } **Historical Longsword Traditions**
+
+    ---
+
+    An overview of the major European longsword traditions, their philosophies and characteristics, and how each shows up in modern HEMA practice.
+
+    [Read →](Historical Longsword Traditions.md){ .md-button }
+
 -   :material-book-open-page-variant:{ .lg .middle } **Fencing Concepts**
 
     ---
