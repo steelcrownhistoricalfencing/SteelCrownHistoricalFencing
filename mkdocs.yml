@@ -49,6 +49,7 @@ extra_css:
 nav:
   - Home: index.md
   - About: About.md
+  - Who We Are: 'Who We Are.md'
   - Standards:
     - Instructor Standards: 'Standards/Instructor Standards.md'
     - Student Standards: 'Standards/Student Standards.md'

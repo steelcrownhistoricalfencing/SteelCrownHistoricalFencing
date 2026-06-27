@@ -135,6 +135,62 @@
   margin-bottom: 1.5rem;
 }
 
+/* ── Team member cards ────────────────────────────────────────────────────── */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.75rem;
+  margin: 2rem 0;
+}
+
+.team-card {
+  border: 1px solid rgba(91, 155, 213, 0.2);
+  border-radius: 0.4rem;
+  overflow: hidden;
+  text-align: center;
+}
+
+[data-md-color-scheme="slate"] .team-card {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+[data-md-color-scheme="default"] .team-card {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.team-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+}
+
+.team-card-body {
+  padding: 1rem 1.25rem 1.25rem;
+}
+
+.team-card-name {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.2rem;
+  color: var(--md-default-fg-color);
+}
+
+.team-card-role {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--md-accent-fg-color);
+  margin: 0 0 0.75rem;
+}
+
+.team-card-bio {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.6;
+  margin: 0;
+}
+
 /* When inside a course section, hide sibling course sections from sidebar */
 .md-nav[data-md-level="1"] > ul:has(> .md-nav__item--section.md-nav__item--active) > .md-nav__item--section:not(.md-nav__item--active) {
   display: none;
