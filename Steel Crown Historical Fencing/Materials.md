@@ -12,6 +12,14 @@
 
     [Browse →](Fiore for HEMA Fencers/index.md){ .md-button }
 
+-   :material-book-open-page-variant:{ .lg .middle } **Fencing Concepts**
+
+    ---
+
+    Foundational principles that apply across weapon systems. Covers lines, openings, opposition, and structure, with direct connections to the weapon-specific curricula.
+
+    [Browse →](Fencing Concepts/index.md){ .md-button }
+
 -   :material-sword-cross:{ .lg .middle } **Godinho Montante**
 
     ---
