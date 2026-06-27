@@ -20,3 +20,5 @@ An interpretation of the longsword system of Fiore dei Liberi for modern HEMA fe
 **Guards** — All twelve guards of the longsword system, with mechanical description, bilateral variations, tactical purpose, and counters.
 
 **Strikes** — The seven blows of the sword: the three fendente, two mezzani, two sottani, and the thrust.
+
+**Plays** — Fiore's combat plays (*zoghi*) organized by game: Gioco Largo (wide play, measure, geometry) and Gioco Stretto (close play, joint locks, disarms, throws). Includes the Exchange of Thrusts, Breaking the Thrust, the Peasant's Blow, the three joint locks, disarms, and takedowns — with modern competitive application throughout.
