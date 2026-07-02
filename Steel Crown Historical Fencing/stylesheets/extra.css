@@ -191,6 +191,39 @@
   margin: 0;
 }
 
+/* ── PDF download button ──────────────────────────────────────────────────── */
+.pdf-download-bar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.pdf-download-btn {
+  background: transparent;
+  border: 1px solid var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color);
+  border-radius: 0.25rem;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.8rem;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.pdf-download-btn:hover {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+.pdf-download-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+/* ── PDF watermark (injected into clone at capture time, not live DOM) ────── */
+.md-content__inner article {
+  position: relative;
+}
+
 /* When inside a course section, hide sibling course sections from sidebar */
 .md-nav[data-md-level="1"] > ul:has(> .md-nav__item--section.md-nav__item--active) > .md-nav__item--section:not(.md-nav__item--active) {
   display: none;
