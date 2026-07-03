@@ -5,7 +5,7 @@
 
 *The Frontal Guard*
 
-Classification: *Stabile — Stable Guard*
+Classification: *Instabile — Mutable Guard*
 
 Posta Frontale is one of the most deceptively open guards in Fiore's system. The sword is raised overhead with the point elevated, the body is fully exposed, and the fencer faces the opponent directly with no chamber, no angled protection, no withdrawn reserve. Everything is visible. Everything appears accessible.
 

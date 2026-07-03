@@ -5,7 +5,7 @@
 
 *The Full Iron Gate*
 
-Classification: *Stabile — Stable Guard*
+Classification: *Pulsativa — Striking Guard*
 
 Tutta Porta di Ferro is the most defensively complete guard in Fiore dei Liberi's longsword system. Where other guards control through threat, deception, or reach, the Full Iron Gate controls through structural solidity. The sword sits low and close to the body, the stance is grounded and forward-weighted, and the guard projects an almost immovable quality.
 

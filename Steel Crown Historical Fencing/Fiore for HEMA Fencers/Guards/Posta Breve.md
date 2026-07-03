@@ -84,11 +84,11 @@ There should be very little unnecessary movement.
 
 ### **Hand and Sword Position**
 
-The hands are held high near the head, temple, or upper shoulder.
+The hands are held at hip to waist height, with the elbows connected to the sides of the body.
 
 The pommel remains close to the body.
 
-The point projects forward and slightly upward toward the opponent.
+The point projects forward along the centerline at mid-body level, integrated into the body's structure rather than extended outward.
 
 The arms remain relaxed and compact.
 
@@ -213,7 +213,7 @@ The cut should recover quickly back into structure.
 
 ### **The Snap Mezzano**
 
-Because the hands are already high, Breve can quickly deliver horizontal or slightly descending blows without large preparatory movement.
+Because the hands are already centered and compact, Breve can quickly deliver horizontal blows without large preparatory movement.
 
 These attacks are particularly useful when the opponent attempts to move around the centerline.
 
@@ -233,7 +233,7 @@ Its compact structure makes it naturally resistant to displacement.
 
 ### **Covering Against Descending Blows**
 
-Because the hands are already high, Breve can quickly rise into incoming fendenti.
+Because the guard maintains a compact structure, Breve can quickly rise into incoming fendenti.
 
 The compact position allows the fencer to defend without making large motions.
 

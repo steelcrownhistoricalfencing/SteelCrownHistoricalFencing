@@ -5,7 +5,7 @@
 
 *The Long Tail*
 
-Classification: *Instabile — Mutable Guard*
+Classification: *Stabile — Stable Guard*
 
 Coda Longa is one of the most deceptive guards in the Getty manuscript of Fiore dei Liberi. The sword trails behind the body like the tail of an animal, appearing withdrawn, passive, or even vulnerable.
 
@@ -31,7 +31,7 @@ This chapter treats Coda Longa Destra and Coda Longa Sinestra together, since bo
 
 ### **Translation**
 
-“Stance of the Long Tail, I am extended to the ground. Forward and backward, I always make offense: And if I step forward and enter with a downward blow,I come to the narrow play without fail.”
+“This is the guard of the Long Tail which is extended to the ground behind [you]. It can make a thrust, and to the front it can cover and strike. And if [the fencer] passes forward and enters with a Fendente, [he] enters into the narrow play without fail. For such a guard is good for waiting, and from it [the fencer] can quickly enter into other [guards].”
 
 This description immediately establishes the identity of the guard.
 
@@ -210,8 +210,6 @@ The important thing is that the guard remains mechanically connected and prepare
 
 Coda Longa is a guard of deception, invitation, and explosive offense.
 
-Fiore explicitly calls it a *posta falsa*, a false guard.
-
 The position encourages the opponent to believe:
 
 * you are retreating  
@@ -224,8 +222,6 @@ In reality:
 * the sword is deeply chambered  
 * the body is prepared to advance  
 * the guard is built to launch explosive attacks
-
-Fiore also states that the guard is “set to seek and close,” meaning it is intended to aggressively enter distance rather than remain safely withdrawn.
 
 This is not a waiting guard.
 

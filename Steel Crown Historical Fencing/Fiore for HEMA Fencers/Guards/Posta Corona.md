@@ -5,7 +5,7 @@
 
 *The Crown Guard*
 
-Classification: *Stabile — Stable Guard*
+Classification: *Instabile — Mutable Guard*
 
 Posta Corona is the guard of overhead power. The sword is raised above the head, the arms form a crown-like arc, and the blade is positioned to protect the fencer from above while simultaneously storing energy for the most powerful descending strike in Fiore's system.
 
