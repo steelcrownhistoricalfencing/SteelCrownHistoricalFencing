@@ -30,7 +30,7 @@ Fiore's plays are organized into four tiers, each marked visually in the manuscr
 
 **The Counter Master** — *Contrario* — wears both a crown and a garter. He demonstrates how to defeat the remedy master and his scholars.
 
-Some chains extend to a counter-counter level, but Fiore notes that exchanges rarely go beyond three levels before the fight becomes dangerous for both.
+Some chains extend to a counter-counter level, but the play chains themselves suggest that exchanges rarely go beyond three levels before the fight becomes dangerous for both.
 
 ---
 

@@ -81,9 +81,9 @@ The throws are not fallback techniques. They are continuations of the same engag
 
 ---
 
-## **Fiore's Stretto Flow**
+## **The Stretto Decision Tree**
 
-One of Fiore's most significant contributions is that he does not present the close game as a list of techniques. He presents it as a continuous decision tree.
+One of Fiore's most significant contributions is that he does not present the close game as a list of techniques. The plays connect into a continuous chain, and the following decision tree summarizes how this curriculum reads that chain.
 
 Enter stretto → pommel strike (if mandritto bind) → blade behind neck → choice: throw now, or continue to joint lock → joint lock → choice: press to ground (soprana), hold for disarm (mezana if they stop), or follow resistance to soprana → soprana → throw → disarmed opponent on the ground.
 

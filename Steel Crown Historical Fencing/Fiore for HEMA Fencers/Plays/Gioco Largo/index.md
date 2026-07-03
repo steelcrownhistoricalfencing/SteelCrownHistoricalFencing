@@ -32,7 +32,7 @@ Fiore's wide play is organized under two remedy masters, each presiding over a d
 
 **The First Remedy Master** addresses the *punta* crossing, blades touching at the tips. This contact is unstable. Neither fencer has leverage. The only option is to act immediately, switching the sword to the other side and striking hard. There is no time to deliberate.
 
-**The Second Remedy Master** addresses the *mezza spada* crossing, blades touching at mid-blade. This contact offers more stability and more options. From here, you can cut, thrust, press, change sides, or begin to close. The bulk of Fiore's wide play, some twenty plays in the manuscript, flows from this crossing.
+**The Second Remedy Master** addresses the *mezza spada* crossing, blades touching at mid-blade. This contact offers more stability and more options. From here, you can cut, thrust, press, change sides, or begin to close. The bulk of Fiore's wide play flows from this crossing.
 
 ---
 

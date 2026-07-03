@@ -87,7 +87,7 @@ A controlled strike, one that stops at center, that does not overcommit, that re
 
 This is one of Fiore's most direct teaching moments. He is not only showing a technique; he is showing what happens to fencers who swing without control.
 
-Fiore also notes explicitly: this play works against an axe or a staff strike delivered with the same overcommitment. The weapon does not matter. The overextension does.
+The same principle applies against an axe or a staff strike delivered with the same overcommitment. The weapon does not matter. The overextension does.
 
 ---
 

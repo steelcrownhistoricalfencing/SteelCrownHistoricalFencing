@@ -83,7 +83,7 @@ When you find yourself with the right foot forward after a wide-play action, thi
 
 ## **Which Guards Produce Which Crossings**
 
-Some guards naturally tend toward one crossing type.
+Through mechanical analysis, we can observe that some guards naturally tend toward one crossing type — though Fiore does not map these correlations explicitly in the Getty.
 
 *Posta di Donna*, with the sword chambered behind the shoulder and the body already turned, tends to produce a *punta* crossing. A strike from Donna meets the opponent's blade near the tips.
 

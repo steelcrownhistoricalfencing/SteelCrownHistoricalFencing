@@ -89,7 +89,7 @@ The *scambiar di punta* flows most naturally from guards that already prepare th
 
 *Posta di Donna Destra* positions the sword behind the shoulder and the body turned slightly, ready to pass offline with the rear foot.
 
-*Tutta Porta di Ferro*, the Full Iron Gate, generates the exchange directly. Fiore describes it as the guard "from which the exchange of thrusts naturally comes."
+*Tutta Porta di Ferro*, the Full Iron Gate, generates the exchange directly. Fiore associates Tutta Porta di Ferro with the exchange of thrusts, describing the guard's action of entering with a cover and thrusting.
 
 The play also connects forward: if the exchange succeeds, the opponent is struck. If the opponent counters and your right foot is now forward, the pommel strike and close-play entries are immediately available.
 

@@ -27,11 +27,11 @@ This technique is also called the *volta di pomo*, the pommel turn, which better
 
 ### **Translation**
 
-"This is called the pommel turn, and is done in this way: when I am in close play with my companion... I put my pommel in his face... and my sword goes behind his neck... and I give him a good tightening at the throat."
+"This is called the pommel turn, and is done in this way: when I am in close play with my companion... I put my pommel in his face... and my sword goes behind his neck... and I give him a good binding cut at the throat."
 
-Fiore makes a specific claim about this technique elsewhere in the manuscript: "I have proven that four teeth will be knocked out of the mouth with such a play."
+A claim in the manuscript tradition — appearing in variant form across manuscript sources — holds that four teeth will be knocked out of the mouth with such a play.
 
-This is one of his rare statements about physical consequence. He believed in this technique.
+It is one of the more vivid statements about physical consequence in the entire system.
 
 ---
 

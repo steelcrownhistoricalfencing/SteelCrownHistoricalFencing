@@ -29,6 +29,8 @@ Fiore's instructions are clear in sequence: grab mid-blade with the right hand â
 
 The crucial step most students overlook: letting your own sword go.
 
+*The ellipses in both the Italian and translation mark points where Fiore references the position established by the preceding play. The disarm sequence itself is complete.*
+
 ---
 
 ## **The Setup**

@@ -7,7 +7,7 @@
 
 Classification: *Gioco Stretto — Close Play*
 
-The Middle Bind is taught first among Fiore's three joint locks, not because it happens most often, but because the spiraling motion it requires underlies all three.
+The Middle Bind is the second of Fiore's three joint locks — what the manuscript calls *lo secondo ligadure*. It is introduced here before the Lower Bind because the spiraling motion it requires underlies all three.
 
 It controls the weapon arm at shoulder height through a wrapping rotation against the elbow. The arm cannot travel further once the spiral is set. The opponent either drops or the joint fails.
 
@@ -65,7 +65,7 @@ The shoulder-height control position also matters. At shoulder height, the oppon
 
 ## **The Spiral as Foundation**
 
-The Middle Bind is the foundation because its core motion, the spiraling wrap, appears in modified form in all three ligadure.
+This curriculum treats the Middle Bind as the mechanical foundation for learning all three ligadure, because the spiraling wrap appears in modified form in each. Fiore's manuscript presents them in order from lowest to highest; the curriculum begins with the mezana to establish the core spiral mechanic first.
 
 In the Lower Bind, the spiral begins and the arm is driven down before reaching shoulder height.
 
@@ -75,7 +75,7 @@ In the Middle Bind, the spiral arrives at shoulder height and stops there.
 
 Once the wrapping motion is understood mechanically, the other two locks are variations of the same fundamental action, not separate techniques.
 
-Train the mezana first. The other two follow from it.
+Train the mezana first. The other two follow from it — though Fiore's manuscript teaches them in the reverse order: lower, then middle, then upper.
 
 ---
 
@@ -196,7 +196,7 @@ Finally, applying this lock from the inside of the arm. The wrap cannot complete
 
 ## **Key Idea**
 
-The Middle Bind is the foundation of Fiore's locking system.
+The Middle Bind is the mechanical center of the locking system.
 
 The spiral is the mechanic. The elbow is the lever. The shoulder height is the control point.
 
