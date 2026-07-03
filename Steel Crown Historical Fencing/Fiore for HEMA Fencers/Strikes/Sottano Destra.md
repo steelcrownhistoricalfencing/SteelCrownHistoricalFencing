@@ -64,11 +64,11 @@ The Sottano's value as a counter-strike is particularly relevant in modern sparr
 
 ### **Primary Starting Guards**
 
-Coda Longa is the most natural starting position. The rear-weighted, low chamber of Coda Longa stores energy that releases explosively into the rising cut. Fiore's description of Coda Longa as a "loaded spring" is most visible here.
+Coda Longa is the most natural starting position. The rear-weighted, low chamber of Coda Longa stores energy that releases explosively into the rising cut. The principle Fiore describes — readiness to spring into sudden offense from a withdrawn position — is most visible here.
 
 Dente di Zenghiaro also naturally generates the Sottano. From the low right position, the blade rises directly from the guard's natural line of motion.
 
-Any of the Porta di Ferro variations can also generate the rising cut, as all three share the low-to-middle positioning that supports an upward trajectory.
+Both Porta di Ferro variations can also generate the rising cut, as they share the low-to-middle positioning that supports an upward trajectory.
 
 ---
 

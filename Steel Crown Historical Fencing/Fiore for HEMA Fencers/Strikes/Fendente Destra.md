@@ -1,7 +1,7 @@
 # Fendente Destra
 
 <img src="../../assets/fiore/guards/fendente.jpg" alt="Fendente, Downward Blows" class="manuscript-img">
-<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 23r, c. 1409, "We are downward blows and we dispute; by cleaving the teeth with proper intention." J. Paul Getty Museum (Open Content)</em></p>
+<p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 23r, c. 1409, "We are descending blows and we advance; we break teeth with good intention." J. Paul Getty Museum (Open Content)</em></p>
 
 *The Descending Cut from the Right*
 
@@ -51,7 +51,7 @@ The fendente is a primary offensive action used to attack from above with force 
 
 Its descending angle allows it to target the head, neck, shoulder, and arms. Because the strike travels forward and downward, it has strong reach and can apply pressure even when met by the opponent’s blade.
 
-Fiore refers to such strikes as “great blows,” capable of breaking opposing guards. When delivered with proper structure, the fendente can force a defensive reaction or displace the opponent’s weapon.
+The guards that generate the fendente — particularly Posta di Donna and Posta Corona — are described in Fiore’s text as capable of delivering “great blows” that break opposing guards. When delivered with proper structure, the fendente can force a defensive reaction or displace the opponent’s weapon.
 
 ---
 
@@ -73,7 +73,7 @@ The fendente is closely linked to several guards.
 
 The most common starting position is Posta di Donna Destra, where the blade is already chambered for a descending strike.
 
-It may also be delivered from Posta Breve for a quicker, more compact version, or from Posta Frontale (Corona) for a more vertical, forceful action.
+It may also be delivered from Posta Breve for a quicker, more compact version, or from Posta Frontale or Posta Corona for a more vertical, forceful action.
 
 ---
 

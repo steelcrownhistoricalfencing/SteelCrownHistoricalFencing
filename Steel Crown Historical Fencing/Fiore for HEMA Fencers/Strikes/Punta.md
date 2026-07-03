@@ -14,9 +14,7 @@ Fiore emphasizes the importance of the point throughout his system. While he doe
 
 The thrust is one of the seven fundamental blows of the sword.
 
-Fiore describes the system as consisting of descending cuts, rising cuts, middle cuts, and the thrust:
-
-“We are the seven blows of the sword…”
+Fiore describes the system as consisting of descending cuts, rising cuts, middle cuts, and the thrust — seven blows in total that form the complete striking vocabulary of the longsword.
 
 Within this structure, the punta occupies a unique role. While the cuts control lines through motion, the thrust controls the line through direct presence.
 

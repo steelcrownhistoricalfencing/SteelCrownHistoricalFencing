@@ -132,11 +132,11 @@ Repeat ten times in each direction. The blade should maintain consistent height 
 
 ### **Drill 2 — Target Variation**
 
-With a partner, practice the Mezzano at three heights: high (aimed at the neck), middle (aimed at the ribs), and low (aimed at the thighs or knees).
+With a partner, practice the Mezzano at two heights: high (aimed at the neck or throat) and middle (aimed at the ribs or midsection).
 
 The partner calls a target height before each cut. The fencer adjusts the plane of the blade accordingly, delivering the cut with controlled accuracy.
 
-Repeat five times at each height, then switch roles.
+Repeat eight times at each height, then switch roles.
 
 This drill develops the fencer's ability to direct the cut intentionally rather than swinging at a fixed plane.
 
