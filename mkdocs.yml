@@ -46,6 +46,10 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - configs/pdf-config.js
+  - assets/js/pdf-download.js
+
 nav:
   - Home: index.md
   - About:
