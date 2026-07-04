@@ -195,3 +195,193 @@
 .md-nav[data-md-level="1"] > ul:has(> .md-nav__item--section.md-nav__item--active) > .md-nav__item--section:not(.md-nav__item--active) {
   display: none;
 }
+
+/* ── Traditions page: timeline ──────────────────────────────────────────── */
+.traditions-timeline {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0.5rem 0 1.5rem;
+  padding: 2.75rem 0 1.25rem;
+  position: relative;
+}
+
+.traditions-timeline-track {
+  flex: 1;
+  height: 2px;
+  background: rgba(91, 155, 213, 0.3);
+  position: relative;
+}
+
+.traditions-timeline-year {
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.traditions-timeline-marker {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.traditions-timeline-dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: rgba(91, 155, 213, 0.35);
+  border: 2px solid #5b9bd5;
+  transition: transform 0.15s ease, background 0.15s ease;
+  flex-shrink: 0;
+}
+
+.traditions-timeline-marker--featured .traditions-timeline-dot {
+  background: #5b9bd5;
+  width: 13px;
+  height: 13px;
+}
+
+.traditions-timeline-marker:hover .traditions-timeline-dot {
+  transform: scale(1.45);
+  background: #5b9bd5;
+}
+
+.traditions-timeline-label {
+  font-size: 0.63rem;
+  color: var(--md-default-fg-color--light);
+  text-align: center;
+  white-space: nowrap;
+  position: absolute;
+  bottom: calc(100% + 6px);
+  transition: color 0.15s ease;
+  pointer-events: none;
+}
+
+.traditions-timeline-marker:hover .traditions-timeline-label {
+  color: var(--md-accent-fg-color);
+}
+
+.traditions-timeline-year-tag {
+  font-size: 0.6rem;
+  color: var(--md-default-fg-color--light);
+  position: absolute;
+  top: calc(100% + 5px);
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+/* ── Traditions page: accordion cards ───────────────────────────────────── */
+.tradition-card {
+  border: 1px solid rgba(91, 155, 213, 0.25);
+  border-radius: 0.4rem;
+  margin-bottom: 0.75rem;
+  overflow: hidden;
+}
+
+[data-md-color-scheme="slate"] .tradition-card {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+[data-md-color-scheme="default"] .tradition-card {
+  background: rgba(0, 0, 0, 0.015);
+}
+
+.tradition-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.9rem 1.25rem;
+  cursor: pointer;
+  user-select: none;
+  gap: 0.75rem;
+}
+
+.tradition-card-header:hover {
+  background: rgba(91, 155, 213, 0.05);
+}
+
+.tradition-card-header h2 {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin: 0 !important;
+  font-size: 1.05rem;
+  flex: 1;
+  line-height: 1.3;
+}
+
+.tradition-card-chevron {
+  flex-shrink: 0;
+  color: var(--md-default-fg-color--light);
+  transition: transform 0.25s ease;
+  display: flex;
+  align-items: center;
+}
+
+.tradition-card.open .tradition-card-chevron {
+  transform: rotate(180deg);
+}
+
+.tradition-card-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.35s ease;
+  padding: 0 1.5rem;
+}
+
+.tradition-card-body.open {
+  padding-bottom: 1.25rem;
+}
+
+/* First child spacing inside body */
+.tradition-card-body > *:first-child {
+  margin-top: 0.75rem;
+}
+
+/* ── Traditions page: highlight pulse on timeline click ─────────────────── */
+@keyframes tradition-pulse {
+  0%, 100% { border-color: rgba(91, 155, 213, 0.25); box-shadow: none; }
+  35%       { border-color: #5b9bd5; box-shadow: 0 0 0 3px rgba(91, 155, 213, 0.18); }
+}
+
+.tradition-card.pulse {
+  animation: tradition-pulse 1.1s ease;
+}
+
+/* ── Traditions page: Steel Crown badge ─────────────────────────────────── */
+.tradition-badge {
+  font-size: 0.6rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #fff;
+  background: #5b9bd5;
+  border-radius: 0.2rem;
+  padding: 0.15rem 0.5rem;
+  margin-left: 0.85rem;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+/* ── Traditions page: expand / collapse all button ──────────────────────── */
+.traditions-expand-toggle {
+  display: block;
+  background: transparent;
+  border: 1px solid rgba(91, 155, 213, 0.35);
+  color: var(--md-accent-fg-color);
+  border-radius: 0.25rem;
+  padding: 0.3rem 0.85rem;
+  font-size: 0.78rem;
+  cursor: pointer;
+  margin-bottom: 0.85rem;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.traditions-expand-toggle:hover {
+  background: rgba(91, 155, 213, 0.07);
+  border-color: var(--md-accent-fg-color);
+}
