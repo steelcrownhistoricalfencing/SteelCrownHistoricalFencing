@@ -196,83 +196,189 @@
   display: none;
 }
 
-/* ── Traditions page: timeline ──────────────────────────────────────────── */
-.traditions-timeline {
+/* ── Traditions page: timeline legend ────────────────────────────────────── */
+.traditions-timeline-legend {
   display: flex;
-  align-items: center;
-  gap: 0.75rem;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
   margin: 0.5rem 0 1.5rem;
-  padding: 2.75rem 0 1.25rem;
-  position: relative;
 }
 
-.traditions-timeline-track {
-  flex: 1;
-  height: 2px;
-  background: rgba(91, 155, 213, 0.3);
-  position: relative;
+.traditions-timeline-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(91, 155, 213, 0.2);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
 }
 
-.traditions-timeline-year {
-  font-size: 0.7rem;
-  color: var(--md-default-fg-color--light);
-  white-space: nowrap;
+.traditions-timeline-legend-item:hover,
+.traditions-timeline-legend-item:focus-visible {
+  border-color: var(--entry-color-light);
+  background: rgba(91, 155, 213, 0.06);
+  outline: none;
+}
+
+[data-md-color-scheme="slate"] .traditions-timeline-legend-item:hover,
+[data-md-color-scheme="slate"] .traditions-timeline-legend-item:focus-visible {
+  border-color: var(--entry-color-dark);
+}
+
+.traditions-timeline-legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--entry-color-light);
   flex-shrink: 0;
 }
 
-.traditions-timeline-marker {
+[data-md-color-scheme="slate"] .traditions-timeline-legend-dot {
+  background: var(--entry-color-dark);
+}
+
+.traditions-timeline-legend-label {
+  font-size: 0.78rem;
+  color: var(--md-default-fg-color);
+  white-space: nowrap;
+}
+
+/* ── Traditions page: centered author timeline ──────────────────────────── */
+.traditions-timeline {
+  position: relative;
+  margin: 0.5rem 0 1.75rem;
+}
+
+.traditions-timeline-edge {
+  display: table;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+  background: var(--md-default-bg-color);
+  padding: 0.1rem 0.6rem;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.traditions-timeline::before {
+  content: '';
   position: absolute;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: rgba(91, 155, 213, 0.25);
+  transform: translateX(-50%);
+}
+
+.traditions-timeline-entry {
+  position: relative;
+  min-height: 2.1rem;
+  padding: 0.5rem 0;
   cursor: pointer;
 }
 
-.traditions-timeline-dot {
+.traditions-timeline-entry:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 4px;
+  border-radius: 0.2rem;
+}
+
+.traditions-timeline-entry-dot {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
   width: 11px;
   height: 11px;
   border-radius: 50%;
-  background: rgba(91, 155, 213, 0.35);
-  border: 2px solid #5b9bd5;
-  transition: transform 0.15s ease, background 0.15s ease;
-  flex-shrink: 0;
+  background: var(--entry-color-light);
+  border: 2px solid var(--entry-color-light);
+  box-shadow: 0 0 0 4px var(--md-default-bg-color);
+  transition: transform 0.15s ease;
+  z-index: 1;
 }
 
-.traditions-timeline-marker--featured .traditions-timeline-dot {
-  background: #5b9bd5;
+[data-md-color-scheme="slate"] .traditions-timeline-entry-dot {
+  background: var(--entry-color-dark);
+  border-color: var(--entry-color-dark);
+}
+
+.traditions-timeline-entry--featured .traditions-timeline-entry-dot {
   width: 13px;
   height: 13px;
 }
 
-.traditions-timeline-marker:hover .traditions-timeline-dot {
-  transform: scale(1.45);
-  background: #5b9bd5;
+.traditions-timeline-entry:hover .traditions-timeline-entry-dot,
+.traditions-timeline-entry:focus-visible .traditions-timeline-entry-dot {
+  transform: translate(-50%, -50%) scale(1.35);
 }
 
-.traditions-timeline-label {
-  font-size: 0.63rem;
+.traditions-timeline-entry-content {
+  width: calc(50% - 1.75rem);
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.traditions-timeline-entry--right .traditions-timeline-entry-content {
+  margin-left: auto;
+  text-align: left;
+}
+
+.traditions-timeline-entry--left .traditions-timeline-entry-content {
+  margin-right: auto;
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.traditions-timeline-entry-year {
+  font-size: 0.68rem;
   color: var(--md-default-fg-color--light);
-  text-align: center;
   white-space: nowrap;
-  position: absolute;
-  bottom: calc(100% + 6px);
+  flex-shrink: 0;
+}
+
+.traditions-timeline-entry-name {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--entry-color-light);
   transition: color 0.15s ease;
-  pointer-events: none;
 }
 
-.traditions-timeline-marker:hover .traditions-timeline-label {
-  color: var(--md-accent-fg-color);
+[data-md-color-scheme="slate"] .traditions-timeline-entry-name {
+  color: var(--entry-color-dark);
 }
 
-.traditions-timeline-year-tag {
-  font-size: 0.6rem;
-  color: var(--md-default-fg-color--light);
-  position: absolute;
-  top: calc(100% + 5px);
-  white-space: nowrap;
-  pointer-events: none;
+/* Below this width the alternating layout gets cramped — collapse to a
+   single left-aligned rail so long author names never wrap against the
+   center line. */
+@media (max-width: 640px) {
+  .traditions-timeline::before {
+    left: 5px;
+  }
+
+  .traditions-timeline-entry-dot {
+    left: 5px;
+  }
+
+  .traditions-timeline-entry-content,
+  .traditions-timeline-entry--left .traditions-timeline-entry-content,
+  .traditions-timeline-entry--right .traditions-timeline-entry-content {
+    width: auto;
+    margin: 0 0 0 1.5rem;
+    flex-direction: row;
+    text-align: left;
+  }
+
+  .traditions-timeline-edge {
+    display: block;
+    margin: 0 0 0 1.5rem;
+    text-align: left;
+    padding: 0.1rem 0;
+  }
 }
 
 /* ── Traditions page: accordion cards ───────────────────────────────────── */
