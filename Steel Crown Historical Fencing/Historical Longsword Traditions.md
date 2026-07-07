@@ -47,8 +47,6 @@ Fiore's complete system is particularly attractive to modern practitioners becau
 
 In competition, Fiore-trained fencers are well represented at major international tournaments. The stretto game in particular gives them options that purely largo-focused competitors often lack.
 
-At Steel Crown, Armizare is the foundation of our longsword curriculum.
-
 ---
 
 ## The German Kunst des Fechtens
@@ -201,12 +199,8 @@ The Iberian traditions are a smaller but growing presence in modern HEMA. Portug
 
 The montante in particular has attracted international attention. Godinho's system of fourteen rules for the greatsword is among the most complete surviving treatments of the weapon, and groups across Europe and the Americas now train it regularly.
 
-At Steel Crown, we train Godinho's Montante alongside the Fiore longsword curriculum. The two systems complement each other: Fiore establishes the foundational principles, and Godinho extends them into a different weapon and tactical context.
-
 ---
 
 ## A Shared Heritage
 
 While each of these traditions has its own personality, they share a common foundation. All teach that success comes not from strength alone, but from disciplined practice, intelligent movement, and sound martial principles.
-
-At Steel Crown, our curriculum is rooted in Fiore dei Liberi's Armizare, but we value and respect the broader European martial traditions that enrich our understanding of historical fencing.
