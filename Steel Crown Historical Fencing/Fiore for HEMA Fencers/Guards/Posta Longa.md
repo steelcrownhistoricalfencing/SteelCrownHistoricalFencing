@@ -5,7 +5,6 @@
 <img src="../../../assets/fiore/guards/posta-longa-pd.png" alt="Posta Longa" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
-
 *The Long Guard*
 
 Classification: *Instabile — Mutable Guard*
@@ -88,8 +87,8 @@ The hands are generally held around solar plexus height, though this may vary sl
 
 The point should threaten:
 
-* face  
-* throat  
+* face
+* throat
 * upper chest
 
 The arms are extended but not rigid.
@@ -112,10 +111,10 @@ This is one of the clearest examples of controlling space through threat rather 
 
 The guard is particularly useful for:
 
-* controlling measure  
-* threatening thrusts  
-* forcing reactions  
-* establishing dominance of the centerline  
+* controlling measure
+* threatening thrusts
+* forcing reactions
+* establishing dominance of the centerline
 * transitioning between actions
 
 ---
@@ -152,9 +151,9 @@ Instead, it means creating a threat that forces the opponent to make a decision.
 
 The opponent must:
 
-* deflect the point  
-* move around the point  
-* withdraw from the point  
+* deflect the point
+* move around the point
+* withdraw from the point
 * or attack through the point
 
 Each response creates opportunities.
@@ -189,9 +188,9 @@ Whether competing, drilling, or sparring, control of the centerline remains a fu
 
 The guard teaches:
 
-* measure  
-* distance management  
-* point control  
+* measure
+* distance management
+* point control
 * threat projection
 
 Many beginners focus on generating attacks.
@@ -222,9 +221,9 @@ To challenge it effectively, an opponent must first remove or neutralize the poi
 
 Common approaches include:
 
-* changing the line  
-* beating the blade aside  
-* approaching from an angle  
+* changing the line
+* beating the blade aside
+* approaching from an angle
 * forcing Longa to overextend
 
 Simply attacking directly through the point often places the attacker at a disadvantage.
@@ -271,8 +270,8 @@ Slowly close distance.
 
 Observe:
 
-* whose point threatens first  
-* whose structure collapses first  
+* whose point threatens first
+* whose structure collapses first
 * who controls the centerline
 
 This drill develops awareness of measure and line.
@@ -301,8 +300,8 @@ Begin in Posta Longa.
 
 Transition to:
 
-* Fenestra  
-* Donna  
+* Fenestra
+* Donna
 * Dente di Zenghiaro
 
 Then return to Longa.

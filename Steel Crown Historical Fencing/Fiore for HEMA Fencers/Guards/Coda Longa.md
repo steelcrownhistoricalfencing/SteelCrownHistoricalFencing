@@ -323,8 +323,8 @@ Coda Longa strongly expresses the Lynx.
 The guard depends on observation, timing, and deception. The fencer studies the opponent and invites a reaction before striking.
 
 The Tiger appears in the explosive acceleration of the release.  
- The Elephant appears in the stable rear-weighted structure.  
- The Lion appears in the courage required to stand in an apparently vulnerable position.
+The Elephant appears in the stable rear-weighted structure.  
+The Lion appears in the courage required to stand in an apparently vulnerable position.
 
 ---
 

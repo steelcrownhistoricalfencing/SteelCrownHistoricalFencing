@@ -5,7 +5,6 @@
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro-pd.png" alt="Dente di Zenghiaro Mezzana" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
-
 *The Middle Boar's Tusk*
 
 Classification: *Stabile — Stable Guard*

@@ -3,8 +3,6 @@ site_description: Historical European Martial Arts in Charlotte, NC
 site_url: https://steelcrownhistoricalfencing.com/
 docs_dir: 'Steel Crown Historical Fencing'
 site_dir: site
-exclude_docs: |
-  Fiore for HEMA Fencers/Fiore Di Libre Lesson*
 
 theme:
   name: material
@@ -52,16 +50,16 @@ extra_javascript:
 nav:
   - Home: index.md
   - About:
-    - About.md
-    - Who We Are: 'Who We Are.md'
+    - About/index.md
+    - Who We Are: 'About/Who We Are.md'
   - Standards:
     - Instructor Standards: 'Standards/Instructor Standards.md'
     - Student Standards: 'Standards/Student Standards.md'
     - Safety Standards: 'Standards/Safety Standards.md'
   - Waiver: Waiver.md
   - Materials:
-    - Materials.md
-    - Historical Longsword Traditions: 'Historical Longsword Traditions.md'
+    - Materials/index.md
+    - Historical Longsword Traditions: 'Materials/Historical Longsword Traditions.md'
     - Fencing Concepts:
       - 'Fencing Concepts/index.md'
       - The Four Openings: 'Fencing Concepts/The Four Openings.md'
