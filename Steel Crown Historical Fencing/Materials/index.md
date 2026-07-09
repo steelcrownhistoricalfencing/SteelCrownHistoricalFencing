@@ -38,4 +38,14 @@
 
     [Browse →](../Montante/index.md){ .md-button }
 
+-   :material-progress-wrench:{ .lg .middle } **Joachim Meyer** *(Work in Progress)*
+
+    ---
+
+    *Author: Chris Mineweaser*
+
+    An interpretation of the longsword system of Joachim Meyer, drawn from his *Gründtliche Beschreibung der Kunst des Fechtens* (1570). Actively under development, with content added and revised regularly as study and training continue.
+
+    [Browse →](../Meyer/index.md){ .md-button }
+
 </div>
