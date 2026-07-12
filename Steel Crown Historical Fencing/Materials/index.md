@@ -10,7 +10,7 @@
 
     An interpretation of the longsword system of Fiore dei Liberi for modern HEMA fencing practice. Drawn from the Getty Manuscript (c. 1409), this material covers guards, the seven blows, and tactical concepts, with commentary focused on competitive and practical application rather than strict historical reconstruction.
 
-    [Browse →](Fiore for HEMA Fencers/index.md){ .md-button }
+    [Browse →](../Fiore for HEMA Fencers/index.md){ .md-button }
 
 -   :material-earth:{ .lg .middle } **Historical Longsword Traditions**
 
@@ -26,7 +26,7 @@
 
     Foundational principles that apply across weapon systems. Covers lines, openings, opposition, and structure, with direct connections to the weapon-specific curricula.
 
-    [Browse →](Fencing Concepts/index.md){ .md-button }
+    [Browse →](../Fencing Concepts/index.md){ .md-button }
 
 -   :material-sword-cross:{ .lg .middle } **Godinho Montante**
 
@@ -36,6 +36,16 @@
 
     An interpretation of the Montante section from Domingo Luis Godinho's *Arte de Esgrima* (1599). Covers Godinho's rules for the great two-handed sword, simply presented.
 
-    [Browse →](Montante/index.md){ .md-button }
+    [Browse →](../Montante/index.md){ .md-button }
+
+-   :material-progress-wrench:{ .lg .middle } **Joachim Meyer** *(Work in Progress)*
+
+    ---
+
+    *Author: Chris Mineweaser*
+
+    An interpretation of the longsword system of Joachim Meyer, drawn from his *Gründtliche Beschreibung der Kunst des Fechtens* (1570). Actively under development, with content added and revised regularly as study and training continue.
+
+    [Browse →](../Meyer/index.md){ .md-button }
 
 </div>

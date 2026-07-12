@@ -1,6 +1,6 @@
 # Fiore for HEMA Fencers
 
-[← Back to Materials](../Materials.md){ .md-button }
+[← Back to Materials](../Materials/index.md){ .md-button }
 
 <img src="../assets/fiore/guards/six-masters.jpg" alt="Six Masters of the Longsword" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 22r, c. 1409, "Six masters we are, and we dispute one to another; each does something that the others do not." J. Paul Getty Museum (Open Content)</em></p>

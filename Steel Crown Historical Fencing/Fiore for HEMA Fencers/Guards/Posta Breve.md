@@ -323,8 +323,8 @@ Posta Breve strongly expresses the Elephant.
 Its compact structure creates stability and resistance to displacement.
 
 The Tiger appears in the speed of the attack.  
- The Lynx appears in the patience and observation before committing.  
- The Lion appears in the willingness to launch decisive offense when the opportunity presents itself.
+The Lynx appears in the patience and observation before committing.  
+The Lion appears in the willingness to launch decisive offense when the opportunity presents itself.
 
 ---
 

@@ -1,6 +1,6 @@
 # Fendente Sinestra
 
-<img src="../../assets/fiore/guards/fendente.jpg" alt="Fendente, Downward Blows" class="manuscript-img">
+<img src="../../../assets/fiore/guards/fendente.jpg" alt="Fendente, Downward Blows" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 23r, c. 1409, "We are descending blows and we advance; we break teeth with good intention." J. Paul Getty Museum (Open Content)</em></p>
 
 *The Descending Cut from the Left*
