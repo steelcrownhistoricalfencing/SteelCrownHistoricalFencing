@@ -1,6 +1,6 @@
 # Godinho Montante
 
-[← Back to Materials](../Materials.md){ .md-button }
+[← Back to Materials](../Materials/index.md){ .md-button }
 
 *Author: Chris Mineweaser*
 

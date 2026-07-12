@@ -1,6 +1,6 @@
 # The Segno, the Four Virtues, and the Structure of the System
 
-<img src="../../assets/fiore/segno.jpg" alt="The Segno, Four Virtues" class="manuscript-img">
+<img src="../../../assets/fiore/segno.jpg" alt="The Segno, Four Virtues" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 32r, c. 1409, "We are four animals of such a nature; whoever wants to fence, let them compare themselves to us." J. Paul Getty Museum (Open Content)</em></p>
 
 ---

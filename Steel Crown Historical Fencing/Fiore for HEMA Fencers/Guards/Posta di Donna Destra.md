@@ -5,13 +5,16 @@
 <img src="../../../assets/fiore/guards/posta-di-donna-destra-pd.png" alt="Posta di Donna Destra" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
-
 *The Woman’s Guard (Right Side)*  
+<<<<<<< HEAD
 <<<<<<< Updated upstream
  Classification: *Pulsativa* — Pulsing Guard
 =======
 Classification: *Pulsativa* — Striking Guard
 >>>>>>> Stashed changes
+=======
+Classification: *Pulsativa* — Pulsing Guard
+>>>>>>> a24eaade0ab41ac3fd6b7ace50609487060eef34
 
 Posta di Donna Destra is one of the most powerful and recognizable guards in Fiore dei Liberi’s longsword system. For the modern fencer, Posta di Donna teaches an essential principle: **power comes from preparation**. By winding the sword behind the shoulder, the body stores energy that can be released into a long, accelerating strike.
 

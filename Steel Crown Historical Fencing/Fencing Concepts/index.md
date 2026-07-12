@@ -1,6 +1,6 @@
 # Fencing Concepts
 
-[← Back to Materials](../Materials.md){ .md-button }
+[← Back to Materials](../Materials/index.md){ .md-button }
 
 Techniques are specific. Principles are general.
 

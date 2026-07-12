@@ -5,7 +5,7 @@
 </div>
 
 <div class="hero-cta" markdown>
-[About the Club](About.md){ .md-button }
+[About the Club](About/index.md){ .md-button }
 </div>
 
 Steel Crown Historical Fencing is a HEMA organization in Charlotte, North Carolina dedicated to the serious study and practice of historical fencing. We train longsword and other weapons drawn from primary historical sources, with an emphasis on disciplined technique, honest instruction, and a culture where every member is both a student and a contributor.

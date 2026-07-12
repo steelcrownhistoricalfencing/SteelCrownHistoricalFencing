@@ -5,8 +5,11 @@
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro-pd.png" alt="Dente di Zenghiaro Mezzana" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
+=======
+>>>>>>> a24eaade0ab41ac3fd6b7ace50609487060eef34
 *The Middle Boar's Tusk*
 =======
 *The Middle Boar's Tooth*

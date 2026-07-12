@@ -5,8 +5,11 @@
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro-pd.png" alt="Dente di Zenghiaro" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
+=======
+>>>>>>> a24eaade0ab41ac3fd6b7ace50609487060eef34
 *The Wild Boar’s Tusk*
 =======
 *The Wild Boar’s Tooth*
@@ -114,8 +117,8 @@ Fiore explicitly describes the guard launching thrusts upward into the opponent�
 
 The guard naturally chains actions together:
 
-* upward thrust  
-* returning downward strike  
+* upward thrust
+* returning downward strike
 * immediate renewed thrust
 
 This creates a cyclical rhythm of attack and recovery.
@@ -144,20 +147,20 @@ This is a stable guard, but not a passive one.
 
 Because Dente di Zenghiaro begins low, it naturally generates rising actions such as sottani.
 
-From Dente di Zenghiaro Destra, the sword rises upward from the right side (Sottano Destra).  
-From Dente di Zenghiaro Sinestra, the sword rises upward from the left (		Sottano Sinestra).
+From Dente di Zenghiaro Destra, the sword rises upward from the right side (Sottano Destra).
+From Dente di Zenghiaro Sinestra, the sword rises upward from the left (Sottano Sinestra).
 
 These ascending actions are especially effective for:
 
-* attacking the hands and arms  
-* intercepting descending attacks  
-* lifting the opponent’s structure  
+* attacking the hands and arms
+* intercepting descending attacks
+* lifting the opponent’s structure
 * entering safely into close distance
 
 This reinforces an important principle in Fiore’s system:
 
-High guards naturally generate descending blows.  
- Low guards naturally generate rising blows.
+High guards naturally generate descending blows.
+Low guards naturally generate rising blows.
 
 ---
 
@@ -167,8 +170,8 @@ One of the defining tactical patterns of Dente di Zenghiaro is the transition fr
 
 Fiore specifically describes:
 
-* thrusting upward into the face  
-* returning downward along the same path  
+* thrusting upward into the face
+* returning downward along the same path
 * striking the arms or head with a fendente
 
 This creates a continuous offensive cycle.
@@ -199,9 +202,9 @@ The Getty manuscript suggests something much more dynamic.
 
 The guard functions through:
 
-* upward probing thrusts  
-* quick returning cuts  
-* repeated offensive pressure  
+* upward probing thrusts
+* quick returning cuts
+* repeated offensive pressure
 * compact structure
 
 For modern practitioners, the greatest value of Dente di Zenghiaro lies in its ability to attack from below the opponent’s expectations while maintaining strong structural control.
@@ -230,9 +233,9 @@ Opponents who keep their hands extended or high often become vulnerable to the r
 
 To challenge Dente di Zenghiaro effectively, it is often necessary to:
 
-* force the guard laterally  
-* disrupt its rhythm  
-* pressure it before the rising action begins  
+* force the guard laterally
+* disrupt its rhythm
+* pressure it before the rising action begins
 * control the line from above
 
 Because the guard relies on cyclical motion, interrupting the transition between rising and descending actions can limit its effectiveness.
@@ -277,8 +280,8 @@ Return downward along the same path into guard.
 
 Focus on:
 
-* direct upward motion  
-* compact mechanics  
+* direct upward motion
+* compact mechanics
 * quick recovery
 
 Repeat from both sides.
