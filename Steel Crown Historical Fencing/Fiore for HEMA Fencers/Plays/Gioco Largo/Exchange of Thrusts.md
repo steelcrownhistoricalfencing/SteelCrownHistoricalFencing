@@ -79,7 +79,7 @@ If he anticipates your offline step, or if he maintains control of his blade as 
 
 When this happens, your right foot has likely passed forward in the course of the action. That means stretto is now available.
 
-The exchange of thrusts, when it succeeds, ends the exchange. When it fails, it becomes the entry into close play. Either outcome has a continuation.
+The exchange of thrusts, when it succeeds, ends the exchange. When it fails, it becomes the entry into narrow play. Either outcome has a continuation.
 
 ---
 

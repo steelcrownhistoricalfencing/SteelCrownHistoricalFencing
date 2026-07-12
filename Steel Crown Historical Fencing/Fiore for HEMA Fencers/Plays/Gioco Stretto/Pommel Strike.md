@@ -5,9 +5,9 @@
 
 *The Pommel Turn*
 
-Classification: *Gioco Stretto — Close Play*
+Classification: *Gioco Stretto — Narrow Play*
 
-When you enter the close game from the mandritto side, the first technique available to you is not a cut or a thrust.
+When you enter the narrow game from the mandritto side, the first technique available to you is not a cut or a thrust.
 
 It is the pommel.
 
@@ -27,7 +27,7 @@ This technique is also called the *volta di pomo*, the pommel turn, which better
 
 ### **Translation**
 
-"This is called the pommel turn, and is done in this way: when I am in close play with my companion... I put my pommel in his face... and my sword goes behind his neck... and I give him a good binding cut at the throat."
+"This is called the pommel turn, and is done in this way: when I am in narrow play with my companion... I put my pommel in his face... and my sword goes behind his neck... and I give him a good binding cut at the throat."
 
 A claim in the manuscript tradition — appearing in variant form across manuscript sources — holds that four teeth will be knocked out of the mouth with such a play.
 
@@ -71,9 +71,9 @@ The blade wrap behind the neck then creates a situation with no good exit: a pul
 
 ## **The Counter-Remedy**
 
-The opponent can defeat this play by controlling the Scholar's pommel before the rotation completes.
+The opponent can defeat this play by controlling your pommel before the rotation completes.
 
-If they feel the sword beginning to roll under the bind and grab the Scholar's hands or pommel, the technique stalls. The Scholar's sword is momentarily controlled and the situation must be resolved differently.
+If they feel the sword beginning to roll under the bind and grab your hands or pommel, the technique stalls. Your sword is momentarily controlled and the situation must be resolved differently.
 
 The window to counter is small. The rotation happens quickly from close range. But a trained fencer who is sensitive to the initial rolling motion can interrupt it.
 

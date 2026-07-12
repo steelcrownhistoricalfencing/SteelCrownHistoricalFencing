@@ -5,7 +5,7 @@
 
 *Throwing and Felling*
 
-Classification: *Gioco Stretto — Close Play*
+Classification: *Gioco Stretto — Narrow Play*
 
 A stretto sequence does not resolve by stopping.
 
@@ -75,7 +75,7 @@ The neck push: from behind or the side, a push against the neck and a simultaneo
 
 Fiore designs the stretto system so that when one technique fails, another is available.
 
-The failed mezana that produces the soprana when the opponent resists. The failed pommel strike where the opponent grabs the Scholar's hands, at which point both are bound in a clinch, and the abrazare hip throw is immediately available.
+The failed mezana that produces the soprana when the opponent resists. The failed pommel strike where the opponent grabs your hands, at which point both are bound in a clinch, and the abrazare hip throw is immediately available.
 
 The throws are not fallback techniques. They are continuations of the same engagement.
 
@@ -83,7 +83,7 @@ The throws are not fallback techniques. They are continuations of the same engag
 
 ## **The Stretto Decision Tree**
 
-One of Fiore's most significant contributions is that he does not present the close game as a list of techniques. The plays connect into a continuous chain, and the following decision tree summarizes how this curriculum reads that chain.
+One of Fiore's most significant contributions is that he does not present the narrow game as a list of techniques. The plays connect into a continuous chain, and the following decision tree summarizes how this curriculum reads that chain.
 
 Enter stretto → pommel strike (if mandritto bind) → blade behind neck → choice: throw now, or continue to joint lock → joint lock → choice: press to ground (soprana), hold for disarm (mezana if they stop), or follow resistance to soprana → soprana → throw → disarmed opponent on the ground.
 
@@ -93,7 +93,7 @@ The throws are at the end of this chain, not at the beginning. You do not enter 
 
 ## **Modern Application**
 
-In modern HEMA competition, takedowns are a distinct scoring opportunity. Most longsword rulesets include them, and Fiore students who have integrated the stretto sequence have a significant structural advantage over competitors who have not trained the close game.
+In modern HEMA competition, takedowns are a distinct scoring opportunity. Most longsword rulesets include them, and Fiore students who have integrated the stretto sequence have a significant structural advantage over competitors who have not trained the narrow game.
 
 The specific competitive insight: most longsword fencers focus on blade work at largo measure. When the distance closes, they often either disengage or attempt to continue with extended strikes that cannot work at stretto range.
 

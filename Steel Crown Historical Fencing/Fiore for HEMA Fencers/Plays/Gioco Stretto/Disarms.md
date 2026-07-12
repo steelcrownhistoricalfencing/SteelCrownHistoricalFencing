@@ -5,7 +5,7 @@
 
 *The Taking of the Weapon*
 
-Classification: *Gioco Stretto — Close Play*
+Classification: *Gioco Stretto — Narrow Play*
 
 In Fiore's plays, disarming the opponent is not a standalone technique. It is a destination: the end of a chain that begins with a stretto entry and builds through position until the opponent's grip can be broken and their weapon taken.
 

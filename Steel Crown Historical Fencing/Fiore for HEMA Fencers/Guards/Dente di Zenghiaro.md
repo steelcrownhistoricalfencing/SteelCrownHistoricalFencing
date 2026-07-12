@@ -5,8 +5,12 @@
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro-pd.png" alt="Dente di Zenghiaro" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
+<<<<<<< Updated upstream
 
 *The Wild Boar’s Tusk*
+=======
+*The Wild Boar’s Tooth*
+>>>>>>> Stashed changes
 
 Classification: *Stabile — Stable Guard*
 
@@ -28,7 +32,7 @@ This chapter treats Dente di Zenghiaro Destra and Sinestra together, since the t
 
 ### **Translation**
 
-“This is the Boar’s Tusk, because it strikes the way the wild boar strikes. Sometimes it makes powerful thrusts from below up into the face, without stepping forward, and it returns along the same path with a downward strike to the arms. Other times as it thrusts the point of the sword high into the face, it advances the front foot forwards, then returns to its guard with a downward strike to the head or the arms. Then it quickly launches another thrust with another advance of the front foot. And this guard can mount a good defense against the Narrow Game.”
+“This is the Boar’s Tooth, because it strikes the way the wild boar strikes. Sometimes it makes powerful thrusts from below up into the face, without stepping forward, and it returns along the same path with a downward strike to the arms. Other times as it thrusts the point of the sword high into the face, it advances the front foot forwards, then returns to its guard with a downward strike to the head or the arms. Then it quickly launches another thrust with another advance of the front foot. And this guard can mount a good defense against the Narrow Game.”
 
 This description gives one of the clearest examples in Fiore’s system of a guard being defined through its tactical behavior rather than simply its shape.
 
@@ -38,9 +42,9 @@ Dente di Zenghiaro is active, probing, and cyclical. It rises upward into attack
 
 ## **The Meaning of the Name**
 
-The name “Dente di Zenghiaro,” or “Wild Boar’s Tusk,” describes both the shape and behavior of the guard.
+The name “Dente di Zenghiaro,” or “Wild Boar’s Tooth,” describes both the shape and behavior of the guard.
 
-Like the tusk of a boar, the sword rises violently upward from below. Fiore specifically compares the action of the guard to the way a wild boar strikes.
+Like the tooth of a boar, the sword rises violently upward from below. Fiore specifically compares the action of the guard to the way a wild boar strikes.
 
 This comparison is important.
 

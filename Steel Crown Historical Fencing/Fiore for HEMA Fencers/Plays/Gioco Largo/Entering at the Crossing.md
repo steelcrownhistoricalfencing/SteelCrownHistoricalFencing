@@ -41,7 +41,7 @@ This is the weakest crossing. The contact is light, unstable, and temporary. A f
 
 Fiore's First Remedy Master addresses this crossing with a single instruction: act immediately. Change the line and strike hard to the head or arms. Do not wait.
 
-At the punta crossing, only wide play is possible. You are too far from the opponent for close play. And the contact is too weak for any technique that requires stability.
+At the punta crossing, only wide play is possible. You are too far from the opponent for narrow play. And the contact is too weak for any technique that requires stability.
 
 ### **The Mezza Spada Crossing — Contact at Mid-Blade**
 
@@ -51,7 +51,7 @@ Both fencers have some leverage. Both have some control. Both have options.
 
 This is the most important crossing in Fiore's system. The majority of his wide play, more than twenty plays in the manuscript, originates here.
 
-From the *mezza spada*, both wide play and close play are available. A cut or thrust can be delivered at long measure. A passing step forward can bring you into stretto range. The crossing is stable enough to hold briefly while you assess.
+From the *mezza spada*, both wide play and narrow play are available. A cut or thrust can be delivered at long measure. A passing step forward can bring you into stretto range. The crossing is stable enough to hold briefly while you assess.
 
 The *mezza spada* is the decision point: go wide, or go close.
 
@@ -61,9 +61,9 @@ When the blades meet near the hilt, one fencer has gained a significant mechanic
 
 The fencer whose hilt is in contact has strong leverage over the opponent's blade. The fencer whose blade is further from the hilt is weak.
 
-At this crossing, only close play is viable. You are already at stretto distance. Cutting or thrusting at long measure is not possible from here. The plays available are the pommel strike, the joint locks, the disarms, and the throws.
+At this crossing, only narrow play is viable. You are already at stretto distance. Cutting or thrusting at long measure is not possible from here. The plays available are the pommel strike, the joint locks, the disarms, and the throws.
 
-Whether you intended to be at *tutta* crossing or not, you are in the close game now.
+Whether you intended to be at *tutta* crossing or not, you are in the narrow game now.
 
 ---
 
@@ -73,7 +73,7 @@ The crossing tells you what is possible. The foot position confirms which game y
 
 **Left foot forward:** You are in wide play. The largo techniques apply.
 
-**Right foot forward:** Close play is now available. The stretto entries are within reach.
+**Right foot forward:** Narrow play is now available. The stretto entries are within reach.
 
 This is not coincidental. Fiore designs his play sequences so that the footwork of each largo action either maintains the left-foot-forward position (continuing in wide play) or naturally results in the right foot forward (signaling that stretto is now the appropriate game).
 
@@ -103,7 +103,7 @@ You approach with your left foot forward.
 
 As the exchange develops, a passing step with the rear foot, forward and across, moves the right foot to the lead. This step appears in multiple largo plays: the *scambiar di punta*, the *rompere di punta*, and others.
 
-When the right foot is forward, you are in position for the close game.
+When the right foot is forward, you are in position for the narrow game.
 
 If a stretto technique is appropriate, execute it. If not, if you still have space and prefer to continue in wide play, a left-foot pass to the outside completes a full rotation and resets the wide-play position.
 

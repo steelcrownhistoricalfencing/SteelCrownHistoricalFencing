@@ -5,7 +5,7 @@
 
 *The Underbind*
 
-Classification: *Gioco Stretto — Close Play*
+Classification: *Gioco Stretto — Narrow Play*
 
 The joint locks in Fiore's system are called *ligadure*, bindings. They do not stop an opponent by pain alone. They control position. Once the arm is controlled, the body must follow.
 

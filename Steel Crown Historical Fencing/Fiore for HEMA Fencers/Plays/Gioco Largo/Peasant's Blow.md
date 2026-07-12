@@ -3,7 +3,7 @@
 <img src="../../../../assets/fiore/plays/colpo-di-villano.jpg" alt="Colpo di Villano, Peasant's Blow" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, folio 26r, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
 
-*The Villain's Blow*
+*The Peasant's Blow*
 
 Classification: *Gioco Largo — Wide Play*
 

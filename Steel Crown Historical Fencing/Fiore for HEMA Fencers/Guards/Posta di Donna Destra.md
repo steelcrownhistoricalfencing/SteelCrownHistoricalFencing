@@ -7,7 +7,11 @@
 
 
 *The Woman’s Guard (Right Side)*  
+<<<<<<< Updated upstream
  Classification: *Pulsativa* — Pulsing Guard
+=======
+Classification: *Pulsativa* — Striking Guard
+>>>>>>> Stashed changes
 
 Posta di Donna Destra is one of the most powerful and recognizable guards in Fiore dei Liberi’s longsword system. For the modern fencer, Posta di Donna teaches an essential principle: **power comes from preparation**. By winding the sword behind the shoulder, the body stores energy that can be released into a long, accelerating strike.
 

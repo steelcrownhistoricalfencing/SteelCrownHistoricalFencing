@@ -27,7 +27,7 @@ Posta Frontale is closely related to Posta Corona, Fiore's own manuscript presen
 
 "I am the Frontal Guard, or Crown, for I want to offend and defend. I reveal my speech to everyone. For whoever can cross me point to point, such counsel, to strike well after, I reveal to him no more."
 
-Fiore's verse is unusual in its philosophical character. Where most guards describe physical actions, beating thrusts, entering close play, delivering powerful cuts, the Frontal Guard describes a game of information.
+Fiore's verse is unusual in its philosophical character. Where most guards describe physical actions, beating thrusts, entering narrow play, delivering powerful cuts, the Frontal Guard describes a game of information.
 
 It reveals everything. And when the opponent acts on what they see, it reveals nothing further. The fencer who attempts to cross the frontal guard point to point receives no more instruction from the guard's open presentation, because that exchange is when the guard closes the trap.
 

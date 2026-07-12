@@ -28,7 +28,7 @@ This chapter treats Porta di Ferro Mezzana Destra and Sinestra together. Both si
 
 ### **Translation**
 
-"I am the Middle Iron Door, and I am the truest column, for I am in the middle between one door and the other, and because of my position I can do all things."
+"I am the Middle Iron Gate, and I am the truest column, for I am in the middle between one gate and the other, and because of my position I can do all things."
 
 Fiore's verse is striking in its confidence. He does not describe what this guard does to specific attacks. He describes what it *is*: the truest column, positioned in the middle, capable of everything.
 
@@ -38,9 +38,9 @@ This description tells us that Porta di Ferro Mezzana is less a guard of specifi
 
 ## **The Meaning of the Name**
 
-*Porta di Ferro Mezzana* means *Middle Iron Door*.
+*Porta di Ferro Mezzana* means *Middle Iron Gate*.
 
-The iron door imagery, shared with Tutta Porta di Ferro and Porta di Ferro Alta, emphasizes the structural, non-yielding quality of the guard family. Like a door in an iron gate, the position holds fast without being forced open.
+The iron gate imagery, shared with Tutta Porta di Ferro and Porta di Ferro Alta, emphasizes the structural, non-yielding quality of the guard family. Like an iron gate, the position holds fast without being forced open.
 
 The word *mezzana*, middle, specifies the guard's position within that family. It stands between the low gate (Tutta Porta di Ferro) and the high gate (Porta di Ferro Alta), occupying the median of the vertical line.
 

@@ -5,7 +5,7 @@
 
 *The Overbind*
 
-Classification: *Gioco Stretto — Close Play*
+Classification: *Gioco Stretto — Narrow Play*
 
 Where the Middle Bind controls the arm at shoulder height, the Upper Bind drives it higher.
 
@@ -109,7 +109,7 @@ Because of this, the soprana throw is unusually reliable when practiced. It does
 
 In modern HEMA competition, the Upper Bind throw is permitted in many rulesets and scores as a takedown.
 
-The throw that results from the soprana is one of the cleaner takedowns available from a longsword context: it is controlled, directional, and does not require going to the ground with the opponent. The Scholar applies the lock, the opponent falls. The Scholar remains standing.
+The throw that results from the soprana is one of the cleaner takedowns available from a longsword context: it is controlled, directional, and does not require going to the ground with the opponent. You apply the lock, the opponent falls. You remain standing.
 
 Training the soprana specifically for competition: practice the transition from resistance to elevation (Drill 2 below) rather than the lock from a static starting position. The realistic competition entry is a resisted mezana followed by the upward continuation, not a cold soprana from the start.
 

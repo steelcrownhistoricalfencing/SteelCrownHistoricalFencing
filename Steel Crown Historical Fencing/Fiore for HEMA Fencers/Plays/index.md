@@ -55,7 +55,7 @@ All plays exist within one of two frameworks.
 
 ***Gioco Largo***, the Wide Game, takes place at extended measure, where the blades first make contact near their tips. At this distance, cuts and thrusts are the primary tools. You are too far to grab.
 
-***Gioco Stretto***, the Close Game, takes place at compressed measure, where contact is at the mid-blade or hilt. At this distance, the blade becomes secondary. Pommel strikes, joint locks, throws, and disarms become available.
+***Gioco Stretto***, the Narrow Game, takes place at compressed measure, where contact is at the mid-blade or hilt. At this distance, the blade becomes secondary. Pommel strikes, joint locks, throws, and disarms become available.
 
 The transition between them is not a choice: it is determined by the position of the feet and the location of the blade crossing.
 
@@ -67,9 +67,9 @@ Every play begins at a blade crossing. The nature of that crossing tells you whi
 
 **Crossing at the point** (*punta*): The weakest contact. Neither fencer has leverage. You cannot hold this crossing, you must act immediately. Only wide play is possible.
 
-**Crossing at the mid-blade** (*mezza spada*): The most common crossing. Both wide and close play options are available. This is the critical decision point: act at long measure, or close to short.
+**Crossing at the mid-blade** (*mezza spada*): The most common crossing. Both wide and narrow play options are available. This is the critical decision point: act at long measure, or close to short.
 
-**Crossing at the hilt** (*tutta*): The strongest bind for the fencer whose hilt is in contact. Close play only. You are already in stretto whether you intended to be or not.
+**Crossing at the hilt** (*tutta*): The strongest bind for the fencer whose hilt is in contact. Narrow play only. You are already in stretto whether you intended to be or not.
 
 ---
 
@@ -77,7 +77,7 @@ Every play begins at a blade crossing. The nature of that crossing tells you whi
 
 In wide play, the left foot tends to be forward.
 
-When the right foot steps forward, through a passing step, a failed largo technique, or a deliberate advance, close play becomes available.
+When the right foot steps forward, through a passing step, a failed largo technique, or a deliberate advance, narrow play becomes available.
 
 This is not incidental. Fiore designs the footwork of his plays so that the foot position after each action tells you which game to enter next.
 

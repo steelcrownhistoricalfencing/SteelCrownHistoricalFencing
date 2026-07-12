@@ -208,9 +208,9 @@ Understanding these roles allows the fencer to see relationships rather than mem
 
 ---
 
-### **Pulsing Guards**
+### **Striking Guards**
 
-Pulsing guards generate force through stored energy and release it through committed action.
+Striking guards (Pulsativa) generate force through stored energy and release it through committed action.
 
 These guards often begin in a chambered position and emphasize decisive movement.
 

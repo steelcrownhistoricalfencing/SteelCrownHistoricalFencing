@@ -1,8 +1,8 @@
-# Gioco Stretto — The Close Game
+# Gioco Stretto — The Narrow Game
 
 *Zogho Stretto*
 
-The Close Game begins when the distance collapses.
+The Narrow Game begins when the distance collapses.
 
 When blades meet at mid-sword or near the hilt, when bodies are close enough to touch, you are in stretto. The rules of wide play no longer apply. Cuts and thrusts at full extension are not available. What is available is everything else.
 
@@ -10,7 +10,7 @@ When blades meet at mid-sword or near the hilt, when bodies are close enough to 
 
 ---
 
-## **What Defines the Close Game**
+## **What Defines the Narrow Game**
 
 Three things identify stretto:
 
@@ -26,11 +26,11 @@ At this distance, the blade is too long to swing freely. Attempting a full cut r
 
 ## **How You Enter Stretto**
 
-No one enters the close game by choice in isolation. You arrive there.
+No one enters the narrow game by choice in isolation. You arrive there.
 
 The most common entry: a largo play resolves with the right foot passing forward. The exchange has closed the distance, and the foot position tells you which game follows.
 
-A deliberate passing step forward can also bring you to stretto range. Some guards, particularly *Tutta Porta di Ferro*, generate a crossing at the hilt directly, placing both fencers immediately in the close game.
+A deliberate passing step forward can also bring you to stretto range. Some guards, particularly *Tutta Porta di Ferro*, generate a crossing at the hilt directly, placing both fencers immediately in the narrow game.
 
 However you arrive, the decision to act in stretto must be immediate. The position is unstable. A fencer who pauses in stretto without acting gives the opponent time to recover.
 
@@ -89,7 +89,7 @@ A fencer who has studied only the longsword plays and not the wrestling will fin
 
 ---
 
-## **The Close Game Is Not Safe to Leave**
+## **The Narrow Game Is Not Safe to Leave**
 
 Fiore is explicit: once in stretto, you are not in a safe position to pause.
 
@@ -119,7 +119,7 @@ Disengaging from stretto requires a step back and a re-extension of the blade to
 
 ## **Key Idea**
 
-The close game is where the longsword becomes something other than a blade.
+The narrow game is where the longsword becomes something other than a blade.
 
 It becomes a control surface, a striking tool, and a lever.
 

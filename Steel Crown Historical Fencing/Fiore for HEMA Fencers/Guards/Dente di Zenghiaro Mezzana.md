@@ -5,16 +5,20 @@
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro-pd.png" alt="Dente di Zenghiaro Mezzana" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
 
+<<<<<<< Updated upstream
 
 *The Middle Boar's Tusk*
+=======
+*The Middle Boar's Tooth*
+>>>>>>> Stashed changes
 
 Classification: *Stabile — Stable Guard*
 
-Dente di Zenghiaro Mezzana is the centered expression of the boar's tusk guard family. Where Dente di Zenghiaro Destra and Sinestra angle the sword to one side or the other, Mezzana holds the point on the body's centerline at mid-body height, facing directly forward. The guard occupies the middle position between its two siblings — the tusk that splits the center.
+Dente di Zenghiaro Mezzana is the centered expression of the boar's tooth guard family. Where Dente di Zenghiaro Destra and Sinestra angle the sword to one side or the other, Mezzana holds the point on the body's centerline at mid-body height, facing directly forward. The guard occupies the middle position between its two siblings — the tooth that splits the center.
 
 For the modern fencer, Dente di Zenghiaro Mezzana teaches a principle of defensive patience: **the guard that faces directly forward, threatening nothing and yielding nothing, can receive any attack on either line and answer it with the same rising defense**. It is not a guard of deception or declaration. It is a guard of stillness that contains violence.
 
-Fiore treats the three Dente di Zenghiaro positions as expressions of the same fundamental idea. The Mezzana is the middle of the three, and what either outer tusk can do, the middle tusk can also do.
+Fiore treats the three Dente di Zenghiaro positions as expressions of the same fundamental idea. The Mezzana is the middle of the three, and what either outer tooth can do, the middle tooth can also do.
 
 ---
 
@@ -22,7 +26,7 @@ Fiore treats the three Dente di Zenghiaro positions as expressions of the same f
 
 ### **Translation**
 
-"This is Posta Dente di Zenghiaro Mezzana, because there are two tusks in the whole boar, and the middle tusk shares the nature of both. What one tusk can do, the other tusk can do, and what the other tusk can do, the middle tusk can do also."
+"This is Posta Dente di Zenghiaro Mezzana, because there are two teeth in the whole boar, and the middle tooth shares the nature of both. What one tooth can do, the other tooth can do, and what the other tooth can do, the middle tooth can do also."
 
 Fiore's description emphasizes continuity and shared capability across the three positions. The Mezzana is not lesser than the outer positions — it contains both of them. A fencer who understands this guard understands the entire boar's tooth family.
 
@@ -32,11 +36,11 @@ The verse also carries a tactical implication: the Mezzana can answer from eithe
 
 ## **The Meaning of the Name**
 
-*Dente di Zenghiaro* means *Boar's Tusk*, and *Mezzana* means *Middle* or *Median*.
+*Dente di Zenghiaro* means *Boar's Tooth*, and *Mezzana* means *Middle* or *Median*.
 
-The full name describes the position precisely: the middle tusk of the boar, centered between the two outer tusks. Where Destra places the sword on the right hip and Sinestra places it on the left, Mezzana holds it along the centerline of the body.
+The full name describes the position precisely: the middle tooth of the boar, centered between the two outer teeth. Where Destra places the sword on the right hip and Sinestra places it on the left, Mezzana holds it along the centerline of the body.
 
-The boar's tusk image is about the way the sword rises. A boar does not swing its tusks in horizontal arcs — it drives them upward from below in a sudden, committed thrust. The tusk rises from low to high with the full weight of the animal behind it. The Mezzana expresses this in its most direct form: a rising false-edge cut straight up the center.
+The boar's tooth image is about the way the sword rises. A boar does not swing its tusks in horizontal arcs — it drives them upward from below in a sudden, committed thrust. The tooth rises from low to high with the full weight of the animal behind it. The Mezzana expresses this in its most direct form: a rising false-edge cut straight up the center.
 
 ---
 
@@ -136,7 +140,7 @@ Because the guard holds the center and the false-edge sottano rises through the 
 
 Indirect approaches — feints that draw the guard's rising response, then redirect into the opening created — also challenge the Mezzana. If the fencer releases the rising cut too early against a feint, the guard is momentarily depleted and the opponent can exploit the recovery.
 
-At very close measure, the low and compact position leaves the head and upper body without the overhead coverage that guards like Bicorno or Posta Frontale provide. An opponent who collapses distance suddenly and drives forward high can find the guard unprepared for the transition to close play.
+At very close measure, the low and compact position leaves the head and upper body without the overhead coverage that guards like Bicorno or Posta Frontale provide. An opponent who collapses distance suddenly and drives forward high can find the guard unprepared for the transition to narrow play.
 
 ---
 
@@ -204,6 +208,6 @@ Finally, holding the guard with a rigid, extended point that does not threaten c
 
 Dente di Zenghiaro Mezzana is the guard of the patient center.
 
-It holds the middle, commits to neither side, and carries the same rising tusk that its siblings carry — available from any angle, threatening from no particular direction until the moment it is no longer patient.
+It holds the middle, commits to neither side, and carries the same rising tooth that its siblings carry — available from any angle, threatening from no particular direction until the moment it is no longer patient.
 
-**What one tusk can do, the middle tusk can also do. But only the middle tusk can wait without choosing.**
+**What one tooth can do, the middle tooth can also do. But only the middle tooth can wait without choosing.**

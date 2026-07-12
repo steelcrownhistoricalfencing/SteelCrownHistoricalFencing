@@ -5,7 +5,7 @@
 
 *The Middlebind*
 
-Classification: *Gioco Stretto — Close Play*
+Classification: *Gioco Stretto — Narrow Play*
 
 The Middle Bind is the second of Fiore's three joint locks — what the manuscript calls *lo secondo ligadure*. It is introduced here before the Lower Bind because the spiraling motion it requires underlies all three.
 
