@@ -57,9 +57,24 @@ Our study materials cover the historical sources we train from, with full docume
 
 <div class="contact-callout" markdown>
 
-## Get in Touch
+## Where We Train
 
-We are based in **Charlotte, North Carolina**.
+**King Tiger** — 1458 Perfection Ave, Belmont, NC 28012
+
+**Wednesday:** 7:30 PM – 9:30 PM  
+**Sunday:** 2:00 PM – 6:00 PM
+
+Please reach out before coming so we know to expect you.
+
+<iframe class="location-map" src="https://www.google.com/maps?q=1458+Perfection+Ave,+Belmont,+NC+28012&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map to King Tiger, 1458 Perfection Ave, Belmont, NC 28012"></iframe>
+
+</div>
+
+---
+
+<div class="contact-callout" markdown>
+
+## Get in Touch
 
 **Email:** [steelcrownhistoricalfencing@gmail.com](mailto:steelcrownhistoricalfencing@gmail.com)
 
