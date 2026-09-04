@@ -1,35 +1,41 @@
 # PDF Lessons — Source Documents
 
-Original scanned/authored course PDFs, kept here as the source of truth while
-we figure out how (and whether) to digitize/display them on the site.
+Original course PDFs, kept here as the source of truth while we figure out
+how (and whether) to digitize/display them on the site. All files drop
+flat into this folder — no subfolders.
 
-## Structure
-
-One subfolder per lesson/document, files named by the date of that version:
-
-```
-pdf-lessons-source/
-  <lesson-slug>/
-    YYYY-MM-DD.pdf
-    YYYY-MM-DD.pdf
-```
-
-Example:
+## Naming convention
 
 ```
-pdf-lessons-source/
-  longsword-fundamentals/
-    2023-05-10.pdf
-    2026-09-04.pdf
+Steel_Crown_<Topic_Name>[_<RomanNumeral>][_v<Major>.<Minor>].pdf
 ```
 
-- **Lesson slug**: lowercase, hyphenated, matches the course/lesson name.
-- **File name**: the date that version was produced or revised (`YYYY-MM-DD`),
-  not the upload date. Within a folder, the file with the latest date is the
-  current version.
-- **All versions are kept.** Older dated files stay in the folder as history —
-  don't delete them when a new version is added. Only the most recent version
-  is intended to ever be displayed/linked on the site.
+- **Topic name**: underscore-separated, matches the lesson/document topic
+  (e.g. `Control_the_Measure`).
+- **Roman numeral** (`I`, `II`, `III`, ...): optional. Marks a distinct
+  sequel / new lesson within a topic — not a version of the same lesson.
+  Only appears once a topic actually has more than one entry in its series.
+- **Version suffix** `_v{major}.{minor}`: optional.
+  - No suffix at all = **v1.0** (implied).
+  - Major number bumps on a substantial rewrite (`v2.0`, `v3.0`, ...).
+  - Minor number (`.1`, `.2`, ...) marks a small edit within that major
+    version (e.g. `v2.2` = major version 2, second minor revision).
+- Reference/program docs without a roman numeral (e.g.
+  `Fencing_Actions_Quick_Reference`) follow the same version-suffix rules
+  if/when they get revised — they just don't get a roman numeral since
+  there's only one entry.
+
+Example — three versions of the same lesson, plus the base:
+
+```
+Steel_Crown_Control_the_Measure_I.pdf        (v1.0, implied)
+Steel_Crown_Control_the_Measure_I_v2.0.pdf
+Steel_Crown_Control_the_Measure_I_v3.0.pdf
+```
+
+**All versions are kept** — don't delete superseded files. For a given
+topic + roman numeral, the highest `major.minor` is the current version
+intended for display; older ones stay for history.
 
 ## Storage
 
