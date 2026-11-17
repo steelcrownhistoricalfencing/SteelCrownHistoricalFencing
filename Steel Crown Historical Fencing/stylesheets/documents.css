@@ -1,0 +1,144 @@
+/* Opt-in reading styles. Legacy pages, site navigation, and the homepage are unchanged. */
+@font-face { font-family: "SC Open Sans"; font-style: normal; font-weight: 400; font-display: swap; src: url("../assets/fonts/open-sans/OpenSans-Regular.woff2") format("woff2"); }
+@font-face { font-family: "SC Open Sans"; font-style: normal; font-weight: 700; font-display: swap; src: url("../assets/fonts/open-sans/OpenSans-Bold.woff2") format("woff2"); }
+@font-face { font-family: "SC PT Serif"; font-style: normal; font-weight: 400; font-display: swap; src: url("../assets/fonts/pt-serif/PTSerif-Regular.woff2") format("woff2"); }
+@font-face { font-family: "SC PT Serif"; font-style: normal; font-weight: 700; font-display: swap; src: url("../assets/fonts/pt-serif/PTSerif-Bold.woff2") format("woff2"); }
+@font-face { font-family: "SC PT Serif"; font-style: italic; font-weight: 400; font-display: swap; src: url("../assets/fonts/pt-serif/PTSerif-Italic.woff2") format("woff2"); }
+@font-face { font-family: "SC PT Serif"; font-style: italic; font-weight: 700; font-display: swap; src: url("../assets/fonts/pt-serif/PTSerif-BoldItalic.woff2") format("woff2"); }
+
+.sc-document {
+  --sc-website: #0f1117;
+  --sc-steel: #9da4a8;
+  --sc-white: #ffffff;
+  --sc-oxblood: #4a0404;
+  --sc-ink: #202020;
+  --sc-muted: #676767;
+  --sc-soft: #f0f0ed;
+  --sc-text: var(--sc-ink);
+  --sc-secondary: var(--sc-muted);
+  --sc-accent: var(--sc-oxblood);
+  --sc-row: var(--sc-soft);
+  /* Material's root is 20px; one house unit is the usual 16px reading unit. */
+  --sc-unit: 0.8rem;
+  color: var(--sc-text);
+  font-family: "SC PT Serif", Georgia, serif;
+  font-size: calc(1.125 * var(--sc-unit));
+  line-height: 1.6;
+  max-width: 72ch;
+  min-width: 0;
+  margin: 0 auto;
+  overflow-wrap: break-word;
+}
+[data-md-color-scheme="slate"] .sc-document {
+  --sc-text: var(--sc-white);
+  --sc-secondary: var(--sc-steel);
+  --sc-accent: var(--sc-white);
+  --sc-row: var(--sc-website);
+}
+.md-typeset .sc-document h1,
+.md-typeset .sc-document h2 {
+  color: var(--sc-text);
+  font-family: "SC Open Sans", Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: normal;
+}
+.md-typeset .sc-document h1 {
+  font-size: clamp(calc(2 * var(--sc-unit)), 4vw, calc(2.5 * var(--sc-unit)));
+  margin: 0 0 0.6em;
+}
+.md-typeset .sc-document h2 {
+  border-left: 0;
+  border-bottom: 1px solid var(--sc-accent);
+  font-size: calc(1.5 * var(--sc-unit));
+  margin: 1.8em 0 0.6em;
+  padding: 0 0 0.25em;
+}
+.md-typeset .sc-document h3,
+.md-typeset .sc-document h4 {
+  color: var(--sc-accent);
+  font-family: "SC PT Serif", Georgia, serif;
+  font-size: calc(1.1 * var(--sc-unit));
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 1.3em 0 0.5em;
+}
+.md-typeset .sc-document p,
+.md-typeset .sc-document li { line-height: 1.6; }
+.md-typeset .sc-document p { margin: 0 0 0.8em; }
+.md-typeset .sc-document .sc-summary {
+  color: var(--sc-secondary);
+  font-size: 1em;
+  font-style: italic;
+}
+.md-typeset .sc-document .sc-metadata {
+  color: var(--sc-secondary);
+  font-size: calc(1 * var(--sc-unit));
+  line-height: 1.5;
+}
+.md-typeset .sc-document a:not(.headerlink) {
+  color: var(--sc-accent);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.sc-document a:focus-visible,
+.sc-document button:focus-visible,
+.sc-document [tabindex]:focus-visible { outline: 2px solid var(--sc-accent); outline-offset: 3px; }
+.md-typeset .sc-document hr { border-color: var(--sc-steel); margin: 1.5em 0; }
+.sc-document-actions { margin: 0 0 1.25em; }
+.sc-document-actions button {
+  background: var(--sc-oxblood);
+  border: 1px solid var(--sc-oxblood);
+  border-radius: 0;
+  color: var(--sc-white);
+  cursor: pointer;
+  font-family: "SC Open Sans", Arial, sans-serif;
+  font-size: calc(1 * var(--sc-unit));
+  padding: 0.6em 0.9em;
+}
+.sc-table-scroll { max-width: 100%; overflow-x: auto; margin: 1em 0; }
+.md-typeset .sc-document table:not([class]) {
+  border: 0;
+  border-collapse: collapse;
+  font-size: calc(1 * var(--sc-unit));
+  line-height: 1.5;
+  margin: 0;
+  width: 100%;
+}
+.md-typeset .sc-document table:not([class]) th {
+  background: var(--sc-ink);
+  color: var(--sc-white);
+  font-weight: 700;
+}
+.md-typeset .sc-document table:not([class]) th,
+.md-typeset .sc-document table:not([class]) td { padding: 0.6em; border: 0; vertical-align: top; }
+.md-typeset .sc-document table:not([class]) tbody tr:nth-child(even) { background: var(--sc-row); }
+.sc-callout { border: 0; display: table; margin: 1.25em 0; width: 100%; }
+.md-typeset .sc-document .sc-callout-label {
+  background: var(--sc-oxblood);
+  color: var(--sc-white);
+  display: table-cell;
+  font-size: calc(1 * var(--sc-unit));
+  margin: 0;
+  padding: 0.75em;
+  vertical-align: top;
+  width: 7em;
+}
+.sc-callout-body {
+  background: var(--sc-soft);
+  color: var(--sc-ink);
+  display: table-cell;
+  padding: 0.75em;
+  vertical-align: top;
+}
+.md-typeset .sc-document .sc-callout-body p:last-child { margin-bottom: 0; }
+.sc-document img,
+.sc-document svg { max-width: 100%; height: auto; }
+.sc-document figure { margin: 1.5em 0; }
+.sc-document figcaption,
+.sc-document .manuscript-caption { color: var(--sc-secondary); font-size: calc(1 * var(--sc-unit)); line-height: 1.5; }
+@media screen and (max-width: 35rem) {
+  .sc-callout,
+  .md-typeset .sc-document .sc-callout-label,
+  .sc-callout-body { display: block; width: auto; }
+}

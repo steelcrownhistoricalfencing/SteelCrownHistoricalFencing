@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: inside-and-outside-line
+title: Inside and Outside Line
+summary: A reference on the relationship between the two weapons.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Steel Crown
+---
+
 # Inside and Outside Line
 
 Where your weapon is relative to your opponent's weapon determines what both of you can do.

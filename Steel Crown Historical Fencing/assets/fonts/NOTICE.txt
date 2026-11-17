@@ -1,0 +1,15 @@
+Open Sans Regular and Bold
+Digitized data copyright (c) 2010-2011, Google Corporation.
+Source: unmodified Open Sans font data distributed by Debian's fonts-open-sans
+package and https://www.opensans.com/.
+License: Apache License 2.0; see open-sans/LICENSE.txt.
+
+PT Serif Regular, Bold, Italic, and Bold Italic
+Copyright (c) 2010, ParaType Ltd.
+Source: Google Fonts, ofl/ptserif/PT_Serif-Web-*.ttf.
+https://github.com/google/fonts/tree/main/ofl/ptserif
+License: SIL Open Font License 1.1; see pt-serif/OFL.txt.
+
+Both families were losslessly compressed to WOFF2 with fontTools 4.68.0.
+No glyphs, names, weights, or outlines were changed or subsetted.
+manifest.json records the exact compressed font bytes used by this build.

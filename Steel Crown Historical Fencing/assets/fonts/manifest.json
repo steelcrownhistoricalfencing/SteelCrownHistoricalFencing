@@ -1,0 +1,29 @@
+{
+  "fonts": [
+    {
+      "path": "assets/fonts/open-sans/OpenSans-Bold.woff2",
+      "sha256": "52246c882f2a88d5708f848c12ec87802a849379dc97cc1b0dafe9367cbefa93"
+    },
+    {
+      "path": "assets/fonts/open-sans/OpenSans-Regular.woff2",
+      "sha256": "d54c1bf3955dd44f243f615020c897f0fa6a528d93e7bd6e1c1d9fa672267047"
+    },
+    {
+      "path": "assets/fonts/pt-serif/PTSerif-Bold.woff2",
+      "sha256": "91af5739ac34b3b69ff34ad92bc46c5115933014b722e4b0208ca15f2ec0d644"
+    },
+    {
+      "path": "assets/fonts/pt-serif/PTSerif-BoldItalic.woff2",
+      "sha256": "52a8c66ce940ea145c2c4dcef868fe6a21b0915e3b40ddbc2f3e84399780c1c0"
+    },
+    {
+      "path": "assets/fonts/pt-serif/PTSerif-Italic.woff2",
+      "sha256": "8e3cad367eb1a9205fd9bed8438af210dd9d2152af606ddc547e86ded49627c6"
+    },
+    {
+      "path": "assets/fonts/pt-serif/PTSerif-Regular.woff2",
+      "sha256": "fa58f4524d1a937117a119f1d2a71974e82d2d5632c3034fe479fd81cca39133"
+    }
+  ]
+}
+
