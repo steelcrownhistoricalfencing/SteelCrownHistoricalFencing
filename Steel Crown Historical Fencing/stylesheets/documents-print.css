@@ -6,11 +6,10 @@
     @bottom-left { content: "STEEL CROWN"; font: 9pt "SC PT Serif"; color: #676767; }
     @bottom-right { content: "PAGE | " counter(page); font: 9pt "SC PT Serif"; color: #676767; }
   }
-  @page sc-reference { @bottom-right { content: "REFERENCE | " counter(page); } }
-  @page sc-lesson { @bottom-right { content: "LESSON | " counter(page); } }
-  @page sc-guide { @bottom-right { content: "GUIDE | " counter(page); } }
-  @page sc-curriculum { @bottom-right { content: "CURRICULUM | " counter(page); } }
-  @page sc-cover { @bottom-left { content: none; } @bottom-right { content: none; } }
+  @page sc-covered:first { @bottom-left { content: none; } @bottom-right { content: none; } }
+  body:has(.sc-cover--separate) { page: sc-covered; }
+  body:has(.sc-document) .md-content__inner::before { display: none !important; content: none !important; }
+  body:has(.sc-document) .md-skip { display: none !important; }
   body.sc-print-document,
   body:has(.sc-document) { background: #ffffff !important; color: #202020 !important; margin: 0; }
   body:has(.sc-document) .md-header,
@@ -30,6 +29,8 @@
     --sc-secondary: #676767 !important;
     --sc-accent: #4a0404 !important;
     --sc-row: #f0f0ed !important;
+    --sc-panel: #f0f0ed !important;
+    --sc-rule: #9da4a8 !important;
     color: #202020 !important;
     font: 11pt/1.5 "SC PT Serif", Georgia, serif;
     max-width: none;
@@ -38,10 +39,6 @@
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
   }
-  .sc-document[data-sc-type="REFERENCE"] { page: sc-reference; }
-  .sc-document[data-sc-type="LESSON"] { page: sc-lesson; }
-  .sc-document[data-sc-type="GUIDE"] { page: sc-guide; }
-  .sc-document[data-sc-type="CURRICULUM"] { page: sc-curriculum; }
   .sc-document h1,
   .sc-document h2 { color: #202020 !important; font-family: "SC Open Sans", Arial, sans-serif; font-weight: 700; letter-spacing: normal; }
   .sc-document h1 { font-size: 25pt !important; line-height: 1.2 !important; margin: 0 0 8pt !important; }
@@ -69,7 +66,7 @@
   .sc-document tbody tr:nth-child(even) { background: #f0f0ed !important; }
   .sc-document thead { display: table-header-group; }
   .sc-document tr { break-inside: avoid; }
-  .sc-callout { display: table; margin: 10pt 0; break-inside: avoid; }
+  .sc-document .sc-callout { border: 0; display: table; margin: 10pt 0; break-inside: avoid; }
   .sc-document .sc-callout-label { background: #4a0404 !important; color: #ffffff !important; display: table-cell; font-size: 10pt; padding: 8pt; width: 72pt; }
   .sc-callout-body { background: #f0f0ed; color: #202020; display: table-cell; padding: 8pt; }
   .sc-document img,
@@ -79,7 +76,7 @@
   .sc-document details { display: block; }
   .sc-document details > * { display: block !important; }
   .sc-cover { background: #ffffff; border: 0; box-sizing: border-box; text-align: center; }
-  .sc-cover--separate { height: 648pt; margin: 0; padding: 10pt 0 0; page: sc-cover; break-after: page; }
+  .sc-cover--separate { min-height: 600pt; margin: 0; padding: 10pt 0 0; break-after: page; }
   .sc-cover--compact { padding: 0; margin: 0 0 24pt; }
   .sc-document .sc-cover-logo { display: block; width: 300pt; max-width: 100%; max-height: none; height: 150pt; margin: 0 auto 32pt; }
   .sc-document .sc-cover--compact .sc-cover-logo { width: 180pt; height: 90pt; margin: 0 auto 12pt; }
@@ -100,6 +97,7 @@
   .sc-document .sc-section-subtitle { color: #676767 !important; font: italic 12pt/1.4 "SC PT Serif" !important; margin: 0 !important; }
   .sc-document .sc-minor-label { color: #4a0404 !important; font: 11pt/1.4 "SC PT Serif" !important; margin: 12pt 0 6pt !important; text-transform: uppercase; break-after: avoid; }
   .sc-document .sc-callout-label { text-transform: uppercase; }
+  .sc-minor-point { break-inside: avoid; }
   .sc-document .sc-table-scroll table th:first-child,
   .sc-document .sc-table-scroll table td:first-child { width: 22%; }
 }

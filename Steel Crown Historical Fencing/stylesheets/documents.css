@@ -18,6 +18,8 @@
   --sc-secondary: var(--sc-muted);
   --sc-accent: var(--sc-oxblood);
   --sc-row: var(--sc-soft);
+  --sc-panel: var(--sc-soft);
+  --sc-rule: #9da4a8;
   /* Material's root is 20px; one house unit is the usual 16px reading unit. */
   --sc-unit: 0.8rem;
   color: var(--sc-text);
@@ -30,10 +32,12 @@
   overflow-wrap: break-word;
 }
 [data-md-color-scheme="slate"] .sc-document {
-  --sc-text: var(--sc-white);
+  --sc-text: #e6e9ef;
   --sc-secondary: var(--sc-steel);
-  --sc-accent: var(--sc-white);
-  --sc-row: var(--sc-website);
+  --sc-accent: #e0b5b5;
+  --sc-row: #1b1e26;
+  --sc-panel: #1b1e26;
+  --sc-rule: #555d69;
 }
 .md-typeset .sc-document h1,
 .md-typeset .sc-document h2 {
@@ -98,6 +102,10 @@
 }
 .sc-table-scroll { max-width: 100%; overflow-x: auto; margin: 1em 0; }
 .md-typeset .sc-document table:not([class]) {
+  display: table;
+  max-width: 100%;
+  table-layout: fixed;
+  overflow: visible;
   border: 0;
   border-collapse: collapse;
   font-size: calc(1 * var(--sc-unit));
@@ -113,7 +121,7 @@
 .md-typeset .sc-document table:not([class]) th,
 .md-typeset .sc-document table:not([class]) td { padding: 0.6em; border: 0; vertical-align: top; }
 .md-typeset .sc-document table:not([class]) tbody tr:nth-child(even) { background: var(--sc-row); }
-.sc-callout { border: 0; display: table; margin: 1.25em 0; width: 100%; }
+.sc-document .sc-callout { border: 1px solid var(--sc-rule); display: table; margin: 1.25em 0; width: 100%; font-family: "SC PT Serif", Georgia, serif; color: var(--sc-text); }
 .md-typeset .sc-document .sc-callout-label {
   background: var(--sc-oxblood);
   color: var(--sc-white);
@@ -125,8 +133,8 @@
   width: 7em;
 }
 .sc-callout-body {
-  background: var(--sc-soft);
-  color: var(--sc-ink);
+  background: var(--sc-panel);
+  color: var(--sc-text);
   display: table-cell;
   padding: 0.75em;
   vertical-align: top;
@@ -138,33 +146,31 @@
 .sc-document figcaption,
 .sc-document .manuscript-caption { color: var(--sc-secondary); font-size: calc(1 * var(--sc-unit)); line-height: 1.5; }
 @media screen and (max-width: 35rem) {
-  .sc-callout,
+  .sc-document .sc-callout,
   .md-typeset .sc-document .sc-callout-label,
   .sc-callout-body { display: block; width: auto; }
 }
 
 /* Reference-template structure: branded title block, labeled sections, and minor points. */
 .sc-cover {
-  background: var(--sc-white);
-  border-top: 5px solid var(--sc-oxblood);
-  border-bottom: 1px solid var(--sc-steel);
-  color: var(--sc-ink);
-  padding: 1.5em 1.25em 1.75em;
+  border-bottom: 1px solid var(--sc-rule);
+  color: var(--sc-text);
+  padding: 0 0 1em;
   margin: 0 0 1.4em;
-  text-align: center;
+  text-align: left;
 }
-.sc-cover-logo { display: block; width: 300px; max-width: 85%; margin: 0 auto 1em; }
+.sc-cover-logo { display: none; }
 .md-typeset .sc-document .sc-cover h1 {
-  border-bottom: 2px solid var(--sc-oxblood);
-  color: var(--sc-ink);
+  border-bottom: 0;
+  color: var(--sc-text);
   margin: 0 0 0.55em;
   padding-bottom: 0.55em;
-  text-transform: uppercase;
+  text-transform: none;
 }
 .md-typeset .sc-document .sc-cover .sc-summary,
-.md-typeset .sc-document .sc-cover .sc-metadata { color: var(--sc-muted); }
+.md-typeset .sc-document .sc-cover .sc-metadata { color: var(--sc-secondary); }
 .md-typeset .sc-document .sc-cover-topic {
-  color: var(--sc-oxblood);
+  color: var(--sc-accent);
   font-size: calc(1 * var(--sc-unit));
   font-weight: 700;
   letter-spacing: 0.04em;
@@ -181,7 +187,7 @@
   text-transform: uppercase;
 }
 .md-typeset .sc-document .sc-section h2 {
-  border-bottom: 2px solid var(--sc-accent);
+  border-bottom: 1px solid var(--sc-rule);
   margin: 0 0 0.55em;
   padding-bottom: 0.35em;
 }
@@ -197,5 +203,6 @@
   text-transform: uppercase;
 }
 .sc-minor-point { margin: 1em 0; }
-.md-typeset .sc-document .sc-table-scroll table th:first-child,
-.md-typeset .sc-document .sc-table-scroll table td:first-child { width: 22%; }
+.md-typeset .sc-document table th:first-child,
+.md-typeset .sc-document table td:first-child { width: 22%; }
+.md-typeset .sc-document td { overflow-wrap: anywhere; }

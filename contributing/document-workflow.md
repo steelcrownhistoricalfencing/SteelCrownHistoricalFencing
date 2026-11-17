@@ -14,6 +14,12 @@ Automated release PDFs, full curriculum validation, and bulk migration are defer
 
 ## Preview and authoring
 
+Screen uses a compact, theme-aware title block without a document logo. Print retains the branded cover. Tables use Material's native responsive handling; labeled callouts and sections are transformed with an HTML parser, not regular-expression HTML rewrites. Section labels/subtitles remain optional; new authors do not need to configure them.
+
+Pull requests run a strict build and structural regression tests. These are not browser screenshot or PDF visual tests. Before approval, check the complete MkDocs page in Edge: light and dark at desktop and phone widths, then print from both themes. Confirm that the cover is first (no footer-only leading page), short explanations stay together, the title occurs once, tables fit, and all fencing text and links remain intact. Use Letter, 100% scale, browser headers/footers off, and backgrounds on for the reference print appearance.
+
+Browser printing remains manual. Automatic downloadable release PDFs and a framework migration are separate future work, not part of this cleanup.
+
 Use Python 3.12 and a virtual environment. From the repository root:
 
 ```sh
