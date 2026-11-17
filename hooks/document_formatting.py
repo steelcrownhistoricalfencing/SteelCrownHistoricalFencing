@@ -2,7 +2,7 @@
 
 from datetime import date
 from hashlib import sha256
-from html import escape
+from html import escape, unescape
 import json
 from pathlib import Path
 import re
@@ -44,7 +44,7 @@ def on_page_content(html, page, config, files, **kwargs):
     except ValueError as exc:
         raise PluginError(f"{page.file.src_uri}: updated must be an ISO date") from exc
     heading = re.findall(r"<h1(?:\s[^>]*)?>(.*?)</h1>", html, re.DOTALL)
-    if len(heading) != 1 or re.sub(r"<[^>]*>", "", heading[0]) != escape(meta["title"]):
+    if len(heading) != 1 or unescape(re.sub(r"<[^>]*>", "", heading[0])) != meta["title"]:
         raise PluginError(f"{page.file.src_uri}: use one H1 matching title")
     status = {"draft": "Draft", "review": "In review", "approved": "Approved", "archived": "Archived"}[meta["status"]]
     details = " | ".join((meta["type"].capitalize(), ", ".join(meta["authors"]),
