@@ -1,11 +1,16 @@
-/* Shared by browser Print and the pinned offline PDF renderer. */
+/* Browser-print template. Automated release PDF publishing is not part of this pilot. */
 @media print {
   @page {
     size: Letter;
     margin: 1in;
     @bottom-left { content: "STEEL CROWN"; font: 9pt "SC PT Serif"; color: #676767; }
-    @bottom-right { content: string(sc-type) " | " string(sc-status) " | " counter(page); font: 9pt "SC PT Serif"; color: #676767; }
+    @bottom-right { content: "PAGE | " counter(page); font: 9pt "SC PT Serif"; color: #676767; }
   }
+  @page sc-reference { @bottom-right { content: "REFERENCE | " counter(page); } }
+  @page sc-lesson { @bottom-right { content: "LESSON | " counter(page); } }
+  @page sc-guide { @bottom-right { content: "GUIDE | " counter(page); } }
+  @page sc-curriculum { @bottom-right { content: "CURRICULUM | " counter(page); } }
+  @page sc-cover { @bottom-left { content: none; } @bottom-right { content: none; } }
   body.sc-print-document,
   body:has(.sc-document) { background: #ffffff !important; color: #202020 !important; margin: 0; }
   body:has(.sc-document) .md-header,
@@ -21,17 +26,22 @@
   body:has(.sc-document) .md-content,
   body:has(.sc-document) .md-content__inner { display: block; max-width: none; width: auto; margin: 0; padding: 0; }
   .sc-document {
-    --sc-text: #202020;
-    --sc-secondary: #676767;
-    --sc-accent: #4a0404;
-    --sc-row: #f0f0ed;
+    --sc-text: #202020 !important;
+    --sc-secondary: #676767 !important;
+    --sc-accent: #4a0404 !important;
+    --sc-row: #f0f0ed !important;
     color: #202020 !important;
     font: 11pt/1.5 "SC PT Serif", Georgia, serif;
     max-width: none;
     width: auto;
     margin: 0;
-    string-set: sc-type attr(data-sc-type), sc-status attr(data-sc-status);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
+  .sc-document[data-sc-type="REFERENCE"] { page: sc-reference; }
+  .sc-document[data-sc-type="LESSON"] { page: sc-lesson; }
+  .sc-document[data-sc-type="GUIDE"] { page: sc-guide; }
+  .sc-document[data-sc-type="CURRICULUM"] { page: sc-curriculum; }
   .sc-document h1,
   .sc-document h2 { color: #202020 !important; font-family: "SC Open Sans", Arial, sans-serif; font-weight: 700; letter-spacing: normal; }
   .sc-document h1 { font-size: 25pt !important; line-height: 1.2 !important; margin: 0 0 8pt !important; }
@@ -68,4 +78,28 @@
   .sc-document figcaption { break-before: avoid; }
   .sc-document details { display: block; }
   .sc-document details > * { display: block !important; }
+  .sc-cover { background: #ffffff; border: 0; box-sizing: border-box; text-align: center; }
+  .sc-cover--separate { height: 648pt; margin: 0; padding: 10pt 0 0; page: sc-cover; break-after: page; }
+  .sc-cover--compact { padding: 0; margin: 0 0 24pt; }
+  .sc-document .sc-cover-logo { display: block; width: 300pt; max-width: 100%; max-height: none; height: 150pt; margin: 0 auto 32pt; }
+  .sc-document .sc-cover--compact .sc-cover-logo { width: 180pt; height: 90pt; margin: 0 auto 12pt; }
+  .sc-document .sc-cover h1 {
+    border-bottom: 2pt solid #4a0404 !important;
+    margin: 0 auto 14pt !important;
+    padding: 0 0 14pt;
+    text-transform: uppercase;
+  }
+  .sc-document .sc-cover .sc-summary { max-width: 420pt; margin: 0 auto 26pt !important; }
+  .sc-document .sc-cover-topic { color: #4a0404 !important; font: bold 10pt/1.4 "SC PT Serif" !important; margin: 0 0 22pt !important; }
+  .sc-document .sc-cover .sc-metadata { margin: 0 !important; text-transform: uppercase; }
+  .sc-document .sc-cover p { text-align: center !important; }
+  .sc-section { margin: 0 0 24pt; }
+  .sc-section-heading { break-inside: avoid; break-after: avoid; margin: 0 0 14pt; }
+  .sc-document .sc-section-label { color: #4a0404 !important; font: bold 11pt/1.3 "SC PT Serif" !important; margin: 0 0 8pt !important; text-transform: uppercase; }
+  .sc-document .sc-section h2 { border-bottom: 2pt solid #4a0404 !important; margin: 0 0 10pt !important; padding-bottom: 8pt !important; }
+  .sc-document .sc-section-subtitle { color: #676767 !important; font: italic 12pt/1.4 "SC PT Serif" !important; margin: 0 !important; }
+  .sc-document .sc-minor-label { color: #4a0404 !important; font: 11pt/1.4 "SC PT Serif" !important; margin: 12pt 0 6pt !important; text-transform: uppercase; break-after: avoid; }
+  .sc-document .sc-callout-label { text-transform: uppercase; }
+  .sc-document .sc-table-scroll table th:first-child,
+  .sc-document .sc-table-scroll table td:first-child { width: 22%; }
 }

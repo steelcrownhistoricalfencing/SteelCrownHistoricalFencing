@@ -11,23 +11,47 @@ version: "0.1"
 updated: 2026-11-17
 authors:
   - Steel Crown
+presentation:
+  cover: true
+  sections:
+    read-the-weapons-first:
+      label: Core principle
+      subtitle: Start with the relationship between the two weapons.
+    the-definition:
+      label: Foundations
+      subtitle: Distinguish the inside and outside line.
+    why-it-matters:
+      label: Decision-making
+      subtitle: Connect positioning with the available responses.
+    how-lines-change:
+      label: Movement and adaptation
+      subtitle: Track the relationship as the exchange develops.
+    common-errors:
+      label: Coaching observations
+      subtitle: Recognize when positioning and action do not match.
+    connection-to-the-fiore-curriculum:
+      label: Historical connection
+      subtitle: Read the plays through their line decisions.
 ---
 
 # Inside and Outside Line
+
+## Read the weapons first
 
 Where your weapon is relative to your opponent's weapon determines what both of you can do.
 
 This is not a subtle point. It is probably the single most practically useful spatial concept in fencing. Students who understand it make better decisions in sparring immediately. Students who do not understand it repeat the same errors indefinitely without knowing why.
 
-**Your position relative to your opponent's weapon is the first thing to read in any exchange.**
+> **Main point** Your position relative to your opponent's weapon is the first thing to read in any exchange.
 
 ---
 
 ## The Definition
 
-The **inside line** is the space between your opponent's weapon and their centerline. If your blade is on the inside line, it is positioned between their guard and the center of their body.
-
-The **outside line** is the space on the far side of their weapon arm. If your blade is on the outside line, it is positioned away from their centerline, on the side of their weapon hand or beyond it.
+| Line | Definition |
+| --- | --- |
+| **Inside** | The **inside line** is the space between your opponent's weapon and their centerline. If your blade is on the inside line, it is positioned between their guard and the center of their body. |
+| **Outside** | The **outside line** is the space on the far side of their weapon arm. If your blade is on the outside line, it is positioned away from their centerline, on the side of their weapon hand or beyond it. |
 
 A simpler way to feel the distinction: on the inside line, your blade and their blade are in the same general space. On the outside line, your blade has cleared their weapon entirely and is approaching from a direction they cannot easily address with it.
 

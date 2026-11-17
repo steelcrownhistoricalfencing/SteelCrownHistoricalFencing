@@ -4,9 +4,11 @@ This is a small pilot of the draft [formatting standard](formatting-standard.md)
 
 ## Scope
 
-The existing `Fencing Concepts/Inside and Outside Line.md` page opts into shared reading and print styles using `format: steel-crown-v1`. Its teaching text, capitalization, and public URL are unchanged. All other pages and the homepage retain their existing styles.
+The existing `Fencing Concepts/Inside and Outside Line.md` page opts into shared reading and print styles using `format: steel-crown-v1`. Its fencing explanations and public URL are preserved. The opening takeaway is now a main-point callout, and the two unchanged definitions are arranged as a comparison table. All other pages and the homepage retain their existing styles.
 
-Open Sans and PT Serif are bundled with licenses and checked hashes. A generated summary/status block and Print / Save as PDF button use the shared styles. Print uses US Letter, white backgrounds, and the standard typography.
+Open Sans and PT Serif are bundled with licenses and checked hashes. The logo is the original image extracted from the supplied formatting PDF, not a redraw. The pilot follows that reference's cover, oxblood section labels and rules, italic purpose lines, tables, and main-point panels. Print uses US Letter and white backgrounds.
+
+The optional `presentation` mapping holds template choices, not custom CSS. `presentation.cover: true` gives a separate printed cover; omitting it gives a compact title block. `presentation.sections` is keyed by existing heading anchors; each entry may supply a short `label` and a `subtitle` explaining the section's purpose. Section numbers and visual treatments are generated consistently. These additions are editorial labels; technical content still requires normal review.
 
 Automated release PDFs, full curriculum validation, and bulk migration are deferred. Browser Print is not a pinned, authoritative PDF pipeline. The imported standard remains draft 0.1; this pilot does not automatically approve it.
 
