@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-glossary
+title: Glossary — Godinho Montante
+summary: Key terms used throughout Godinho's Montante text.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Glossary — Godinho Montante
 
 **Montante** — A large two-handed sword, typically used in Iberian martial arts. It is similar to the German zweihänder or the Italian spadone.

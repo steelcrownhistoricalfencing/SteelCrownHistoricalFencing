@@ -5,8 +5,7 @@ summary: A shared system for curriculum, teaching materials, and reference docum
 type: guide
 audience: instructors
 visibility: internal
-status: draft
-version: "0.1"
+version: "1.0"
 updated: 2026-11-17
 authors:
   - Steel Crown
@@ -16,7 +15,7 @@ authors:
 
 A shared system for curriculum, teaching materials, and reference documents.
 
-Draft 0.1 | November 17, 2026 | For approval
+Version 1.0 | November 17, 2026 | Adopted
 
 ## A standard that supports the material
 
@@ -24,15 +23,15 @@ Steel Crown documents should feel like parts of one collection, whether someone 
 
 **The central rule:** Write the content once in Markdown. Shared templates control its appearance in HTML and PDF. Fix recurring layout problems in the template, not separately in every document.
 
-### What this draft keeps and adds
+### What this standard keeps and adds
 
 | Basis | Treatment |
 | --- | --- |
 | Supplied Formatting.pdf | Keep Open Sans headings, PT Serif text, dark ink, muted subtitles, oxblood labels, restrained tables, and main-point callouts. |
 | Supplied palette image | Keep Website #0f1117, Steel Grey 2 #9da4a8, White #ffffff, and Oxblood #4a0404. |
-| New defaults proposed here | Define source structure, spacing, document variants, accessibility checks, shared outputs, and review rules. These are not previously approved policy. |
+| Defaults added here | Define source structure, spacing, document variants, accessibility checks, shared outputs, and review rules. |
 
-The sample cover's blue divider is replaced with oxblood in this draft, keeping decorative color within the supplied palette. That change needs approval along with the new defaults.
+The sample cover's blue divider is replaced with oxblood, keeping decorative color within the supplied palette.
 
 ### Consistent styles, appropriate structures
 
@@ -45,7 +44,7 @@ The sample cover's blue divider is replaced with oxblood in this draft, keeping 
 
 These are organizing prompts, not mandatory empty headings. A Meyer reference sheet does not need invented timings; an instructor guide does not need a drill sequence. Use weapon- or tradition-specific fields only when the material calls for them.
 
-**Status:** This is a proposed standard and an example of its compact reference layout. No repository migration or website configuration is included in this draft.
+**Status:** Adopted as Steel Crown policy. The website implements it through the shared hook and styles; see the [workflow](document-workflow.md).
 
 ## Color and brand
 
@@ -67,7 +66,7 @@ The first four values come from the supplied palette. Ink, Muted, and Soft surfa
 
 Use Ink on White for normal print and light-theme text. Use White on Website for dark-theme text, with Steel Grey 2 for secondary details. Use White on Oxblood or Ink when text sits inside a dark label.
 
-Do not use Steel Grey 2 as small text on White, or Oxblood as text on Website. Both combinations are too low contrast for this system. The proposed minimum is 4.5:1 for normal text and 3:1 for essential diagram lines and controls against adjacent colors. Check the actual rendered pairing, including hover and focus states.
+Do not use Steel Grey 2 as small text on White, or Oxblood as text on Website. Both combinations are too low contrast for this system. The minimum is 4.5:1 for normal text and 3:1 for essential diagram lines and controls against adjacent colors. Check the actual rendered pairing, including hover and focus states.
 
 Links are underlined, not distinguished by color alone. Safety notices, roles, and diagram directions also need words, symbols, or line styles. A black-and-white print must still make sense.
 
@@ -104,7 +103,7 @@ Short documents use a compact title block. Longer guides may use the sample's ce
 
 Use one document title, then main sections and subheadings without skipped levels. Store headings in sentence case; templates may uppercase a cover title or short label. Do not write whole paragraphs in capitals.
 
-Keep headings with the following paragraph. Avoid single-line paragraph fragments at page edges. Repeat table headers across pages and do not split a short row. Footer format is document type, page number, and an unobtrusive draft marker when applicable. Templates control page breaks; start a new page only when it helps navigation, not automatically for every section.
+Keep headings with the following paragraph. Avoid single-line paragraph fragments at page edges. Repeat table headers across pages and do not split a short row. Footer format is document type and page number. Templates control page breaks; start a new page only when it helps navigation, not automatically for every section.
 
 ## Markdown source and document structure
 
@@ -120,7 +119,6 @@ summary: Use distance changes to invite a readable response.
 type: lesson
 audience: instructors
 visibility: internal
-status: draft
 version: "0.1"
 updated: 2026-11-17
 authors:
@@ -130,9 +128,9 @@ historical_lens: null
 ---
 ```
 
-Required fields are id, title, summary, type, audience, visibility, status, version, updated, and authors. The final two fields above are optional lesson fields; omit them when irrelevant. Other specialist fields need a documented purpose and schema before use.
+Required fields are id, title, summary, type, audience, visibility, version, updated, and authors. The final two fields above are optional lesson fields; omit them when irrelevant. Other specialist fields need a documented purpose and schema before use.
 
-Use a stable lowercase-hyphen id and filename, such as distance-as-a-feint.md. Keep an existing public URL stable even if the title changes. Allowed types are lesson, reference, curriculum, and guide. Allowed status values are draft, review, approved, and archived. Audience is students, instructors, or mixed; visibility is public or internal. These labels do not provide access control.
+Use a stable lowercase-hyphen id and filename, such as distance-as-a-feint.md. Keep an existing public URL stable even if the title changes. Allowed types are lesson, reference, curriculum, and guide. Audience is students, instructors, or mixed; visibility is public or internal. These labels do not provide access control.
 
 ### Body and assets
 
@@ -190,7 +188,7 @@ Record the creator, source, permission or license, and any adaptations for borro
 
 ### Safety must remain local and visible
 
-Put an activity's safety requirements beside its instructions, even if a broader safety policy is also linked. State the equipment, contact constraints, stop conditions, and supervision requirements that actually apply. Formatting a document is not approval of its training content.
+Put an activity's safety requirements beside its instructions, even if a broader safety policy is also linked. State the equipment, contact constraints, stop conditions, and supervision requirements that actually apply. Reformatting a document does not review its training content.
 
 Do not infer new safety limits, modify technical instructions, or remove warnings during migration. Flag unclear or contradictory material for an instructor's decision.
 
@@ -223,20 +221,20 @@ The build should embed fonts, preserve live links, and produce searchable text. 
 
 ## Review, publishing, and adoption
 
-The repository holds the editable Markdown, assets, shared styles, and build configuration. Published pages and PDFs are generated from an identified approved revision. Generated files may be deployment artifacts rather than committed files; decide this when inspecting the existing website.
+The repository holds the editable Markdown, assets, shared styles, and build configuration. Published pages and PDFs are generated from an identified committed revision. Generated files may be deployment artifacts rather than committed files; decide this when inspecting the existing website.
 
-### Proposed publishing workflow
+### Publishing workflow
 
 | Step | Mode | What happens |
 | --- | --- | --- |
 | Plan and write content | Manual | Develop the material here or in an editor; choose its document type. |
 | Save a proposed change | Manual trigger | With repository write access configured, an assistant or author creates a reviewable change. Otherwise export the Markdown and add it manually. |
 | Validate and preview | Automatic after setup | Check the schema and links; generate HTML and a preview PDF from the same revision. |
-| Review and approve | Manual | Check teaching meaning, sources, safety, figures, and the rendered layouts. |
-| Publish | Automatic after approval | Merge or release triggers website deployment and a release PDF, if configured. |
-| Print | Manual | Open the approved PDF, choose printer and settings, and print. |
+| Review | Manual | Check teaching meaning, sources, safety, figures, and the rendered layouts before committing. A committed page is treated as reviewed; there is no separate per-document approval status. |
+| Publish | Automatic after merge | Merge or release triggers website deployment and a release PDF, if configured. |
+| Print | Manual | Open the published PDF, choose printer and settings, and print. |
 
-Automation here is a proposed configuration, not a claim that it is connected now. A chat response alone does not commit or publish content. Internal material must be excluded from public builds or protected by real access control; an internal metadata label is not sufficient.
+Pull requests are validated and a merge to `main` deploys the website; release PDF automation is not connected yet. A chat response alone does not commit or publish content. Internal material must be excluded from public builds or protected by real access control; an internal metadata label is not sufficient.
 
 ### Release checks
 
@@ -246,18 +244,21 @@ Automation here is a proposed configuration, not a claim that it is connected no
 
 ### Apply it to existing material
 
-First approve the palette, typography, metadata, and document variants. Then inspect the existing repository and pilot one Fiore curriculum item, one lesson, and one reference document. Agree on paths and renderer integration before converting the collection.
+The palette, typography, metadata, and document variants are adopted, and existing material has been migrated (see the [migration checklist](migration-checklist.md)). New material uses the standard directly.
 
 Inventory the remaining material and map each item to a type. Reformat in reviewable batches, preserving original files or git history, public URLs, citations, and warnings. Report substantive ambiguities separately; do not silently rewrite doctrine while normalizing layout.
 
 Keep exceptions and changes in this standard. Fix recurring issues centrally and regenerate affected outputs. Use 0.x for drafts, 1.0 for the first approved standard, and a short change log for later revisions. Do not create a different style guide for each document.
 
-## Basis and approval record
+## Basis and adoption record
 
-This draft is based on the user-supplied two-page Formatting.pdf and palette image, reviewed November 17, 2026. Typeface names and print sizes were read from the PDF. Where the sample does not specify behavior, the rule in this document is a proposed default.
+This standard is based on the user-supplied two-page Formatting.pdf and palette image, reviewed November 17, 2026. Typeface names and print sizes were read from the PDF. Where the sample does not specify behavior, the rule in this document sets the default.
 
 Font distribution references for implementation: [Open Sans in Google Fonts](https://github.com/google/fonts/tree/main/ofl/opensans) and [PT Serif in Google Fonts](https://github.com/google/fonts/tree/main/ofl/ptserif). Retain the licenses with redistributed font files.
 
-**Approval needed:** Confirm the shared visual defaults, replacement of the blue cover rule, document types and metadata, and the proposed review/publishing process before treating this as policy.
+**Adopted:** November 17, 2026, by the owner, including the shared visual defaults, the oxblood cover rule, document types and metadata, and the review/publishing process.
 
-**Change log:** 0.1 - Initial draft based on supplied formatting and palette; adds proposed Markdown, website, print, and migration rules. Repository integration has not been performed.
+**Change log:**
+
+- 1.0 - Adopted. Per-document approval status removed: a committed page is treated as reviewed. Website integration and migration of existing pages complete.
+- 0.1 - Initial draft based on supplied formatting and palette; adds proposed Markdown, website, print, and migration rules.

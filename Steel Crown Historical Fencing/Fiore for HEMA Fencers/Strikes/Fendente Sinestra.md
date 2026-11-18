@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: fendente-sinestra
+title: Fendente Sinestra
+summary: A reference on Fendente Sinestra, the Descending Cut from the Left, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Fendente Sinestra
 
 <img src="../../../assets/fiore/guards/fendente.jpg" alt="Fendente, Downward Blows" class="manuscript-img">
@@ -13,9 +27,9 @@ Fiore's system is built around bilateral movement. The Fendente Sinestra is the 
 
 ---
 
-## **Physical Description**
+## Physical Description
 
-### **Path of the Blade**
+### Path of the Blade
 
 The Fendente Sinestra begins high on the left side, most commonly from Posta di Donna Sinestra.
 
@@ -25,7 +39,7 @@ The path is a direct mirror of the Fendente Destra. The acceleration and arc are
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 The cut is typically delivered with a forward step of the left foot.
 
@@ -35,7 +49,7 @@ Students who have trained the right-side cut extensively will often find the lef
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The Fendente Sinestra most commonly finishes in Dente di Zenghiaro Sinestra, a low guard with the point forward on the left side.
 
@@ -43,7 +57,7 @@ It may also finish in Porta di Ferro Mezzana, depending on the height and intent
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The primary value of the Fendente Sinestra is that it attacks the opponent's right side, a line that is typically less guarded than the left.
 
@@ -53,7 +67,7 @@ Fiore's system uses this not as a separate strategy but as a continuous pressure
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the left-side fendente is often underdeveloped. Because most training begins on the dominant (right) side, the Fendente Sinestra tends to feel slower, weaker, and less natural.
 
@@ -65,9 +79,9 @@ In sparring, the Fendente Sinestra is most effective when used in combination wi
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 The most natural starting position is Posta di Donna Sinestra, where the blade is already chambered over the left shoulder.
 
@@ -75,7 +89,7 @@ It may also be delivered from Posta Breve for a quicker, more compact version, o
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The strike most often concludes in Dente di Zenghiaro Sinestra, providing a strong low position for continuation on the left side.
 
@@ -83,7 +97,7 @@ From there, the fencer may transition naturally back to the right side or contin
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The Fendente Sinestra reflects the same four virtues as the right-side cut, with one additional emphasis.
 
@@ -97,7 +111,7 @@ The **Lynx** governs the moment of transition, reading when the opponent has com
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The Fendente Sinestra is most effective when used in alternating combination with Fendente Destra. A right-side cut followed immediately by a left-side cut attacks from two angles in rapid succession, preventing the opponent from recovering between actions.
 
@@ -107,7 +121,7 @@ Like the Fendente Destra, the left-side cut is effective as a structure-breaking
 
 ---
 
-## **What This Cut Is Not For**
+## What This Cut Is Not For
 
 The Fendente Sinestra is not a substitute for developing the right-side cut. Both must be trained to equal proficiency; compensating for a weak left side by relying exclusively on the right creates a predictable pattern.
 
@@ -117,9 +131,9 @@ Finally, like all descending cuts, the Fendente Sinestra is not suited to very c
 
 ---
 
-## **Training the Cut**
+## Training the Cut
 
-### **Drill 1 — Bilateral Development**
+### Drill 1 — Bilateral Development
 
 Begin in Posta di Donna Destra and deliver a Fendente Destra, finishing in Dente di Zenghiaro.
 
@@ -131,7 +145,7 @@ Perform ten complete cycles, twenty cuts total. Focus on matching the structure,
 
 ---
 
-### **Drill 2 — Alternating Sides with a Partner**
+### Drill 2 — Alternating Sides with a Partner
 
 One fencer delivers the Fendente Destra toward the partner's left side, then flows immediately to the left and delivers the Fendente Sinestra toward the partner's right side.
 
@@ -143,7 +157,7 @@ The goal is not speed but accuracy and quality. Both cuts should arrive with the
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common problem is a weaker or slower left cut. This is a habit, not a physical limitation. Equal practice on both sides corrects it over time.
 
@@ -153,7 +167,7 @@ Some students also fail to commit fully on the left side. The left cut should be
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The Fendente Sinestra is not simply the Fendente Destra performed on the other side.
 

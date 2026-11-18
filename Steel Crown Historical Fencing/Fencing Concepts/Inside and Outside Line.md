@@ -6,7 +6,6 @@ summary: A reference on the relationship between the two weapons.
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

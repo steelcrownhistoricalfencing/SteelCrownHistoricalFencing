@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: student-standards
+title: Student Standards
+summary: The standards all members are expected to uphold in training, competition, and club conduct.
+type: guide
+audience: students
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Steel Crown
+---
+
 # Student Standards
 
 All members of Steel Crown Historical Fencing are expected to uphold the following standards in training, competition, and their conduct within the club community.

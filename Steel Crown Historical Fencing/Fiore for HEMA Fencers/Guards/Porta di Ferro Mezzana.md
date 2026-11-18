@@ -1,4 +1,18 @@
-﻿# Porta di Ferro Mezzana
+---
+format: steel-crown-v1
+id: porta-di-ferro-mezzana
+title: Porta di Ferro Mezzana
+summary: A reference on Porta di Ferro Mezzana, the Middle Iron Gate, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Porta di Ferro Mezzana
 
 <img src="../../../assets/fiore/guards/porta-di-ferro-mezzana.jpg" alt="Porta di Ferro Mezzana" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
@@ -19,13 +33,13 @@ This chapter treats Porta di Ferro Mezzana Destra and Sinestra together. Both si
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Porta di ferro mezana son, e son la uerissima colona, che son in mezo tra l'una e l'altra porta, e per auer modo posso far ogni cosa."*
 
-### **Translation**
+### Translation
 
 "I am the Middle Iron Gate, and I am the truest column, for I am in the middle between one gate and the other, and because of my position I can do all things."
 
@@ -35,7 +49,7 @@ This description tells us that Porta di Ferro Mezzana is less a guard of specifi
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Porta di Ferro Mezzana* means *Middle Iron Gate*.
 
@@ -45,17 +59,17 @@ The word *mezzana*, middle, specifies the guard's position within that family. I
 
 ---
 
-## **Right and Left Variations**
+## Right and Left Variations
 
 Like all guards with a clear lateral orientation, Porta di Ferro Mezzana exists on both sides of the body.
 
-### **Porta di Ferro Mezzana Destra**
+### Porta di Ferro Mezzana Destra
 
 In the right-side variation, the sword is held at middle height near the right side of the body, with the point directed forward along the centerline.
 
 The guard naturally threatens with a forward thrust, a rising cut from below, or a descending transition into Tutta Porta di Ferro.
 
-### **Porta di Ferro Mezzana Sinestra**
+### Porta di Ferro Mezzana Sinestra
 
 The left-side variation mirrors the same structure. The sword is held at middle height on the left, the point continues to occupy the centerline, and the same range of actions is available from the opposite side.
 
@@ -63,9 +77,9 @@ Training both sides maintains the guard's hub function. If only the right side i
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The stance is balanced and neutral: neither strongly forward-weighted like Tutta Porta di Ferro, nor rear-weighted like Posta di Fenestra.
 
@@ -75,7 +89,7 @@ The posture should feel alert and capable, not passive. Porta di Ferro Mezzana i
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held at approximately chest to solar plexus height, the middle of the vertical line.
 
@@ -85,7 +99,7 @@ The sword should feel connected to the body's structure, neither too close nor t
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Porta di Ferro Mezzana functions as a hub.
 
@@ -97,7 +111,7 @@ The forward point simultaneously serves as a threat. An opponent approaching Por
 
 ---
 
-## **The Truest Column**
+## The Truest Column
 
 Fiore's phrase "the truest column" is the defining image of this guard.
 
@@ -109,7 +123,7 @@ For students who become lost in the middle of an exchange, Porta di Ferro Mezzan
 
 ---
 
-## **As a Finishing Position**
+## As a Finishing Position
 
 Porta di Ferro Mezzana appears frequently in Fiore's plays as the position a fencer occupies after completing an action.
 
@@ -119,7 +133,7 @@ Understanding Mezzana as both a starting and finishing position helps students s
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Porta di Ferro Mezzana is often overlooked in favor of more dramatically positioned guards.
 
@@ -129,7 +143,7 @@ Students who are prone to overcommitting to one guard or one side of the body wi
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Porta di Ferro Mezzana expresses all four virtues with unusual balance.
 
@@ -143,7 +157,7 @@ The **Lion** commits when the observation reveals an opening. The guard does not
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Porta di Ferro Mezzana is most vulnerable at its edges.
 
@@ -155,7 +169,7 @@ Finally, guards that occupy the same centerline, particularly Posta Longa, creat
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Porta di Ferro Mezzana is not a power-generating guard. It does not chamber for large strikes or produce the kinetic force of Posta di Donna. Power generation requires committing to a direction; Mezzana deliberately avoids that commitment.
 
@@ -165,9 +179,9 @@ Finally, the guard should not become static. Its value is as a mobile, responsiv
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — Establishing the Center**
+### Drill 1 — Establishing the Center
 
 Begin in Porta di Ferro Mezzana with the point directed forward along the centerline.
 
@@ -179,7 +193,7 @@ This drill teaches the guard as a dynamic, tracking position rather than a stati
 
 ---
 
-### **Drill 2 — The Hub Flow**
+### Drill 2 — The Hub Flow
 
 Begin in Porta di Ferro Mezzana and flow to each of the following guards in sequence, returning to Mezzana between each:
 
@@ -196,7 +210,7 @@ The goal is to experience how close every guard is to the center. Mezzana should
 
 ---
 
-### **Drill 3 — Threat and Entry**
+### Drill 3 — Threat and Entry
 
 One fencer holds Porta di Ferro Mezzana. The partner attempts to approach from various lines.
 
@@ -206,7 +220,7 @@ This drill develops the guard's active threatening function and the forward entr
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common mistake is allowing the point to drop. The guard's forward point is its primary tactical tool. A dropped or wandering point reduces Mezzana to a purely defensive posture and removes the threat that forces the opponent to respond.
 
@@ -216,7 +230,7 @@ Some students also over-extend the arms, pushing the hands too far from the body
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Porta di Ferro Mezzana is the center of Fiore's guard system made tangible.
 

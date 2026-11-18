@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-rule-13-four-streets
+title: Rule 13 — Four Streets
+summary: Source text and summary for Godinho's Rule 13 of the montante.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 13 — Four Streets
 
 ---

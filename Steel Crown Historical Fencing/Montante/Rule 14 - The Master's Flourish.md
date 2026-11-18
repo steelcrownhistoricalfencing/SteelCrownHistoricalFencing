@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-rule-14-the-masters-flourish
+title: Rule 14 — For the Master to Make a Flourish
+summary: Source text and summary for Godinho's Rule 14 of the montante.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 14 — For the Master to Make a Flourish
 
 *The application of which Godinho leaves to the Diestros*

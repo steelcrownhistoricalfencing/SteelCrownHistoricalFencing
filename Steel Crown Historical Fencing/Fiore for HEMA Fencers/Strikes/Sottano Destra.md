@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: sottano-destra
+title: Sottano Destra
+summary: A reference on Sottano Destra, the Rising Cut from the Right, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Sottano Destra
 
 *The Rising Cut from the Right*
@@ -10,9 +24,9 @@ It is also the natural counter to the descending cut, not by blocking it, but by
 
 ---
 
-## **Physical Description**
+## Physical Description
 
-### **Path of the Blade**
+### Path of the Blade
 
 The Sottano Destra begins low on the right side, most commonly from Dente di Zenghiaro or Coda Longa.
 
@@ -20,7 +34,7 @@ From this position, the blade travels diagonally upward, rising from the right h
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 The Sottano is powered by the legs and the full extension of the body.
 
@@ -30,7 +44,7 @@ A forward step typically accompanies the delivery, closing distance as the blade
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The Sottano Destra finishes high. The most common ending positions are Posta Frontale or Posta Corona, with the blade elevated and the structure intact at the top of the arc.
 
@@ -38,7 +52,7 @@ It may also finish in Posta di Fenestra Destra or Posta di Donna Destra if the r
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The Sottano Destra functions on three primary tactical principles.
 
@@ -50,7 +64,7 @@ The Sottano Destra functions on three primary tactical principles.
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the Sottano is one of the most underused strikes in the system.
 
@@ -60,9 +74,9 @@ The Sottano's value as a counter-strike is particularly relevant in modern sparr
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 Coda Longa is the most natural starting position. The rear-weighted, low chamber of Coda Longa stores energy that releases explosively into the rising cut. The principle Fiore describes — readiness to spring into sudden offense from a withdrawn position — is most visible here.
 
@@ -72,7 +86,7 @@ Both Porta di Ferro variations can also generate the rising cut, as they share t
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The Sottano finishes most commonly in Posta Frontale or Posta Corona, with the blade held high and the body fully extended.
 
@@ -80,7 +94,7 @@ From there, the fencer may immediately deliver a descending Fendente, creating a
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The Sottano Destra expresses the **Tiger** most fully of any of the seven blows.
 
@@ -94,7 +108,7 @@ The **Lynx** reads the moment. The Sottano's effectiveness as a counter depends 
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The Sottano Destra is most effective in two tactical contexts.
 
@@ -106,7 +120,7 @@ Both uses share the same fundamental quality: the cut rises from where the oppon
 
 ---
 
-## **What This Cut Is Not For**
+## What This Cut Is Not For
 
 The Sottano is not effective against an opponent who holds their guard very low. If the opponent's hands are already at hip height or below, the rising cut has no clear line to travel upward through.
 
@@ -116,9 +130,9 @@ Finally, the Sottano should not be delivered without leg drive. An arm-only risi
 
 ---
 
-## **Training the Cut**
+## Training the Cut
 
-### **Drill 1 — From Coda Longa**
+### Drill 1 — From Coda Longa
 
 Begin in Coda Longa with the sword held low behind the right hip, body rear-weighted.
 
@@ -130,7 +144,7 @@ Repeat ten times. The cut should feel like a spring releasing, the stored energy
 
 ---
 
-### **Drill 2 — Intercepting the Descending Cut**
+### Drill 2 — Intercepting the Descending Cut
 
 One fencer assumes Dente di Zenghiaro or a low guard. The partner delivers a slow descending Fendente.
 
@@ -142,7 +156,7 @@ Repeat ten times, then switch roles. Begin very slowly, establishing the correct
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common error is using only the arms. The Sottano must be driven by leg extension and body rise. An arm-driven rising cut is weak and slow.
 
@@ -152,7 +166,7 @@ Some students also wait too long when using the Sottano as a counter-strike. The
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The Sottano Destra is a cut of explosive upward force.
 

@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-introduction
+title: Introduction to Godinho's Montante
+summary: Overview of the Montante and its role in Godinho's system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Introduction to Godinho's Montante
 
 *Domingo Luis Godinho, Arte de Esgrima (1599)*

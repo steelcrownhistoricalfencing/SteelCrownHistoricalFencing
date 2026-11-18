@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: exchange-of-thrusts
+title: Exchange of Thrusts — Scambiar di Punta
+summary: The primary counter to a thrust at long measure.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Exchange of Thrusts — Scambiar di Punta
 
 <img src="../../../../assets/fiore/plays/exchange-of-thrusts.jpg" alt="Exchange of Thrusts, Scambiar di Punta" class="manuscript-img">
@@ -15,13 +29,13 @@ The name carries a deliberate pun. *Punta* means both *thrust* and *point*. The 
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Questo zogho si chiama scambiar di punta e fa si in questo modo: como lo compagno te vene cum una punta, tu gli va fora de strada cum lo pè dinançi, e poy passa anche fora de strada cum l'altro pè, e cum le braze, incrosa la sua spada, e la tua punta va in lo volto overo in lo petto."*
 
-### **Translation**
+### Translation
 
 "This play is called exchange of thrusts, and is done in this way: as your companion comes at you with a thrust, you step out of line with your front foot, and then also step off the line with your other foot, and with your arms, cross his sword, and your point goes into his face or his chest."
 
@@ -31,7 +45,7 @@ The step is not a preparation for the counter-thrust. The step and the thrust ar
 
 ---
 
-## **The Setup**
+## The Setup
 
 The opponent advances with a thrust aimed at your face or chest.
 
@@ -41,7 +55,7 @@ The threat is direct and committed.
 
 ---
 
-## **The Technique**
+## The Technique
 
 The action has three components that happen as one motion:
 
@@ -57,7 +71,7 @@ These are not four steps. They are one motion in four directions.
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 The *scambiar di punta* works because it solves two problems simultaneously.
 
@@ -71,7 +85,7 @@ The geometry is simple: you are no longer where he is thrusting, and your point 
 
 ---
 
-## **The Counter-Remedy**
+## The Counter-Remedy
 
 A skilled opponent can defeat the *scambiar*.
 
@@ -83,7 +97,7 @@ The exchange of thrusts, when it succeeds, ends the exchange. When it fails, it 
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The *scambiar di punta* flows most naturally from guards that already prepare the body for an offline passing step.
 
@@ -95,7 +109,7 @@ The play also connects forward: if the exchange succeeds, the opponent is struck
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 For the modern fencer, the *scambiar di punta* is the most directly competition-relevant play in Fiore's entire system.
 
@@ -107,7 +121,7 @@ In practice, the single-tempo execution, step and thrust as one motion, is what 
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The *scambiar di punta* expresses all four virtues, but primarily two.
 
@@ -121,7 +135,7 @@ The **Elephant** provides the structure that keeps the body stable while moving 
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The *scambiar di punta* is not a defense against a cut.
 
@@ -133,9 +147,9 @@ Finally, it is not a two-step action. Stepping offline and then thrusting is slo
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — Solo Offline Stepping**
+### Drill 1 — Solo Offline Stepping
 
 Step forward and offline at forty-five degrees with the front foot, then pass the rear foot to follow.
 
@@ -149,7 +163,7 @@ Repeat from both sides.
 
 ---
 
-### **Drill 2 — Slow Partner Thrust**
+### Drill 2 — Slow Partner Thrust
 
 Partner A presents a slow, committed thrust aimed at Partner B's face.
 
@@ -167,7 +181,7 @@ Switch roles. Repeat.
 
 ---
 
-### **Drill 3 — Live Threshold**
+### Drill 3 — Live Threshold
 
 Partner A commits to a thrust at their own comfortable pace.
 
@@ -179,7 +193,7 @@ Begin slowly and increase speed as the geometry becomes reliable.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is executing the offline step and the thrust as two separate actions. The footwork happens first, then the thrust follows. This makes the play slower and gives the opponent time to adjust. The step and the thrust are one motion.
 
@@ -191,7 +205,7 @@ Finally, some students stop moving once the crossing is made, rather than drivin
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The *scambiar di punta* is not a parry followed by a thrust.
 

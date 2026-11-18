@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: the-segno-the-four-virtues-and-the-structure-of-the-system
+title: The Segno, the Four Virtues, and the Structure of the System
+summary: The structure of Fiore's system, including the Segno and the four virtues.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # The Segno, the Four Virtues, and the Structure of the System
 
 <img src="../../../assets/fiore/segno.jpg" alt="The Segno, Four Virtues" class="manuscript-img">
@@ -5,7 +19,7 @@
 
 ---
 
-## **Introduction**
+## Introduction
 
 Before learning guards, strikes, or techniques, it is necessary to understand the framework that supports Fiore’s system.
 
@@ -17,7 +31,7 @@ This chapter builds that foundation. It explains the meaning of the animals, the
 
 ---
 
-## **Medieval Bestiaries**
+## Medieval Bestiaries
 
 To understand why Fiore chose these specific animals, it is important to understand the intellectual world he lived in.
 
@@ -33,7 +47,7 @@ By drawing from bestiary tradition, Fiore is not decorating his manuscript. He i
 
 ---
 
-## **The Segno**
+## The Segno
 
 The segno appears at the beginning of the longsword section in Fior di Battaglia. It shows a master fencer surrounded by four animals and seven swords.
 
@@ -46,7 +60,7 @@ Everything in Fiore’s art can be understood through this diagram.
 
 ---
 
-## **The Four Virtues**
+## The Four Virtues
 
 Fiore explicitly identifies four essential qualities of a complete fighter: prudence, audacity, celerity, and fortitude.
 
@@ -54,7 +68,7 @@ Each animal represents one of these virtues.
 
 ---
 
-### **The Lynx — Prudence**
+### The Lynx — Prudence
 
 The lynx is placed above the master’s head, holding a compass.
 
@@ -72,7 +86,7 @@ Fiore places this virtue above all others because it governs them. Without corre
 
 ---
 
-### **The Lion — Audacity**
+### The Lion — Audacity
 
 The lion holds a heart beneath its paw.
 
@@ -90,7 +104,7 @@ However, audacity must be guided. Courage without judgment leads to poor outcome
 
 ---
 
-### **The Tiger — Celerity**
+### The Tiger — Celerity
 
 The tiger holds an arrow, symbolizing speed.
 
@@ -108,7 +122,7 @@ When an opportunity appears, hesitation causes failure. The tiger represents the
 
 ---
 
-### **The Elephant — Fortitude**
+### The Elephant — Fortitude
 
 The elephant stands beneath the master, carrying a castle.
 
@@ -126,7 +140,7 @@ This is what allows techniques to function under resistance.
 
 ---
 
-## **The Balance of the Virtues**
+## The Balance of the Virtues
 
 None of these qualities can stand alone.
 
@@ -138,7 +152,7 @@ All four must be present and balanced.
 
 ---
 
-## **The Virtues in Action**
+## The Virtues in Action
 
 The four virtues are not abstract ideas. They appear in every exchange.
 
@@ -150,7 +164,7 @@ In this way, every exchange becomes a reflection of the virtues.
 
 ---
 
-## **How the Segno Is Used**
+## How the Segno Is Used
 
 The segno is not only symbolic, it is practical.
 
@@ -162,7 +176,7 @@ The segno becomes a diagnostic tool, not just a historical image.
 
 ---
 
-## **Using the Segno in Training**
+## Using the Segno in Training
 
 The segno can be applied directly during practice.
 
@@ -172,7 +186,7 @@ This approach allows training to focus on principles rather than memorization. I
 
 ---
 
-## **The Seven Blows (Sette Colpi)**
+## The Seven Blows (Sette Colpi)
 
 The seven swords surrounding the master represent the fundamental strikes of the system.
 
@@ -184,7 +198,7 @@ These are not isolated techniques, but the building blocks of the entire system.
 
 ---
 
-## **The Structure of the Blows**
+## The Structure of the Blows
 
 Fiore organizes strikes into three angles and a thrust.
 
@@ -196,7 +210,7 @@ Each blow connects one guard to another, creating a system that flows rather tha
 
 ---
 
-## **Guard Classifications**
+## Guard Classifications
 
 In addition to the virtues and the blows, the guards themselves can be understood through classification.
 
@@ -208,7 +222,7 @@ Understanding these roles allows the fencer to see relationships rather than mem
 
 ---
 
-### **Striking Guards**
+### Striking Guards
 
 Striking guards (Pulsativa) generate force through stored energy and release it through committed action.
 
@@ -218,7 +232,7 @@ They are associated with strong, difficult-to-stop actions.
 
 ---
 
-### **Mutable Guards**
+### Mutable Guards
 
 Mutable guards are adaptable and responsive.
 
@@ -226,7 +240,7 @@ They transition easily, create deception, and allow the fencer to adjust to the 
 
 ---
 
-### **Stable Guards**
+### Stable Guards
 
 Stable guards prioritize structure and control.
 
@@ -234,7 +248,7 @@ They resist pressure, maintain strong defensive positions, and allow the fencer 
 
 ---
 
-## **Why This Comes First**
+## Why This Comes First
 
 Fiore does not begin with techniques. He begins with principles.
 
@@ -246,7 +260,7 @@ By establishing these ideas first, Fiore provides a framework for decision-makin
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The segno is the foundation of Fiore’s system.
 

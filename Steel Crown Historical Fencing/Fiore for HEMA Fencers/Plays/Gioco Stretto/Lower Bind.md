@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: lower-bind
+title: Lower Bind — Ligadura Sotana
+summary: A joint lock applied with the arm forced downward.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Lower Bind — Ligadura Sotana
 
 <img src="../../../../assets/fiore/plays/lower-bind.jpg" alt="Lower Bind, Ligadura Sotana" class="manuscript-img">
@@ -15,13 +29,13 @@ The Lower Bind forces the arm downward and under. The elbow is levered below the
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Anchora digo che lo primo ligadure ch'e chiamada sotana, per ch'e lo brazo del compagno va sotto in terra."*
 
-### **Translation**
+### Translation
 
 "I also say that the first binding, which is called the lower bind, is so called because the companion's arm goes downward toward the ground."
 
@@ -29,7 +43,7 @@ Fiore names the lock by what the arm does, not by the position of the hands. The
 
 ---
 
-## **The Setup**
+## The Setup
 
 You are in stretto range. A grab or wrap has given you control of the opponent's weapon arm.
 
@@ -39,7 +53,7 @@ Your position is to the outside of the opponent's weapon arm, on the side away f
 
 ---
 
-## **The Technique**
+## The Technique
 
 **Secure the arm at the wrist or forearm.** The grab must be firm but not rigid. You are about to move the arm; if your grip fights the motion, the lock stalls.
 
@@ -53,7 +67,7 @@ Your position is to the outside of the opponent's weapon arm, on the side away f
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 The elbow joint bends in one direction only.
 
@@ -67,7 +81,7 @@ The outside position is what enables this. If you are on the inside, between the
 
 ---
 
-## **The Abrazare Connection**
+## The Abrazare Connection
 
 This lock is not invented for the longsword. It comes directly from Fiore's wrestling section.
 
@@ -77,7 +91,7 @@ If you find the mechanics of this lock difficult, study the wrestling section. T
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The Lower Bind follows most naturally from:
 
@@ -91,7 +105,7 @@ The Lower Bind leads most naturally to:
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern HEMA competition, joint locks are permitted in varying degrees depending on the ruleset.
 
@@ -103,7 +117,7 @@ Train the full lock. Use the principle.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Elephant** governs this lock entirely.
 
@@ -117,7 +131,7 @@ The **Lion** does not govern this play. It is a technique of control, not a comm
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The Lower Bind does not work on the inside of the arm.
 
@@ -129,9 +143,9 @@ Finally, it is not the same as the Middle or Upper Bind. These locks look simila
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — Position and Leverage Without Resistance**
+### Drill 1 — Position and Leverage Without Resistance
 
 Partner A holds their arm extended, sword in hand.
 
@@ -145,7 +159,7 @@ Partner A lets the arm move freely. Trace the path of the arm until the lock pos
 
 ---
 
-### **Drill 2 — From a Stretto Entry**
+### Drill 2 — From a Stretto Entry
 
 Begin with the pommel strike (Drill 2 from Pommel Strike page): roll under the bind → pommel to face → blade behind neck.
 
@@ -159,7 +173,7 @@ Partner A offers light resistance.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is applying the lock from the inside of the arm. This does not create leverage in the right direction. Confirm your outside position before committing.
 
@@ -169,7 +183,7 @@ Many students stop at the moment the arm is forced down, rather than pressing th
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The lower bind forces the arm in the direction the joint will not travel.
 

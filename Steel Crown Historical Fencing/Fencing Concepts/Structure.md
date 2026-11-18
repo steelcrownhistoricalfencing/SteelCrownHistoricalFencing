@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: structure
+title: Structure
+summary: What makes a position strong.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Steel Crown
+---
+
 # Structure
 
 *What Makes a Position Strong*

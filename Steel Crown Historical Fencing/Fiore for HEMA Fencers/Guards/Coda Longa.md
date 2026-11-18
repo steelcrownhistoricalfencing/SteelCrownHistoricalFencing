@@ -1,4 +1,18 @@
-﻿# Coda Longa
+---
+format: steel-crown-v1
+id: coda-longa
+title: Coda Longa
+summary: A reference on Coda Longa, the Long Tail, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Coda Longa
 
 <img src="../../../assets/fiore/guards/coda-longa.png" alt="Coda Longa" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
@@ -23,13 +37,13 @@ This chapter treats Coda Longa Destra and Coda Longa Sinestra together, since bo
 
 ---
 
-## **Fiore’s Description**
+## Fiore’s Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"*Questa si e posta di coda longa ch'e destesa in terra di dredo, ella po metter punta, e denançi po covrir e ferire. E se ello passa inançi e tra del fendente, in Lo zogo stretto entra senza fallimento, che tal guardia e bona per aspettare, che de quella in altre tosto po intrare*."*
 
-### **Translation**
+### Translation
 
 “This is the guard of the Long Tail which is extended to the ground behind [you]. It can make a thrust, and to the front it can cover and strike. And if [the fencer] passes forward and enters with a Fendente, [he] enters into the narrow play without fail. For such a guard is good for waiting, and from it [the fencer] can quickly enter into other [guards].”
 
@@ -39,7 +53,7 @@ Coda Longa is deceptive by nature. Its purpose is not simply to defend, but to d
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 The name “Coda Longa,” or “Long Tail,” refers to the sword trailing behind the body like the tail of an animal.
 
@@ -54,7 +68,7 @@ Like many of Fiore’s guards, the name describes both the shape of the position
 
 ---
 
-## **Right and Left Variations**
+## Right and Left Variations
 
 Like many guards in Fiore’s system, Coda Longa exists on both the right and left sides of the body.
 
@@ -62,7 +76,7 @@ Although the tactical purpose remains the same, the angle of acceleration and en
 
 ---
 
-### **Coda Longa Destra**
+### Coda Longa Destra
 
 In the right-side variation, the sword trails behind the right side of the body while the right foot remains forward.
 
@@ -76,7 +90,7 @@ This is the version most commonly associated with the classic Getty image of Cod
 
 ---
 
-### **Coda Longa Sinestra**
+### Coda Longa Sinestra
 
 In the left-side variation, the sword trails behind the left side of the body, with the left foot typically forward and the body withdrawn to the right.
 
@@ -94,11 +108,11 @@ Training both sides reinforces Fiore’s bilateral approach and prevents the gua
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
 Coda Longa is held low and withdrawn with the sword positioned behind the body.
 
-### **Body Position**
+### Body Position
 
 The stance is typically rear-weighted with the lead foot forward and the body slightly withdrawn.
 
@@ -110,7 +124,7 @@ The guard should feel loaded.
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held low near or behind the hip while the sword trails behind the body.
 
@@ -124,7 +138,7 @@ The posture should resemble a compressed spring.
 
 ---
 
-## **Upper Hand vs Lower Hand Hip Connection**
+## Upper Hand vs Lower Hand Hip Connection
 
 One of the most important structural details in Coda Longa is which hand remains closest to the hip during the chamber.
 
@@ -137,7 +151,7 @@ Small changes here significantly affect:
 
 ---
 
-### **Lower Hand Connected to the Hip**
+### Lower Hand Connected to the Hip
 
 When the lower hand remains structurally connected to the hip, the sword becomes strongly integrated into the body.
 
@@ -160,7 +174,7 @@ For many fencers, this creates the clearest “loaded spring” feeling.
 
 ---
 
-### **Upper Hand Connected to the Hip**
+### Upper Hand Connected to the Hip
 
 When the upper hand remains closer to the hip while the lower hand extends farther away, the sword gains additional reach and extension.
 
@@ -180,7 +194,7 @@ This variation can produce very fast and difficult-to-read rising attacks, but m
 
 ---
 
-### **Tactical Implications**
+### Tactical Implications
 
 The difference between these structures reflects an important principle in Fiore’s system:
 
@@ -206,7 +220,7 @@ The important thing is that the guard remains mechanically connected and prepare
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Coda Longa is a guard of deception, invitation, and explosive offense.
 
@@ -229,7 +243,7 @@ It is a trap.
 
 ---
 
-## **The False Guard Concept**
+## The False Guard Concept
 
 Coda Longa is one of the clearest expressions of deception in Fiore’s system.
 
@@ -245,7 +259,7 @@ The guard invites the opponent to attack first, then punishes their commitment w
 
 ---
 
-## **The Natural Strike — Sottano**
+## The Natural Strike — Sottano
 
 Because the sword begins low and withdrawn, the most natural action from Coda Longa is a rising cut, or *sottano*.
 
@@ -257,7 +271,7 @@ The strike emerges suddenly and violently from below.
 
 ---
 
-## **The Rising Sottano into High Guards**
+## The Rising Sottano into High Guards
 
 One of the defining actions of Coda Longa is the explosive transition from low withdrawal into high offensive positions.
 
@@ -276,7 +290,7 @@ The motion should feel continuous and accelerating rather than segmented into se
 
 ---
 
-## **Drawing the Attack**
+## Drawing the Attack
 
 One of the primary tactical purposes of Coda Longa is to provoke commitment from the opponent.
 
@@ -295,7 +309,7 @@ This is why Fiore describes the guard as both deceptive and aggressive simultane
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Coda Longa is often underestimated because it appears unconventional and vulnerable.
 
@@ -316,7 +330,7 @@ For modern practitioners, the greatest value of Coda Longa lies in understanding
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Coda Longa strongly expresses the Lynx.
 
@@ -328,7 +342,7 @@ The Lion appears in the courage required to stand in an apparently vulnerable po
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Coda Longa is strongest when opponents attack impulsively into its invitation.
 
@@ -345,7 +359,7 @@ Maintaining measured pressure while denying explosive entry is often more effect
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Coda Longa is not designed for passive retreating.
 
@@ -357,13 +371,13 @@ Finally, the guard should not become rigid or visibly tense. Its effectiveness d
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
 The following drills develop the deceptive posture, explosive release, and tactical timing of Coda Longa.
 
 ---
 
-### **Drill 1 — Establishing the False Guard**
+### Drill 1 — Establishing the False Guard
 
 Begin in Coda Longa with the body withdrawn and the sword trailing behind the hip.
 
@@ -375,7 +389,7 @@ Have a partner observe the posture and describe what intentions it appears to co
 
 ---
 
-### **Drill 2 — Explosive Sottano**
+### Drill 2 — Explosive Sottano
 
 From Coda Longa, step forward explosively and launch a rising sottano from below.
 
@@ -392,7 +406,7 @@ Practice from both Destra and Sinestra.
 
 ---
 
-### **Drill 3 — Baiting the Attack**
+### Drill 3 — Baiting the Attack
 
 Begin with one fencer in Coda Longa and the other in an aggressive guard such as Donna or Fenestra.
 
@@ -404,7 +418,7 @@ The goal is to intercept the opponent during their forward commitment.
 
 ---
 
-### **Drill 4 — Continuous Offensive Flow**
+### Drill 4 — Continuous Offensive Flow
 
 Launch a rising sottano from Coda Longa into a high guard.
 
@@ -414,7 +428,7 @@ This drill develops the flowing offensive transitions naturally generated by the
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is becoming genuinely defensive in the guard. Coda Longa only functions correctly when the offensive intention remains active.
 
@@ -424,7 +438,7 @@ Some students also fail to withdraw the body sufficiently. The deeper the chambe
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Coda Longa is a guard of hidden offense.
 

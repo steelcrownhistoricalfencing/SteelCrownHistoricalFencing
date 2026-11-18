@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: throws-and-takedowns
+title: Throws and Takedowns — Gettare e Abbattere
+summary: Takedowns that emerge from established stretto plays.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Throws and Takedowns — Gettare e Abbattere
 
 <img src="../../../../assets/fiore/plays/throws.jpg" alt="Throws and Takedowns" class="manuscript-img">
@@ -17,13 +31,13 @@ The lock extends. The blade wraps. The pommel arrives. Each of these creates a p
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Questo zogho si'e bon per gettare lo compagno in terra... e fa si in questo modo: io l'abraçavo e voltavo lo mio pié ritto driedo lo so pié stancho e cum le braça, lo geto in terra."*
 
-### **Translation**
+### Translation
 
 "This play is good for throwing the companion to the ground... and it is done in this way: I embraced him and turned my right foot behind his left foot and with my arms, I threw him to the ground."
 
@@ -33,7 +47,7 @@ Other throw descriptions appear throughout the stretto section attached to speci
 
 ---
 
-## **Throws and Takedowns Are Different**
+## Throws and Takedowns Are Different
 
 Fiore's vocabulary distinguishes them.
 
@@ -45,9 +59,9 @@ In practice, the distinction matters for training. The gettare requires timing, 
 
 ---
 
-## **Where Throws Come From**
+## Where Throws Come From
 
-### **From the Pommel Strike and Blade Wrap**
+### From the Pommel Strike and Blade Wrap
 
 After the volta di pomo, pommel to face, blade behind the neck, the pulling motion used for the throat cut is also a throw.
 
@@ -55,13 +69,13 @@ When you pull the sword with the blade behind the opponent's neck, you are not o
 
 The entry: pommel strike → blade wraps behind neck → pull the sword → step behind their leg → throw.
 
-### **From the Upper Bind (Soprana)**
+### From the Upper Bind (Soprana)
 
 The soprana has already been described as the lock that most directly produces a throw. Once the arm is elevated and locked, a step-through and downward press brings the opponent down.
 
 What distinguishes this as *abbattere*: the opponent may be completely static and still goes to the ground. The leverage of the elevated, locked arm removes their balance without requiring them to be in motion.
 
-### **From a Clinch at Close Range**
+### From a Clinch at Close Range
 
 When two fencers arrive in close body contact, not necessarily through a specific technique, but through the collision of engagement, Fiore's abrazare principles apply.
 
@@ -71,7 +85,7 @@ The leg sweep: your foot hooks behind their foot, a simultaneous push disrupts t
 
 The neck push: from behind or the side, a push against the neck and a simultaneous block of the near leg creates a rotational fall.
 
-### **From a Failed Technique**
+### From a Failed Technique
 
 Fiore designs the stretto system so that when one technique fails, another is available.
 
@@ -81,7 +95,7 @@ The throws are not fallback techniques. They are continuations of the same engag
 
 ---
 
-## **The Stretto Decision Tree**
+## The Stretto Decision Tree
 
 One of Fiore's most significant contributions is that he does not present the narrow game as a list of techniques. The plays connect into a continuous chain, and the following decision tree summarizes how this curriculum reads that chain.
 
@@ -91,7 +105,7 @@ The throws are at the end of this chain, not at the beginning. You do not enter 
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern HEMA competition, takedowns are a distinct scoring opportunity. Most longsword rulesets include them, and Fiore students who have integrated the stretto sequence have a significant structural advantage over competitors who have not trained the narrow game.
 
@@ -107,7 +121,7 @@ Specific competition notes:
 
 ---
 
-## **The Abrazare Foundation**
+## The Abrazare Foundation
 
 Fiore's wrestling section (*abrazare*) is not optional reading for the longsword student.
 
@@ -119,7 +133,7 @@ Train the wrestling section. The stretto plays will improve.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Tiger** governs all gettare throws, the timing of catching motion and redirecting it. A hip throw attempted after the opponent has recovered their balance is not a hip throw; it is a wrestling match.
 
@@ -131,7 +145,7 @@ The **Lion** governs the commitment to completion. A partial throw is worse than
 
 ---
 
-## **What Throws Are Not**
+## What Throws Are Not
 
 Throws are not techniques to improvise.
 
@@ -145,9 +159,9 @@ Finally, throws are not endings. They are transitions. Once the opponent is on t
 
 ---
 
-## **Training the Plays**
+## Training the Plays
 
-### **Drill 1 — Hip Throw from Clinch (No Weapons)**
+### Drill 1 — Hip Throw from Clinch (No Weapons)
 
 Partner A and Partner B stand close, both arms engaged in a wrestling hold.
 
@@ -163,7 +177,7 @@ Practice until the step and turn feel like one motion.
 
 ---
 
-### **Drill 2 — Neck Pull from Blade Wrap**
+### Drill 2 — Neck Pull from Blade Wrap
 
 Begin with the pommel strike sequence: bind → roll under → pommel to face → blade continues behind neck.
 
@@ -177,7 +191,7 @@ Add the leg step: Partner B steps one foot behind Partner A's foot as the pull b
 
 ---
 
-### **Drill 3 — Full Stretto Chain to Throw**
+### Drill 3 — Full Stretto Chain to Throw
 
 Begin with the full stretto entry: binding in largo → pass right foot forward → enter stretto → pommel strike → blade wrap → choice of continuation.
 
@@ -191,7 +205,7 @@ Partner A does not telegraph which resistance they will offer at the mezana stag
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 Attempting a throw without a prior setup is the most fundamental error. The position must come first.
 
@@ -203,7 +217,7 @@ Finally, training throws without proper falling practice for both partners. Take
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Throws are not standalone techniques. They are the end of a chain.
 

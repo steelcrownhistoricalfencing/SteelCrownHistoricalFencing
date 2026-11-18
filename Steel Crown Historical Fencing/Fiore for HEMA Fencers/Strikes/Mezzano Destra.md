@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: mezzano-destra
+title: Mezzano Destra
+summary: A reference on Mezzano Destra, the Horizontal Cut from the Right, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Mezzano Destra
 
 *The Horizontal Cut from the Right*
@@ -10,9 +24,9 @@ This is why Fiore teaches it separately. The Mezzano is not a flattened Fendente
 
 ---
 
-## **Physical Description**
+## Physical Description
 
-### **Path of the Blade**
+### Path of the Blade
 
 The Mezzano Destra travels horizontally from the right side of the body across to the left, at roughly chest to neck height.
 
@@ -22,7 +36,7 @@ Unlike the descending cuts, the Mezzano's path does not rely on gravity to carry
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 The Mezzano is powered by hip rotation.
 
@@ -34,7 +48,7 @@ A forward step may accompany the cut to close distance, but the step must not di
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The Mezzano Destra most naturally finishes in Posta di Fenestra Sinestra, with the blade on the opposite side of the body and the point already threatening forward.
 
@@ -42,7 +56,7 @@ From there, the fencer is immediately positioned to deliver a Mezzano Sinestra i
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The Mezzano Destra targets the neck, throat, arms, and torso: lines that the descending cuts do not easily reach without telegraphing.
 
@@ -52,7 +66,7 @@ The cut is faster than the Fendente. Without a long descending arc, the blade ar
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the Mezzano is often underused. Because the Fendente and thrust receive the most emphasis in early training, the horizontal cut tends to be neglected.
 
@@ -64,9 +78,9 @@ The Mezzano is also highly effective as a continuation strike. After a Fendente 
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 Posta di Fenestra Destra is the most natural starting position. The blade is already angled forward, and the hip rotation into the cut requires minimal preparation.
 
@@ -74,7 +88,7 @@ Posta di Donna Destra can also generate the Mezzano, though it requires the fenc
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The cut most naturally finishes in Posta di Fenestra Sinestra, placing the fencer in an ideal position for a return cut or immediate thrust.
 
@@ -82,7 +96,7 @@ If the rotation continues further, it may flow into Posta di Donna Sinestra, loa
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The Mezzano Destra draws primarily on the **Tiger**.
 
@@ -96,7 +110,7 @@ The **Lion** commits the cut through its full arc. A Mezzano that stops short or
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The most effective use of the Mezzano Destra is as part of a combination that attacks multiple lines in sequence.
 
@@ -106,7 +120,7 @@ The Mezzano is also effective at the arms. When the opponent raises their hands 
 
 ---
 
-## **What This Cut Is Not For**
+## What This Cut Is Not For
 
 The Mezzano Destra is not a power cut in the same sense as the Fendente. Without gravitational assistance, it relies more on rotation and less on mass. Against a well-structured guard, it may not generate enough force to break through.
 
@@ -116,9 +130,9 @@ Finally, the Mezzano should not be delivered with only the arms. A shoulder-driv
 
 ---
 
-## **Training the Cut**
+## Training the Cut
 
-### **Drill 1 — Hip Rotation**
+### Drill 1 — Hip Rotation
 
 Begin in Posta di Fenestra Destra with the point directed forward.
 
@@ -130,7 +144,7 @@ Repeat ten times in each direction. The blade should maintain consistent height 
 
 ---
 
-### **Drill 2 — Target Variation**
+### Drill 2 — Target Variation
 
 With a partner, practice the Mezzano at two heights: high (aimed at the neck or throat) and middle (aimed at the ribs or midsection).
 
@@ -142,7 +156,7 @@ This drill develops the fencer's ability to direct the cut intentionally rather 
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common mistake is swinging with the arms instead of rotating the hips. An arm-driven Mezzano is slower, weaker, and harder to control. The hips must initiate the motion.
 
@@ -152,7 +166,7 @@ Some students also fail to complete the rotation. The cut should travel fully ac
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The Mezzano Destra is a cut of rotation and speed.
 

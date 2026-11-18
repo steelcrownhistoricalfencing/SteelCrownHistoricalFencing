@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-chapter-3-narrow-street-with-rear
+title: Chapter 3 — Surrounded in a Narrow Street from Behind and in Front
+summary: Source text and summary for Godinho's Chapter 3 of the montante.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Chapter 3 — Surrounded in a Narrow Street from Behind and in Front
 
 *Including: How to Grip the Montante*

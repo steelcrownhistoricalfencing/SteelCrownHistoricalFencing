@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-rule-9-wide-street
+title: Rule 9 — Having People in Front in a Wide Street
+summary: Source text and summary for Godinho's Rule 9 of the montante.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 9 — Having People in Front in a Wide Street
 
 ---

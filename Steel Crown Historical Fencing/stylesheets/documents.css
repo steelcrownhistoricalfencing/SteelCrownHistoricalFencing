@@ -149,6 +149,11 @@
   .sc-document .sc-callout,
   .md-typeset .sc-document .sc-callout-label,
   .sc-callout-body { display: block; width: auto; }
+  /* Size columns to whole words; Material's table wrapper scrolls wide tables. */
+  .md-typeset .sc-document table:not([class]) { table-layout: auto; }
+  .md-typeset .sc-document table:not([class]) th:first-child,
+  .md-typeset .sc-document table:not([class]) td:first-child { width: auto; }
+  .md-typeset .sc-document table:not([class]) td { overflow-wrap: normal; }
 }
 
 /* Reference-template structure: branded title block, labeled sections, and minor points. */
