@@ -8,6 +8,7 @@ type: lesson
 audience: instructors
 visibility: public
 version: '1.2'
+document_date: '2026-07'
 updated: '2026-11-17'
 authors:
 - Chris Mineweaser

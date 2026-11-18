@@ -8,6 +8,7 @@ type: reference
 audience: mixed
 visibility: public
 version: '0.1'
+document_date: '2026-08'
 updated: '2026-11-18'
 authors:
 - Steel Crown

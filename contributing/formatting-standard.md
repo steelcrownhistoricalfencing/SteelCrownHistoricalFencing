@@ -128,7 +128,7 @@ historical_lens: null
 ---
 ```
 
-Required fields are id, title, summary, type, audience, visibility, version, updated, and authors. The final two fields above are optional lesson fields; omit them when irrelevant. Other specialist fields need a documented purpose and schema before use.
+Required fields are id, title, summary, type, audience, visibility, version, updated, and authors. The final two fields above are optional lesson fields; omit them when irrelevant. Optional `document_date` is a quoted `YYYY-MM` source-document month, used in visible web/print metadata instead of `updated` when present. It distinguishes an imported lesson's original date from its website migration date without inventing a day. Other specialist fields need a documented purpose and schema before use.
 
 Use a stable lowercase-hyphen id and filename, such as distance-as-a-feint.md. Keep an existing public URL stable even if the title changes. Allowed types are lesson, reference, curriculum, and guide. Audience is students, instructors, or mixed; visibility is public or internal. These labels do not provide access control.
 
