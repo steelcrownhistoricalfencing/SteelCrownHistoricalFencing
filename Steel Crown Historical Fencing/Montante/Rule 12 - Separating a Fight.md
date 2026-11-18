@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: montante-rule-12-separating-a-fight
+title: Rule 12 — Separating a Fight
+summary: Source text and summary for Godinho's Rule 12 of the montante.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 12 — Separating a Fight
 
 ---

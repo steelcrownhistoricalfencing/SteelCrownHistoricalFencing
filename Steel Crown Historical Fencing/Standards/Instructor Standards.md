@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: instructor-standards
+title: Instructor Standards
+summary: The standards all Steel Crown instructors are expected to uphold.
+type: guide
+audience: instructors
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Steel Crown
+---
+
 # Instructor Standards
 
 Instructors at Steel Crown Historical Fencing are entrusted with the safety, development, and long-term growth of both students and the organization. Teaching is not treated as status or authority, but as responsibility and service to the club and its members.

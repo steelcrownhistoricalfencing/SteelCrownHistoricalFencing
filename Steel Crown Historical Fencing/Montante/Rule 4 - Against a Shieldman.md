@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: montante-rule-4-against-a-shieldman
+title: Rule 4 — Against a Shieldman
+summary: Source text and summary for Godinho's Rule 4 of the montante.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 4 — Against a Shieldman
 
 ---

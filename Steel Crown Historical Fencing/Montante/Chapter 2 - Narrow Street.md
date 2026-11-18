@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: montante-chapter-2-narrow-street
+title: Chapter 2 — Surrounded in a Narrow Street
+summary: Source text and summaries for Godinho's Chapter 2 of the montante.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Chapter 2 — Surrounded in a Narrow Street
 
 ---

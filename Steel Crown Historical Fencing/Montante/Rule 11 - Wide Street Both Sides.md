@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: montante-rule-11-wide-street-both-sides
+title: Rule 11 — In a Wide Street, Attacked on Both Sides
+summary: Source text and summary for Godinho's Rule 11 of the montante.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 11 — In a Wide Street, Attacked on Both Sides
 
 ---
