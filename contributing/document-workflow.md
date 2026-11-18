@@ -1,6 +1,6 @@
-# Formatting pilot workflow
+# Document workflow
 
-This is a small pilot of the draft [formatting standard](formatting-standard.md).
+This describes how the adopted [formatting standard](formatting-standard.md) is applied on the website.
 
 ## Scope
 
@@ -8,11 +8,11 @@ The existing `Fencing Concepts/Inside and Outside Line.md` page opts into shared
 
 The existing curriculum, reference, and standards pages have since been migrated; see the [migration checklist](migration-checklist.md) for converted pages and exceptions. The homepage, navigation/index-only pages, and custom-layout pages retain their existing styles.
 
-Open Sans and PT Serif are bundled with licenses and checked hashes. The logo is the original image extracted from the supplied formatting PDF, not a redraw. The pilot follows that reference's cover, oxblood section labels and rules, italic purpose lines, tables, and main-point panels. Print uses US Letter and white backgrounds.
+Open Sans and PT Serif are bundled with licenses and checked hashes. The logo is the original image extracted from the supplied formatting PDF, not a redraw. The shared layout follows that reference's cover, oxblood section labels and rules, italic purpose lines, tables, and main-point panels. Print uses US Letter and white backgrounds.
 
 The optional `presentation` mapping holds template choices, not custom CSS. `presentation.cover: true` gives a separate printed cover; omitting it gives a compact title block. `presentation.sections` is keyed by existing heading anchors; each entry may supply a short `label` and a `subtitle` explaining the section's purpose. Section numbers and visual treatments are generated consistently. These additions are editorial labels; technical content still requires normal review.
 
-Automated release PDFs and full curriculum validation are deferred. Browser Print is not a pinned, authoritative PDF pipeline. The imported standard remains draft 0.1; this pilot does not automatically approve it.
+Automated release PDFs and full curriculum validation are deferred. Browser Print is not a pinned, authoritative PDF pipeline.
 
 ## Preview and authoring
 
@@ -31,7 +31,7 @@ python -m pip install -r requirements.txt
 python -m mkdocs serve
 ```
 
-Check the pilot in both site themes and at phone width. Inspect its Print / Save as PDF output. Run `python -m mkdocs build --strict` before opening a PR.
+Check changed pages in both site themes and at phone width. Inspect their Print / Save as PDF output. Run `python -m mkdocs build --strict` before opening a PR.
 
 Use [the starter](templates/document.md) for new material when helpful. Keep Markdown as the editable master, use a single H1 matching `title`, replace starter text, and remove unnecessary sections. Do not add per-document fonts, colors, or spacing. Only opted-in pages use the new layout.
 
@@ -59,4 +59,4 @@ Use separate branches and review content and appearance before merging. The exis
 
 The existing Donna Destra conflict is untouched and needs an instructor's wording decision separately; that page stays on the legacy layout until then. Formatting migration is not a teaching, historical, or safety audit of the curriculum.
 
-Material for MkDocs currently announces end of life on May 5, 2027. Framework migration is outside this pilot.
+Material for MkDocs currently announces end of life on May 5, 2027. Framework migration is separate future work.

@@ -5,7 +5,7 @@ summary: A shared system for curriculum, teaching materials, and reference docum
 type: guide
 audience: instructors
 visibility: internal
-version: "0.1"
+version: "1.0"
 updated: 2026-11-17
 authors:
   - Steel Crown
@@ -15,7 +15,7 @@ authors:
 
 A shared system for curriculum, teaching materials, and reference documents.
 
-Draft 0.1 | November 17, 2026 | For approval
+Version 1.0 | November 17, 2026 | Adopted
 
 ## A standard that supports the material
 
@@ -23,15 +23,15 @@ Steel Crown documents should feel like parts of one collection, whether someone 
 
 **The central rule:** Write the content once in Markdown. Shared templates control its appearance in HTML and PDF. Fix recurring layout problems in the template, not separately in every document.
 
-### What this draft keeps and adds
+### What this standard keeps and adds
 
 | Basis | Treatment |
 | --- | --- |
 | Supplied Formatting.pdf | Keep Open Sans headings, PT Serif text, dark ink, muted subtitles, oxblood labels, restrained tables, and main-point callouts. |
 | Supplied palette image | Keep Website #0f1117, Steel Grey 2 #9da4a8, White #ffffff, and Oxblood #4a0404. |
-| New defaults proposed here | Define source structure, spacing, document variants, accessibility checks, shared outputs, and review rules. These are not previously approved policy. |
+| Defaults added here | Define source structure, spacing, document variants, accessibility checks, shared outputs, and review rules. |
 
-The sample cover's blue divider is replaced with oxblood in this draft, keeping decorative color within the supplied palette. That change needs approval along with the new defaults.
+The sample cover's blue divider is replaced with oxblood, keeping decorative color within the supplied palette.
 
 ### Consistent styles, appropriate structures
 
@@ -44,7 +44,7 @@ The sample cover's blue divider is replaced with oxblood in this draft, keeping 
 
 These are organizing prompts, not mandatory empty headings. A Meyer reference sheet does not need invented timings; an instructor guide does not need a drill sequence. Use weapon- or tradition-specific fields only when the material calls for them.
 
-**Status:** This is a proposed standard and an example of its compact reference layout. No repository migration or website configuration is included in this draft.
+**Status:** Adopted as Steel Crown policy. The website implements it through the shared hook and styles; see the [workflow](document-workflow.md).
 
 ## Color and brand
 
@@ -66,7 +66,7 @@ The first four values come from the supplied palette. Ink, Muted, and Soft surfa
 
 Use Ink on White for normal print and light-theme text. Use White on Website for dark-theme text, with Steel Grey 2 for secondary details. Use White on Oxblood or Ink when text sits inside a dark label.
 
-Do not use Steel Grey 2 as small text on White, or Oxblood as text on Website. Both combinations are too low contrast for this system. The proposed minimum is 4.5:1 for normal text and 3:1 for essential diagram lines and controls against adjacent colors. Check the actual rendered pairing, including hover and focus states.
+Do not use Steel Grey 2 as small text on White, or Oxblood as text on Website. Both combinations are too low contrast for this system. The minimum is 4.5:1 for normal text and 3:1 for essential diagram lines and controls against adjacent colors. Check the actual rendered pairing, including hover and focus states.
 
 Links are underlined, not distinguished by color alone. Safety notices, roles, and diagram directions also need words, symbols, or line styles. A black-and-white print must still make sense.
 
@@ -223,7 +223,7 @@ The build should embed fonts, preserve live links, and produce searchable text. 
 
 The repository holds the editable Markdown, assets, shared styles, and build configuration. Published pages and PDFs are generated from an identified committed revision. Generated files may be deployment artifacts rather than committed files; decide this when inspecting the existing website.
 
-### Proposed publishing workflow
+### Publishing workflow
 
 | Step | Mode | What happens |
 | --- | --- | --- |
@@ -234,7 +234,7 @@ The repository holds the editable Markdown, assets, shared styles, and build con
 | Publish | Automatic after merge | Merge or release triggers website deployment and a release PDF, if configured. |
 | Print | Manual | Open the published PDF, choose printer and settings, and print. |
 
-Automation here is a proposed configuration, not a claim that it is connected now. A chat response alone does not commit or publish content. Internal material must be excluded from public builds or protected by real access control; an internal metadata label is not sufficient.
+Pull requests are validated and a merge to `main` deploys the website; release PDF automation is not connected yet. A chat response alone does not commit or publish content. Internal material must be excluded from public builds or protected by real access control; an internal metadata label is not sufficient.
 
 ### Release checks
 
@@ -244,18 +244,21 @@ Automation here is a proposed configuration, not a claim that it is connected no
 
 ### Apply it to existing material
 
-First approve the palette, typography, metadata, and document variants. Then inspect the existing repository and pilot one Fiore curriculum item, one lesson, and one reference document. Agree on paths and renderer integration before converting the collection.
+The palette, typography, metadata, and document variants are adopted, and existing material has been migrated (see the [migration checklist](migration-checklist.md)). New material uses the standard directly.
 
 Inventory the remaining material and map each item to a type. Reformat in reviewable batches, preserving original files or git history, public URLs, citations, and warnings. Report substantive ambiguities separately; do not silently rewrite doctrine while normalizing layout.
 
 Keep exceptions and changes in this standard. Fix recurring issues centrally and regenerate affected outputs. Use 0.x for drafts, 1.0 for the first approved standard, and a short change log for later revisions. Do not create a different style guide for each document.
 
-## Basis and approval record
+## Basis and adoption record
 
-This draft is based on the user-supplied two-page Formatting.pdf and palette image, reviewed November 17, 2026. Typeface names and print sizes were read from the PDF. Where the sample does not specify behavior, the rule in this document is a proposed default.
+This standard is based on the user-supplied two-page Formatting.pdf and palette image, reviewed November 17, 2026. Typeface names and print sizes were read from the PDF. Where the sample does not specify behavior, the rule in this document sets the default.
 
 Font distribution references for implementation: [Open Sans in Google Fonts](https://github.com/google/fonts/tree/main/ofl/opensans) and [PT Serif in Google Fonts](https://github.com/google/fonts/tree/main/ofl/ptserif). Retain the licenses with redistributed font files.
 
-**Approval needed:** Confirm the shared visual defaults, replacement of the blue cover rule, document types and metadata, and the proposed review/publishing process before treating this as policy.
+**Adopted:** November 17, 2026, by the owner, including the shared visual defaults, the oxblood cover rule, document types and metadata, and the review/publishing process.
 
-**Change log:** 0.1 - Initial draft based on supplied formatting and palette; adds proposed Markdown, website, print, and migration rules. Repository integration has not been performed.
+**Change log:**
+
+- 1.0 - Adopted. Per-document approval status removed: a committed page is treated as reviewed. Website integration and migration of existing pages complete.
+- 0.1 - Initial draft based on supplied formatting and palette; adds proposed Markdown, website, print, and migration rules.
