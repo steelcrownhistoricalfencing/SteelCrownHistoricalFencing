@@ -46,6 +46,14 @@ def on_page_content(html, page, config, files, **kwargs):
         date.fromisoformat(str(meta["updated"]))
     except ValueError as exc:
         raise PluginError(f"{page.file.src_uri}: updated must be an ISO date") from exc
+    # Imported documents retain the source month, independently of migration dates.
+    document_date = meta.get("document_date")
+    if document_date is not None and (not isinstance(document_date, str) or
+            not re.fullmatch(r"[0-9]{4}-(?:0[1-9]|1[0-2])", document_date)):
+        raise PluginError(f"{page.file.src_uri}: document_date must be YYYY-MM")
+    display_date = (date.fromisoformat(document_date + "-01").strftime("%B %Y")
+                    if document_date is not None else
+                    date.fromisoformat(str(meta["updated"])).strftime("%B %Y"))
     heading = re.findall(r"<h1(?:\s[^>]*)?>(.*?)</h1>", html, re.DOTALL)
     if len(heading) != 1 or unescape(re.sub(r"<[^>]*>", "", heading[0])) != meta["title"]:
         raise PluginError(f"{page.file.src_uri}: use one H1 matching title")
@@ -55,7 +63,7 @@ def on_page_content(html, page, config, files, **kwargs):
     if "cover" in presentation and not isinstance(presentation["cover"], bool):
         raise PluginError(f"{page.file.src_uri}: presentation.cover must be true or false")
     details = " | ".join((", ".join(meta["authors"]),
-                          date.fromisoformat(str(meta["updated"])).strftime("%B %Y"),
+                          display_date,
                           f"Version {meta['version']}"))
     logo = get_relative_url("assets/steel-crown-print-logo.png", page.url)
     cover_class = "sc-cover--separate" if presentation.get("cover", False) else "sc-cover--compact"

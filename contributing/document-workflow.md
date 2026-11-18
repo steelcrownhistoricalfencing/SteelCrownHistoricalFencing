@@ -37,6 +37,8 @@ Use [the starter](templates/document.md) for new material when helpful. Keep Mar
 
 When migrating an existing page, add front matter without rewording the page. `authors` names the author stated for the collection (the Fiore and Montante index pages name Chris Mineweaser) or `Steel Crown` where none is stated. `summary` reuses existing wording, such as the section index description or the page's own subtitle, rather than adding claims. `updated` is the migration date.
 
+For imported class and lesson material, optional `document_date: "YYYY-MM"` preserves the source document's month in the visible web and print metadata. `updated` still records the website edit/migration date. Pages without `document_date` keep their existing date behavior. Do not invent a day when the source gives only a month. Lesson versions match their source cover; unversioned reference sheets retain their explicitly assigned web-edition version.
+
 There is no per-document approval status. Review content before committing it; a committed page is treated as reviewed. The hook rejects a `status` field. Mark unfinished material in the page itself, as the Meyer page does with its work-in-progress notice.
 
 The hook rejects missing metadata, unsupported metadata values, an unmatched title, and changed/missing bundled fonts. It is not a full link, historical, safety, or accessibility audit.

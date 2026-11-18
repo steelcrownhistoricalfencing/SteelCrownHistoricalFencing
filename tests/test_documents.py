@@ -1,6 +1,8 @@
 """Structural checks; visual/browser review remains required."""
 from pathlib import Path
 import unittest
+import json
+from datetime import date
 from bs4 import BeautifulSoup
 
 DOCS = Path('Steel Crown Historical Fencing')
@@ -57,6 +59,18 @@ class DocumentTests(unittest.TestCase):
                 self.assertNotIn('source.pdf', text)
                 self.assertIn('Print / Save as PDF', built(page).get_text())
         self.assertFalse(list((DOCS / 'Classes and Lessons').rglob('*.pdf')))
+
+    def test_class_source_dates_and_versions(self):
+        expected = json.loads(Path('tests/class_source_metadata.json').read_text())
+        for slug, month, version in expected:
+            source = DOCS / 'Classes and Lessons' / (slug + '.md')
+            with self.subTest(page=slug):
+                text = source.read_text(encoding='utf-8')
+                self.assertIn("document_date: '" + month + "'", text)
+                self.assertIn("version: '" + version + "'", text)
+                metadata = built(source).select_one('.sc-metadata').get_text()
+                self.assertIn(date.fromisoformat(month + '-01').strftime('%B %Y'), metadata)
+                self.assertIn('Version ' + version, metadata)
 
 
 if __name__ == '__main__':
