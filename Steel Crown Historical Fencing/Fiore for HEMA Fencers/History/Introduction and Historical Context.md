@@ -1,10 +1,25 @@
+---
+format: steel-crown-v1
+id: fiore-introduction-and-historical-context
+title: Introduction and Historical Context
+summary: Background on Fiore dei Liberi and the historical context of the Flower of Battle.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Introduction and Historical Context
 
 *Fiore dei Liberi and the Flower of Battle*
 
 ---
 
-## **A Master’s Legacy**
+## A Master’s Legacy
 
 In the opening pages of his manuscript, an aging swordsman begins his story:
 
@@ -16,9 +31,9 @@ He was, by his own account, undefeated. He fought in judicial duels, trial by co
 
 ---
 
-## **The Man Behind the Manuscript**
+## The Man Behind the Manuscript
 
-### **Early Life and Training**
+### Early Life and Training
 
 Fiore dei Liberi was born sometime in the mid-14th century in northeastern Italy, likely in or near Premariacco in the region of Friuli.
 
@@ -32,7 +47,7 @@ This approach was uncommon. Most students trained within a single lineage. Fiore
 
 ---
 
-### **The Competitive World of Masters at Arms**
+### The Competitive World of Masters at Arms
 
 Martial arts in Fiore’s time existed within a competitive and often hostile environment.
 
@@ -48,7 +63,7 @@ Whether or not this is entirely literal, it reflects the environment in which hi
 
 ---
 
-### **The Scope of Fiore’s Experience**
+### The Scope of Fiore’s Experience
 
 It is important to understand what kind of combat Fiore specialized in.
 
@@ -60,7 +75,7 @@ This distinction matters. The system preserved in his manuscript is built for **
 
 ---
 
-## **The Historical Moment**
+## The Historical Moment
 
 Fiore lived during a complex and transitional period in Italian history.
 
@@ -72,7 +87,7 @@ Legally, trial by combat remained a recognized method of resolving disputes. The
 
 ---
 
-## **Geographic Context: Northern Italy**
+## Geographic Context: Northern Italy
 
 Fiore’s career was centered in northeastern Italy, particularly in the regions of Friuli, Veneto, and Emilia-Romagna.
 
@@ -82,7 +97,7 @@ The courts in which Fiore worked, including Ferrara and Padua, were sophisticate
 
 ---
 
-## **Why Fiore Wrote**
+## Why Fiore Wrote
 
 By the time Fiore composed his manuscript, he was likely in his later years.
 
@@ -98,9 +113,9 @@ It presents not isolated techniques, but a complete and organized system.
 
 ---
 
-## **The Flower of Battle**
+## The Flower of Battle
 
-### **The Surviving Manuscripts**
+### The Surviving Manuscripts
 
 Four versions of Fiore’s work survive today:
 
@@ -113,7 +128,7 @@ Each contains variations in text and illustration, but all present the same unde
 
 ---
 
-### **Why This Manual Uses the Getty**
+### Why This Manual Uses the Getty
 
 This curriculum draws primarily from the Getty Manuscript.
 
@@ -121,7 +136,7 @@ It is the most complete version, with the clearest illustrations and the most de
 
 ---
 
-## **What the System Contains**
+## What the System Contains
 
 Fiore’s work is comprehensive.
 
@@ -140,9 +155,9 @@ This is not a collection of techniques. It is a complete martial system, structu
 
 ---
 
-## **Why It Matters for Modern Practitioners**
+## Why It Matters for Modern Practitioners
 
-### **A Direct Line to a Proven System**
+### A Direct Line to a Proven System
 
 The Fior di Battaglia is not a reconstruction based on fragments or guesswork. It is a complete system recorded by a master who trained and tested his art over decades.
 
@@ -150,7 +165,7 @@ For modern HEMA practitioners, this provides something rare: a direct line to a 
 
 ---
 
-### **Training for Real Decision-Making**
+### Training for Real Decision-Making
 
 Fiore’s system emphasizes decision-making rather than memorization.
 
@@ -165,7 +180,7 @@ These are the same skills required in sparring and competition today.
 
 ---
 
-### **A Complete Martial Framework**
+### A Complete Martial Framework
 
 Fiore presents a structured progression:
 
@@ -179,7 +194,7 @@ This gives practitioners a framework for understanding how techniques connect, r
 
 ---
 
-### **Transfer to Modern Fencing**
+### Transfer to Modern Fencing
 
 While we no longer fight judicial duels, the core elements of combat remain unchanged.
 
@@ -193,7 +208,7 @@ When applied correctly, Fiore’s system improves both technical execution and t
 
 ---
 
-### **Understanding “Why,” Not Just “How”**
+### Understanding “Why,” Not Just “How”
 
 Fiore’s system teaches underlying principles, not just actions.
 
@@ -207,7 +222,7 @@ This allows adaptation, rather than reliance on memorized techniques.
 
 ---
 
-### **Bridging History and Practice**
+### Bridging History and Practice
 
 HEMA exists between historical study and modern application.
 
@@ -217,7 +232,7 @@ By applying his teachings in practice, we refine both interpretation and skill, 
 
 ---
 
-## **Fiore’s Voice**
+## Fiore’s Voice
 
 One of the most distinctive aspects of Fiore’s manuscript is its presentation.
 
@@ -231,7 +246,7 @@ When used in training today, it serves the same purpose it did six centuries ago
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Fiore’s system is not simply a record of techniques.
 

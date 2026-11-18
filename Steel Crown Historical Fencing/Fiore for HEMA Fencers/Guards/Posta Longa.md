@@ -1,4 +1,19 @@
-﻿# Posta Longa
+---
+format: steel-crown-v1
+id: posta-longa
+title: Posta Longa
+summary: A reference on Posta Longa, the Long Guard, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Posta Longa
 
 <img src="../../../assets/fiore/guards/posta-longa.jpg" alt="Posta Longa" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
@@ -21,13 +36,13 @@ Longa is often reached at the conclusion of an attack, particularly a thrust, bu
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Io son posta longa e achosi te aspetto. E in la presa che tu mi uoray fare, Lo mio brazo dritto che sta in erto, Sotto lo tuo stancho lo mettero per certo. E di subito te feriro cum una punta."*
 
-### **Translation**
+### Translation
 
 "I am Long Guard and like this I wait for you. And in the grip that you would like to make against me, my right arm which stands raised, I will place it under your left for certain. And suddenly I will wound you with a thrust."
 
@@ -41,7 +56,7 @@ The guard forces the opponent to act first.
 
 ---
 
-## **Bilateral Use**
+## Bilateral Use
 
 Posta Longa is a near-central guard. Because the sword extends directly forward rather than to one side, the distinction between Destra and Sinestra is minimal: both expressions of the guard hold the point along the centerline with the same forward-facing structure.
 
@@ -51,7 +66,7 @@ The key bilateral lesson in Posta Longa is not about left versus right: it is ab
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 The name is straightforward.
 
@@ -65,9 +80,9 @@ The sword becomes a barrier, a threat, and a measuring tool simultaneously.
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The body remains upright and balanced.
 
@@ -79,7 +94,7 @@ One of the most common mistakes is reaching with the body instead of reaching wi
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The sword extends directly toward the opponent.
 
@@ -99,7 +114,7 @@ Although the sword is extended, Longa remains classified as *Instabile* because 
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Posta Longa is a guard of measure and line control.
 
@@ -119,7 +134,7 @@ The guard is particularly useful for:
 
 ---
 
-## **Point Against Point**
+## Point Against Point
 
 One of Fiore's most famous observations appears elsewhere in the manuscript:
 
@@ -137,7 +152,7 @@ Longa teaches students to recognize when they are threatening and when they are 
 
 ---
 
-## **The Waiting Guard**
+## The Waiting Guard
 
 Many students initially assume that Longa is an attacking guard.
 
@@ -162,7 +177,7 @@ The guard wins by presenting a problem.
 
 ---
 
-## **Relationship to Fenestra**
+## Relationship to Fenestra
 
 Fenestra and Longa form one of the most important relationships in Fiore's system.
 
@@ -180,7 +195,7 @@ Understanding this relationship helps students see guards as connected positions
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Longa is one of the most practical guards to understand.
 
@@ -199,7 +214,7 @@ Longa teaches them how to make the opponent react first.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Longa strongly expresses the Lynx.
 
@@ -213,7 +228,7 @@ The Lion appears in confidently occupying the centerline and forcing the opponen
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Posta Longa is strongest when it controls the centerline uncontested.
 
@@ -232,7 +247,7 @@ The guard's strength comes from making straightforward attacks difficult.
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Longa is not a static pose.
 
@@ -246,9 +261,9 @@ Finally, Longa should not become a rigid lockout. The structure remains alive an
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — The Extended Threat**
+### Drill 1 — The Extended Threat
 
 Partner A assumes Posta Longa.
 
@@ -262,7 +277,7 @@ This drill teaches the tactical value of occupying the line.
 
 ---
 
-### **Drill 2 — Point Against Point**
+### Drill 2 — Point Against Point
 
 Both partners begin in Posta Longa.
 
@@ -278,7 +293,7 @@ This drill develops awareness of measure and line.
 
 ---
 
-### **Drill 3 — Fenestra to Longa**
+### Drill 3 — Fenestra to Longa
 
 Begin in Posta di Fenestra.
 
@@ -294,7 +309,7 @@ This drill teaches the relationship between chambered and extended threat.
 
 ---
 
-### **Drill 4 — Longa to Longa**
+### Drill 4 — Longa to Longa
 
 Begin in Posta Longa.
 
@@ -310,7 +325,7 @@ This develops the understanding that Longa is a hub connecting many actions with
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is leaning forward to gain reach. Extend the sword rather than the body.
 
@@ -320,7 +335,7 @@ Some students also lock their elbows completely, making transitions slower and r
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Posta Longa is the guard of measure and extension.
 

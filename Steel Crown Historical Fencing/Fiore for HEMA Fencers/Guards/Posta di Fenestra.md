@@ -1,4 +1,19 @@
-﻿# Posta di Fenestra
+---
+format: steel-crown-v1
+id: posta-di-fenestra
+title: Posta di Fenestra
+summary: A reference on Posta di Fenestra, the Window Guard, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Posta di Fenestra
 
 <img src="../../../assets/fiore/guards/posta-di-fenestra.png" alt="Posta di Fenestra" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
@@ -15,13 +30,13 @@ Fiore describes this guard as one of deception, adaptability, and intelligence. 
 
 ---
 
-## **Fiore’s Description**
+## Fiore’s Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Questa si e posta di Finestra, che de malicie & inganni sempre la e presta. E de covrir e de ferir ella e magistra. E cum tutte guardie ella fa questione e cum le soprane e cum le terene. E d'una guardia a'l'altra ella va spesso per inganar lo compagno. E a metter grande punte e saver le romper e scambiare, quelli zoghi ella po ben fare."*
 
-### **Translation**
+### Translation
 
 “This is the Window Guard, who is always ready with malice and deception. She is a master of covering and striking. She questions all other guards, both the high and the low. She shifts frequently from one guard to another to deceive the companion. And she is well-suited to delivering great thrusts, knowing how to break them, and performing the exchange of points.”
 
@@ -29,7 +44,7 @@ Fiore emphasizes deception, versatility, and the ability to threaten with the po
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Fenestra* means "window" in Italian. The guard takes its name from the position of the sword held to one side of the head, creating the visual appearance of a window frame: the blade and arm forming one edge, the body the other.
 
@@ -39,11 +54,11 @@ Fiore emphasizes this dual nature in his description: the guard is "always ready
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
 Posta di Fenestra places the sword to one side of the head with the point extended forward toward the opponent.
 
-### **Body Position**
+### Body Position
 
 The stance is typically rear-weighted, with the body drawn slightly back. This increases distance while keeping the point threatening.
 
@@ -51,7 +66,7 @@ The torso remains upright and balanced, allowing for quick movement in any direc
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held at approximately head height. The blade is angled forward with the true edge facing upward, and the point directed toward the opponent’s face or throat.
 
@@ -59,7 +74,7 @@ The arms remain slightly bent, preserving fluidity and responsiveness.
 
 ---
 
-## **Right and Left Variations**
+## Right and Left Variations
 
 Posta di Fenestra exists on both sides of the body. Fiore does not provide a separate manuscript text for the left-side guard, the same verse and principles apply mirrored across the body.
 
@@ -75,7 +90,7 @@ Both sides must be trained to equal standard. A Fenestra Sinestra that is slower
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Posta di Fenestra is a guard of control, deception, and adaptability.
 
@@ -85,7 +100,7 @@ Because the point is already forward, it can oppose both high and low guards wit
 
 ---
 
-## **The “Questioning” Concept**
+## The “Questioning” Concept
 
 Fiore writes that he “questions all the guards.”
 
@@ -103,7 +118,7 @@ This is the practical expression of deception.
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Posta di Fenestra is often used as a primary engagement guard.
 
@@ -115,7 +130,7 @@ This creates hesitation, and hesitation creates openings.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Posta di Fenestra strongly expresses the **Lynx.**
 
@@ -127,7 +142,7 @@ The fencer observes, provokes, and responds based on the opponent’s behavior.
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Posta di Fenestra is most effective when the opponent reacts to the point and commits to a single defensive response. It becomes less effective when the opponent refuses to chase the threat or controls distance carefully.
 
@@ -139,7 +154,7 @@ Consistent pressure that denies the fencer time to shift between Destra and Sine
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The most natural action from Fenestra is the thrust. Because the point is already forward, it can be delivered quickly with minimal preparation.
 
@@ -149,7 +164,7 @@ With both sides available, the fencer can shift between right and left to create
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Posta di Fenestra is not a power-generating guard. It does not produce the same forceful strikes as Posta di Donna without transitioning.
 
@@ -159,9 +174,9 @@ Finally, shifting weight too far forward exposes the body. The guard relies on m
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — Structure and Mobility**
+### Drill 1 — Structure and Mobility
 
 Begin in Fenestra and hold the position, ensuring the point threatens the opponent.
 
@@ -171,7 +186,7 @@ With a partner, track their movement while maintaining the point on target.
 
 ---
 
-### **Drill 2 — The Thrust**
+### Drill 2 — The Thrust
 
 From Fenestra, extend into a thrust and finish in Posta Longa.
 
@@ -179,7 +194,7 @@ Focus on maintaining a straight line and controlled extension.
 
 ---
 
-### **Drill 3 — Four-Guard Flow**
+### Drill 3 — Four-Guard Flow
 
 Cycle through:
 
@@ -192,7 +207,7 @@ This develops fluid transitions and bilateral control.
 
 ---
 
-### **Drill 4 — Side Switching**
+### Drill 4 — Side Switching
 
 Begin in Fenestra Destra. Quickly transition to Fenestra Sinestra while maintaining threat.
 
@@ -202,7 +217,7 @@ This drill develops deception and timing.
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Posta di Fenestra is a guard of control and deception.
 

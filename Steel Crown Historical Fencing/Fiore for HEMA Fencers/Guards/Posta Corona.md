@@ -1,4 +1,19 @@
-﻿# Posta Corona
+---
+format: steel-crown-v1
+id: posta-corona
+title: Posta Corona
+summary: A reference on Posta Corona, the Crown Guard, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Posta Corona
 
 <img src="../../../assets/fiore/guards/posta-frontale-corona.png" alt="Posta Corona" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
@@ -15,13 +30,13 @@ Posta Corona shares its manuscript verse with Posta Frontale: Fiore presents the
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Posta frontale, over corona son, che offender e defender voglio. Lo mio parlare a tutti quanti scopro. Che chi me pora zenzer in punta tal conseglio, de ben ferir poy piuy non li scopro."*
 
-### **Translation**
+### Translation
 
 "I am the Frontal Guard, or Crown, for I want to offend and defend. I reveal my speech to everyone. For whoever can cross me point to point, such counsel, to strike well after, I reveal to him no more."
 
@@ -31,7 +46,7 @@ The verse applies to both aspects of the guard. Where Frontale's reading emphasi
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Posta Corona* means *Crown Guard*.
 
@@ -43,9 +58,9 @@ This descent, when it comes, carries everything.
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The stance is upright and balanced, with weight neutral or slightly rear-weighted to support the elevated arms.
 
@@ -55,7 +70,7 @@ The fencer should feel tall, grounded in the feet, and ready to drop forward wit
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are elevated above the head, arms extended upward and slightly spread. The sword is held approximately vertical or angled slightly forward, with the point directed upward and forward above the fencer's head.
 
@@ -65,7 +80,7 @@ The blade's vertical orientation gives it maximum fall distance. When the Fenden
 
 ---
 
-## **The Power of Height**
+## The Power of Height
 
 Posta Corona is the highest starting position for a descending strike in Fiore's system.
 
@@ -83,7 +98,7 @@ Fiore describes Posta di Donna as capable of "breaking opposing guards with grea
 
 ---
 
-## **The Protective Function**
+## The Protective Function
 
 The overhead position of Posta Corona provides natural protection against descending attacks.
 
@@ -93,7 +108,7 @@ This coverage is not active in the way that Tutta Porta di Ferro beats thrusts t
 
 ---
 
-## **As a Finishing Position for Rising Cuts**
+## As a Finishing Position for Rising Cuts
 
 Posta Corona is one of the natural finishing positions for the Sottano.
 
@@ -107,7 +122,7 @@ This cycle, rising into high, then falling into low, is one of the fundamental f
 
 ---
 
-## **The Transition to Posta di Donna**
+## The Transition to Posta di Donna
 
 Posta Corona and Posta di Donna are related guards that can flow between each other naturally.
 
@@ -117,7 +132,7 @@ In practical terms, Corona is often the guard a fencer passes through when movin
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Posta Corona occupies a role that many practitioners underestimate.
 
@@ -127,7 +142,7 @@ The guard is also pedagogically important as a reference for understanding power
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Posta Corona expresses all four virtues in balance, with particular emphasis on the **Tiger** and the **Elephant**.
 
@@ -141,7 +156,7 @@ The **Lion** holds the elevated position under pressure. An opponent who recogni
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Posta Corona is most vulnerable to approaches that attack before the descending strike develops.
 
@@ -153,7 +168,7 @@ Finally, thrusts directed into the open body below the elevated blade, launched 
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Posta Corona is not a guard for controlling centerline distance the way Posta Longa does. The elevated blade does not project a direct forward threat; it projects an overhead threat that requires a specific directional response from the opponent.
 
@@ -163,9 +178,9 @@ Finally, the guard should not be held statically while fatigued. The elevated po
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — The Crown Structure**
+### Drill 1 — The Crown Structure
 
 Begin in Posta Corona with the sword raised vertically above the head.
 
@@ -177,7 +192,7 @@ Repeat three times, increasing endurance gradually.
 
 ---
 
-### **Drill 2 — The Crown Fendente**
+### Drill 2 — The Crown Fendente
 
 From Posta Corona, step forward and release a Fendente.
 
@@ -189,7 +204,7 @@ With a partner: the partner holds a stable guard while the fencer delivers the s
 
 ---
 
-### **Drill 3 — Sottano to Corona to Fendente**
+### Drill 3 — Sottano to Corona to Fendente
 
 Begin in Dente di Zenghiaro or Coda Longa.
 
@@ -203,7 +218,7 @@ Perform ten complete cycles. The three actions, rising cut, pause at corona, des
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common error is allowing the blade to angle too far forward so it points at the opponent rather than upward. The point should be elevated, directed above the fencer's head, not leveled toward the opponent. The elevated angle is what creates the maximum fall distance for the descending cut.
 
@@ -213,7 +228,7 @@ Some students also fail to step with the Fendente, relying on the arm swing alon
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Posta Corona is the guard of overhead power and stored descent.
 

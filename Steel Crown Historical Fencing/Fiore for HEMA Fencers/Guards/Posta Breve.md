@@ -1,4 +1,19 @@
-﻿# Posta Breve
+---
+format: steel-crown-v1
+id: posta-breve
+title: Posta Breve
+summary: A reference on Posta Breve, the Short Guard, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Posta Breve
 
 <img src="../../../assets/fiore/guards/posta-breve.png" alt="Posta Breve" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
@@ -19,13 +34,13 @@ Posta Breve is a guard of compression. It stores potential energy close to the b
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Posta breve son posta excellente, e son in guardia molto forte. E uoglio ferir inanzy prestamente e poi mettermi in coperta in certe sorte."*
 
-### **Translation**
+### Translation
 
 "I am Short Guard, an excellent guard, and I am in a very strong guard. And I want to strike quickly forward and then put myself under cover in certain ways."
 
@@ -42,7 +57,7 @@ This balance between offense and defense defines Posta Breve.
 
 ---
 
-## **Bilateral Use**
+## Bilateral Use
 
 Posta Breve is a compact, forward-facing guard with minimal lateral orientation. Like Posta Longa, the distinction between Destra and Sinestra is small: the sword is held close to the body with the point forward, and that core structure does not change meaningfully from side to side.
 
@@ -52,7 +67,7 @@ The bilateral importance of Posta Breve is most relevant in guard flow exercises
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 The name *Posta Breve* means *Short Guard.*
 
@@ -66,9 +81,9 @@ This compression gives the guard its strength.
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The body remains upright and balanced.
 
@@ -82,7 +97,7 @@ There should be very little unnecessary movement.
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held at hip to waist height, with the elbows connected to the sides of the body.
 
@@ -98,7 +113,7 @@ One useful test is to imagine that your hands are protected behind your structur
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Posta Breve is a guard of structure, readiness, and immediate response.
 
@@ -123,20 +138,20 @@ The sword remains close enough to defend while still threatening immediate offen
 
 ---
 
-## **Breve and Longa**
+## Breve and Longa
 
 One of the most important relationships in Fiore's system is between Posta Breve and Posta Longa.
 
 These guards represent opposite expressions of the same tactical idea.
 
-### **Posta Longa**
+### Posta Longa
 
 * extended threat  
 * controls measure  
 * occupies space  
 * forces reactions
 
-### **Posta Breve**
+### Posta Breve
 
 * compressed threat  
 * preserves structure  
@@ -149,7 +164,7 @@ Together they form a natural pair.
 
 ---
 
-## **Why Is Breve Stable?**
+## Why Is Breve Stable?
 
 Many students initially expect Breve to be classified as a mutable guard because it transitions quickly and launches rapid attacks.
 
@@ -169,13 +184,13 @@ Breve remains strong because the weapon stays connected to the body's structure.
 
 ---
 
-## **Common Attacks from Posta Breve**
+## Common Attacks from Posta Breve
 
 Fiore tells us that Posta Breve wishes to "strike quickly forward." The compact structure of the guard naturally favors attacks that travel short distances and arrive with minimal preparation.
 
 Because the sword begins close to the body, attacks from Breve are often difficult for the opponent to read. There is little wind-up and very little unnecessary motion.
 
-### **The Direct Thrust**
+### The Direct Thrust
 
 The most obvious attack from Posta Breve is a direct thrust.
 
@@ -193,7 +208,7 @@ The attack typically finishes in Posta Longa.
 
 ---
 
-### **The Short Fendente**
+### The Short Fendente
 
 Although Breve lacks the chambering power of Posta di Donna, it can still generate a fast descending cut.
 
@@ -211,7 +226,7 @@ The cut should recover quickly back into structure.
 
 ---
 
-### **The Snap Mezzano**
+### The Snap Mezzano
 
 Because the hands are already centered and compact, Breve can quickly deliver horizontal blows without large preparatory movement.
 
@@ -221,7 +236,7 @@ The motion should feel compact and efficient rather than powerful.
 
 ---
 
-## **Common Defenses from Posta Breve**
+## Common Defenses from Posta Breve
 
 Breve is not merely a striking position.
 
@@ -231,7 +246,7 @@ Its compact structure makes it naturally resistant to displacement.
 
 ---
 
-### **Covering Against Descending Blows**
+### Covering Against Descending Blows
 
 Because the guard maintains a compact structure, Breve can quickly rise into incoming fendenti.
 
@@ -241,7 +256,7 @@ This is often faster than attempting to recover from a more extended position.
 
 ---
 
-### **Defending Through Structure**
+### Defending Through Structure
 
 One of Breve's greatest strengths is that the sword remains connected to the body.
 
@@ -251,7 +266,7 @@ Unlike Longa, where the extended arms may become vulnerable, Breve keeps the han
 
 ---
 
-### **Counter-Offense**
+### Counter-Offense
 
 Perhaps the most important defense available from Breve is immediate counterattack.
 
@@ -269,33 +284,33 @@ This reflects one of Fiore's central themes:
 
 ---
 
-## **Common Transitions**
+## Common Transitions
 
 Posta Breve rarely remains stationary.
 
 Its compact structure makes it an excellent hub between other guards.
 
-### **Breve to Longa**
+### Breve to Longa
 
 The most common transition.
 
 The compressed threat becomes an extended threat.
 
-### **Breve to Fenestra**
+### Breve to Fenestra
 
 The hands remain high while the sword chambers for stronger thrusting actions.
 
-### **Breve to Donna**
+### Breve to Donna
 
 The sword chambers further back to generate powerful descending blows.
 
-### **Breve to Dente di Zenghiaro**
+### Breve to Dente di Zenghiaro
 
 The sword lowers into a grounded position, preparing rising attacks and low-line defense.
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, many exchanges happen quickly and at close measure.
 
@@ -316,7 +331,7 @@ A short path frequently arrives before a long one.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Posta Breve strongly expresses the Elephant.
 
@@ -328,7 +343,7 @@ The Lion appears in the willingness to launch decisive offense when the opportun
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Posta Breve is strongest when it remains compact and structurally connected.
 
@@ -347,7 +362,7 @@ Once the hands and sword move too far from the body, some of its structural adva
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Posta Breve is not designed for controlling long measure.
 
@@ -363,7 +378,7 @@ Although stable, the guard exists to launch quick actions and immediately regain
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is allowing the hands to drift too far from the body.
 
@@ -379,7 +394,7 @@ The guard should remain compact until the moment of action.
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Posta Breve is a guard of compressed readiness.
 

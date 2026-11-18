@@ -1,4 +1,19 @@
-﻿# Posta Frontale
+---
+format: steel-crown-v1
+id: posta-frontale
+title: Posta Frontale
+summary: A reference on Posta Frontale, the Frontal Guard, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Posta Frontale
 
 <img src="../../../assets/fiore/guards/posta-frontale-corona.png" alt="Posta Frontale" class="manuscript-img">
 <p class="manuscript-caption"><em>Flos Duellatorum (Pisani-Dossi MS), c. 1409 - Novati facsimile edition, 1902</em></p>
@@ -17,13 +32,13 @@ Posta Frontale is closely related to Posta Corona, Fiore's own manuscript presen
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Posta frontale, over corona son, che offender e defender voglio. Lo mio parlare a tutti quanti scopro. Che chi me pora zenzer in punta tal conseglio, de ben ferir poy piuy non li scopro."*
 
-### **Translation**
+### Translation
 
 "I am the Frontal Guard, or Crown, for I want to offend and defend. I reveal my speech to everyone. For whoever can cross me point to point, such counsel, to strike well after, I reveal to him no more."
 
@@ -33,7 +48,7 @@ It reveals everything. And when the opponent acts on what they see, it reveals n
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Posta Frontale* means *Frontal Guard*, a guard that faces the opponent directly without turning or chambering.
 
@@ -43,7 +58,7 @@ The name also emphasizes the guard's role as a forward cover. From the elevated 
 
 ---
 
-## **Relationship to Posta Corona**
+## Relationship to Posta Corona
 
 Fiore's own text presents these as one guard: "Posta Frontale, or Crown." In the manuscript, he uses them interchangeably within the same verse.
 
@@ -53,9 +68,9 @@ This curriculum treats them as separate chapters to develop distinct aspects of 
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The stance is upright and neutral, with weight balanced rather than forward or rear-weighted.
 
@@ -65,7 +80,7 @@ The upright posture ensures that the elevated blade can drop into a descending s
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are elevated above the head, at approximately forehead height or above, with the sword raised and the point directed upward and slightly forward.
 
@@ -75,7 +90,7 @@ The position creates a roof-like structure above the fencer's head. Incoming hig
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Posta Frontale operates on two simultaneous principles: coverage and counterattack.
 
@@ -87,7 +102,7 @@ This is the "reveal" in Fiore's verse. The guard reveals its open body; the oppo
 
 ---
 
-## **The Deceptive Openness**
+## The Deceptive Openness
 
 Posta Frontale presents a paradox that is central to understanding it.
 
@@ -103,7 +118,7 @@ The open torso is bait. The fencer wants the opponent to attack the body. That f
 
 ---
 
-## **Connection to Coda Longa**
+## Connection to Coda Longa
 
 Posta Frontale and Coda Longa share a tactical principle across opposite poles of the guard spectrum.
 
@@ -115,7 +130,7 @@ A fencer who understands the false guard concept of Coda Longa will recognize it
 
 ---
 
-## **As a Receiving Position**
+## As a Receiving Position
 
 Posta Frontale also functions as a natural finishing position for rising cuts.
 
@@ -125,7 +140,7 @@ This connection means that for students learning the rising cuts, Frontale provi
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Posta Frontale is often avoided because its openness feels counterintuitive and uncomfortable.
 
@@ -135,7 +150,7 @@ In sparring, Frontale is most effective against opponents who are aggressive and
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Posta Frontale most strongly expresses the **Lion**.
 
@@ -149,7 +164,7 @@ The **Elephant** maintains the balance and stability of the elevated position un
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Posta Frontale is most vulnerable when the opponent refuses to commit to the bait.
 
@@ -161,7 +176,7 @@ Finally, a fencer who holds the position past the point of tactical relevance, b
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Posta Frontale is not a guard for controlling distance at long measure. The elevated position does not project threat outward the way Posta Longa does, and the open body creates problems at range where an opponent has time to select their attack line carefully.
 
@@ -171,9 +186,9 @@ Finally, the guard requires endurance to hold effectively. The elevated arms tir
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — Establishing the Open Guard**
+### Drill 1 — Establishing the Open Guard
 
 Begin in Posta Frontale with the sword raised and the body fully facing forward.
 
@@ -183,7 +198,7 @@ The partner describes what targets appear open and what attack lines seem most a
 
 ---
 
-### **Drill 2 — The Descending Countercut**
+### Drill 2 — The Descending Countercut
 
 From Posta Frontale, step forward and release a Fendente, allowing the blade to travel in its full arc from above the head down through the target zone, finishing in Dente di Zenghiaro.
 
@@ -193,7 +208,7 @@ With a partner: the partner raises their sword slowly as if chambering into Post
 
 ---
 
-### **Drill 3 — Baiting and Response**
+### Drill 3 — Baiting and Response
 
 One fencer holds Posta Frontale. The partner assumes an aggressive guard and advances.
 
@@ -203,7 +218,7 @@ The lesson: the guard is held until the partner truly commits. Responding too ea
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common mistake is leaning backward or retreating. The guard invites attack, retreating with it confuses its message and loses the forward structure needed for the counterattack.
 
@@ -213,7 +228,7 @@ Some students drop the guard prematurely from fatigue, before the opponent has c
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Posta Frontale is the guard of declared openness and hidden readiness.
 

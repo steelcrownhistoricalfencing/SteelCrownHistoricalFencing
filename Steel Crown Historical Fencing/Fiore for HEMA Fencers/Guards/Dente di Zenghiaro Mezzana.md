@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: dente-di-zenghiaro-mezzana
+title: Dente di Zenghiaro Mezzana
+summary: A reference on Dente di Zenghiaro Mezzana, the Middle Boar's Tooth, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Dente di Zenghiaro Mezzana
 
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro.jpg" alt="Dente di Zenghiaro Mezzana" class="manuscript-img">
@@ -17,9 +32,9 @@ Fiore treats the three Dente di Zenghiaro positions as expressions of the same f
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Translation**
+### Translation
 
 "This is Posta Dente di Zenghiaro Mezzana, because there are two teeth in the whole boar, and the middle tooth shares the nature of both. What one tooth can do, the other tooth can do, and what the other tooth can do, the middle tooth can do also."
 
@@ -29,7 +44,7 @@ The verse also carries a tactical implication: the Mezzana can answer from eithe
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Dente di Zenghiaro* means *Boar's Tooth*, and *Mezzana* means *Middle* or *Median*.
 
@@ -39,7 +54,7 @@ The boar's tooth image is about the way the sword rises. A boar does not swing i
 
 ---
 
-## **Relationship to Dente di Zenghiaro Destra and Sinestra**
+## Relationship to Dente di Zenghiaro Destra and Sinestra
 
 The three Dente di Zenghiaro guards are a family, not three separate guards.
 
@@ -51,9 +66,9 @@ The shared capability Fiore describes means that the Mezzana is not a compromise
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The stance is rear-weighted, with the weight settled back and the lead foot forward.
 
@@ -63,7 +78,7 @@ The guard should feel grounded and calm. There is no angling of the body to eith
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held at approximately hip to low-waist height, close to the body.
 
@@ -75,7 +90,7 @@ The false edge is oriented to face upward, positioning it for the diagonal risin
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Dente di Zenghiaro Mezzana operates through defensive patience and explosive rising response.
 
@@ -87,7 +102,7 @@ Dente di Zenghiaro Mezzana operates through defensive patience and explosive ris
 
 ---
 
-## **The False Edge Rising Cut**
+## The False Edge Rising Cut
 
 The defining attack of Dente di Zenghiaro Mezzana is the sottano with the false (back) edge.
 
@@ -101,7 +116,7 @@ Second, the false edge cut from the centered position travels up the middle — 
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Dente di Zenghiaro Mezzana is the most statically threatening of the boar's tooth positions.
 
@@ -113,7 +128,7 @@ For students building guard fluency, the Mezzana provides a useful reference poi
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Dente di Zenghiaro Mezzana expresses the **Elephant** most fully.
 
@@ -127,7 +142,7 @@ The **Lion** holds the exposed centerline position. Facing the opponent directly
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Dente di Zenghiaro Mezzana is most vulnerable to attacks that change angle before arriving.
 
@@ -139,7 +154,7 @@ At very close measure, the low and compact position leaves the head and upper bo
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Dente di Zenghiaro Mezzana is not a guard for controlling long measure. Its point threatens the mid-body line, not the extended forward space that Posta Longa commands. An opponent at long measure who advances carefully will not be threatened by the guard's forward point until they have already closed to mid range.
 
@@ -149,9 +164,9 @@ Finally, the guard should not become passive waiting. The settled quality of Mez
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — Establishing the Mezzana Center**
+### Drill 1 — Establishing the Mezzana Center
 
 Begin in Dente di Zenghiaro Destra. Transition smoothly to Mezzana by bringing the sword from the right hip to the body's centerline, the point continuing to project forward at mid-body height.
 
@@ -163,7 +178,7 @@ Repeat from the Sinestra side, then practice transitioning Destra → Mezzana �
 
 ---
 
-### **Drill 2 — The Central Rising Sottano**
+### Drill 2 — The Central Rising Sottano
 
 From Dente di Zenghiaro Mezzana, launch a false-edge rising sottano directly up the center.
 
@@ -175,7 +190,7 @@ With a partner: the partner extends a hand at approximately waist height as a ta
 
 ---
 
-### **Drill 3 — Defensive Interception**
+### Drill 3 — Defensive Interception
 
 One fencer holds Dente di Zenghiaro Mezzana. The partner delivers a slow, direct descending fendente aimed at the Mezzana fencer's head.
 
@@ -187,7 +202,7 @@ The lesson: the guard's centered forward point intercepts direct attacks without
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common mistake is allowing the sword to drift off the centerline, angling to one side. Mezzana is defined by its centered position. Any drift toward Destra or Sinestra changes the tactical character of the guard and loses the central threat.
 
@@ -199,7 +214,7 @@ Finally, holding the guard with a rigid, extended point that does not threaten c
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Dente di Zenghiaro Mezzana is the guard of the patient center.
 

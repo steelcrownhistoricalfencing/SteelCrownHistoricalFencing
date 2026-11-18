@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: tutta-porta-di-ferro
+title: Tutta Porta di Ferro
+summary: A reference on Tutta Porta di Ferro, the Full Iron Gate, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Tutta Porta di Ferro
 
 <img src="../../../assets/fiore/guards/tutta-porta-di-ferro.jpg" alt="Tutta Porta di Ferro" class="manuscript-img">
@@ -15,13 +30,13 @@ This chapter treats Tutta Porta di Ferro Destra and Sinestra together. Both side
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Tuta porta di ferro son e sto in grande forteza e per aspectar ogni arma da mane bona son io e corta se io ho bona spada si non troppo longa. E partome cum couertura e uago a strenger punte cambio e la mia metto dentro, ancho rebato le punte in tera e sempro uago cum uno passo e de ogni colpo facio couertura."*
 
-### **Translation**
+### Translation
 
 "I am the Full Iron Gate and I stand in great strength. I am good for waiting for every hand weapon, long and short, if I have a good sword, not one that is too long. And I leave with a cover and I go to close. I exchange the thrusts and put mine in. Also, I beat the thrusts to the ground, and I always go with a pass, and I make a cover of every blow."
 
@@ -31,7 +46,7 @@ The guard waits, then enters. The guard covers, then strikes. The guard beats th
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Tutta Porta di Ferro* means *Full Iron Gate*.
 
@@ -41,17 +56,17 @@ The word *tutta*, full, or complete, distinguishes this guard from the middle va
 
 ---
 
-## **Right and Left Variations**
+## Right and Left Variations
 
 Tutta Porta di Ferro exists on both sides of the body and the tactical principles are identical across both.
 
-### **Tutta Porta di Ferro Destra**
+### Tutta Porta di Ferro Destra
 
 In the right-side variation, the sword is held low near the right hip with the point angled forward and slightly upward. The right foot may be forward or the stance squared, depending on context.
 
 The guard naturally generates a rising thrust that exchanges with the opponent's incoming point, and a low beat that deflects thrusts toward the ground.
 
-### **Tutta Porta di Ferro Sinestra**
+### Tutta Porta di Ferro Sinestra
 
 The left-side variation mirrors the structure on the opposite side. The sword rests near the left hip, the point continues to threaten forward, and the same upward thrusting and downward beating actions are available from the left line.
 
@@ -59,9 +74,9 @@ Training both sides ensures the guard can receive attacks from any angle and ent
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The stance is forward-weighted with a grounded, stable base.
 
@@ -71,7 +86,7 @@ The structure should feel settled and difficult to move. Like the Elephant of Fi
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held low near the hip, with the sword angled so the point projects forward and slightly upward toward the opponent.
 
@@ -81,7 +96,7 @@ The sword sits close to the body in a compact, connected position. The structure
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Tutta Porta di Ferro operates through three interconnected actions that Fiore describes explicitly.
 
@@ -95,7 +110,7 @@ This forward entry into close measure is what makes Tutta Porta di Ferro more th
 
 ---
 
-## **The Elephant Virtue**
+## The Elephant Virtue
 
 Of all Fiore's guards, Tutta Porta di Ferro most fully embodies the Elephant.
 
@@ -105,7 +120,7 @@ This is the guard's most important psychological lesson: strength in fencing com
 
 ---
 
-## **The Exchange of Thrusts**
+## The Exchange of Thrusts
 
 Fiore's description includes a precise tactical action: "I exchange the thrusts and put mine in."
 
@@ -117,7 +132,7 @@ The guard's low position enables this exchange cleanly. The incoming thrust pass
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Tutta Porta di Ferro is often undervalued because its defensive appearance can make it seem passive.
 
@@ -129,7 +144,7 @@ It is also an excellent receiving position for the end of a cutting flow. Many o
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Tutta Porta di Ferro expresses the **Elephant** most fully of any guard in the system.
 
@@ -143,7 +158,7 @@ The **Lion** is required for the willingness to stand in a low guard and receive
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Tutta Porta di Ferro is most vulnerable when forced to deal with changing angles.
 
@@ -155,7 +170,7 @@ Rotational cuts that arrive from unexpected angles, rather than direct thrusts, 
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Tutta Porta di Ferro is not a guard for controlling long measure or projecting threat across distance. Posta Longa serves that purpose.
 
@@ -165,9 +180,9 @@ Finally, the guard should not become static. Fiore's description specifically in
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — Establishing the Iron Gate**
+### Drill 1 — Establishing the Iron Gate
 
 Begin in Tutta Porta di Ferro with the sword near the hip and the point angled forward.
 
@@ -179,7 +194,7 @@ Practice from both Destra and Sinestra.
 
 ---
 
-### **Drill 2 — Beating the Thrust**
+### Drill 2 — Beating the Thrust
 
 One fencer assumes Tutta Porta di Ferro. The partner delivers a slow thrust from Posta Longa.
 
@@ -191,7 +206,7 @@ Repeat ten times from each side, then switch roles. Focus on the coordination of
 
 ---
 
-### **Drill 3 — The Exchange of Thrusts**
+### Drill 3 — The Exchange of Thrusts
 
 Building on Drill 2: as the partner's thrust is deflected, immediately launch a counterthrust along the newly cleared line.
 
@@ -201,7 +216,7 @@ Practice slowly at first, establishing the coordination before adding speed. The
 
 ---
 
-### **Drill 4 — Guard Flow into Close Measure**
+### Drill 4 — Guard Flow into Close Measure
 
 Begin in Posta di Donna Destra. Deliver a descending Fendente and allow the blade to finish in Tutta Porta di Ferro.
 
@@ -211,7 +226,7 @@ This drill connects the guard to the natural flow of the cutting system and demo
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common mistake is dropping the point toward the ground. The point must remain forward and slightly elevated, threatening the opponent's low-to-middle line. A point aimed at the floor provides no offensive pressure and makes the guard purely passive.
 
@@ -221,7 +236,7 @@ Some students also hold the hands too far from the body. The compact, hip-connec
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Tutta Porta di Ferro is the guard of immovable forward motion.
 
