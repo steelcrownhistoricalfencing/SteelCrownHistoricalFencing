@@ -28,7 +28,7 @@ class DocumentTests(unittest.TestCase):
 
     def test_migrated_pages(self):
         sources = [p for p in DOCS.rglob('*.md') if 'format: steel-crown-v1' in p.read_text(encoding='utf-8')]
-        self.assertEqual(len(sources), 57)
+        self.assertEqual(len(sources), 71)
         for source in sources:
             with self.subTest(source=str(source)):
                 article = built(source)
@@ -41,6 +41,20 @@ class DocumentTests(unittest.TestCase):
         for name in EXCLUDED:
             with self.subTest(page=name):
                 self.assertIsNone(built(DOCS / name).select_one('.sc-document'))
+
+    def test_lesson_collection(self):
+        lessons = list((DOCS / 'Classes and Lessons').glob('*.md'))
+        pages = [p for p in lessons if p.name != 'index.md']
+        self.assertEqual(len(pages), 14)
+        index = (DOCS / 'Classes and Lessons/index.md').read_text()
+        for page in pages:
+            with self.subTest(page=page.name):
+                self.assertIn('(' + page.name + ')', index)
+                text = page.read_text()
+                self.assertIn('format: steel-crown-v1', text)
+                self.assertNotIn('source.pdf', text)
+                self.assertIn('Print / Save as PDF', built(page).get_text())
+        self.assertFalse(list((DOCS / 'Classes and Lessons').rglob('*.pdf')))
 
 
 if __name__ == '__main__':
