@@ -1,0 +1,62 @@
+{
+  "work": "Joachim Meyer, Gr\u00fcndtliche Beschreibung der Kunst des Fechtens (1570), longsword",
+  "rights": "Public domain historical woodcuts and historical coloring",
+  "accessed": "2026-11-18",
+  "adaptations": "Converted PNG scans to JPEG (quality 92) for website delivery; no cropping, redrawing, recoloring, or geometry changes. Identifying captions appear in Markdown.",
+  "images": [
+    {
+      "file": "plate-a.jpg",
+      "plate": "A",
+      "source": "https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_A.png",
+      "source_sha256": "3386ef133991a5642a217bc40f80b1eb7f29ac906939334c098461150b6451bf",
+      "sha256": "6402be4e9f65be4f4aae3278e2e4b15853298c1e6b6b858e8b2f0ec1edb46e97",
+      "width": 1600,
+      "height": 1045
+    },
+    {
+      "file": "plate-b.jpg",
+      "plate": "B",
+      "source": "https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_B.png",
+      "source_sha256": "922c90dfeebdd41f15194f14e20511034ee31eb0c1b93062d79458ccfff3229b",
+      "sha256": "11de8001098718bfab3152bcc2f7f6ec8f2f1f1b6dfad76ee9f4d3783c1d09aa",
+      "width": 1600,
+      "height": 1046
+    },
+    {
+      "file": "plate-c.jpg",
+      "plate": "C",
+      "source": "https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_C.png",
+      "source_sha256": "1c628d65181bae611994da774ebdd6340cc154e1b0b12150b079fe4efe7171b8",
+      "sha256": "132341ecd87738afd2cb8983bbef64ddcda94158fdd099fb83f28810eae1cfdb",
+      "width": 1600,
+      "height": 1039
+    },
+    {
+      "file": "plate-d.jpg",
+      "plate": "D",
+      "source": "https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_D.png",
+      "source_sha256": "22045da6050fdd05c0ac4eb3690b1e13923a01f705919c034e4d5b1ffcbe823f",
+      "sha256": "9648671d6d1a22e19ae1225d4183258add61adba89bd123237c8e4c852d904a8",
+      "width": 1600,
+      "height": 1038
+    },
+    {
+      "file": "plate-e.jpg",
+      "plate": "E",
+      "source": "https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_E.png",
+      "source_sha256": "d3c44a3c15595f5d48a6785d150c45396863cff942ae79548b0598a689ce1bad",
+      "sha256": "f126261dc7f51454ec78e5f144bedc5728cd112c966844fc71ef1e0d58e9f459",
+      "width": 1600,
+      "height": 1049
+    },
+    {
+      "file": "plate-f.jpg",
+      "plate": "F",
+      "source": "https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_F.png",
+      "source_sha256": "393481dc29979b900d1cae1a6b7244ae70fa25e66daad83558c2a7bb1edfe3f9",
+      "sha256": "0925745b8be009dff509b75e106cdfcc2530ad4cd4832ec62b594adcbb148689",
+      "width": 1600,
+      "height": 1049
+    }
+  ]
+}
