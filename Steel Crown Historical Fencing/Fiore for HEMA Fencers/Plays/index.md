@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: fiore-plays
+title: The Plays — Zoghi
+summary: Fiore's combat plays (zoghi), organized by game.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # The Plays — Zoghi
 
 Guards describe positions. Strikes describe actions. The plays describe what happens when two fencers meet.
@@ -8,7 +23,7 @@ The plays are where the system comes alive.
 
 ---
 
-## **What a Play Is**
+## What a Play Is
 
 A play begins with a blade contact: a crossing, a parry, a bind.
 
@@ -18,7 +33,7 @@ The goal is not to memorize every play. The goal is to develop the judgment to r
 
 ---
 
-## **The Remedy Master Hierarchy**
+## The Remedy Master Hierarchy
 
 Fiore's plays are organized into four tiers, each marked visually in the manuscript by a crown or a garter on the illustrated figure.
 
@@ -34,7 +49,7 @@ Some chains extend to a counter-counter level, but the play chains themselves su
 
 ---
 
-## **How to Read a Play Chain**
+## How to Read a Play Chain
 
 The structure is always the same:
 
@@ -49,7 +64,7 @@ In practice, this trains binary thinking: *is this a situation where my remedy w
 
 ---
 
-## **The Two Games**
+## The Two Games
 
 All plays exist within one of two frameworks.
 
@@ -61,7 +76,7 @@ The transition between them is not a choice: it is determined by the position of
 
 ---
 
-## **The Three Crossings**
+## The Three Crossings
 
 Every play begins at a blade crossing. The nature of that crossing tells you which game you are in.
 
@@ -73,7 +88,7 @@ Every play begins at a blade crossing. The nature of that crossing tells you whi
 
 ---
 
-## **The Foot Position Tells You Where You Are**
+## The Foot Position Tells You Where You Are
 
 In wide play, the left foot tends to be forward.
 
@@ -83,7 +98,7 @@ This is not incidental. Fiore designs the footwork of his plays so that the foot
 
 ---
 
-## **Scope of This Section**
+## Scope of This Section
 
 This section covers the plays of the *zogho largo* and *zogho stretto* for the longsword without armor.
 
@@ -91,7 +106,7 @@ The sword-in-armor section (*zogho de spada in arme*) uses different entry point
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The plays are not sequences to memorize.
 

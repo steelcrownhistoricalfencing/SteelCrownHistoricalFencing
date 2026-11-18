@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: breaking-the-thrust
+title: Breaking the Thrust — Rompere di Punta
+summary: A sequential counter that beats the blade, presses it to the ground, and closes with a rising cut.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Breaking the Thrust — Rompere di Punta
 
 <img src="../../../../assets/fiore/plays/rompere-di-punta.jpg" alt="Breaking the Thrust, Rompere di Punta" class="manuscript-img">
@@ -15,13 +30,13 @@ Two actions, not one. But compressed tightly together, the beat and the follow-u
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Anchora questo zogho del romper di punta ch'e lo segondo zogho che m'e denanzi. Ch'e quando io o rebatudo la punta del compagno cum lo mio brazo manco, io li vado apresso de subito cum la mia spada, e metto lo pede ritto inanzi e cum la mia spada premo lo suo in terra, e subito tayo cum lo filo falso de la mia spada in la gola del compagno."*
 
-### **Translation**
+### Translation
 
 "Also this play of breaking the thrust, which is the second play before me. When I have beaten down the thrust of my companion with my left arm, I immediately go close with my sword, and place my right foot forward, and with my sword I press his to the ground, and immediately cut with the false edge of my sword into the throat of my companion."
 
@@ -33,7 +48,7 @@ Each action enables the next. Remove any one, and the play does not work.
 
 ---
 
-## **The Setup**
+## The Setup
 
 The opponent passes in with a committed thrust aimed at your chest or face.
 
@@ -41,7 +56,7 @@ You are at extended measure. The thrust is developing, it has committed but has 
 
 ---
 
-## **The Technique**
+## The Technique
 
 **Make a small traverse with the front foot to the left.** This is not a large step. It is a short, angled movement that takes you slightly off the line of the incoming thrust. The goal is to create a better angle for the beat, not to go fully offline as in the *scambiar*.
 
@@ -55,7 +70,7 @@ You are at extended measure. The thrust is developing, it has committed but has 
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 The *rompere di punta* works through sequential control.
 
@@ -69,7 +84,7 @@ The false-edge cut: his throat is exposed and the blade arrives from below, wher
 
 ---
 
-## **Why the Mezza Volta Matters**
+## Why the Mezza Volta Matters
 
 Many students skip the *mezza volta* because the play seems to work without it, in slow drilling.
 
@@ -83,7 +98,7 @@ Practice it deliberately until the step happens automatically.
 
 ---
 
-## **The Counter-Remedy**
+## The Counter-Remedy
 
 The opponent can defeat this play by recovering the blade before it reaches the ground.
 
@@ -93,7 +108,7 @@ He may also disengage around your blade as you press, thrusting again from the o
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The *rompere di punta* sits with the plays of the Second Remedy Master, the master who addresses crossings at the mid-blade.
 
@@ -103,7 +118,7 @@ It also connects forward: after the press, the opponent's blade is controlled an
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the *rompere di punta* trains two principles that apply broadly.
 
@@ -115,7 +130,7 @@ In competition, the full pressing-to-ground sequence is contested; opponents at 
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Tiger** governs the speed at which the beat, the *mezza volta*, and the follow-up must compress together.
 
@@ -127,7 +142,7 @@ The **Lion** appears in the false-edge cut to the throat, a committed finishing 
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The *rompere di punta* is not a counter to a cut.
 
@@ -139,9 +154,9 @@ Finally, it should not be practiced without the *mezza volta*. Training the beat
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — Mezza Volta Isolation**
+### Drill 1 — Mezza Volta Isolation
 
 Without a partner, practice the footwork sequence alone:
 
@@ -155,7 +170,7 @@ Add the pressing motion with the sword: as the *mezza volta* completes, drive th
 
 ---
 
-### **Drill 2 — Full Sequence, Partner**
+### Drill 2 — Full Sequence, Partner
 
 Partner A delivers a committed thrust in slow motion.
 
@@ -173,7 +188,7 @@ Increase speed in stages as each component becomes reliable.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is making the initial traverse too large. This delays the beat. The front foot moves only slightly off the line, enough to create the angle for the upward beat, not to go fully offline.
 
@@ -185,7 +200,7 @@ Finally, using the true edge on the finishing cut. The cut rises from below at a
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The *rompere di punta* removes the threat, pins the weapon, and cuts to the unprotected throat.
 

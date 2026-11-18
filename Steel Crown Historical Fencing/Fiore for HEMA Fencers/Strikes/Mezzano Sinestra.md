@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: mezzano-sinestra
+title: Mezzano Sinestra
+summary: A reference on Mezzano Sinestra, the Horizontal Cut from the Left, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Mezzano Sinestra
 
 *The Horizontal Cut from the Left*
@@ -10,9 +25,9 @@ The Mezzano Sinestra completes a pair. Practiced together with the Destra, the t
 
 ---
 
-## **Physical Description**
+## Physical Description
 
-### **Path of the Blade**
+### Path of the Blade
 
 The Mezzano Sinestra travels horizontally from the left side of the body across to the right, at roughly chest to neck height.
 
@@ -20,7 +35,7 @@ The blade moves as a mirror of the Mezzano Destra, the same horizontal plane, th
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 Like the Mezzano Destra, the Sinestra is powered entirely by hip rotation.
 
@@ -30,7 +45,7 @@ The most common starting position is Posta di Fenestra Sinestra, the natural fin
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The Mezzano Sinestra most naturally finishes in Posta di Fenestra Destra, returning the fencer to the starting position of the right-side horizontal cut.
 
@@ -38,7 +53,7 @@ From there, the rotation may reverse immediately into another Mezzano Destra, co
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The Mezzano Sinestra attacks the opponent's left side at horizontal height, targeting the neck, throat, arms, and torso from the left line.
 
@@ -48,7 +63,7 @@ When the Mezzano Destra is parried or deflected to the left, the opponent's stru
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the bilateral Mezzano pattern, continuous rotation between Destra and Sinestra, is one of the most effective ways to maintain offensive pressure while keeping the body covered.
 
@@ -58,9 +73,9 @@ The Mezzano Sinestra is also effective as an unexpected counter. After deliverin
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 Posta di Fenestra Sinestra is the natural starting position, placing the blade on the left side with the point forward. From this position, the hips need only rotate rightward to carry the blade across.
 
@@ -68,13 +83,13 @@ The Mezzano Sinestra may also be initiated from Posta di Donna Sinestra, generat
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The cut finishes most naturally in Posta di Fenestra Destra, completing the return journey of the horizontal arc and positioning the fencer for either a pause or an immediate continuation.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The Mezzano Sinestra expresses the same virtues as the Destra, with emphasis on the **Tiger** and the **Lynx**.
 
@@ -88,7 +103,7 @@ The **Lion** commits to the full arc. Neither cut in the combination should be t
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The core tactic of the Mezzano Sinestra is the continuous bilateral combination: Mezzano Destra to Mezzano Sinestra, repeated.
 
@@ -98,7 +113,7 @@ The Mezzano Sinestra is also used as the second half of a misdirection. A convin
 
 ---
 
-## **What This Cut Is Not For**
+## What This Cut Is Not For
 
 The Mezzano Sinestra shares the limitations of the Destra. It is not a power cut against a well-structured guard, and it is not effective at very close range where rotational cuts cannot develop.
 
@@ -108,9 +123,9 @@ Finally, the bilateral combination should not become mechanical. A predictable a
 
 ---
 
-## **Training the Cut**
+## Training the Cut
 
-### **Drill 1 — Continuous Rotation**
+### Drill 1 — Continuous Rotation
 
 Begin in Posta di Fenestra Destra.
 
@@ -122,7 +137,7 @@ Focus on maintaining consistent height, smooth transitions, and hip-led mechanic
 
 ---
 
-### **Drill 2 — Combination with a Partner**
+### Drill 2 — Combination with a Partner
 
 One fencer delivers a slow Mezzano Destra. The partner parries or deflects to that side.
 
@@ -134,7 +149,7 @@ Repeat ten times, then switch roles. The goal is to make the transition between 
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common error is pausing between the Destra and Sinestra. The transition should be continuous: the end of one cut flows directly into the next. Any stop between them gives the opponent time to reset.
 
@@ -144,7 +159,7 @@ Some students also drive the return cut with the arms rather than reversing the 
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The Mezzano Sinestra completes what the Mezzano Destra begins.
 

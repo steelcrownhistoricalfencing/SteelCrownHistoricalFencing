@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: disarms
+title: Disarms — Disarmare
+summary: The sequence of releasing your own sword to take the opponent's.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Disarms — Disarmare
 
 <img src="../../../../assets/fiore/plays/disarms.jpg" alt="Disarms, Disarmare" class="manuscript-img">
@@ -15,13 +30,13 @@ No one is disarmed from nothing. The disarm follows the position that makes it p
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Anchora digo che l'ultimo zogho del stretto si'e lo disarmare: e fa si in questo modo, lo zogho denançi... prendo la so spada cum la mano destra in meça... e laxo la mia andar... e cum la man stancha piglio la so spada apresso del pomo, e volto lo suo spada a man manca... e così gli tolo la so spada di mano."*
 
-### **Translation**
+### Translation
 
 "I also say that the last play of stretto is the disarm: and it is done in this way, the play before... I take his sword with my right hand at the middle... and I let my own go... and with my left hand I take his sword near the pommel, and turn his sword to the left hand... and so I take his sword from his hand."
 
@@ -33,7 +48,7 @@ The crucial step most students overlook: letting your own sword go.
 
 ---
 
-## **The Setup**
+## The Setup
 
 You are in stretto range with a prior play established, a pommel strike, a blade wrap, or an arm grab has brought you close and created a controlled position.
 
@@ -43,7 +58,7 @@ The disarm follows from this position. It does not precede it.
 
 ---
 
-## **The Primary Disarm Sequence**
+## The Primary Disarm Sequence
 
 **With your right hand, grab the opponent's blade at the mid-point.** Not at the tip, the blade is dangerously sharp, and not near the pommel where their grip is strongest. The middle of the blade, controlled with the flat, is the target. This is half-swording your opponent's weapon.
 
@@ -59,7 +74,7 @@ Most fencers resist this deeply. The sword in your hand feels like control. But 
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 The human grip has a strong and a weak direction.
 
@@ -69,7 +84,7 @@ The release of your own sword is what makes both your hands available. Without i
 
 ---
 
-## **Variants**
+## Variants
 
 Fiore describes multiple disarm plays in the stretto section. The primary sequence above is the most direct. Variants differ in which hand grabs which part of the sword first, and in whether the disarm follows from a blade control or an arm control.
 
@@ -81,7 +96,7 @@ All variants share the same final sequence: two hands on their sword, rotate aga
 
 ---
 
-## **The Prior Play Is Required**
+## The Prior Play Is Required
 
 Fiore is explicit: the disarm is the *last* play of stretto. Not the first.
 
@@ -93,7 +108,7 @@ The disarm requires both of these conditions.
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The disarm follows most naturally from:
 
@@ -109,7 +124,7 @@ The disarm leads to:
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern HEMA competition, the disarm is a scored action in most rulesets, often worth significant points.
 
@@ -121,7 +136,7 @@ Specific competition notes: the transition moment, releasing your own sword, is 
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Lion** governs the release. The moment of releasing your own sword requires commitment, a willingness to be briefly without a weapon in service of a superior position. Half-measures here fail.
 
@@ -133,7 +148,7 @@ The **Elephant** governs the final rotation, turning the sword against the grip 
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The disarm is not a first technique.
 
@@ -145,9 +160,9 @@ Finally, the disarm is not appropriate at extended measure. You must be inside s
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — The Release**
+### Drill 1 — The Release
 
 Partner A holds their sword extended, grip firm.
 
@@ -163,7 +178,7 @@ Repeat until the release of Partner B's own sword happens as a committed, fast a
 
 ---
 
-### **Drill 2 — From a Pommel Strike Entry**
+### Drill 2 — From a Pommel Strike Entry
 
 Begin with the full pommel strike sequence: bind → roll under → pommel to face → blade behind neck.
 
@@ -175,7 +190,7 @@ Partner A maintains grip until the rotation strip.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common error is refusing to release the own sword. Students hold on. The disarm requires both hands free. Train the release as a committed action.
 
@@ -187,7 +202,7 @@ Finally, attempting the disarm without a prior entry. Without a prior play estab
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The disarm is the last play of stretto because it requires everything that came before.
 

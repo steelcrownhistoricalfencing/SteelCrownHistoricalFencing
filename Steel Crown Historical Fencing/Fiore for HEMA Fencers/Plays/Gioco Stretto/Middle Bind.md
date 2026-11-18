@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: middle-bind
+title: Middle Bind — Ligadura Mezana
+summary: A joint lock at shoulder height, applied through a spiraling arm wrap.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Middle Bind — Ligadura Mezana
 
 <img src="../../../../assets/fiore/plays/middle-bind.jpg" alt="Middle Bind, Ligadura Mezana" class="manuscript-img">
@@ -15,13 +30,13 @@ It controls the weapon arm at shoulder height through a wrapping rotation agains
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Anchora digo de lo secondo ligadure ch'e chiamado mezana, per che lo brazo del compagno va in meza statura."*
 
-### **Translation**
+### Translation
 
 "I also say of the second binding, which is called the middlebind, because the companion's arm goes to the middle position."
 
@@ -29,7 +44,7 @@ Middle position: the arm controlled at shoulder height, neither driven down nor 
 
 ---
 
-## **The Setup**
+## The Setup
 
 You are in stretto range. A prior action, a pommel strike, a sword wrap, or an arm grab, has brought you into contact with the opponent's weapon arm.
 
@@ -37,7 +52,7 @@ You are on the outside of the arm, or can achieve that position with a small ste
 
 ---
 
-## **The Technique**
+## The Technique
 
 **Make contact with the weapon arm, outside or below the elbow.** The initial grab establishes control at the forearm.
 
@@ -51,7 +66,7 @@ You are on the outside of the arm, or can achieve that position with a small ste
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 The elbow does not rotate.
 
@@ -63,7 +78,7 @@ The shoulder-height control position also matters. At shoulder height, the oppon
 
 ---
 
-## **The Spiral as Foundation**
+## The Spiral as Foundation
 
 This curriculum treats the Middle Bind as the mechanical foundation for learning all three ligadure, because the spiraling wrap appears in modified form in each. Fiore's manuscript presents them in order from lowest to highest; the curriculum begins with the mezana to establish the core spiral mechanic first.
 
@@ -79,7 +94,7 @@ Train the mezana first. The other two follow from it — though Fiore's manuscri
 
 ---
 
-## **The Abrazare Connection**
+## The Abrazare Connection
 
 The *ligadura mezana* is one of Fiore's wrestling plays before it is a longsword technique.
 
@@ -89,7 +104,7 @@ Students who struggle with this lock often benefit from practicing it without th
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The Middle Bind follows from:
 
@@ -104,7 +119,7 @@ The Middle Bind leads to:
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In controlled sparring, the *ligadura mezana* is one of the most demonstrable stretto techniques because the wrapping action is clearly mechanical, it is evident why the lock works, and it works consistently across different body types and strength levels.
 
@@ -114,7 +129,7 @@ Train the lock fully. Use the position.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Elephant** governs the structural weight behind the wrap. Without body weight engaged, the spiraling motion is a gesture rather than a lock.
 
@@ -126,7 +141,7 @@ The **Lion** is present in the final press. Do not pause at the locked position;
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The Middle Bind cannot be applied from the inside of the arm.
 
@@ -138,9 +153,9 @@ Finally, do not hold the locked position. Once the arm is controlled at shoulder
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — The Spiral in Isolation**
+### Drill 1 — The Spiral in Isolation
 
 Without a partner, practice the wrapping motion with your own arms.
 
@@ -154,7 +169,7 @@ Then practice on a partner without applying any downward force: just execute the
 
 ---
 
-### **Drill 2 — Lock to Ground**
+### Drill 2 — Lock to Ground
 
 Partner A extends their weapon arm.
 
@@ -168,7 +183,7 @@ Partner B adjusts the depth and timing of the spiral to maintain the lock under 
 
 ---
 
-### **Drill 3 — From a Stretto Entry**
+### Drill 3 — From a Stretto Entry
 
 Begin with the pommel strike sequence (pommel to face, blade behind neck).
 
@@ -182,7 +197,7 @@ Partner A does not resist in the first few repetitions. Increase resistance as t
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is wrapping too high on the arm, catching the forearm in the spiral instead of the elbow. The elbow is the lever. The lock does not work without it.
 
@@ -194,7 +209,7 @@ Finally, applying this lock from the inside of the arm. The wrap cannot complete
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The Middle Bind is the mechanical center of the locking system.
 

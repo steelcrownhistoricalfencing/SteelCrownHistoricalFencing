@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: sottano-sinestra
+title: Sottano Sinestra
+summary: A reference on Sottano Sinestra, the Rising Cut from the Left, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Sottano Sinestra
 
 *The Rising Cut from the Left*
@@ -10,9 +25,9 @@ Together with the Sottano Destra, the left-side rising cut completes a bilateral
 
 ---
 
-## **Physical Description**
+## Physical Description
 
-### **Path of the Blade**
+### Path of the Blade
 
 The Sottano Sinestra begins low on the left side, most commonly from Dente di Zenghiaro Sinestra or Coda Longa Sinestra.
 
@@ -20,7 +35,7 @@ From this position, the blade travels diagonally upward from the left hip toward
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 The mechanics are identical to the Sottano Destra, reversed for the opposite side.
 
@@ -30,7 +45,7 @@ The same forward step accompanies the delivery, closing distance as the blade ri
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The Sottano Sinestra finishes high on the left side. Common ending positions include Posta Frontale or Posta Corona, with the blade elevated and the structure intact.
 
@@ -38,7 +53,7 @@ It may also carry into Posta di Fenestra Sinestra or Posta di Donna Sinestra, po
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The Sottano Sinestra targets the opponent's right side, a line often less protected than the left.
 
@@ -48,7 +63,7 @@ The left-side rising cut adds one specific dimension: the opponent's right arm i
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the Sottano Sinestra is rarely trained to the same standard as the right-side rising cut. Like most left-side techniques, it tends to be weaker, slower, and less practiced.
 
@@ -60,9 +75,9 @@ It is also specifically effective against right-handed opponents who over-commit
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 Coda Longa Sinestra provides the most natural and powerful starting position. The rear-weighted low chamber on the left side stores the same explosive energy as its right-side counterpart.
 
@@ -72,7 +87,7 @@ Any low guard on the left side, including the Porta di Ferro variations, can sup
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The cut finishes most commonly in Posta Frontale or Posta Corona with the blade elevated.
 
@@ -80,7 +95,7 @@ From there, the fencer may deliver a Fendente Sinestra immediately, completing a
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The Sottano Sinestra expresses the same virtues as the Destra, with one additional emphasis.
 
@@ -94,7 +109,7 @@ The **Lynx** reads whether the opponent's right side has been left open, and del
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The Sottano Sinestra works best in bilateral combination with the Sottano Destra.
 
@@ -106,7 +121,7 @@ The Sottano Sinestra is also effective as a counter-strike against opponents who
 
 ---
 
-## **What This Cut Is Not For**
+## What This Cut Is Not For
 
 The Sottano Sinestra shares the limitations of the Destra. It does not work against a very low guard, it requires genuine leg drive to generate force, and it demands that the left side be trained to equal proficiency.
 
@@ -116,9 +131,9 @@ Finally, the Sottano Sinestra must not be weaker than the Destra. An opponent wh
 
 ---
 
-## **Training the Cut**
+## Training the Cut
 
-### **Drill 1 — Bilateral Rising Cuts**
+### Drill 1 — Bilateral Rising Cuts
 
 Begin from a low central guard.
 
@@ -130,7 +145,7 @@ Repeat ten complete cycles, twenty rising cuts total, focusing on matching the m
 
 ---
 
-### **Drill 2 — Counter-Strike from the Left**
+### Drill 2 — Counter-Strike from the Left
 
 One fencer assumes a low left guard. The partner delivers a slow Fendente Sinestra or other left-side descending cut.
 
@@ -142,7 +157,7 @@ Repeat ten times, then switch roles.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common error is a weaker left-side cut. Both rising cuts must be equally committed. Address this by isolating the left side in practice until it matches the right.
 
@@ -152,7 +167,7 @@ Some students also lose the diagonal trajectory, allowing the left-side rising c
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The Sottano Sinestra completes the bilateral system of rising cuts.
 

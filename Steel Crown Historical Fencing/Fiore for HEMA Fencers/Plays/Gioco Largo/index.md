@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: gioco-largo
+title: Gioco Largo — The Wide Game
+summary: Wide play at extended measure, where the blades first make contact near their tips.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Gioco Largo — The Wide Game
 
 *Zogho Largo*
@@ -12,7 +27,7 @@ At this distance, you cannot grab your opponent. You cannot reach their body wit
 
 ---
 
-## **What Defines the Wide Game**
+## What Defines the Wide Game
 
 Three things identify largo:
 
@@ -26,7 +41,7 @@ If any of these conditions change, the game changes with them.
 
 ---
 
-## **The Two Remedy Masters of Wide Play**
+## The Two Remedy Masters of Wide Play
 
 Fiore's wide play is organized under two remedy masters, each presiding over a different crossing type.
 
@@ -36,7 +51,7 @@ Fiore's wide play is organized under two remedy masters, each presiding over a d
 
 ---
 
-## **The Left-Right-Left Pattern**
+## The Left-Right-Left Pattern
 
 In wide play, you typically approach with the left foot forward.
 
@@ -48,7 +63,7 @@ The pattern: left foot forward as you enter → right foot forward as the exchan
 
 ---
 
-## **What Is Available in Wide Play**
+## What Is Available in Wide Play
 
 At largo distance, your options are:
 
@@ -62,7 +77,7 @@ Grabbing the opponent's wrist, their collar, or their body is not available in l
 
 ---
 
-## **The Diagnostic Skill**
+## The Diagnostic Skill
 
 The most important skill in wide play is not execution.
 
@@ -76,7 +91,7 @@ The pages in this section each teach one play. But what they are collectively te
 
 ---
 
-## **Plays in This Section**
+## Plays in This Section
 
 **Exchange of Thrusts** — *Scambiar di Punta* — The primary counter to a thrust at long measure. A single-tempo action that removes your target while creating your own.
 
@@ -88,7 +103,7 @@ The pages in this section each teach one play. But what they are collectively te
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Wide play is the game of distance.
 

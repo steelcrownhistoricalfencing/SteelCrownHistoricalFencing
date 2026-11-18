@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: gioco-stretto
+title: Gioco Stretto — The Narrow Game
+summary: Narrow play at compressed measure, where contact is at the mid-blade or hilt.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Gioco Stretto — The Narrow Game
 
 *Zogho Stretto*
@@ -10,7 +25,7 @@ When blades meet at mid-sword or near the hilt, when bodies are close enough to 
 
 ---
 
-## **What Defines the Narrow Game**
+## What Defines the Narrow Game
 
 Three things identify stretto:
 
@@ -24,7 +39,7 @@ At this distance, the blade is too long to swing freely. Attempting a full cut r
 
 ---
 
-## **How You Enter Stretto**
+## How You Enter Stretto
 
 No one enters the narrow game by choice in isolation. You arrive there.
 
@@ -36,7 +51,7 @@ However you arrive, the decision to act in stretto must be immediate. The positi
 
 ---
 
-## **The Three Entry Techniques**
+## The Three Entry Techniques
 
 Entering stretto does not mean anything is available. It means one of three entries is available, depending on which side the bind is on.
 
@@ -50,7 +65,7 @@ These three entries are not interchangeable. Which one applies depends on the si
 
 ---
 
-## **The Mandritto and Riverso Sides**
+## The Mandritto and Riverso Sides
 
 Every stretto situation has a dominant side determined by the bind.
 
@@ -62,7 +77,7 @@ Identifying which side you are on happens automatically with practice, but it mu
 
 ---
 
-## **What Is Available in Stretto**
+## What Is Available in Stretto
 
 The full range of stretto techniques includes:
 
@@ -79,7 +94,7 @@ A stretto sequence does not end until someone is on the ground, disarmed, or the
 
 ---
 
-## **The Abrazare Connection**
+## The Abrazare Connection
 
 Fiore's stretto plays do not exist in isolation. They connect directly to his wrestling section, *abrazare*, which appears earlier in the manuscript and covers grappling principles in their own right.
 
@@ -89,7 +104,7 @@ A fencer who has studied only the longsword plays and not the wrestling will fin
 
 ---
 
-## **The Narrow Game Is Not Safe to Leave**
+## The Narrow Game Is Not Safe to Leave
 
 Fiore is explicit: once in stretto, you are not in a safe position to pause.
 
@@ -101,7 +116,7 @@ Disengaging from stretto requires a step back and a re-extension of the blade to
 
 ---
 
-## **Plays in This Section**
+## Plays in This Section
 
 **Pommel Strike** — *Colpo di Pomo* — The primary entry into stretto from the mandritto side. The sword pivots around the bind and the pommel strikes the face.
 
@@ -117,7 +132,7 @@ Disengaging from stretto requires a step back and a re-extension of the blade to
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The narrow game is where the longsword becomes something other than a blade.
 
