@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-10'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -268,7 +268,5 @@ Protect the lesson's real outcome: rapid decisions from compact positions, not r
 {: #adaptations}
 
 ## Notes from the class
-
-**INSTRUCTOR NOTES**
 
 Record what remained credible under pressure, where students lost the ability to stop, and what should change before teaching the block again.

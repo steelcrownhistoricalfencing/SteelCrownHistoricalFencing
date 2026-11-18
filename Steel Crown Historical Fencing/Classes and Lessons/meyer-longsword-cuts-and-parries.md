@@ -19,8 +19,6 @@ authors:
 
 [← All classes and lessons](index.md)
 
-The four openings stay the same. Name upper or lower and the fencer’s own left or right, on the body or on the head. For the cuts in this review, the path alone won’t always tell you which action you’re seeing.
-
 ## Four Named Cuts
 
 These are four examples from Meyer’s chapter on cuts. A named cut can still be one action. Watch how the blade turns, how it meets the other blade, and whether the reply is a separate movement.
