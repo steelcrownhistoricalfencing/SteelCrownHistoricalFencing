@@ -91,6 +91,8 @@ In clear solo lanes, move the trainer between low, extended, and high positions 
 
 **Learning check:** Ask students to show a named guard, identify one option, and point out one exposure. If they cannot, simplify to two guards before introducing live choice. The full secondary-guard catalogue belongs in the reference, not tonight's memory test.
 
+**When two guards look alike:** Use the reference's [look-alike comparisons](meyer-longsword-guards.md#look-alike-guards-what-actually-changes). Ask students to identify which side of the body the hands occupy, whether they are beside the head or extended in front, and where the point goes. Trace the R/L hand labels on the diagrams; those labels identify the hands, not the name of the guard side. Compare one pair at a time rather than adding every secondary guard to tonight's memory load.
+
 ## Game 1: Make it earn its place
 
 **0:35–0:55.** The purpose is to discover what a guard can accomplish against a partner who is trying to solve it, rather than feeding its preferred response.

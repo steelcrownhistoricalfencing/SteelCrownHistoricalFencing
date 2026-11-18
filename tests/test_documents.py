@@ -86,12 +86,24 @@ class DocumentTests(unittest.TestCase):
                      'Einhorn', 'Schrankhut']:
             self.assertIn(name, text)
         images = built(reference).select('img[src$=".svg"]')
-        self.assertEqual(len(images), 3)
+        self.assertEqual(len(images), 7)
         for image in images:
             self.assertTrue(image.get('alt'))
             filename = image['src'].rsplit('/', 1)[-1]
             svg = ET.parse(DOCS / 'assets/references/meyer-guards' / filename)
             self.assertTrue(svg.getroot().get('viewBox'))
+            _, _, width, height = map(float, svg.getroot().get('viewBox').split())
+            # Shared Letter print styles allow 6.5in width and cap diagrams at 7in high.
+            scale = min(6.5 * 72 / width, 7 * 72 / height)
+            for label in svg.getroot().iter('{http://www.w3.org/2000/svg}text'):
+                self.assertGreaterEqual(float(label.get('font-size')) * scale, 10)
+            labels = ' '.join(svg.getroot().itertext())
+            self.assertIn('fencer', labels)
+            self.assertIn('RIGHT hand', labels)
+            self.assertIn('LEFT hand', labels)
+            self.assertIn('three-quarter', labels)
+        self.assertIn('## Look-alike guards: what actually changes?', text)
+        self.assertIn('outlines can overlap', text)
         lesson_text = lesson.read_text()
         self.assertIn('duration_minutes: 120', lesson_text)
         self.assertIn('Game 1: Make it earn its place', lesson_text)

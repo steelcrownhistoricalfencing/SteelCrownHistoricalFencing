@@ -27,9 +27,11 @@ For practice, ask four questions: **What can I threaten? What am I offering? Wha
 
 ## How to read the diagrams
 
-The figures below are original Steel Crown landmark schematics, not historical plates or complete posture instructions. Each abstract fencer faces right. The dark, thick line is the sword; the small cross is the crossguard, the ring marks the hand/hilt area, and the pale body supplies height landmarks. No arrows appear: these are positions, not cut paths.
+The figures are original Steel Crown three-quarter-view teaching reconstructions, not historical plates. The pale torso and its centerline make it possible to distinguish hands held beside the body from hands held in front. **R marks the fencer's right hand; L marks the left.** Trace the solid right arm and dashed left arm from their labeled shoulders to the hands. Right and left always mean the fencer's own sides, not the reader's. The illustrated grip is right-handed: right hand nearer the crossguard, left nearer the pommel. Left Ochs is a change of guard side, not a change to a left-handed grip.
 
-Depth, edge rotation, grip, handedness, and exact foot placement are not encoded in a side-view outline. Use the text and an instructor for those details. In particular, do not infer short-edge direction from a flat line drawing. Right and left in the text mean the fencer's own sides. “Ground” describes Meyer's low positions; do not strike the floor or force the hands and joints to match a drawing.
+The dark blade and crossguard show the sword's position; the filled and outlined hand shapes distinguish the two hands without relying on color. The close-ups for Key and Crossed Guard explain the crossed-forearm relationship. They are simplified grip schematics, not detailed thumb or finger instructions. Perspective foreshortens a point directed forward, so compare the captions and body relationship rather than measuring the blade's angle on the page.
+
+These are examples, not exact body proportions or compulsory joint angles. Edge rotation is stated in the captions and prose where it matters, not encoded by a different edge on a flat blade line. The illustrated left-side Wechsel is one low-side example, not a claim that Wechsel exists only on that side. Use the source descriptions and an instructor for grip rotation and individual adaptation. “Ground” describes Meyer's low positions; do not strike the floor or force the hands and joints to match a drawing.
 
 > **Safety** A historical point-to-face description is not a partner-drill instruction. Use approved protection, controlled trainers and contact, and instructor-set targets. Do not let someone enter onto a rigid extended point. Learn shapes in clear solo space before adding a live partner.
 
@@ -37,9 +39,13 @@ Depth, edge rotation, grip, handedness, and exact foot placement are not encoded
 
 In the opening of chapter 3, Meyer names Ochs, Pflug, Tag, and Olber as the four principal guards. The remaining guards arise from them in his account. Principal does not mean “the only useful four” or a four-way defensive system. [S1, fols. 5r–5v]
 
-![Four side-view landmark sketches: Ochs has the hilt high beside the head and point forward; Pflug has a low hilt with point rising forward; Tag has the hilt above the head and point up; Alber has the point low in front.](../assets/references/meyer-guards/principal-guards.svg)
+![Three-quarter reconstructions with separate right and left hand labels: right Ochs holds the hilt beside the right of the head; right Pflug beside the forward right knee.](../assets/references/meyer-guards/principal-guards.svg)
 
-*Figure 1. Four principal guards. Compare hand height and point direction; see the formation details below.*
+*Figure 1. Right Ochs and right Pflug. Trace each shoulder to its hand, then compare hand height, body side, and point direction.*
+
+![Three-quarter reconstructions of Tag with both hands above the head and upright point, and Alber with hands in front and the point low before the body. Both hands are labeled.](../assets/references/meyer-guards/high-and-low-principal-guards.svg)
+
+*Figure 2. Tag and Alber. Compare high and low positions in front of the body, rather than confusing them with side chambers.*
 
 | Guard | Formation landmarks in Meyer | Do not confuse it with |
 | --- | --- | --- |
@@ -54,9 +60,9 @@ These are paraphrased source landmarks, not exhaustive modern stance prescriptio
 
 These two secondary guards are especially useful for naming positions students already encounter while cutting, covering, and recovering. [S1, fols. 7v; 9r]
 
-![Two landmark sketches contrast Longpoint with hands extended and point forward, and Hanging Point with hands forward at face height and the blade sloping downward.](../assets/references/meyer-guards/longpoint-and-hanging-point.svg)
+![Three-quarter reconstructions trace both hands extended in front for Longpoint, versus forward at face height with a descending blade in Hanging Point. Right and left hands are individually labeled.](../assets/references/meyer-guards/longpoint-and-hanging-point.svg)
 
-*Figure 2. Extension does not always mean the same thing. Longpoint directs the point forward; Hanging Point lowers the blade from forward, high hands.*
+*Figure 3. Extension does not always mean the same thing. Longpoint directs the point forward; Hanging Point lowers the blade from forward, high hands.*
 
 | Guard | Recognition | What matters in use |
 | --- | --- | --- |
@@ -80,15 +86,43 @@ The formation column summarizes chapter 3. The final column gives modern practic
 
 **Wechsel is not simply Nebenhut with another name.** Both can look low in a sketch; compare the side, lead foot, and short-edge orientation in the descriptions. Likewise, a familiar shoulder guard from another tradition is not automatically Meyer's described Tag.
 
+![Three-quarter views of Zornhut with hands at the right shoulder and blade hanging behind, and Einhorn with crossed hands raised to the right and point upward and outward. Both hands are labeled.](../assets/references/meyer-guards/wrath-guard-and-unicorn.svg)
+
+*Figure 4. Two right-side preparations: Zornhut chambers the blade behind; Einhorn raises the crossed hands and point. Neither should be identified simply as “hands high.”*
+
+![Three-quarter views compare a left-side low Wechsel example with right-side Nebenhut. Captions specify short edge toward the opponent for Wechsel and toward the fencer for Nebenhut; hands are labeled separately.](../assets/references/meyer-guards/change-and-side-guard.svg)
+
+*Figure 5. Low-side guards. The edge-direction captions are essential: side and point height alone do not identify these guards.*
+
+![Key shows crossed hands before the chest with a crossed-forearm close-up. Left Ochs shows the same right-handed grip carried beside the left of the head, with the point forward.](../assets/references/meyer-guards/key-and-left-ox.svg)
+
+*Figure 6. Key's chest-height crossed-hand chamber, and a left Ochs example. The R/L labels identify the hands; they do not swap when the sword changes sides.*
+
 ## Iron Gate and Crossed Guard are different
 
 Meyer explicitly separates **Eisenport** from **Schrankhut**, despite reporting that people confuse them. Iron Gate has a rising point; Schrankhut has crossed hands and a point directed to the ground. The similar names and low hands are not enough to identify them. [S1, fol. 8r]
 
-![Two landmark sketches show Iron Gate with low hands and the point rising forward, and Crossed Guard with the point descending to the ground. Crossed hands are described in text rather than represented by the abstract hand ring.](../assets/references/meyer-guards/iron-gate-and-crossed-guard.svg)
+![Three-quarter views show Iron Gate's low hands before the knee with rising point, versus Crossed Guard's crossed hands in front with descending point. A close-up traces the crossed forearms to the labeled right and left hands.](../assets/references/meyer-guards/iron-gate-and-crossed-guard.svg)
 
-*Figure 3. Compare the point, not just the low hilt. Schrankhut additionally requires the crossed-hand arrangement described in the text.*
+*Figure 7. Compare point direction and arm relationship, not just low hands. Schrankhut has the crossed-hand arrangement enlarged in the inset.*
 
 **Why the lists sometimes differ:** The introductory list in the book includes Brechfenster and Schrankhut among the secondary guards. Chapter 3's opening list instead includes Nebenhut and Hangetort. Chapter 3 then discusses Schrankhut while distinguishing it from Eisenport. This sheet follows the chapter's four-plus-eight list and adds that comparison; it does not pretend every list in the book is identical. Brechfenster is noted here as a list variation, not supplied with an invented standalone posture. [S1; S2]
+
+## Look-alike guards: what actually changes?
+
+Use the point direction first, then the hands' height and relation to the body, then hand crossing and edge orientation. A single feature is rarely enough. These comparisons summarize the descriptions above, not a new catalogue of guard-breaking techniques. [S1]
+
+| Similar guards | The useful distinction | Quick check |
+| --- | --- | --- |
+| **Ochs and Einhorn** | Both can put the hands high on a side. Ochs directs the point forward toward the face; Einhorn raises crossed hands to the right with the point up and outward. | Is the point presented forward, or lifted upward? |
+| **Ochs and Hangetort** | Ochs places the hilt high beside the head. Hangetort extends the hands forward at face height while the blade hangs down. | Are the hands beside the head or reaching in front, and where is the point? |
+| **Tag and Zornhut** | Meyer's described Tag is above the head, point upright. Zornhut is at the right shoulder, blade hanging behind. | Above the head, or chambered at the shoulder? |
+| **Pflug and Eisenport** | Both are low, rising-point positions, and their outlines can overlap. Meyer describes Pflug's hilt beside the forward knee; Eisenport's hilt before the knee with the arms hanging down. | Beside or before the knee? Do not invent a large difference in point height to separate them. |
+| **Pflug and Schlüssel** | Both can present the point forward. Pflug's hilt is low beside the knee; Key's crossed hands are before the chest, with the short edge over the left arm. | Knee-height preparation, or a crossed-hand chest chamber? |
+| **Alber, Wechsel, and Nebenhut** | Alber extends the point low in front, short edge up. Wechsel is low beside the body, short edge toward the opponent. Nebenhut's described example is beside the right side, short edge toward the fencer. | Front or side, then which way is the short edge facing? |
+| **Eisenport and Schrankhut** | Eisenport's point rises from low hands; Schrankhut's crossed hands carry the point down. | Point up or down, and are the hands crossed? |
+
+Do not turn a flowing transition into an argument over the exact frame at which one name becomes another. Use the descriptions to recognize meaningful relationships, and acknowledge overlap when the source does not give a sharp boundary.
 
 ## Guards happen during actions
 
@@ -124,4 +158,4 @@ For live practice, use the linked [lesson's equipment checks, permitted-action c
 
 **[S2]** Meyer, same work, longsword introduction, fol. 2r, principal/secondary guard list: [Introduction and Contents](https://sprechfenster.org/meyer/1570/longsword-introduction-contents/), accessed November 18, 2026. Compare this list with the chapter 3 list before combining catalogues from different sections or manuscripts.
 
-**Figures 1–3:** Original Steel Crown schematic diagrams, 2026, based on the positional landmarks in [S1]. Editable SVG sources are stored with the website assets. They deliberately omit exact grip, edge rotation, feet, and three-dimensional alignment; they are not traced or copied from a modern illustrator.
+**Figures 1–7:** Original Steel Crown three-quarter teaching reconstructions, 2026, based on the positional landmarks in [S1]. Editable SVG sources are stored with the website assets. The right-handed grip, stylized body projection, and close-up diagrams are modern teaching reconstructions; no unique historical finger placement or exact joint angle is claimed. Edge orientation is given in words rather than implied by a blade line. They are not traced or copied from a modern illustrator.

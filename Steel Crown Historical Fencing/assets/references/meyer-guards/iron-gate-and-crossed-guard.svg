@@ -1,33 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 552" role="img" aria-labelledby="title desc">
-<title id="title">Iron Gate is not Crossed Guard</title>
-<desc id="desc">Iron Gate has low hands and rising point. Crossed Guard has descending point and crossed hands, with hand detail explained in the prose.</desc>
-<rect width="760" height="552" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 890" role="img" aria-labelledby="title desc">
+<title id="title">Iron Gate and Crossed Guard: hands and point</title><desc id="desc">Front three-quarter reconstructions. R labels the fencer's right hand and L the left. Solid right arm and dashed left arm trace each shoulder to its hand. Body centerline shows lateral placement. Grip details remain schematic.</desc>
+<rect width="1040" height="890" fill="#fff"/>
 <g fill="#202020" font-family="Arial, sans-serif">
-<g transform="translate(0 0)">
-<text x="24" y="38" font-size="25" font-weight="700">Eisenport / Iron Gate</text>
-<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
-<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
-<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
-<path d="M115 280L141 333L162.7343155770366 369.5495118608024M138 280L153 323L173.2458725202728 360.3025031212638" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
-<path d="M152.22275863380042 378.79652060034095L177 357" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
-<path d="M177 357L310 240" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
-<path d="M188.88901123654963 370.51485892701794L165.11098876345037 343.48514107298206" stroke="#202020" stroke-width="5"/>
-<circle cx="166.48844305676383" cy="366.2470087395386" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
-<text x="24" y="474" font-size="23">Low hilt; point rises</text>
-</g>
-<g transform="translate(380 0)">
-<text x="24" y="38" font-size="25" font-weight="700">Schrankhut / Crossed</text>
-<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
-<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
-<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
-<path d="M115 280L140 322L178.25624466127212 311.8809608130325M138 280L152 312L188.38322227928214 321.5476212665875" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
-<path d="M168.12926704326213 302.2143003594775L192 325" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
-<path d="M192 325L302 430" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
-<path d="M179.57143655971498 338.0203997945843L204.42856344028502 311.9796002054157" stroke="#202020" stroke-width="5"/>
-<circle cx="181.87302238198998" cy="315.333339546445" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
-<text x="24" y="474" font-size="23">Point down; hands crossed</text>
-</g>
-<text x="24" y="532" font-size="22">Landmarks only · facing right · not to scale · read formation text</text>
-</g>
-</svg>
+<g transform="translate(0 0)"><title>Eisenport / Iron Gate</title>
+<text x="22" y="42" font-size="30" font-weight="700">Eisenport / Iron Gate</text>
+<path d="M40 676H490" stroke="#9da4a8" stroke-width="3"/>
+<polygon points="177.0 372.1 303.0 360.9 280.5 494.1 199.5 501.4" fill="#f0f0ed" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 361.3 240.0 503.0" fill="none" stroke="#676767" stroke-width="3" stroke-dasharray="7 7"/>
+<polyline points="199.5 501.4 211.5 588.6 227.0 670.6" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="280.5 494.1 279.0 563.3 270.5 634.6" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="227.0 670.6 241.0 674.8" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<polyline points="270.5 634.6 284.5 638.9" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="240" cy="303.5" rx="27" ry="34" fill="#fff" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 338.1 240.0 359.1" fill="none" stroke="#676767" stroke-width="9"/>
+<path d="M248 296L264 305L251 311" fill="none" stroke="#676767" stroke-width="3"/>
+<text x="174" y="391" font-size="28" fill="#676767">R</text><text x="283" y="381" font-size="28" fill="#676767">L</text>
+<polyline points="303.0 360.9 313.0 442.6 256.1 581.9" fill="none" stroke="#202020" stroke-width="9" stroke-dasharray="12 7" stroke-linecap="round"/>
+<polyline points="177.0 372.1 192.0 455.4 271.7 555.4" fill="none" stroke="#4a0404" stroke-width="10" stroke-linecap="round"/>
+<line x1="248.5340338297546" y1="594.8851696083727" x2="280" y2="541.25" stroke="#202020" stroke-width="10" stroke-linecap="round"/>
+<line x1="280" y1="541.25" x2="390" y2="353.75" stroke="#202020" stroke-width="6"/>
+<line x1="260.1619271673766" y1="529.6116639381943" x2="299.8380728326234" y2="552.8883360618057" stroke="#202020" stroke-width="7"/>
+<circle cx="248.5340338297546" cy="594.8851696083727" r="10" fill="#f0f0ed" stroke="#202020" stroke-width="3"/><ellipse cx="271.68141124234893" cy="555.429412655087" rx="12" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<path d="M271.68141124234893 555.429412655087L224.68141124234893 522.429412655087" stroke="#676767" stroke-width="2.8"/>
+<rect x="205.68141124234893" y="500.42941265508705" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="224.68141124234893" y="529.429412655087" text-anchor="middle" font-size="28" font-weight="700">R</text><ellipse cx="256.12926704326213" cy="581.9387493580759" rx="12" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<path d="M256.12926704326213 581.9387493580759L298.12926704326213 616.9387493580759" stroke="#676767" stroke-width="2.8"/>
+<rect x="279.12926704326213" y="594.9387493580759" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="298.12926704326213" y="623.9387493580759" text-anchor="middle" font-size="28" font-weight="700">L</text><text x="22" y="718" font-size="28">Hands low BEFORE the knee.</text><text x="22" y="754" font-size="28">Point rises; arms hang down.</text></g>
+<g transform="translate(520 0)"><title>Schrankhut / Crossed</title>
+<text x="22" y="42" font-size="30" font-weight="700">Schrankhut / Crossed</text>
+<path d="M40 676H490" stroke="#9da4a8" stroke-width="3"/>
+<polygon points="177.0 372.1 303.0 360.9 280.5 494.1 199.5 501.4" fill="#f0f0ed" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 361.3 240.0 503.0" fill="none" stroke="#676767" stroke-width="3" stroke-dasharray="7 7"/>
+<polyline points="199.5 501.4 162.0 573.8 144.5 645.9" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="280.5 494.1 328.5 578.2 353.0 659.4" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="144.5 645.9 158.5 650.1" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<polyline points="353.0 659.4 367.0 663.6" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="240" cy="303.5" rx="27" ry="34" fill="#fff" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 338.1 240.0 359.1" fill="none" stroke="#676767" stroke-width="9"/>
+<path d="M248 296L264 305L251 311" fill="none" stroke="#676767" stroke-width="3"/>
+<text x="174" y="391" font-size="28" fill="#676767">R</text><text x="283" y="381" font-size="28" fill="#676767">L</text>
+<polyline points="303.0 360.9 201.5 409.2 271.6 438.0" fill="none" stroke="#202020" stroke-width="9" stroke-dasharray="12 7" stroke-linecap="round"/>
+<polyline points="177.0 372.1 278.0 418.1 288.5 471.1" fill="none" stroke="#4a0404" stroke-width="10" stroke-linecap="round"/>
+<line x1="263.37792176666653" y1="421.85485592860437" x2="297.5" y2="488.75" stroke="#202020" stroke-width="10" stroke-linecap="round"/>
+<line x1="297.5" y1="488.75" x2="405" y2="699.5" stroke="#202020" stroke-width="6"/>
+<line x1="317.98852688690846" y1="478.2991499865117" x2="277.01147311309154" y2="499.2008500134883" stroke="#202020" stroke-width="7"/>
+<circle cx="263.37792176666653" cy="421.85485592860437" r="10" fill="#f0f0ed" stroke="#202020" stroke-width="3"/><ellipse cx="288.4792206969348" cy="471.0650768546885" rx="12" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<path d="M288.4792206969348 471.0650768546885L241.47922069693482 438.0650768546885" stroke="#676767" stroke-width="2.8"/>
+<rect x="222.47922069693482" y="416.0650768546885" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="241.47922069693482" y="445.0650768546885" text-anchor="middle" font-size="28" font-weight="700">R</text><ellipse cx="271.6142854781608" cy="438.0019596699757" rx="12" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<path d="M271.6142854781608 438.0019596699757L313.6142854781608 473.0019596699757" stroke="#676767" stroke-width="2.8"/>
+<rect x="294.6142854781608" y="451.0019596699757" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="313.6142854781608" y="480.0019596699757" text-anchor="middle" font-size="28" font-weight="700">L</text><g transform="translate(306 93)">
+<rect x="-6" y="-25" width="205" height="210" rx="8" fill="#fff" stroke="#676767" stroke-width="3"/>
+<text x="3" y="3" font-size="27">Crossed arms</text>
+<path d="M15 143L140 50" stroke="#4a0404" stroke-width="8"/>
+<path d="M175 143L95 45" stroke="#202020" stroke-width="8" stroke-dasharray="10 6"/>
+<path d="M74 42L160 52" stroke="#202020" stroke-width="10"/>
+<path d="M160 52L190 56M163 31L157 74" stroke="#202020" stroke-width="5"/>
+<ellipse cx="140" cy="50" rx="13" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<ellipse cx="95" cy="45" rx="13" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<text x="145" y="93" font-size="28">R</text><text x="60" y="45" font-size="28">L</text>
+<text x="4" y="175" font-size="27">Grip schematic</text></g><text x="22" y="718" font-size="28">Hands crossed in FRONT.</text><text x="22" y="754" font-size="28">Point down; not Iron Gate.</text></g>
+<text x="22" y="815" font-size="28">R = fencer's RIGHT hand (solid arm); L = LEFT hand (dashed arm).</text>
+<text x="22" y="856" font-size="28">Front three-quarter view · right-handed grip · not to scale.</text>
+</g></svg>
 
