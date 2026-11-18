@@ -27,19 +27,17 @@ duration_minutes: 120
 
 Students use a credible first attack to invite a parry-riposte, then counter-parry the reply that actually appears and answer cleanly.
 
-### CENTRAL QUESTION
+**CENTRAL QUESTION:** How can I provoke an expected response, confirm what actually happens, and defeat it without guessing?
+{: #central-question}
 
-How can I provoke an expected response, confirm what actually happens, and defeat it without guessing?
+**END-OF-CLASS BEHAVIOR:** Students make a first attack that must be respected, remain ready for the expected parry-riposte, identify the actual riposte line, counter-parry it, and answer without accepting a double. If the response never appears, they recover or leave rather than completing a memorized sequence.
+{: #end-of-class-behavior}
 
-### END-OF-CLASS BEHAVIOR
+**THE CUE:** Provoke. Confirm. Answer.
+{: #the-cue}
 
-Students make a first attack that must be respected, remain ready for the expected parry-riposte, identify the actual riposte line, counter-parry it, and answer without accepting a double. If the response never appears, they recover or leave rather than completing a memorized sequence.
-
-### THE CUE
-
-Provoke. Confirm. Answer.
-
-### SUCCESS EVIDENCE
+**SUCCESS EVIDENCE**
+{: #success-evidence}
 
 | LOOK FOR | OBSERVABLE STANDARD |
 | --- | --- |
@@ -48,7 +46,7 @@ Provoke. Confirm. Answer.
 | Correct decision | Finish if open, counter-parry the reply, or leave when the expected answer never appears. |
 | Clean outcome | The final action lands under cover or the fencer exits safely. A double is not success. |
 
-**TIME USE** The time ranges at the top of each activity are guides, not a fixed script. Stay with a useful game longer or move on when the room has solved its current problem.
+**TIME USE:** The time ranges at the top of each activity are guides, not a fixed script. Stay with a useful game longer or move on when the room has solved its current problem.
 
 ## Prepare spring, braking, and repeated acceleration
 
@@ -65,19 +63,16 @@ Use familiar plyometric work to prepare the feet and legs without turning the op
 | Short sprints | Brief accelerations followed by slow walks back |  |
 |  |  | Sharp start; controlled braking; the walk is recovery |
 
-### PURPOSE FOR THIS LESSON
+**PURPOSE FOR THIS LESSON:** Second intention requires a credible first acceleration followed by enough balance and availability to defend and accelerate again. The warm-up prepares that repeatability without rehearsing the tactical answer in advance.
+{: #purpose-for-this-lesson}
 
-Second intention requires a credible first acceleration followed by enough balance and availability to defend and accelerate again. The warm-up prepares that repeatability without rehearsing the tactical answer in advance.
+**SUGGESTED RHYTHM:** Move continuously through the three sections for about five minutes each. Keep demonstrations brief and let students select appropriate box and contact variations.
+{: #suggested-rhythm}
 
-### SUGGESTED RHYTHM
+**LOAD CONTROL:** Stop before landings become noisy, posture collapses, or sprint speed meaningfully drops. Reduce box height, use step variations, shorten the lane, or replace jumping with controlled footwork when needed.
+{: #load-control}
 
-Move continuously through the three sections for about five minutes each. Keep demonstrations brief and let students select appropriate box and contact variations.
-
-### LOAD CONTROL
-
-Stop before landings become noisy, posture collapses, or sprint speed meaningfully drops. Reduce box height, use step variations, shorten the lane, or replace jumping with controlled footwork when needed.
-
-**CLASS CUE** Spring. Brake. Be ready to act again.
+**CLASS CUE:** Spring. Brake. Be ready to act again.
 
 ## Make Me Answer - no gear
 
@@ -85,31 +80,25 @@ Stop before landings become noisy, posture collapses, or sprint speed meaningful
 
 Learn the three-part exchange without sword speed, equipment, or a complicated target map.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** The attacker should expect a reply but cannot know its exact line. Soft-glove touches let both fencers see the sequence clearly before adding weapons.
+{: #why-this-game-now}
 
-The attacker should expect a reply but cannot know its exact line. Soft-glove touches let both fencers see the sequence clearly before adding weapons.
+**STARTING STATE:** No swords or protective gear. Partners wear or hold soft gloves and begin at a comfortable touch distance. Shoulders are the only targets.
+{: #starting-state}
 
-### STARTING STATE
+**FENCER A:** Make one genuine touch attempt to either shoulder. If B covers it, wait for B's counter-touch, cover the shoulder B actually attacks, then answer with one final light touch.
+{: #fencer-a}
 
-No swords or protective gear. Partners wear or hold soft gloves and begin at a comfortable touch distance. Shoulders are the only targets.
+**FENCER B:** Cover A's first touch and immediately counter-touch either shoulder. Change the return naturally so A cannot memorize one defensive answer.
+{: #fencer-b}
 
-### FENCER A
+**STUDENT RULES:** The first action must be able to land if ignored. A may not begin the second cover until B's counter-touch starts. Reset after the final touch, a miss, loss of balance, or a broken sequence. No scorekeeping.
+{: #student-rules}
 
-Make one genuine touch attempt to either shoulder. If B covers it, wait for B's counter-touch, cover the shoulder B actually attacks, then answer with one final light touch.
+**ROTATION:** Use 90-second fixed roles, switch immediately, then change partner after one complete A/B cycle.
+{: #rotation}
 
-### FENCER B
-
-Cover A's first touch and immediately counter-touch either shoulder. Change the return naturally so A cannot memorize one defensive answer.
-
-### STUDENT RULES
-
-The first action must be able to land if ignored. A may not begin the second cover until B's counter-touch starts. Reset after the final touch, a miss, loss of balance, or a broken sequence. No scorekeeping.
-
-### ROTATION
-
-Use 90-second fixed roles, switch immediately, then change partner after one complete A/B cycle.
-
-**SAY TO STUDENTS** Make them answer. Defend the answer that actually comes. Then take the opening.
+**SAY TO STUDENTS:** Make them answer. Defend the answer that actually comes. Then take the opening.
 
 ## Known Riposte - build the sword sequence
 
@@ -117,31 +106,25 @@ Use 90-second fixed roles, switch immediately, then change partner after one com
 
 Transfer the exchange to longsword with one known attack, parry, and riposte line.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** The decision problem is temporarily reduced so students can learn the physical sequence: credible attack, parry-riposte, counter-parry, final answer.
+{: #why-this-game-now_1}
 
-The decision problem is temporarily reduced so students can learn the physical sequence: credible attack, parry-riposte, counter-parry, final answer.
+**STARTING STATE:** Full gear and swords. A attacks one agreed upper opening. B uses one agreed parry and immediately ripostes to one agreed upper opening.
+{: #starting-state_1}
 
-### STARTING STATE
+**FENCER A:** Make the first attack real enough to land if B fails to defend. Expect the riposte, but do not counter-parry until B actually begins it. Remove the reply and answer from the counter-parry's finish.
+{: #fencer-a_1}
 
-Full gear and swords. A attacks one agreed upper opening. B uses one agreed parry and immediately ripostes to one agreed upper opening.
+**FENCER B:** Make a genuine parry that stops the first attack, then riposte immediately and honestly. Do not freeze the sword for A or steer the reply into A's waiting defense.
+{: #fencer-b_1}
 
-### FENCER A
+**RULES:** One complete phrase, then reset. No simultaneous counterattack, no decorative first attack, and no extra exchange after A's final answer. Slow the phrase enough that the order remains visible.
+{: #rules}
 
-Make the first attack real enough to land if B fails to defend. Expect the riposte, but do not counter-parry until B actually begins it. Remove the reply and answer from the counter-parry's finish.
+**ROTATION:** Use 90-second roles. Switch immediately; change partners after the A/B cycle when time allows.
+{: #rotation_1}
 
-### FENCER B
-
-Make a genuine parry that stops the first attack, then riposte immediately and honestly. Do not freeze the sword for A or steer the reply into A's waiting defense.
-
-### RULES
-
-One complete phrase, then reset. No simultaneous counterattack, no decorative first attack, and no extra exchange after A's final answer. Slow the phrase enough that the order remains visible.
-
-### ROTATION
-
-Use 90-second roles. Switch immediately; change partners after the A/B cycle when time allows.
-
-**SUCCESS** A's first attack is credible, B's reply is real, A's counter-parry follows the reply rather than guessing, and the final answer does not produce a double.
+**SUCCESS:** A's first attack is credible, B's reply is real, A's counter-parry follows the reply rather than guessing, and the final answer does not produce a double.
 
 ## Separate anticipation from guessing
 
@@ -149,11 +132,11 @@ Use 90-second roles. Switch immediately; change partners after the A/B cycle whe
 
 Use the first sword game to show how a plan can remain responsive to live information.
 
-### ASK BEFORE YOU EXPLAIN
+**ASK BEFORE YOU EXPLAIN:** What made the first attack worth defending? When did you know the parry had actually become a riposte? What told you which line the riposte occupied? When did expecting the answer become pre-acting against it? What should you do when the expected answer does not arrive?
+{: #ask-before-you-explain}
 
-What made the first attack worth defending? When did you know the parry had actually become a riposte? What told you which line the riposte occupied? When did expecting the answer become pre-acting against it? What should you do when the expected answer does not arrive?
-
-### SHOW THREE CONTRASTS
+**SHOW THREE CONTRASTS**
+{: #show-three-contrasts}
 
 | EXAMPLE | WHAT THE FENCER DOES | WHAT IT TEACHES |
 | --- | --- | --- |
@@ -164,11 +147,10 @@ What made the first attack worth defending? When did you know the parry had actu
 | Responsive intention | A attacks credibly, recognizes the reply, and counter-parries the actual line. |  |
 |  |  | The plan prepares attention without deciding the answer early. |
 
-### FEEDBACK RHYTHM
+**FEEDBACK RHYTHM:** Watch several exchanges. Name one observable event, ask what the student noticed, give one cue, and let the next exchange test it. Do not stack several technical corrections before the student can re-enter the decision.
+{: #feedback-rhythm}
 
-Watch several exchanges. Name one observable event, ask what the student noticed, give one cue, and let the next exchange test it. Do not stack several technical corrections before the student can re-enter the decision.
-
-**KEY PHRASE** Expect the family of response. Believe only the response that actually happens.
+**KEY PHRASE:** Expect the family of response. Believe only the response that actually happens.
 
 ## Provoker, Taker, and Hitter
 
@@ -176,35 +158,30 @@ Watch several exchanges. Name one observable event, ask what the student noticed
 
 Meyer supplies a historical tactical model for provoking a counteraction, taking it away, and striking the opening it creates.
 
-### DIRECTLY FROM THE 1570 PRINT - CLASSROOM ENGLISH
+**DIRECTLY FROM THE 1570 PRINT - CLASSROOM ENGLISH:** "Sometimes the first, now the second, then the third becomes a Provoker, Taker, or Hitter." [1]
+{: #directly-from-the-1570-print-classroom-english}
 
-"Sometimes the first, now the second, then the third becomes a Provoker, Taker, or Hitter." [1]
+**CLASSROOM ENGLISH RENDERING**
+{: #classroom-english-rendering}
 
-### CLASSROOM ENGLISH RENDERING
+**MEYER:** Strike in with an overcut or undercut - not because you seek to hit, but to provoke him to strike from his advantage. Take the incoming cut away with another cut; this is the Taker. By taking it away you expose him. Immediately cut to that opening; this is the Hitter. [2]
 
-**MEYER** Strike in with an overcut or undercut - not because you seek to hit, but to provoke him to strike from his advantage. Take the incoming cut away with another cut; this is the Taker. By taking it away you expose him. Immediately cut to that opening; this is the Hitter. [2]
+**PROVOKER:** A credible first action changes the opponent's problem and invites the counteraction you are prepared to manage. In this class, A's opening attack is the Provoker.
+{: #provoker}
 
-### PROVOKER
+**TAKER:** The incoming answer is removed only after it actually appears. In this class, A's counter-parry is the Taker.
+{: #taker}
 
-A credible first action changes the opponent's problem and invites the counteraction you are prepared to manage. In this class, A's opening attack is the Provoker.
+**HITTER:** The fencer attacks the opening produced by the taking action. The final answer is not owed; if the opening disappears, recover or leave.
+{: #hitter}
 
-### TAKER
+**MODERN TERMINOLOGY:** USA Fencing describes second intention as a convincing false action used to draw a committed response. Here, 'false' describes the action's tactical purpose; it should still present a real threat that the opponent must respect. [3]
+{: #modern-terminology}
 
-The incoming answer is removed only after it actually appears. In this class, A's counter-parry is the Taker.
+**HISTORICAL BOUNDARY:** Meyer does not call this sequence 'second intention.' That is the modern tactical label used to organize the class. His Provoker-Taker-Hitter description supports the underlying relationship, while the exact game structure, equipment, timing, and success test are modern coaching design.
+{: #historical-boundary}
 
-### HITTER
-
-The fencer attacks the opening produced by the taking action. The final answer is not owed; if the opening disappears, recover or leave.
-
-### MODERN TERMINOLOGY
-
-USA Fencing describes second intention as a convincing false action used to draw a committed response. Here, 'false' describes the action's tactical purpose; it should still present a real threat that the opponent must respect. [3]
-
-### HISTORICAL BOUNDARY
-
-Meyer does not call this sequence 'second intention.' That is the modern tactical label used to organize the class. His Provoker-Taker-Hitter description supports the underlying relationship, while the exact game structure, equipment, timing, and success test are modern coaching design.
-
-**DEMONSTRA TION** Show one clean Provoker-Taker-Hitter exchange, one guessed counter-parry, and one exchange in which no reply appears and the fencer safely declines the Hitter.
+**DEMONSTRA TION:** Show one clean Provoker-Taker-Hitter exchange, one guessed counter-parry, and one exchange in which no reply appears and the fencer safely declines the Hitter.
 
 ## Which Riposte? - read the actual line
 
@@ -212,31 +189,25 @@ Meyer does not call this sequence 'second intention.' That is the modern tactica
 
 Keep the expected parry-riposte, but remove the attacker's knowledge of where the reply will arrive.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** Students already know the exchange. The new problem is to let the riposte's actual line determine the counter-parry rather than replaying a memorized defense.
+{: #why-this-game-now_2}
 
-Students already know the exchange. The new problem is to let the riposte's actual line determine the counter-parry rather than replaying a memorized defense.
+**STARTING STATE:** Full gear and swords. A makes the same agreed first attack. B parries and may riposte to either upper opening.
+{: #starting-state_2}
 
-### STARTING STATE
+**FENCER A:** Attack credibly, observe the riposte, counter-parry the line that appears, and answer the opening produced by that defense.
+{: #fencer-a_2}
 
-Full gear and swords. A makes the same agreed first attack. B parries and may riposte to either upper opening.
+**FENCER B:** Parry honestly, then choose either upper opening for the immediate riposte. Vary the choice without deliberately tricking A through unsafe speed or late target changes.
+{: #fencer-b_2}
 
-### FENCER A
+**RULES:** A may not begin the counter-parry before B's riposte establishes a line. Reset after the final answer, a double, an early defensive guess, or a broken phrase. No preset final target and no points.
+{: #rules_1}
 
-Attack credibly, observe the riposte, counter-parry the line that appears, and answer the opening produced by that defense.
+**ROTATION:** Use 90-second roles, then change partners after a complete A/B cycle. Preserve rapid resets so students receive many short decisions.
+{: #rotation_2}
 
-### FENCER B
-
-Parry honestly, then choose either upper opening for the immediate riposte. Vary the choice without deliberately tricking A through unsafe speed or late target changes.
-
-### RULES
-
-A may not begin the counter-parry before B's riposte establishes a line. Reset after the final answer, a double, an early defensive guess, or a broken phrase. No preset final target and no points.
-
-### ROTATION
-
-Use 90-second roles, then change partners after a complete A/B cycle. Preserve rapid resets so students receive many short decisions.
-
-**COACH WATCHES** Does A wait for enough information without becoming late? Does the counter-parry remain compact? Does the final answer grow directly from the defense?
+**COACH WATCHES:** Does A wait for enough information without becoming late? Does the counter-parry remain compact? Does the final answer grow directly from the defense?
 
 ## Did I Get the Answer?
 
@@ -244,13 +215,11 @@ Use 90-second roles, then change partners after a complete A/B cycle. Preserve r
 
 The expected response may arrive, change, or never appear. The fencer must finish, counter-parry, or leave accordingly.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** Second intention becomes decision-making rather than choreography only when the opponent is permitted to withhold or change the expected response.
+{: #why-this-game-now_3}
 
-Second intention becomes decision-making rather than choreography only when the opponent is permitted to withhold or change the expected response.
-
-### STARTING STATE
-
-Full gear and swords. A initiates one credible upper-line attack. B responds naturally with one of three broad answers.
+**STARTING STATE:** Full gear and swords. A initiates one credible upper-line attack. B responds naturally with one of three broad answers.
+{: #starting-state_3}
 
 | B'S ANSWER | A'S DECISION |
 | --- | --- |
@@ -258,15 +227,13 @@ Full gear and swords. A initiates one credible upper-line attack. B responds nat
 | Parry and immediate riposte | Read the actual line, counter-parry it, and answer cleanly. |
 | Parry but no riposte | Recover or leave. Do not counter-parry or finish an imagined sequence. |
 
-### RULES
+**RULES:** B does not announce the answer. A receives only one deliberate resolution after the opening attack: finish, counter-parry-riposte, or recover/leave. Reset when the decision is clear, after a clean touch, or after safe separation. No extended scrambling and no points.
+{: #rules_2}
 
-B does not announce the answer. A receives only one deliberate resolution after the opening attack: finish, counter-parry-riposte, or recover/leave. Reset when the decision is clear, after a clean touch, or after safe separation. No extended scrambling and no points.
+**ROTATION:** Use 90-second roles. Change partners after a complete A/B cycle so the same expectation is tested against different timing and defensive habits.
+{: #rotation_3}
 
-### ROTATION
-
-Use 90-second roles. Change partners after a complete A/B cycle so the same expectation is tested against different timing and defensive habits.
-
-**THE LESSON TEST** Know what you are trying to provoke. Believe only what actually happens.
+**THE LESSON TEST:** Know what you are trying to provoke. Believe only what actually happens.
 
 ## Ways second intention can appear
 
@@ -285,15 +252,13 @@ The first example is today's lesson. The others show the larger tactical family 
 | Threat at the edge of measure |  |  |
 |  | Opponent retreats predictably | Use the expected retreat to continue into the new distance without reaching after the old target. |
 
-### NOT AUTOMATICALLY SECOND INTENTION
+**NOT AUTOMATICALLY SECOND INTENTION:** An accidental miss followed by another attack, a memorized combination performed regardless of the opponent, or a desperate continuation after being parried does not become second intention merely because it contains multiple actions.
+{: #not-automatically-second-intention}
 
-An accidental miss followed by another attack, a memorized combination performed regardless of the opponent, or a desperate continuation after being parried does not become second intention merely because it contains multiple actions.
+**COMPOUND ATTACK RELATIONSHIP:** A compound attack describes a physical structure: feint, defensive reaction, final attack. Second intention describes the tactical plan to provoke and defeat an expected response. They can overlap, but neither label automatically proves the other.
+{: #compound-attack-relationship}
 
-### COMPOUND ATTACK RELATIONSHIP
-
-A compound attack describes a physical structure: feint, defensive reaction, final attack. Second intention describes the tactical plan to provoke and defeat an expected response. They can overlap, but neither label automatically proves the other.
-
-**TODAY'S BOUNDARY** Teach only the credible attack -&gt; parry-riposte -&gt; counter-parry-riposte family. Use the other examples to clarify the concept, not to expand the class into five unrelated techniques.
+**TODAY'S BOUNDARY:** Teach only the credible attack -&gt; parry-riposte -&gt; counter-parry-riposte family. Use the other examples to clarify the concept, not to expand the class into five unrelated techniques.
 
 ## Transfer the plan to ordinary fencing
 
@@ -301,27 +266,22 @@ A compound attack describes a physical structure: feint, defensive reaction, fin
 
 Students fence normally and use second intention selectively against opponents whose defensive habits make the tactic appropriate.
 
-### FORMAT
+**FORMAT:** Use normal Steel Crown fencing, intensity agreements, and pairings. Aim for five four-minute rounds with short partner changes, then use the final minutes for gear transition and individual feedback. Adapt freely to the room.
+{: #format}
 
-Use normal Steel Crown fencing, intensity agreements, and pairings. Aim for five four-minute rounds with short partner changes, then use the final minutes for gear transition and individual feedback. Adapt freely to the room.
+**SHARED OBJECTIVE:** "Fence normally. When someone reliably parries and answers, use a real first attack to invite that response. Counter-parry only the reply that actually comes."
+{: #shared-objective}
 
-### SHARED OBJECTIVE
+**COACH BEHAVIOR:** Watch several exchanges before speaking. Give one individual adjustment between rounds. Open sparring is the transfer test, not another constrained game.
+{: #coach-behavior}
 
-"Fence normally. When someone reliably parries and answers, use a real first attack to invite that response. Counter-parry only the reply that actually comes."
+**TRANSFER EVIDENCE:** The first action would land if ignored. The fencer selects second intention against a recognizable defensive habit rather than forcing it every exchange. The counter-parry responds to the actual riposte line. The final answer grows directly from the defense and survives the opponent's return. When the expected response does not appear, the fencer finishes, recovers, or leaves without inventing it.
+{: #transfer-evidence}
 
-### COACH BEHAVIOR
+**OPTIONAL CLOSE:** Ask one question if it helps: What response did you expect, and what told you it had actually happened?
+{: #optional-close}
 
-Watch several exchanges before speaking. Give one individual adjustment between rounds. Open sparring is the transfer test, not another constrained game.
-
-### TRANSFER EVIDENCE
-
-The first action would land if ignored. The fencer selects second intention against a recognizable defensive habit rather than forcing it every exchange. The counter-parry responds to the actual riposte line. The final answer grows directly from the defense and survives the opponent's return. When the expected response does not appear, the fencer finishes, recovers, or leaves without inventing it.
-
-### OPTIONAL CLOSE
-
-Ask one question if it helps: What response did you expect, and what told you it had actually happened?
-
-**STEEL CROWN STANDARD** A priority rule may explain who owns an exchange, but a double still fails this lesson. The goal is a clean tactical solution, not a technical argument after being hit.
+**STEEL CROWN STANDARD:** A priority rule may explain who owns an exchange, but a double still fails this lesson. The goal is a clean tactical solution, not a technical argument after being hit.
 
 ## Adjust the task without removing the decision
 
@@ -329,7 +289,8 @@ Ask one question if it helps: What response did you expect, and what told you it
 
 Reduce speed, uncertainty, or movement volume while preserving the relationship between provocation, evidence, and answer.
 
-### SAFETY AND ADAPTATION
+**SAFETY AND ADAPTATION**
+{: #safety-and-adaptation}
 
 | CONDITION | PLANNED RESPONSE |
 | --- | --- |
@@ -338,7 +299,8 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 | Odd attendance | Use attacker, responder, and observer. The observer names the provocation, actual response, and final decision before rotating. |
 | Limited space or injury | Shorten lanes, lower or remove jumps, reduce sword speed, or use controlled steps. Keep exchanges compact. |
 
-### COACH TROUBLESHOOTING
+**COACH TROUBLESHOOTING**
+{: #coach-troubleshooting}
 
 | IF YOU SEE... | DO THIS |
 | --- | --- |
@@ -350,7 +312,7 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 | A chases after no reply | Use parry-and-hold more often. Require visible recovery or safe separation. |
 | Doubles increase | Reduce speed and choice. Restore the rule that the final hit counts as learning only when A also survives. |
 
-**FEEDBACK** Observation -&gt; question -&gt; one cue -&gt; re-test. Correct immediate danger at once; otherwise let the next live exchange test the smallest useful change.
+**FEEDBACK:** Observation -&gt; question -&gt; one cue -&gt; re-test. Correct immediate danger at once; otherwise let the next live exchange test the smallest useful change.
 
 ## Notes from the class
 
@@ -392,7 +354,7 @@ Plyometric Exercises: low-volume jumping and stretch-shortening work. Source lin
 
 Box Step-Off Landing Assessment: stability during jumping, bounding, and deceleration. Source link
 
-**READY** Provoke an expected response. Confirm what actually happens. Answer the real action and finish clean.
+**READY:** Provoke an expected response. Confirm what actually happens. Answer the real action and finish clean.
 
 ## Source links
 

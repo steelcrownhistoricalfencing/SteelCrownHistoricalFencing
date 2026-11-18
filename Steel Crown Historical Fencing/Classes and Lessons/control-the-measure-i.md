@@ -27,23 +27,19 @@ duration_minutes: 120
 
 Students learn to move in and out of danger, test an opponent's reach, enter behind a real threat, and recover before the easy return.
 
-### CENTRAL QUESTION
+**CENTRAL QUESTION:** How can I enter striking distance, create a real threat, and leave without giving my opponent an easy hit?
+{: #central-question}
 
-How can I enter striking distance, create a real threat, and leave without giving my opponent an easy hit?
+**END-OF-CLASS BEHAVIOR:** Students stay light and balanced while probing the edge of reach; recognize how a planted opponent and an opponent with an available lunge create different danger zones; and enter and leave without surrendering a simple return.
+{: #end-of-class-behavior}
 
-### END-OF-CLASS BEHAVIOR
+**HISTORICAL ANCHOR:** Meyer's account of opportunity in the Onset, Middle, and Withdrawal, supported by his instruction that the step and strike occur together and that a poor ending can undo an otherwise good exchange.
+{: #historical-anchor}
 
-Students stay light and balanced while probing the edge of reach; recognize how a planted opponent and an opponent with an available lunge create different danger zones; and enter and leave without surrendering a simple return.
+**THE CUE:** Harass the edge. Enter with purpose. Leave clean.
+{: #the-cue}
 
-### HISTORICAL ANCHOR
-
-Meyer's account of opportunity in the Onset, Middle, and Withdrawal, supported by his instruction that the step and strike occur together and that a poor ending can undo an otherwise good exchange.
-
-### THE CUE
-
-Harass the edge. Enter with purpose. Leave clean.
-
-**CLASS DESIGN** Start with springy movement and an unarmed glove game. Repeat the same task with swords, then expand the defender's reach through an anchored lunge. Boxing supplies a useful movement analogy; Meyer remains the historical source.
+**CLASS DESIGN:** Start with springy movement and an unarmed glove game. Repeat the same task with swords, then expand the defender's reach through an anchored lunge. Boxing supplies a useful movement analogy; Meyer remains the historical source.
 
 ## What successful fencing looks like
 
@@ -61,17 +57,14 @@ Look for active distance control: repeated safe approaches, an intentional entry
 
 ### The lesson spine
 
-### QUESTION
+**QUESTION:** How close can I get while remaining able to hit and leave?
+{: #question}
 
-How close can I get while remaining able to hit and leave?
+**EVIDENCE:** I can test the edge more than once, recognize what the defender can reach, enter without overcommitting, and recover safely.
+{: #evidence}
 
-### EVIDENCE
-
-I can test the edge more than once, recognize what the defender can reach, enter without overcommitting, and recover safely.
-
-### COMMON NON-EXAMPLE
-
-I bounced without purpose, leaned into range, or treated a stationary opponent's current reach as their only possible reach.
+**COMMON NON-EXAMPLE:** I bounced without purpose, leaned into range, or treated a stationary opponent's current reach as their only possible reach.
+{: #common-non-example}
 
 ## 120-minute lesson plan
 
@@ -91,11 +84,10 @@ A physical warm-up leads into one repeated distance problem: first with gloves, 
 | 1:30-1:55 | Open sparring | Normal fencing with one transfer objective | Selective transfer |
 | 1:55-2:00 | Gear and feedback | Individual feedback; optional one-question close | Next cue |
 
-**IF TIME IS TIGHT** Reduce one role interval or shorten the discussion. Keep the glove game, both sword constraints, a meaningful sparring block, and a calm gear transition.
+**IF TIME IS TIGHT:** Reduce one role interval or shorten the discussion. Keep the glove game, both sword constraints, a meaningful sparring block, and a calm gear transition.
 
-### ROTATION STANDARD
-
-Use 90-second fixed roles, then switch immediately. Change partners after a complete A/B cycle. Keep explanations short enough to preserve live repetitions.
+**ROTATION STANDARD:** Use 90-second fixed roles, then switch immediately. Change partners after a complete A/B cycle. Keep explanations short enough to preserve live repetitions.
+{: #rotation-standard}
 
 ## Frame the moving edge
 
@@ -103,19 +95,16 @@ Use 90-second fixed roles, then switch immediately. Change partners after a comp
 
 Explain that measure depends on what the opponent can do, not only on the visible gap between two bodies.
 
-### OPENING SENTENCE
+**OPENING SENTENCE:** "Today we are going to live at the edge of somebody else's reach: move in, move out, bother them, learn what they can hit, and choose the moment to enter without handing them a free answer."
+{: #opening-sentence}
 
-"Today we are going to live at the edge of somebody else's reach: move in, move out, bother them, learn what they can hit, and choose the moment to enter without handing them a free answer."
+**SUCCESS DEFINITION:** Stay mobile and balanced, identify the opponent's real danger zone, touch when an opportunity is present, and leave before the easy return.
+{: #success-definition}
 
-### SUCCESS DEFINITION
+**CLASS ARC:** Prepare the feet; solve the problem with soft gloves; repeat it with swords; study Meyer; then change the defender's reach by allowing an anchored lunge.
+{: #class-arc}
 
-Stay mobile and balanced, identify the opponent's real danger zone, touch when an opportunity is present, and leave before the easy return.
-
-### CLASS ARC
-
-Prepare the feet; solve the problem with soft gloves; repeat it with swords; study Meyer; then change the defender's reach by allowing an anchored lunge.
-
-**KEY DISTINCTION** A planted opponent and an opponent who can lunge do not own the same amount of space, even if their feet start in the same place.
+**KEY DISTINCTION:** A planted opponent and an opponent who can lunge do not own the same amount of space, even if their feet start in the same place.
 
 ## Build spring, acceleration, and controlled recovery
 
@@ -129,19 +118,16 @@ Use low boxes, pogo hops, and short sprints to prepare the legs and feet for rep
 | 0:10-0:15 | Pogo hops | Short, springy hops in place or over a small distance | Keep contacts quick, posture tall, and volume controlled |
 | 0:15-0:20 | Short sprints | Short accelerations followed by slow walks back | Use room-length lanes; stop before form or braking breaks down |
 
-### BOX VARIATIONS
+**BOX VARIATIONS:** Use both-feet jumps on and off, single-foot variations when appropriate, and lateral movements on or across the box. Keep the box low enough for clean, confident landings.
+{: #box-variations}
 
-Use both-feet jumps on and off, single-foot variations when appropriate, and lateral movements on or across the box. Keep the box low enough for clean, confident landings.
+**POGO GUIDANCE:** Use short sets of quick, low hops. Keep the torso organized, the contacts light, and the movement springy rather than deep or exhausting.
+{: #pogo-guidance}
 
-### POGO GUIDANCE
+**SPRINT GUIDANCE:** Accelerate over a short lane, decelerate under control, and walk slowly back before the next effort. The walk is recovery, not another conditioning interval.
+{: #sprint-guidance}
 
-Use short sets of quick, low hops. Keep the torso organized, the contacts light, and the movement springy rather than deep or exhausting.
-
-### SPRINT GUIDANCE
-
-Accelerate over a short lane, decelerate under control, and walk slowly back before the next effort. The walk is recovery, not another conditioning interval.
-
-**LOAD CONTROL** Stop before landings become noisy, posture breaks down, or speed drops. Step down or use lower-impact variations when ankles, knees, fatigue, or experience call for it. [5-6]
+**LOAD CONTROL:** Stop before landings become noisy, posture breaks down, or speed drops. Step down or use lower-impact variations when ankles, knees, fatigue, or experience call for it. [5-6]
 
 ## Harass the edge without swords
 
@@ -149,31 +135,25 @@ Accelerate over a short lane, decelerate under control, and walk slowly back bef
 
 Introduce the tactical problem with soft gloves before adding equipment, blade length, or additional rules.
 
-### STARTING STATE
+**STARTING STATE:** No protective gear and no swords. Fencer A adopts a fighting stance and keeps both feet planted. Fencer B faces A in a straight lane. Each holds or wears one soft glove.
+{: #starting-state}
 
-No protective gear and no swords. Fencer A adopts a fighting stance and keeps both feet planted. Fencer B faces A in a straight lane. Each holds or wears one soft glove.
+**FENCER A:** Protect the space from the fixed stance. Tag B lightly when B enters reachable distance, but do not step, lunge, or slide either foot.
+{: #fencer-a}
 
-### FENCER A
+**FENCER B:** Move forward and backward as often as needed. Probe, change rhythm, draw a reaction, and touch A without receiving the immediate return.
+{: #fencer-b}
 
-Protect the space from the fixed stance. Tag B lightly when B enters reachable distance, but do not step, lunge, or slide either foot.
+**SAY TO STUDENTS:** "Get close enough to bother them, leave before they can punish you, and touch when the opening is real."
+{: #say-to-students}
 
-### FENCER B
+**ROTATION:** 90 seconds as the planted fencer, 90 seconds as the moving fencer, then change partner after a full A/B cycle.
+{: #rotation}
 
-Move forward and backward as often as needed. Probe, change rhythm, draw a reaction, and touch A without receiving the immediate return.
+**COACH WATCHES:** Whether B stays light and balanced; whether the motion changes distance instead of traveling straight upward; how A's glove defines the edge; and whether B exits after the touch.
+{: #coach-watches}
 
-### SAY TO STUDENTS
-
-"Get close enough to bother them, leave before they can punish you, and touch when the opening is real."
-
-### ROTATION
-
-90 seconds as the planted fencer, 90 seconds as the moving fencer, then change partner after a full A/B cycle.
-
-### COACH WATCHES
-
-Whether B stays light and balanced; whether the motion changes distance instead of traveling straight upward; how A's glove defines the edge; and whether B exits after the touch.
-
-**NO-GEAR SAFETY** Use light glove taps to an agreed arm, shoulder, or torso target only. No face, head, throat, hard swings, collisions, or competitive scorekeeping.
+**NO-GEAR SAFETY:** Use light glove taps to an agreed arm, shoulder, or torso target only. No face, head, throat, hard swings, collisions, or competitive scorekeeping.
 
 ## Fixed Base - the same problem with swords
 
@@ -181,31 +161,25 @@ Whether B stays light and balanced; whether the motion changes distance instead 
 
 Repeat the glove game in full gear so students discover how blade length, guard, and recovery change the moving edge.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** The learner already understands the relationship. Adding swords changes the reach and consequences without changing the basic problem.
+{: #why-this-game-now}
 
-The learner already understands the relationship. Adding swords changes the reach and consequences without changing the basic problem.
+**STARTING STATE:** Both fencers wear full protective equipment and use swords. Fencer A takes a fighting stance and keeps both feet planted. Fencer B moves only forward and backward in the lane.
+{: #starting-state_1}
 
-### STARTING STATE
+**FENCER A:** Protect the space and answer with controlled sword actions from the planted stance. Adjust the guard or blade as needed, but do not step or lunge.
+{: #fencer-a_1}
 
-Both fencers wear full protective equipment and use swords. Fencer A takes a fighting stance and keeps both feet planted. Fencer B moves only forward and backward in the lane.
+**FENCER B:** Move in and out, test the guard, apply credible pressure, and enter only when the sword can threaten or protect. Leave before A can land the immediate return.
+{: #fencer-b_1}
 
-### FENCER A
+**SAY TO STUDENTS:** "It is the glove game with a sword: bother the edge, enter behind your blade, and get back out clean."
+{: #say-to-students_1}
 
-Protect the space and answer with controlled sword actions from the planted stance. Adjust the guard or blade as needed, but do not step or lunge.
+**RULES AND ROTATION:** Linear movement for B; both of A's feet stay fixed. Use controlled contact, no points, and 90-second roles. Reset after a touch, double, or clearly unsafe entry.
+{: #rules-and-rotation}
 
-### FENCER B
-
-Move in and out, test the guard, apply credible pressure, and enter only when the sword can threaten or protect. Leave before A can land the immediate return.
-
-### SAY TO STUDENTS
-
-"It is the glove game with a sword: bother the edge, enter behind your blade, and get back out clean."
-
-### RULES AND ROTATION
-
-Linear movement for B; both of A's feet stay fixed. Use controlled contact, no points, and 90-second roles. Reset after a touch, double, or clearly unsafe entry.
-
-**COACH QUESTION** What changed when the defender's glove became a sword? Do not answer for the students until they have felt the difference.
+**COACH QUESTION:** What changed when the defender's glove became a sword? Do not answer for the students until they have felt the difference.
 
 ## Connect the glove game to sword measure
 
@@ -231,9 +205,8 @@ The head, hands, or torso drift into range before the glove or sword presents a 
 
 Small steps test the edge; rhythm changes make the defender react; the entry arrives behind the glove or sword; the feet immediately recover.
 
-### ONE CUE FOR THE RE-TEST
-
-Harass the edge. Enter with purpose. Leave clean.
+**ONE CUE FOR THE RE-TEST:** Harass the edge. Enter with purpose. Leave clean.
+{: #one-cue-for-the-re-test}
 
 ## Opportunity across the whole exchange
 
@@ -243,21 +216,18 @@ Meyer places timing and opportunity in the approach, the handwork, and the withd
 
 ### Chapter 8 - English rendering for this lesson
 
-**TIMING** Because the opponent may know the same instruction and meet everything you do, you must know what opportunity lets you approach. Experience shows how much depends on opportunity in fencing: no device, however good, is useful unless applied at the proper time.
+**TIMING:** Because the opponent may know the same instruction and meet everything you do, you must know what opportunity lets you approach. Experience shows how much depends on opportunity in fencing: no device, however good, is useful unless applied at the proper time.
 
-### ORIGINAL GERMAN
+**ORIGINAL GERMAN:** Dieweil aber dein gegenpart gleichfals disen bericht haben mag ... so ist von nöten das du zuvor wissest mit was gelegenheit du ime zukommen mögest ... kein stuck es sey wie gut es immer wölle, wol mag nützlich gefochten werden, wo es nit angewendet wirt zu gelgner zeit.
+{: #original-german}
 
-Dieweil aber dein gegenpart gleichfals disen bericht haben mag ... so ist von nöten das du zuvor wissest mit was gelegenheit du ime zukommen mögest ... kein stuck es sey wie gut es immer wölle, wol mag nützlich gefochten werden, wo es nit angewendet wirt zu gelgner zeit.
+**THE THREE PARTS:** Therefore attend in all three parts of every device: in the approach or attack, in the middle or handwork, and afterward in the withdrawal - and within them to the Before, Simultaneous, After, and Indes.
 
-**THE THREE PARTS** Therefore attend in all three parts of every device: in the approach or attack, in the middle or handwork, and afterward in the withdrawal - and within them to the Before, Simultaneous, After, and Indes.
+**ORIGINAL GERMAN:** So hab nun derwegen acht in allen dreyen theilen eines jeden stucks, nemlich im zufechten oder angreiffen, im mittel oder handtarbeit, und hernach volgendt im abziehen auff das Vor, Gleich, Nach, und Indes.
+{: #original-german_1}
 
-### ORIGINAL GERMAN
-
-So hab nun derwegen acht in allen dreyen theilen eines jeden stucks, nemlich im zufechten oder angreiffen, im mittel oder handtarbeit, und hernach volgendt im abziehen auff das Vor, Gleich, Nach, und Indes.
-
-### SOURCE NOTE
-
-The English above is our classroom rendering of Meyer's 1570 German, I.24v, Chapter 8, shown beside the original to keep historical text distinct from modern lesson language. [1]
+**SOURCE NOTE:** The English above is our classroom rendering of Meyer's 1570 German, I.24v, Chapter 8, shown beside the original to keep historical text distinct from modern lesson language. [1]
+{: #source-note}
 
 ## Enter, work, and leave as one complete action
 
@@ -265,35 +235,29 @@ The English above is our classroom rendering of Meyer's 1570 German, I.24v, Chap
 
 Use Meyer's discussion of steps and withdrawal to interpret what students experienced at the moving edge of measure.
 
-### ONSET / APPROACH
+**ONSET / APPROACH:** Recognize an opportunity to come to the opponent. Do not cross merely because a familiar distance appears; cross when the action, timing, and opponent make the entry workable.
+{: #onset-approach}
 
-Recognize an opportunity to come to the opponent. Do not cross merely because a familiar distance appears; cross when the action, timing, and opponent make the entry workable.
+**MIDDLE / HANDWORK:** Once contact or pressure exists, continue only while the relationship remains favorable. The next action is selected from the bind, opening, movement, or threat that actually appears.
+{: #middle-handwork}
 
-### MIDDLE / HANDWORK
-
-Once contact or pressure exists, continue only while the relationship remains favorable. The next action is selected from the bind, opening, movement, or threat that actually appears.
-
-### WITHDRAWAL
-
-The exchange is not complete at the first touch. Recover before the opponent, after them, or with them, but do not remain available for a simple return.
+**WITHDRAWAL:** The exchange is not complete at the first touch. Recover before the opponent, after them, or with them, but do not remain available for a simple return.
+{: #withdrawal}
 
 ### Two supporting passages - English renderings
 
-**STEP + STRIKE** Each strike must have its own step, and the step should happen with the strike. A step made too early or too late ruins the device and brings the cut to nothing.
+**STEP + STRIKE:** Each strike must have its own step, and the step should happen with the strike. A step made too early or too late ruins the device and brings the cut to nothing.
 
-### ORIGINAL GERMAN
+**ORIGINAL GERMAN:** Derwegen ein jeder streich sein eigen Trit muß haben, welcher zugleich mit dem streich soll geschehen, ... Trittestu zu frü oder zu spat, so ist es umb dein stuck geschehen.
+{: #original-german_2}
 
-Derwegen ein jeder streich sein eigen Trit muß haben, welcher zugleich mit dem streich soll geschehen, ... Trittestu zu frü oder zu spat, so ist es umb dein stuck geschehen.
+**THE EXIT:** Attack and safe handwork are not enough unless a good withdrawal is made as the third action; a bad ending can undo what was previously done well.
 
-**THE EXIT** Attack and safe handwork are not enough unless a good withdrawal is made as the third action; a bad ending can undo what was previously done well.
+**ORIGINAL GERMAN:** Dieweil aber solches nit gnug wo nit zum dritten ein guter abzug gemacht wirt ... ein böses endt alles, so zuvor wol und gut gemacht, zu nicht machen und verderben.
+{: #original-german_3}
 
-### ORIGINAL GERMAN
-
-Dieweil aber solches nit gnug wo nit zum dritten ein guter abzug gemacht wirt ... ein böses endt alles, so zuvor wol und gut gemacht, zu nicht machen und verderben.
-
-### MODERN COACHING LABEL
-
-Outside / edge / inside is a modern teaching shorthand, not Meyer's terminology. The historical claim is the need to recognize opportunity and complete the whole fencing action. [1]
+**MODERN COACHING LABEL:** Outside / edge / inside is a modern teaching shorthand, not Meyer's terminology. The historical claim is the need to recognize opportunity and complete the whole fencing action. [1]
+{: #modern-coaching-label}
 
 ## Anchored Lunge - the edge gets longer
 
@@ -301,35 +265,28 @@ Outside / edge / inside is a modern teaching shorthand, not Meyer's terminology.
 
 Keep the original game intact while giving the fixed fencer one new option: a controlled lunge with the rear foot anchored.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Place a visible tape mark or floor spot under Fencer A's rear foot. Fencer B moves forward and backward in the same straight lane.
+{: #starting-state_2}
 
-Full gear and swords. Place a visible tape mark or floor spot under Fencer A's rear foot. Fencer B moves forward and backward in the same straight lane.
+**FENCER A:** Protect the space and may now lunge with the front foot, provided the rear foot remains planted on its marked spot. Recover under control before attempting another action.
+{: #fencer-a_2}
 
-### FENCER A
+**FENCER B:** Probe the edge, invite or read the lunge, and adjust the safe distance before committing. Enter only when the available threat and recovery support it.
+{: #fencer-b_2}
 
-Protect the space and may now lunge with the front foot, provided the rear foot remains planted on its marked spot. Recover under control before attempting another action.
+**SAY TO STUDENTS:** "Their feet start in the same place, but their reach is bigger now. Find the new edge, make them show it, and get in and out clean."
+{: #say-to-students_2}
 
-### FENCER B
+**RULES:** A's rear foot cannot lift, slide, or hop off the mark. B stays in the linear lane. Use controlled lunges, normal safety equipment, no scorekeeping, and a clean reset after each exchange.
+{: #rules}
 
-Probe the edge, invite or read the lunge, and adjust the safe distance before committing. Enter only when the available threat and recovery support it.
+**ROTATION:** 90 seconds as the anchored fencer, 90 seconds as the moving fencer, then change partner after the A/B cycle.
+{: #rotation_1}
 
-### SAY TO STUDENTS
+**COACH WATCHES:** Whether B recognizes the expanded danger zone; whether A telegraphs through hips, shoulders, or front-foot pressure; whether both recover their shape; and whether the rear foot stays fixed.
+{: #coach-watches_1}
 
-"Their feet start in the same place, but their reach is bigger now. Find the new edge, make them show it, and get in and out clean."
-
-### RULES
-
-A's rear foot cannot lift, slide, or hop off the mark. B stays in the linear lane. Use controlled lunges, normal safety equipment, no scorekeeping, and a clean reset after each exchange.
-
-### ROTATION
-
-90 seconds as the anchored fencer, 90 seconds as the moving fencer, then change partner after the A/B cycle.
-
-### COACH WATCHES
-
-Whether B recognizes the expanded danger zone; whether A telegraphs through hips, shoulders, or front-foot pressure; whether both recover their shape; and whether the rear foot stays fixed.
-
-**SAFETY DETAIL** Use a tape spot or floor marker, not an actual wall. A wall behind a lunging fencer can interfere with recovery and create a collision risk.
+**SAFETY DETAIL:** Use a tape spot or floor marker, not an actual wall. A wall behind a lunging fencer can interfere with recovery and create a collision risk.
 
 ## Borrow the movement problem, not the boxing technique
 
@@ -337,27 +294,22 @@ Whether B recognizes the expanded danger zone; whether A telegraphs through hips
 
 England Boxing coaching materials use in-and-out movement, range control, balance, lead-hand occupation, and defense after the attack. Those ideas transfer cleanly to this fencing problem. [3-4]
 
-### IN AND OUT
+**IN AND OUT:** The moving fencer repeatedly approaches and exits the edge instead of making one long, hopeful commitment.
+{: #in-and-out}
 
-The moving fencer repeatedly approaches and exits the edge instead of making one long, hopeful commitment.
+**MAINTAIN SHAPE:** The feet remain under a usable fighting stance. The fencer can stop, reverse, defend, or enter without crossing the feet or standing upright.
+{: #maintain-shape}
 
-### MAINTAIN SHAPE
+**OCCUPY THE OPPONENT:** Presence, rhythm, glove threat, or sword position keeps the defender solving a problem while the moving fencer gathers information.
+{: #occupy-the-opponent}
 
-The feet remain under a usable fighting stance. The fencer can stop, reverse, defend, or enter without crossing the feet or standing upright.
+**DRAW THE ANSWER:** A small approach can reveal the defender's reach or trigger the anchored lunge. The reaction changes the next decision.
+{: #draw-the-answer}
 
-### OCCUPY THE OPPONENT
+**DEFEND AFTER THE TOUCH:** Landing is not the finish. The same movement that creates the entry must also support an exit or protective recovery.
+{: #defend-after-the-touch}
 
-Presence, rhythm, glove threat, or sword position keeps the defender solving a problem while the moving fencer gathers information.
-
-### DRAW THE ANSWER
-
-A small approach can reveal the defender's reach or trigger the anchored lunge. The reaction changes the next decision.
-
-### DEFEND AFTER THE TOUCH
-
-Landing is not the finish. The same movement that creates the entry must also support an exit or protective recovery.
-
-**TRANSFER BOUNDARY** Do not copy boxing head movement, punching posture, or a boxing guard into sword range. The transferable idea is control of space, timing, balance, and the immediate return.
+**TRANSFER BOUNDARY:** Do not copy boxing head movement, punching posture, or a boxing guard into sword range. The transferable idea is control of space, timing, balance, and the immediate return.
 
 ## Transfer the moving edge to ordinary fencing
 
@@ -365,23 +317,19 @@ Landing is not the finish. The same movement that creates the entry must also su
 
 Students fence normally and use active range testing when it helps them find or deny a real opportunity.
 
-### FORMAT
+**FORMAT:** Five four-minute rounds with short rotation and water breaks. Use normal Steel Crown intensity agreements and pair by compatible control and size.
+{: #format}
 
-Five four-minute rounds with short rotation and water breaks. Use normal Steel Crown intensity agreements and pair by compatible control and size.
+**SHARED OBJECTIVE:** "Fence normally. Test the edge, notice what your opponent can reach, and enter or leave while you still control your feet."
+{: #shared-objective}
 
-### SHARED OBJECTIVE
+**COACH BEHAVIOR:** Watch several exchanges before speaking. Give one individual adjustment between rounds rather than a checklist the fencer must carry during the exchange.
+{: #coach-behavior}
 
-"Fence normally. Test the edge, notice what your opponent can reach, and enter or leave while you still control your feet."
+**TRANSFER EVIDENCE:** A student moves into and out of measure with purpose, notices the difference between current reach and possible reach, and denies the easy immediate return.
+{: #transfer-evidence}
 
-### COACH BEHAVIOR
-
-Watch several exchanges before speaking. Give one individual adjustment between rounds rather than a checklist the fencer must carry during the exchange.
-
-### TRANSFER EVIDENCE
-
-A student moves into and out of measure with purpose, notices the difference between current reach and possible reach, and denies the easy immediate return.
-
-**FINISH \| 1:55-2:00** Use the final minutes for gear transition and individual feedback. If a whole-group close helps, ask: 'What told you their real reach was longer than you first thought?'
+**FINISH \| 1:55-2:00:** Use the final minutes for gear transition and individual feedback. If a whole-group close helps, ask: 'What told you their real reach was longer than you first thought?'
 
 ## Adjust the task without losing the distance problem
 
@@ -415,7 +363,7 @@ The most useful intervention changes what the student can perceive without turni
 | The rear foot slides off its mark | Use a visible tape spot and reset immediately. Shorten the lunge until the rear foot and recovery stay controlled. |
 | Box jumps become a conditioning test | Reduce box height, contacts, or speed. Step down, recover, and keep the warm-up sharp rather than exhausting. |
 
-**CLASS STANDARD** Use one adjustment at a time: quieter feet, a clearer threat, a shorter step, or a cleaner exit. Let the partner's response show whether it helped.
+**CLASS STANDARD:** Use one adjustment at a time: quieter feet, a clearer threat, a shorter step, or a cleaner exit. Let the partner's response show whether it helped.
 
 ## What to watch during live fencing
 
@@ -437,9 +385,8 @@ Use these cues to recognize improvement from the glove game to the anchored lung
 
 Observation -&gt; question -&gt; one cue -&gt; re-test. Name what happened, ask what the fencer noticed, offer one change, and let the next exchange test it.
 
-### CLASS-LEVEL SUCCESS EVIDENCE
-
-Movement becomes quieter and more purposeful; entries arrive behind the glove or sword; students adjust when the defender gains a lunge; and clean exits appear in open fencing.
+**CLASS-LEVEL SUCCESS EVIDENCE:** Movement becomes quieter and more purposeful; entries arrive behind the glove or sword; students adjust when the defender gains a lunge; and clean exits appear in open fencing.
+{: #class-level-success-evidence}
 
 ## Soft-Glove Range Game
 
@@ -447,29 +394,23 @@ Movement becomes quieter and more purposeful; entries arrive behind the glove or
 
 Learn to harass and measure the edge before adding swords or protective equipment.
 
-### STARTING STATE
+**STARTING STATE:** No gear or swords. Fencer A stands in fighting stance with both feet planted; Fencer B moves linearly. Each has a soft glove.
+{: #starting-state_3}
 
-No gear or swords. Fencer A stands in fighting stance with both feet planted; Fencer B moves linearly. Each has a soft glove.
+**SAY TO STUDENTS:** "Get close enough to bother them, touch when it is there, and leave before they can answer."
+{: #say-to-students_3}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per role. Switch immediately and change partner after a full A/B cycle.
+{: #dose-and-rotation}
 
-"Get close enough to bother them, touch when it is there, and leave before they can answer."
+**COACH WATCHES:** Light below-neck touches; purposeful in-and-out footwork; stance quality; changing rhythm; and the exit after contact.
+{: #coach-watches_2}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Let the planted fencer vary glove height, timing, and stance while keeping both feet fixed.
+{: #if-the-room-is-ready}
 
-90 seconds per role. Switch immediately and change partner after a full A/B cycle.
-
-### COACH WATCHES
-
-Light below-neck touches; purposeful in-and-out footwork; stance quality; changing rhythm; and the exit after contact.
-
-### IF THE ROOM IS READY
-
-Let the planted fencer vary glove height, timing, and stance while keeping both feet fixed.
-
-### IF THE ROOM NEEDS LESS
-
-Slow both fencers, choose a clear arm or shoulder target, and allow wider starting distance.
+**IF THE ROOM NEEDS LESS:** Slow both fencers, choose a clear arm or shoulder target, and allow wider starting distance.
+{: #if-the-room-needs-less}
 
 ## Fixed Base With Swords
 
@@ -477,29 +418,23 @@ Slow both fencers, choose a clear arm or shoulder target, and allow wider starti
 
 Repeat the glove-distance problem with blade length, guard, full equipment, and real recovery demands.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Fencer A keeps both feet planted in fighting stance; Fencer B moves forward and backward in a lane.
+{: #starting-state_4}
 
-Full gear and swords. Fencer A keeps both feet planted in fighting stance; Fencer B moves forward and backward in a lane.
+**SAY TO STUDENTS:** "Bother the edge, enter behind your blade, and get back out clean."
+{: #say-to-students_4}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per role; switch immediately; reset after a touch, double, or unsafe entry.
+{: #dose-and-rotation_1}
 
-"Bother the edge, enter behind your blade, and get back out clean."
+**COACH WATCHES:** Whether the sword changes the edge; whether the body arrives first; whether A remains live; and whether B can leave under cover.
+{: #coach-watches_3}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Allow A to vary guard and timing while both feet remain planted.
+{: #if-the-room-is-ready_1}
 
-90 seconds per role; switch immediately; reset after a touch, double, or unsafe entry.
-
-### COACH WATCHES
-
-Whether the sword changes the edge; whether the body arrives first; whether A remains live; and whether B can leave under cover.
-
-### IF THE ROOM IS READY
-
-Allow A to vary guard and timing while both feet remain planted.
-
-### IF THE ROOM NEEDS LESS
-
-Return to soft gloves or require one clear, controlled sword action before the reset.
+**IF THE ROOM NEEDS LESS:** Return to soft gloves or require one clear, controlled sword action before the reset.
+{: #if-the-room-needs-less_1}
 
 ## Anchored Lunge
 
@@ -507,29 +442,23 @@ Return to soft gloves or require one clear, controlled sword action before the r
 
 Teach the moving fencer to respect the extra distance created by a defender's available lunge.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Fencer A's rear foot stays on a tape mark; the lead foot may lunge. Fencer B moves linearly.
+{: #starting-state_5}
 
-Full gear and swords. Fencer A's rear foot stays on a tape mark; the lead foot may lunge. Fencer B moves linearly.
+**SAY TO STUDENTS:** "Find the new edge, make them show it, and get in and out clean."
+{: #say-to-students_5}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per role. Change partner after a full A/B cycle and reset if the rear foot leaves its mark.
+{: #dose-and-rotation_2}
 
-"Find the new edge, make them show it, and get in and out clean."
+**COACH WATCHES:** Lunge cues, expanded reach, controlled recoveries, rear-foot discipline, protected entry, and the immediate return.
+{: #coach-watches_4}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Let A vary lunge timing and depth while preserving rear-foot contact and safe control.
+{: #if-the-room-is-ready_2}
 
-90 seconds per role. Change partner after a full A/B cycle and reset if the rear foot leaves its mark.
-
-### COACH WATCHES
-
-Lunge cues, expanded reach, controlled recoveries, rear-foot discipline, protected entry, and the immediate return.
-
-### IF THE ROOM IS READY
-
-Let A vary lunge timing and depth while preserving rear-foot contact and safe control.
-
-### IF THE ROOM NEEDS LESS
-
-Slow the lunge, shorten its depth, or return to the fully planted defender.
+**IF THE ROOM NEEDS LESS:** Slow the lunge, shorten its depth, or return to the fully planted defender.
+{: #if-the-room-needs-less_2}
 
 ## Notes from the class
 
@@ -559,7 +488,7 @@ Meyer provides the historical material. Boxing and strength-and-conditioning ref
 
 [8] Renshaw, Ian, Jia Yi Chow, Keith Davids, and John Hammond. 'A Constraints-Led Perspective to Understanding Skill Acquisition and Game Play.' Physical Education and Sport Pedagogy 24 (2019): 103- 116. DOI
 
-**READY** Harass the edge, recognize the opponent's real reach, enter with purpose, and leave clean.
+**READY:** Harass the edge, recognize the opponent's real reach, enter with purpose, and leave clean.
 
 ## Source links
 

@@ -27,21 +27,17 @@ duration_minutes: 120
 
 This plan narrows the class to countering committed high cuts. It does not attempt to teach counterattacks against every possible action.
 
-### CLASS TITLE
+**CLASS TITLE:** Striking While Defending I
+{: #class-title}
 
-Striking While Defending I
+**CENTRAL QUESTION:** How can I strike into an incoming attack so that one continuous action both protects me and hits my opponent?
+{: #central-question}
 
-### CENTRAL QUESTION
+**END-OF-CLASS BEHAVIOR:** Students recognize a committed high cut and choose a one-action countercut that intercepts the incoming blade, lands on a valid target, moves the head or body away from the attack's path, and avoids the double.
+{: #end-of-class-behavior}
 
-How can I strike into an incoming attack so that one continuous action both protects me and hits my opponent?
-
-### END-OF-CLASS BEHAVIOR
-
-Students recognize a committed high cut and choose a one-action countercut that intercepts the incoming blade, lands on a valid target, moves the head or body away from the attack's path, and avoids the double.
-
-### HISTORICAL ANCHOR
-
-Joachim Meyer, Gründtliche Beschreibung der Kunst des Fechtens (1570), Part One: Longsword, Chapter 5, especially I.16r.3-I.16v.1. The Zwerchhau is the primary historical example.
+**HISTORICAL ANCHOR:** Joachim Meyer, Gründtliche Beschreibung der Kunst des Fechtens (1570), Part One: Longsword, Chapter 5, especially I.16r.3-I.16v.1. The Zwerchhau is the primary historical example.
+{: #historical-anchor}
 
 ## Target-action success test
 
@@ -56,7 +52,7 @@ The target behavior is not simply a simultaneous hit. All four conditions must b
 | 3. Protection | Blade, crossguard, hands, footwork, and body position remove or contain the incoming threat. |
 | 4. No double | The opponent does not also land a valid hit. |
 
-**NO DOUBLE** A countercut that lands but fails to remove the incoming threat is a failed attempt for this class, even if the defender's hit arrived first.
+**NO DOUBLE:** A countercut that lands but fails to remove the incoming threat is a failed attempt for this class, even if the defender's hit arrived first.
 
 ### Primary technical model
 
@@ -87,15 +83,13 @@ Preserve the sequence. If time is lost, compress explanation before removing ope
 | 1:30-1:55 | Open sparring | Five 4-minute rounds; use only when opportunity is real | Transfer without bonus scoring |
 | 1:55-2:00 | Reflection &amp; close | Cue, geometry, and double analysis; next action | Consolidated learning |
 
-**TIME CHECK** 5 + 15 + 20 + 15 + 10 + 25 + 25 + 5 = 120 minutes. Problem exposure, progressive constraints, and open sparring provide repeated live-opponent work before the final reflection.
+**TIME CHECK:** 5 + 15 + 20 + 15 + 10 + 25 + 25 + 5 = 120 minutes. Problem exposure, progressive constraints, and open sparring provide repeated live-opponent work before the final reflection.
 
-### TRANSITION PLAN
+**TRANSITION PLAN:** Students gear before the five-minute opening. Pair by adjacent height and compatible intensity for Game 1. Keep masks and gloves on from 0:20 through the end of sparring. Use one audible timer and announce the next pairing before each rest interval.
+{: #transition-plan}
 
-Students gear before the five-minute opening. Pair by adjacent height and compatible intensity for Game 1. Keep masks and gloves on from 0:20 through the end of sparring. Use one audible timer and announce the next pairing before each rest interval.
-
-### IF RUNNING LATE
-
-Shorten the guided debrief or historical explanation by 2-3 minutes and reduce Game 2 by one role interval. Do not remove the final open-sparring round or reflection.
+**IF RUNNING LATE:** Shorten the guided debrief or historical explanation by 2-3 minutes and reduce Game 2 by one role interval. Do not remove the final open-sparring round or reflection.
+{: #if-running-late}
 
 ## Arrival and orientation
 
@@ -103,23 +97,19 @@ Shorten the guided debrief or historical explanation by 2-3 minutes and reduce G
 
 Every student understands the problem, success test, contact level, and stop rules.
 
-### OPENING SENTENCE
+**OPENING SENTENCE:** "Tonight we are solving one problem: how to attack into an opponent's attack without simply trading hits."
+{: #opening-sentence}
 
-"Tonight we are solving one problem: how to attack into an opponent's attack without simply trading hits."
+**READINESS SCAN:** Confirm full protective equipment. Ask for injuries or low-impact needs. Identify first-time students and pair them with controlled, communicative partners.
+{: #readiness-scan}
 
-### READINESS SCAN
+**SUCCESS DEFINITION:** The counterattack succeeds only if one continuous sword action both intercepts and hits while the defender remains unhit.
+{: #success-definition}
 
-Confirm full protective equipment. Ask for injuries or low-impact needs. Identify first-time students and pair them with controlled, communicative partners.
+**CLASS ARC:** Experience the timing problem first; compare what worked; examine Meyer's Zwerchhau as a historical answer; increase choice and pressure; test transfer in open fencing.
+{: #class-arc}
 
-### SUCCESS DEFINITION
-
-The counterattack succeeds only if one continuous sword action both intercepts and hits while the defender remains unhit.
-
-### CLASS ARC
-
-Experience the timing problem first; compare what worked; examine Meyer's Zwerchhau as a historical answer; increase choice and pressure; test transfer in open fencing.
-
-**DO NOT** Demonstrate the Zwerchhau yet. Students should encounter the tactical problem before receiving the complete historical model.
+**DO NOT:** Demonstrate the Zwerchhau yet. Students should encounter the tactical problem before receiving the complete historical model.
 
 ## Athletic development
 
@@ -127,13 +117,11 @@ Experience the timing problem first; compare what worked; examine Meyer's Zwerch
 
 Students rehearse reactive lateral displacement and finish in a stable fencing position without accumulating unnecessary fatigue.
 
-### WHAT THIS BLOCK IS
+**WHAT THIS BLOCK IS:** This is a short movement lesson, not a fitness circuit. Students perform the exercises without swords, using small amounts of explosive movement and full control. Demonstrate each exercise once, let students try it, then correct one quality at a time. The goal is to rehearse moving the target out of the attack's path and arriving in a position from which the sword can work.
+{: #what-this-block-is}
 
-This is a short movement lesson, not a fitness circuit. Students perform the exercises without swords, using small amounts of explosive movement and full control. Demonstrate each exercise once, let students try it, then correct one quality at a time. The goal is to rehearse moving the target out of the attack's path and arriving in a position from which the sword can work.
-
-### TARGET QUALITY
-
-Explosive lateral or diagonal movement followed by a quiet, balanced landing and immediately usable posture. Students should finish each repetition able to move, cut, or defend immediately - not stumble, stand up, or reset their feet.
+**TARGET QUALITY:** Explosive lateral or diagonal movement followed by a quiet, balanced landing and immediately usable posture. Students should finish each repetition able to move, cut, or defend immediately - not stumble, stand up, or reset their feet.
+{: #target-quality}
 
 ### Exercise sequence
 
@@ -166,19 +154,16 @@ Start balanced on the right foot with the left foot lightly off the floor. Bend 
 
 Pair students without swords. One student is the leader and the other is the mover. The leader faces the mover and gives a clear visual cue by pointing or making a small hand motion to the left, right, or a short diagonal. On seeing the cue, the mover takes one quick step in that direction, stops, and holds a balanced fencing-ready position for two seconds. The leader then gives a new cue. Switch roles after the short round. The mover should not guess before the cue. Cue: 'See it, move once, arrive ready.' Keep the step short enough that the student can stop under control.
 
-### FENCING CONNECTION
+**FENCING CONNECTION:** The defender must move the target while establishing a position from which the sword can intercept and hit. The landing should support the cut rather than occur as a separate preliminary movement. The athletic block is not teaching the Zwerchhau yet; it is preparing the movement qualities the later fencing task will require.
+{: #fencing-connection}
 
-The defender must move the target while establishing a position from which the sword can intercept and hit. The landing should support the cut rather than occur as a separate preliminary movement. The athletic block is not teaching the Zwerchhau yet; it is preparing the movement qualities the later fencing task will require.
+**REGRESSION:** Replace every jump with a fast step-and-stick. Reduce distance and remove the partner reaction cue.
+{: #regression}
 
-### REGRESSION
+**STOP RULE:** Regress or stop if landings become loud, balance deteriorates, the knee collapses inward, speed falls sharply, or anyone experiences pain.
+{: #stop-rule}
 
-Replace every jump with a fast step-and-stick. Reduce distance and remove the partner reaction cue.
-
-### STOP RULE
-
-Regress or stop if landings become loud, balance deteriorates, the knee collapses inward, speed falls sharply, or anyone experiences pain.
-
-**AVOID** Turning this block into conditioning. Preserve speed, landing quality, and enough energy for the fencing problem.
+**AVOID:** Turning this block into conditioning. Preserve speed, landing quality, and enough energy for the fencing problem.
 
 ## Representative problem exposure
 
@@ -186,35 +171,29 @@ Regress or stop if landings become loud, balance deteriorates, the knee collapse
 
 Students encounter the one-action counterattack problem against an adaptive opponent before receiving a complete technical answer.
 
-### GAME
+**GAME:** One Action, Two Jobs
+{: #game}
 
-One Action, Two Jobs
+**STARTING STATE:** Both begin just outside attacking measure. The attacker may begin from either shoulder; the defender may use any guard.
+{: #starting-state}
 
-### STARTING STATE
+**ATTACKER GOAL:** Within four seconds, enter and deliver one genuine but controlled high cut from either side. Choose the side, timing, and distance. No feint yet.
+{: #attacker-goal}
 
-Both begin just outside attacking measure. The attacker may begin from either shoulder; the defender may use any guard.
+**DEFENDER GOAL:** Respond after recognizing the attack. Use only one sword action; footwork is unrestricted. Attempt to intercept and hit without being hit.
+{: #defender-goal}
 
-### ATTACKER GOAL
+**SCORING:** Attacker: 1 point for a clean hit without being hit. Defender: 2 points for a clean single-action countercut; 1 point for safely defending without scoring. Double: 0 points for both. Backing out of the lane earns no defender point.
+{: #scoring}
 
-Within four seconds, enter and deliver one genuine but controlled high cut from either side. Choose the side, timing, and distance. No feint yet.
-
-### DEFENDER GOAL
-
-Respond after recognizing the attack. Use only one sword action; footwork is unrestricted. Attempt to intercept and hit without being hit.
-
-### SCORING
-
-Attacker: 1 point for a clean hit without being hit. Defender: 2 points for a clean single-action countercut; 1 point for safely defending without scoring. Double: 0 points for both. Backing out of the lane earns no defender point.
-
-### DOSE AND ROTATION
-
-2 minutes to explain and establish lanes; 4 minutes in each role; change partner; repeat 4 minutes in each role; use the final 2 minutes to reset, hydrate, and collect observations.
+**DOSE AND ROTATION:** 2 minutes to explain and establish lanes; 4 minutes in each role; change partner; repeat 4 minutes in each role; use the final 2 minutes to reset, hydrate, and collect observations.
+{: #dose-and-rotation}
 
 ### Coach observes
 
  Guessing before the attack supplies usable information.  Countercuts that land but fail to close the incoming line.  Passive blocks followed by a second attacking motion.  Hands dropping below the incoming blade.  Straight-line entries that leave the head in the attack's path.  Successful use of the strong to receive while the outer blade reaches the target.
 
-**COACH ROLE** Observe patterns across the room. Correct immediate safety issues, but do not stop every failed attempt.
+**COACH ROLE:** Observe patterns across the room. Correct immediate safety issues, but do not stop every failed attempt.
 
 ## Guided coaching
 
@@ -232,23 +211,19 @@ Students name what happened, then test the smallest intervention likely to impro
 
 4. What happened when you moved straight backward or stayed directly on the attack's path?
 
-### PRIMARY INTERVENTION
+**PRIMARY INTERVENTION:** "Move your head behind your sword as your strong takes their cut." Show the relationship among high hands, crossguard, strong of the blade, target displacement, and the outer blade reaching the opponent.
+{: #primary-intervention}
 
-"Move your head behind your sword as your strong takes their cut." Show the relationship among high hands, crossguard, strong of the blade, target displacement, and the outer blade reaching the opponent.
+**THREE-WAY COMPARISON:** Briefly demonstrate: (1) hitting into the attack and trading; (2) blocking first and attacking afterward; and (3) one continuous action whose geometry both intercepts and hits.
+{: #three-way-comparison}
 
-### THREE-WAY COMPARISON
+**VARIABLE REHEARSAL:** For approximately eight minutes, the attacker delivers controlled high cuts from either side at 60-70% intensity and varies timing and distance. The defender tests the intervention. Pause only between sets of three attempts.
+{: #variable-rehearsal}
 
-Briefly demonstrate: (1) hitting into the attack and trading; (2) blocking first and attacking afterward; and (3) one continuous action whose geometry both intercepts and hits.
+**FEEDBACK PLAN:** Use one cue at a time. Give safety-critical corrections immediately. Otherwise, ask the student what changed and provide feedback between sets rather than during the action.
+{: #feedback-plan}
 
-### VARIABLE REHEARSAL
-
-For approximately eight minutes, the attacker delivers controlled high cuts from either side at 60-70% intensity and varies timing and distance. The defender tests the intervention. Pause only between sets of three attempts.
-
-### FEEDBACK PLAN
-
-Use one cue at a time. Give safety-critical corrections immediately. Otherwise, ask the student what changed and provide feedback between sets rather than during the action.
-
-**AVOID** Adding several technical fixes at once or converting the block into a long Zwerchhau lecture.
+**AVOID:** Adding several technical fixes at once or converting the block into a long Zwerchhau lecture.
 
 ## Historical integration: Meyer
 
@@ -256,31 +231,25 @@ Use one cue at a time. Give safety-critical corrections immediately. Otherwise, 
 
 Students connect their experienced problem to Meyer's example of counteracting and hitting in the same action.
 
-### SOURCE IDENTIFICATION
+**SOURCE IDENTIFICATION:** Joachim Meyer, Gründtliche Beschreibung der Kunst des Fechtens (Strasbourg, 1570), Part One: Longsword, Chapter 5, sections 7-9, fols. I.16r.3-I.16v.1.
+{: #source-identification}
 
-Joachim Meyer, Gründtliche Beschreibung der Kunst des Fechtens (Strasbourg, 1570), Part One: Longsword, Chapter 5, sections 7-9, fols. I.16r.3-I.16v.1.
+**VERIFIED HISTORICAL CLAIM:** Meyer distinguishes ordinary counteraction from actions that counteract and hit together. He associates this second function with inverted cuts including the Schielhau, Glützhau, Kronhau, and Zwerchhau, then gives the Zwerchhau as his example. [1]
+{: #verified-historical-claim}
 
-### VERIFIED HISTORICAL CLAIM
+**MEYER'S EXAMPLE:** From Zornhut, when a high cut arrives, step the right foot toward the opponent's side and cut a short- edge Zwerchhau inward. Receive the attack on the strong near the crossguard and strike the opponent's left ear with the outer part of the sword. [1]
+{: #meyers-example}
 
-Meyer distinguishes ordinary counteraction from actions that counteract and hit together. He associates this second function with inverted cuts including the Schielhau, Glützhau, Kronhau, and Zwerchhau, then gives the Zwerchhau as his example. [1]
+**MODERN TRAINING INTERPRETATION:** The side of the mask replaces the historical ear target. We judge the action by whether it removes the incoming threat, not merely by whether the defender's blade arrives. 'Single-time counterattack' is used here as a modern coaching label for the function.
+{: #modern-training-interpretation}
 
-### MEYER'S EXAMPLE
+**DEMONSTRATION:** Show three slow, controlled examples. Emphasize high hands, the strong receiving near the hilt, the blade reaching beyond the contact, and the step shifting the target away from the attack.
+{: #demonstration}
 
-From Zornhut, when a high cut arrives, step the right foot toward the opponent's side and cut a short- edge Zwerchhau inward. Receive the attack on the strong near the crossguard and strike the opponent's left ear with the outer part of the sword. [1]
+**INSTRUCTION INTO NEXT GAME:** "The Zwerch is our clearest historical model. In the next task it earns the target score, but another solution may succeed if it truly intercepts, hits, protects, and avoids the double."
+{: #instruction-into-next-game}
 
-### MODERN TRAINING INTERPRETATION
-
-The side of the mask replaces the historical ear target. We judge the action by whether it removes the incoming threat, not merely by whether the defender's blade arrives. 'Single-time counterattack' is used here as a modern coaching label for the function.
-
-### DEMONSTRATION
-
-Show three slow, controlled examples. Emphasize high hands, the strong receiving near the hilt, the blade reaching beyond the contact, and the step shifting the target away from the attack.
-
-### INSTRUCTION INTO NEXT GAME
-
-"The Zwerch is our clearest historical model. In the next task it earns the target score, but another solution may succeed if it truly intercepts, hits, protects, and avoids the double."
-
-**EVIDENCE LINE** Historical text: Meyer describes a specific action and purpose. Instructor interpretation: the protective geometry and coaching cues. Modern adaptation: mask target, safety limits, scoring, and competition transfer.
+**EVIDENCE LINE:** Historical text: Meyer describes a specific action and purpose. Instructor interpretation: the protective geometry and coaching cues. Modern adaptation: mask target, safety limits, scoring, and competition transfer.
 
 ## Progressive constraints
 
@@ -300,17 +269,14 @@ Both begin in a free onset. One fencer is designated the initiator and must laun
 
  Target single-action countercut: 2 points.  Any other clean score: 1 point.  Double: 0 points.  Change roles every three minutes; use the remaining minute for reset and transition.
 
-### PROGRESSION TRIGGER
+**PROGRESSION TRIGGER:** Increase speed, side choice, or deception only when the defender consistently receives the attack on the strong, lands, and remains protected.
+{: #progression-trigger}
 
-Increase speed, side choice, or deception only when the defender consistently receives the attack on the strong, lands, and remains protected.
+**REGRESSION TRIGGER:** If students guess, close their eyes, collide, or accept doubles, remove the feint, increase starting distance, lower speed, or return to one known attack side.
+{: #regression-trigger}
 
-### REGRESSION TRIGGER
-
-If students guess, close their eyes, collide, or accept doubles, remove the feint, increase starting distance, lower speed, or return to one known attack side.
-
-### MIXED-EXPERIENCE CHALLENGE
-
-Beginners receive a known attack side and longer preparation time. Experienced fencers face either side, variable rhythm, and one feint, but not additional power.
+**MIXED-EXPERIENCE CHALLENGE:** Beginners receive a known attack side and longer preparation time. Experienced fencers face either side, variable rhythm, and one feint, but not additional power.
+{: #mixed-experience-challenge}
 
 ## Open sparring
 
@@ -318,27 +284,23 @@ Beginners receive a known attack side and longer preparation time. Experienced f
 
 Students transfer the behavior into the least constrained environment and abandon it when the opportunity is wrong.
 
-### FORMAT
+**FORMAT:** Five 4-minute rounds with approximately 1 minute between rounds to rotate, breathe, and receive brief feedback. Use normal open-fencing rules and the club's usual intensity agreements.
+{: #format}
 
-Five 4-minute rounds with approximately 1 minute between rounds to rotate, breathe, and receive brief feedback. Use normal open-fencing rules and the club's usual intensity agreements.
+**PAIRING PLAN:** Start with compatible size and control. Rotate so students encounter different rhythms and attack preferences. Keep novice pairings supervised; do not use a large skill mismatch merely to complete the rotation.
+{: #pairing-plan}
 
-### PAIRING PLAN
+**SHARED OBJECTIVE:** "Do not manufacture the countercut. Fence normally and use it only when you perceive a committed attack that gives you the opportunity."
+{: #shared-objective}
 
-Start with compatible size and control. Rotate so students encounter different rhythms and attack preferences. Keep novice pairings supervised; do not use a large skill mismatch merely to complete the rotation.
-
-### SHARED OBJECTIVE
-
-"Do not manufacture the countercut. Fence normally and use it only when you perceive a committed attack that gives you the opportunity."
-
-### INDIVIDUAL OBJECTIVES
-
-Defenders: recognize commitment, attempt the action only with a real cue, and reduce doubles. Attackers: continue building credible attacks rather than feeding the lesson. Advanced students: notice when the opportunity should be declined.
+**INDIVIDUAL OBJECTIVES:** Defenders: recognize commitment, attempt the action only with a real cue, and reduce doubles. Attackers: continue building credible attacks rather than feeding the lesson. Advanced students: notice when the opportunity should be declined.
+{: #individual-objectives}
 
 ### Coach records
 
  Was the response based on a real attacking cue or a guess?  Did one continuous action both protect and threaten?  Did the strong receive the incoming blade?  Did the body leave or close the attack's line?  Did the behavior appear without bonus scoring?  Did the fencer abandon the attempt when the timing or geometry was wrong?
 
-**FEEDBACK** Observe during rounds; coach primarily between rounds. Open sparring is not another constrained game.
+**FEEDBACK:** Observe during rounds; coach primarily between rounds. Open sparring is not another constrained game.
 
 ## Reflection and close
 
@@ -354,19 +316,16 @@ Students consolidate one usable cue and choose one small action for their next t
 
 3. What caused the action to become a double?
 
-### INDIVIDUAL NEXT ACTION
+**INDIVIDUAL NEXT ACTION:** Each student states one testable action. Example: 'Next time I will wait for commitment instead of guessing,' or 'I will keep my hands above the incoming blade as I move offline.'
+{: #individual-next-action}
 
-Each student states one testable action. Example: 'Next time I will wait for commitment instead of guessing,' or 'I will keep my hands above the incoming blade as I move offline.'
+**INSTRUCTOR CLOSE:** Reinforce that the lesson is selective interception, not cutting simultaneously into every attack. Record any safety issue, gear problem, or student who needs a lower-intensity follow-up.
+{: #instructor-close}
 
-### INSTRUCTOR CLOSE
+**NATURAL FOLLOW-UP CLASS:** How do we create or invite the committed high attack that makes a single-action countercut available?
+{: #natural-follow-up-class}
 
-Reinforce that the lesson is selective interception, not cutting simultaneously into every attack. Record any safety issue, gear problem, or student who needs a lower-intensity follow-up.
-
-### NATURAL FOLLOW-UP CLASS
-
-How do we create or invite the committed high attack that makes a single-action countercut available?
-
-**END ON TIME** Do not let the final sparring round consume reflection. The class is incomplete until students name what informed the decision.
+**END ON TIME:** Do not let the final sparring round consume reflection. The class is incomplete until students name what informed the decision.
 
 ## One Action, Two Jobs
 
@@ -374,37 +333,29 @@ How do we create or invite the committed high attack that makes a single-action 
 
 Expose the difference between interception and doubling before formal instruction.
 
-### STARTING STATE
+**STARTING STATE:** Just outside attacking measure. Attacker may start from either shoulder; defender from any guard.
+{: #starting-state_1}
 
-Just outside attacking measure. Attacker may start from either shoulder; defender from any guard.
+**PLAYER GOALS:** Attacker lands one controlled high cut. Defender recognizes it and attempts one sword action that intercepts and hits.
+{: #player-goals}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** Attack within four seconds; no feints; defender gets one sword action; footwork is free; halt after hit or double.
+{: #rules-and-constraints}
 
-Attacker lands one controlled high cut. Defender recognizes it and attempts one sword action that intercepts and hits.
+**SCORING:** Attacker clean hit 1; defender target action 2; safe defense only 1; double 0-0.
+{: #scoring_1}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** 4 minutes in each role; change partner; repeat. Explain and reset within the 20-minute block.
+{: #dose-and-rotation_1}
 
-Attack within four seconds; no feints; defender gets one sword action; footwork is free; halt after hit or double.
+**COACH OBSERVES:** Guessing, low hands, late passive blocks, straight-line collision, contact on defender's weak, clean strong-to-weak relationship.
+{: #coach-observes_1}
 
-### SCORING
+**PROGRESSION:** Allow variable rhythm or begin from a freer onset.
+{: #progression}
 
-Attacker clean hit 1; defender target action 2; safe defense only 1; double 0-0.
-
-### DOSE AND ROTATION
-
-4 minutes in each role; change partner; repeat. Explain and reset within the 20-minute block.
-
-### COACH OBSERVES
-
-Guessing, low hands, late passive blocks, straight-line collision, contact on defender's weak, clean strong-to-weak relationship.
-
-### PROGRESSION
-
-Allow variable rhythm or begin from a freer onset.
-
-### REGRESSION
-
-Use one known attack side, slower speed, and greater starting distance.
+**REGRESSION:** Use one known attack side, slower speed, and greater starting distance.
+{: #regression_1}
 
 ## Two Doors
 
@@ -412,37 +363,29 @@ Use one known attack side, slower speed, and greater starting distance.
 
 Let students compare the target action with safer sequential defenses while preserving the value of the target skill.
 
-### STARTING STATE
+**STARTING STATE:** Just outside measure; attacker may cut high from either side and vary timing and distance.
+{: #starting-state_2}
 
-Just outside measure; attacker may cut high from either side and vary timing and distance.
+**PLAYER GOALS:** Attacker earns a clean hit. Defender chooses freely among one-action countercut, parry-riposte, or safe defense.
+{: #player-goals_1}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** No feints; no thrusts or grappling; exchange ends on clean hit, double, or clear safe disengagement.
+{: #rules-and-constraints_1}
 
-Attacker earns a clean hit. Defender chooses freely among one-action countercut, parry-riposte, or safe defense.
+**SCORING:** Target countercut 2; any other clean score 1; attacker clean hit 1; double 0-0.
+{: #scoring_2}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** 5 minutes in each role; 2 minutes total for explanation and transition.
+{: #dose-and-rotation_2}
 
-No feints; no thrusts or grappling; exchange ends on clean hit, double, or clear safe disengagement.
+**COACH OBSERVES:** Whether the student selects the target action only when appropriate; whether parry-riposte becomes a useful fallback.
+{: #coach-observes_2}
 
-### SCORING
+**PROGRESSION:** Add rhythm changes, a false step, or a freer starting guard.
+{: #progression_1}
 
-Target countercut 2; any other clean score 1; attacker clean hit 1; double 0-0.
-
-### DOSE AND ROTATION
-
-5 minutes in each role; 2 minutes total for explanation and transition.
-
-### COACH OBSERVES
-
-Whether the student selects the target action only when appropriate; whether parry-riposte becomes a useful fallback.
-
-### PROGRESSION
-
-Add rhythm changes, a false step, or a freer starting guard.
-
-### REGRESSION
-
-Fix the attack side, slow the action, or restore the one-action defender rule for diagnosis.
+**REGRESSION:** Fix the attack side, slow the action, or restore the one-action defender rule for diagnosis.
+{: #regression_2}
 
 ## Earn It From the Onset
 
@@ -450,37 +393,29 @@ Fix the attack side, slow the action, or restore the one-action defender rule fo
 
 Release the skill into a representative onset where the opportunity must be recognized rather than supplied.
 
-### STARTING STATE
+**STARTING STATE:** Free onset. One designated initiator must launch a high-line attack within eight seconds.
+{: #starting-state_3}
 
-Free onset. One designated initiator must launch a high-line attack within eight seconds.
+**PLAYER GOALS:** Initiator creates a credible high-line attack using distance, guard changes, and at most one feint. Defender fences freely.
+{: #player-goals_2}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** Continue to clean hit, double, or clear disengagement. Normal movement; no forced counterattack.
+{: #rules-and-constraints_2}
 
-Initiator creates a credible high-line attack using distance, guard changes, and at most one feint. Defender fences freely.
+**SCORING:** Target countercut 2; any other clean score 1; double 0-0.
+{: #scoring_3}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** Change initiator every 3 minutes; use the remaining minute for reset before open sparring.
+{: #dose-and-rotation_3}
 
-Continue to clean hit, double, or clear disengagement. Normal movement; no forced counterattack.
+**COACH OBSERVES:** Whether the defender waits for commitment; whether deception creates premature action; whether declining the counter is tactically correct.
+{: #coach-observes_3}
 
-### SCORING
+**PROGRESSION:** Remove the designated initiator and continue directly into open sparring.
+{: #progression_2}
 
-Target countercut 2; any other clean score 1; double 0-0.
-
-### DOSE AND ROTATION
-
-Change initiator every 3 minutes; use the remaining minute for reset before open sparring.
-
-### COACH OBSERVES
-
-Whether the defender waits for commitment; whether deception creates premature action; whether declining the counter is tactically correct.
-
-### PROGRESSION
-
-Remove the designated initiator and continue directly into open sparring.
-
-### REGRESSION
-
-Remove the feint, extend the time limit, reveal the attack side, or increase starting distance.
+**REGRESSION:** Remove the feint, extend the time limit, reveal the attack side, or increase starting distance.
+{: #regression_3}
 
 ## Plan modifications before the room forces them
 
@@ -542,9 +477,9 @@ The class design is a modern coaching application. The cited historical claim is
 
 [3] Meyer, Joachim. Foundational Description of the Art of Fencing: The 1570 Treatise of Joachim Meyer, translated by Rebecca L. R. Garber and edited by Michael Chidester. HEMA Bookshelf, 2023; revised 2025. Publisher information
 
-**TERMS** Terminology varies by translation: Zwerchhau may appear as Crosswise Cut, Thwart Cut, or related spellings. This plan retains the familiar German term and paraphrases rather than presenting a long quotation.
+**TERMS:** Terminology varies by translation: Zwerchhau may appear as Crosswise Cut, Thwart Cut, or related spellings. This plan retains the familiar German term and paraphrases rather than presenting a long quotation.
 
-**READY** Teach the function, not the name: perceive the committed attack, intercept and hit in one continuous action, remain protected, and do not double.
+**READY:** Teach the function, not the name: perceive the committed attack, intercept and hit in one continuous action, remain protected, and do not double.
 
 ## Source links
 

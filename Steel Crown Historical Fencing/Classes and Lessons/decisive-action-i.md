@@ -27,31 +27,25 @@ duration_minutes: 120
 
 A decision lesson that helps students make timely, trained choices against a live opponent. It does not ask them to react randomly or to chase an imaginary perfect answer.
 
-### CLASS TITLE
+**CLASS TITLE:** Decisive Action I
+{: #class-title}
 
-Decisive Action I
+**SUBHEADER:** Doing Something Is Better Than Nothing
+{: #subheader}
 
-### SUBHEADER
+**CENTRAL QUESTION:** How can I recognize a meaningful cue, choose from a small prepared menu, and act before the window closes?
+{: #central-question}
 
-Doing Something Is Better Than Nothing
+**END-OF-CLASS BEHAVIOR:** Students identify a real invitation to act, commit to one safe prepared answer without waiting for complete certainty, then recover or exit rather than freezing or flailing.
+{: #end-of-class-behavior}
 
-### CENTRAL QUESTION
+**PRIMARY COACHING IDEA:** Fast decisions are not random decisions. Strong fencers pick up useful information sooner, narrow the menu, and act from a practiced answer.
+{: #primary-coaching-idea}
 
-How can I recognize a meaningful cue, choose from a small prepared menu, and act before the window closes?
+**SOURCE NOTE:** Deliberately modern. Pair it with the current technical curriculum rather than attaching a historical source where one does not belong.
+{: #source-note}
 
-### END-OF-CLASS BEHAVIOR
-
-Students identify a real invitation to act, commit to one safe prepared answer without waiting for complete certainty, then recover or exit rather than freezing or flailing.
-
-### PRIMARY COACHING IDEA
-
-Fast decisions are not random decisions. Strong fencers pick up useful information sooner, narrow the menu, and act from a practiced answer.
-
-### SOURCE NOTE
-
-Deliberately modern. Pair it with the current technical curriculum rather than attaching a historical source where one does not belong.
-
-**SAFETY BOUNDARY** A decision must remain controlled, structurally sound, and appropriate to the partner. Panic swings, reckless entries, and continuing after a clear failure are not successes.
+**SAFETY BOUNDARY:** A decision must remain controlled, structurally sound, and appropriate to the partner. Panic swings, reckless entries, and continuing after a clear failure are not successes.
 
 ## What the fencing evidence actually supports
 
@@ -73,7 +67,7 @@ Study result summarized above: Milic et al. (2020), Figure 3 and Figure 4.
 
 A 2024 systematic review and meta-analysis of 22 studies (45 effect sizes) found perceptual-cognitive training improved controlled laboratory tasks more strongly than real-game performance: ES = 1.51 in the laboratory and ES = 0.65 in real play. The transfer effect was still positive, but materially smaller.
 
-**THE TAKEAWAY** Clean drills are the start of the lesson, not proof that the skill transferred. Restore real information quickly: a moving opponent, genuine measure, variable timing, and a consequence for waiting.
+**THE TAKEAWAY:** Clean drills are the start of the lesson, not proof that the skill transferred. Restore real information quickly: a moving opponent, genuine measure, variable timing, and a consequence for waiting.
 
 ## The conversation to have before fencing
 
@@ -101,7 +95,7 @@ This does not authorize panic. If the cue is not real, keep measure. If the answ
 
 A point can count even if the hit does not land when the student saw the cue and made a clean, appropriate decision before freezing. Open fencing later tests whether that behavior survives.
 
-**REPEAT ALL CLASS** See something real. Pick one answer. Commit cleanly. Recover if it is wrong.
+**REPEAT ALL CLASS:** See something real. Pick one answer. Commit cleanly. Recover if it is wrong.
 
 ## Exact 120-minute plan
 
@@ -121,11 +115,10 @@ The lesson progresses from known answers to real choice, then releases the behav
 | 1:45-1:55 | Open fencing | Notice whether the class behavior appears without bonus scoring. | Real transfer |
 | 1:55-2:00 | Debrief | Name a useful cue and the next small decision menu. | Next action |
 
-**TIME CHECK** 10 + 10 + 15 + 15 + 20 + 20 + 15 + 10 + 5 = 120 minutes.
+**TIME CHECK:** 10 + 10 + 15 + 15 + 20 + 20 + 15 + 10 + 5 = 120 minutes.
 
-### TRANSITION PLAN
-
-Students gear before the opening. Pair by compatible control and size. Keep masks and gloves on from cue-and-commit through open fencing. Use one audible timer and announce rotations before each interval ends.
+**TRANSITION PLAN:** Students gear before the opening. Pair by compatible control and size. Keep masks and gloves on from cue-and-commit through open fencing. Use one audible timer and announce rotations before each interval ends.
+{: #transition-plan}
 
 ## Move from information, not anticipation
 
@@ -133,9 +126,8 @@ Students gear before the opening. Pair by compatible control and size. Keep mask
 
 Before anyone chooses a fencing action, their feet must be free to move. This block does not teach the two sword answers yet. It teaches the simpler habit underneath them: wait for something real, then move with balance.
 
-### THE POINT IN PLAIN ENGLISH
-
-Do not decide while nothing is happening. Stay balanced until your partner actually changes the distance. If they take space toward you, leave or make room. If they give space away, take space under control. The exact sword actions come in the next block.
+**THE POINT IN PLAIN ENGLISH:** Do not decide while nothing is happening. Stay balanced until your partner actually changes the distance. If they take space toward you, leave or make room. If they give space away, take space under control. The exact sword actions come in the next block.
+{: #the-point-in-plain-english}
 
 ### 1. PARTNER MIRROR: ENTER, BRAKE, LEAVE (4 MIN)
 
@@ -149,7 +141,7 @@ Stay at sword-safe distance with no cuts. The leader chooses one honest movement
 
  The follower waits for an actual change in distance rather than moving on a guess.  The first step fits what the partner did: make room when they close, take space when they give it.  Both fencers finish balanced enough to stop, change direction, or add a sword action next.
 
-**PARTNER RULE** The leader may wait as long as they like before making a real step. Do not fake cues. The follower resets if they move before the step or remain frozen after it.
+**PARTNER RULE:** The leader may wait as long as they like before making a real step. Do not fake cues. The follower resets if they move before the step or remain frozen after it.
 
 ## Build two answers before demanding a choice
 
@@ -157,23 +149,19 @@ Stay at sword-safe distance with no cuts. The leader chooses one honest movement
 
 This is the whole decision menu for Decisive Action I - not a list of every good longsword answer. Students rehearse two familiar answers so the later decision is between two usable actions, not every possibility they know.
 
-### ANSWER A - COVER AND EXIT
+**ANSWER A - COVER AND EXIT:** Use this when the opponent is already entering with a committed, threatening line. The immediate job is to protect yourself, remove the line, and leave at an angle. Success is not a pretty counter; it is ending the exchange safe and balanced.
+{: #answer-a-cover-and-exit}
 
-Use this when the opponent is already entering with a committed, threatening line. The immediate job is to protect yourself, remove the line, and leave at an angle. Success is not a pretty counter; it is ending the exchange safe and balanced.
+**ANSWER B - TAKE THE OPENING:** Use this when the opponent has given a real opening before their action is fully established. Enter with one simple, controlled action, then recover or exit. Success is acting on the opening without staying in front of their return.
+{: #answer-b-take-the-opening}
 
-### ANSWER B - TAKE THE OPENING
+**WHY ONLY TWO?** A small menu makes the lesson about recognition and commitment. Later classes can add more actions. Today, adding options would only make it harder to see whether the student recognized the cue or simply got lost choosing.
+{: #why-only-two}
 
-Use this when the opponent has given a real opening before their action is fully established. Enter with one simple, controlled action, then recover or exit. Success is acting on the opening without staying in front of their return.
+**KNOWN-CUE REHEARSAL:** In pairs, the feeder gives the same committed entry each time. The actor performs A five times, then B five times. The feeder keeps the picture honest and safe; the actor finishes every answer with posture and an exit.
+{: #known-cue-rehearsal}
 
-### WHY ONLY TWO?
-
-A small menu makes the lesson about recognition and commitment. Later classes can add more actions. Today, adding options would only make it harder to see whether the student recognized the cue or simply got lost choosing.
-
-### KNOWN-CUE REHEARSAL
-
-In pairs, the feeder gives the same committed entry each time. The actor performs A five times, then B five times. The feeder keeps the picture honest and safe; the actor finishes every answer with posture and an exit.
-
-**HOLD HERE** This block confirms that both answers are actually usable before asking a student to recognize when either one belongs.
+**HOLD HERE:** This block confirms that both answers are actually usable before asking a student to recognize when either one belongs.
 
 ## Cue-and-commit
 
@@ -181,23 +169,20 @@ In pairs, the feeder gives the same committed entry each time. The actor perform
 
 The opponent owns the cue. The actor does not know which answer is appropriate until meaningful information appears.
 
-### SETUP
+**SETUP:** Begin at a range where either partner can make a composed, one-exchange action. The feeder may use two honest entries: one clearly calling for Answer A and one clearly inviting Answer B. Make them visually distinct at first.
+{: #setup}
 
-Begin at a range where either partner can make a composed, one-exchange action. The feeder may use two honest entries: one clearly calling for Answer A and one clearly inviting Answer B. Make them visually distinct at first.
+**REPETITION:** The feeder moves naturally, chooses an entry, and commits enough to make the cue readable. The actor recognizes, selects A or B, completes the action, and exits. Reset each exchange. Switch after 8-10 repetitions.
+{: #repetition}
 
-### REPETITION
-
-The feeder moves naturally, chooses an entry, and commits enough to make the cue readable. The actor recognizes, selects A or B, completes the action, and exits. Reset each exchange. Switch after 8-10 repetitions.
-
-### SUCCESS STANDARD
-
-The actor gets the repetition for a safe, appropriate choice before the feeder completes the entry - even if the final hit is imperfect. No credit for pre-empting a non-cue, changing answers halfway through, or freezing until contact.
+**SUCCESS STANDARD:** The actor gets the repetition for a safe, appropriate choice before the feeder completes the entry - even if the final hit is imperfect. No credit for pre-empting a non-cue, changing answers halfway through, or freezing until contact.
+{: #success-standard}
 
 ### Coach prompts
 
  Which cue did you see?  Which answer fit it?  Were you still safe at that measure?  Did you leave after the decision?
 
-**NEXT STEP** Once both choices are clean, give the feeder a neutral preparation before either entry. The actor must now wait for information without becoming passive.
+**NEXT STEP:** Once both choices are clean, give the feeder a neutral preparation before either entry. The actor must now wait for information without becoming passive.
 
 ## The Window Closes
 
@@ -205,37 +190,29 @@ The actor gets the repetition for a safe, appropriate choice before the feeder c
 
 Give delay a real cost without asking anyone to charge forward. The game rewards timely commitment and recovery, not merely who lands first.
 
-### STARTING STATE
+**STARTING STATE:** Fencers begin in measure. One is the initiator and one is the responder. The initiator may use genuine preparation, then chooses either class picture. The responder’s job is to recognize and use A or B. After 30 seconds, switch roles and rotate partners often.
+{: #starting-state}
 
-Fencers begin in measure. One is the initiator and one is the responder. The initiator may use genuine preparation, then chooses either class picture. The responder’s job is to recognize and use A or B. After 30 seconds, switch roles and rotate partners often.
+**PLAYER GOALS:** The responder identifies an honest cue and makes a safe class answer before the initiator finishes a committed action.
+{: #player-goals}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** Responder scores 2 for a timely, safe answer with clean exit or recovery. Initiator scores 1 if the responder freezes through a clear cue or chooses an unsafe/nonsensical action. No point for fake/noncommittal pictures, pre-emption before an honest cue, or loss of control.
+{: #rules-and-constraints}
 
-The responder identifies an honest cue and makes a safe class answer before the initiator finishes a committed action.
+**SCORING:** Score the class behavior separately from the hit. The goal is an informed answer on time, not random first motion.
+{: #scoring}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** Two 4-minute role blocks, one partner change, and 2 minutes to reset rules and debrief.
+{: #dose-and-rotation}
 
-Responder scores 2 for a timely, safe answer with clean exit or recovery. Initiator scores 1 if the responder freezes through a clear cue or chooses an unsafe/nonsensical action. No point for fake/noncommittal pictures, pre-emption before an honest cue, or loss of control.
+**COACH OBSERVES:** Waiting through an honest cue, early guessing, switching answers halfway through, forgotten exits, and any action that becomes unsafe under speed.
+{: #coach-observes}
 
-### SCORING
+**PROGRESSION:** Let the initiator change preparation tempo or delay the moment of commitment.
+{: #progression}
 
-Score the class behavior separately from the hit. The goal is an informed answer on time, not random first motion.
-
-### DOSE AND ROTATION
-
-Two 4-minute role blocks, one partner change, and 2 minutes to reset rules and debrief.
-
-### COACH OBSERVES
-
-Waiting through an honest cue, early guessing, switching answers halfway through, forgotten exits, and any action that becomes unsafe under speed.
-
-### PROGRESSION
-
-Let the initiator change preparation tempo or delay the moment of commitment.
-
-### REGRESSION
-
-Return to unmistakable entries and slightly slower speed; retain the same two answers.
+**REGRESSION:** Return to unmistakable entries and slightly slower speed; retain the same two answers.
+{: #regression}
 
 ## Add uncertainty, not chaos
 
@@ -259,7 +236,7 @@ Start one step farther or closer. The same answer must now be scaled to the dist
 
 After the actor’s response, the feeder may recover or defend safely. The actor exits or recovers rather than expecting the exchange to stop.
 
-**COACH DECISION** Do not add feints, lower-line work, or three new technical answers just because the drill becomes easy. This is Decisive Action I. Complexity comes from timing, distance, and an opponent - not an unlimited decision tree.
+**COACH DECISION:** Do not add feints, lower-line work, or three new technical answers just because the drill becomes easy. This is Decisive Action I. Complexity comes from timing, distance, and an opponent - not an unlimited decision tree.
 
 ## Scenario bouts
 
@@ -280,9 +257,8 @@ Scenario pressure restores the reason people hesitate: score, consequence, and t
 
 The final portion is the test, not the whole lesson. Students may use any safe, appropriate fencing; watch whether the class behavior survives without game rules.
 
-### OPEN FENCING
-
-Run normal short bouts. Before each bout, each fencer names one personal cue they intend to recognize: for example, committed high entry, opponent freezing after a feint, or opponent giving ground with extended hands. They do not need to force it; they are responsible for noticing it.
+**OPEN FENCING:** Run normal short bouts. Before each bout, each fencer names one personal cue they intend to recognize: for example, committed high entry, opponent freezing after a feint, or opponent giving ground with extended hands. They do not need to force it; they are responsible for noticing it.
+{: #open-fencing}
 
 ### Debrief questions
 
@@ -294,7 +270,7 @@ Run normal short bouts. Before each bout, each fencer names one personal cue the
 
 branch?
 
-**CLOSE** Decisive does not mean reckless. It means your preparation lets you make a controlled answer while there is still time.
+**CLOSE:** Decisive does not mean reckless. It means your preparation lets you make a controlled answer while there is still time.
 
 ## Keep the lesson honest
 
@@ -336,7 +312,7 @@ Return to two answers. A larger decision tree is an advanced progression, not pr
 
 Reduce consequence while preserving the cue. Ask for one clean exchange rather than five points, then reintroduce score pressure gradually.
 
-**VERSION 1.2 CHOICE** Keep the first lesson narrow. We are building a habit of committed, informed action - not a library of clever answers.
+**VERSION 1.2 CHOICE:** Keep the first lesson narrow. We are building a habit of committed, informed action - not a library of clever answers.
 
 ## Research sources and interpretation notes
 
@@ -352,7 +328,7 @@ The sources support the training design and conversation. They do not prescribe 
 
 [4] Pinder, R. A., Davids, K., Renshaw, I., &amp; Araujo, D. (2011). Representative learning design and functionality of research and practice in sport. Journal of Sport &amp; Exercise Psychology, 33(1), 146-155. doi:10.1123/jsep.33.1.146. PubMed record
 
-**GRAPHIC NOTE** No study graphic is reproduced in this edition. The prior custom diagrams were removed because they were not figures taken directly from the cited studies and did not add enough instructional value. The exact study findings used to shape the lesson are stated above and cited here.
+**GRAPHIC NOTE:** No study graphic is reproduced in this edition. The prior custom diagrams were removed because they were not figures taken directly from the cited studies and did not add enough instructional value. The exact study findings used to shape the lesson are stated above and cited here.
 
 ## Source links
 

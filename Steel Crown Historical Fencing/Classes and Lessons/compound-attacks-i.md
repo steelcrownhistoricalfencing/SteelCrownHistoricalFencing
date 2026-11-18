@@ -27,19 +27,17 @@ duration_minutes: 120
 
 Students chain credible threats through one or two defensive reactions, finishing as soon as a line remains open and stopping when the defender gains control.
 
-### CENTRAL QUESTION
+**CENTRAL QUESTION:** How can I chain credible attacks as defenses appear without falling into a memorized combination?
+{: #central-question}
 
-How can I chain credible attacks as defenses appear without falling into a memorized combination?
+**END-OF-CLASS BEHAVIOR:** Students threaten a real opening. If it remains open, they finish. If the defender commits to a parry, they evade before control and make the next opening into another credible threat. They may repeat this once more when a second real parry appears. If the defender controls the blade, distance is lost, or no safe opening remains, the attacker defends, recovers, or leaves.
+{: #end-of-class-behavior}
 
-### END-OF-CLASS BEHAVIOR
+**THE CUE:** Threaten. Read. Change. Repeat only if needed.
+{: #the-cue}
 
-Students threaten a real opening. If it remains open, they finish. If the defender commits to a parry, they evade before control and make the next opening into another credible threat. They may repeat this once more when a second real parry appears. If the defender controls the blade, distance is lost, or no safe opening remains, the attacker defends, recovers, or leaves.
-
-### THE CUE
-
-Threaten. Read. Change. Repeat only if needed.
-
-### SUCCESS EVIDENCE
+**SUCCESS EVIDENCE**
+{: #success-evidence}
 
 | LOOK FOR | OBSERVABLE STANDARD |
 | --- | --- |
@@ -49,7 +47,7 @@ Threaten. Read. Change. Repeat only if needed.
 | Correct chain length | The attacker finishes as soon as an opening stays open and uses no more than two changes. |
 | Clean outcome | The attacker remains covered and does not accept a double as proof the attack worked. |
 
-**BOUNDARY** The chain continues only while the attack remains free. Once the defender truly controls the blade, the compound attack is over and the attacker must manage the riposte.
+**BOUNDARY:** The chain continues only while the attack remains free. Once the defender truly controls the blade, the compound attack is over and the attacker must manage the riposte.
 
 ## Prepare spring, braking, and redirection
 
@@ -66,19 +64,16 @@ Use the familiar plyometric block to prepare quick acceleration and controlled c
 | Short sprints | Brief accelerations followed by slow walks back |  |
 |  |  | Sharp start; controlled braking; the walk is recovery |
 
-### PURPOSE FOR THIS LESSON
+**PURPOSE FOR THIS LESSON:** Every link in the chain needs a real acceleration, followed by enough balance to brake and redirect again. The warm-up prepares repeated intent and recovery without rehearsing a fixed sword combination.
+{: #purpose-for-this-lesson}
 
-Every link in the chain needs a real acceleration, followed by enough balance to brake and redirect again. The warm-up prepares repeated intent and recovery without rehearsing a fixed sword combination.
+**SUGGESTED RHYTHM:** Move continuously through the three sections for about five minutes each. Keep demonstrations brief. Students select a box height and contact variation they can land quietly and repeat cleanly.
+{: #suggested-rhythm}
 
-### SUGGESTED RHYTHM
+**LOAD CONTROL:** Stop before landings become noisy, posture collapses, or sprint speed meaningfully drops. Reduce box height, use step variations, shorten the lane, or replace jumping with controlled footwork when needed.
+{: #load-control}
 
-Move continuously through the three sections for about five minutes each. Keep demonstrations brief. Students select a box height and contact variation they can land quietly and repeat cleanly.
-
-### LOAD CONTROL
-
-Stop before landings become noisy, posture collapses, or sprint speed meaningfully drops. Reduce box height, use step variations, shorten the lane, or replace jumping with controlled footwork when needed.
-
-**CLASS CUE** Spring. Brake. Redirect. Be ready again.
+**CLASS CUE:** Spring. Brake. Redirect. Be ready again.
 
 ## Keep the Chain Alive - no gear
 
@@ -86,31 +81,25 @@ Stop before landings become noisy, posture collapses, or sprint speed meaningful
 
 Build repeated finish-or-change decisions with soft gloves before adding sword speed, blade contact, or technical vocabulary.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** The attacker experiences a chain as several small decisions: finish when a target stays open, or redirect when the defender truly covers it. The defender learns not to manufacture reactions for weak threats.
+{: #why-this-game-now}
 
-The attacker experiences a chain as several small decisions: finish when a target stays open, or redirect when the defender truly covers it. The defender learns not to manufacture reactions for weak threats.
+**STARTING STATE:** No swords or protective gear. Partners wear or hold soft gloves. Begin at a comfortable step-and-touch distance. The shoulders and outside of the knees are targets.
+{: #starting-state}
 
-### STARTING STATE
+**FENCER A:** Make a genuine touch attempt to one target. If it stays open, finish. If B covers it, redirect to another target. If B covers again, redirect once more and finish the third threat.
+{: #fencer-a}
 
-No swords or protective gear. Partners wear or hold soft gloves. Begin at a comfortable step-and-touch distance. The shoulders and outside of the knees are targets.
+**FENCER B:** Cover only touches that can actually arrive. After the first cover, remain active and decide whether the new target also requires a cover. Do not wave, chase A's hand, or follow a rehearsed pattern.
+{: #fencer-b}
 
-### FENCER A
+**STUDENT RULES:** A may change no more than twice. Every link must be able to touch if ignored. B does not counterattack. Reset after a touch, miss, loss of balance, early change, or third defense. No scorekeeping.
+{: #student-rules}
 
-Make a genuine touch attempt to one target. If it stays open, finish. If B covers it, redirect to another target. If B covers again, redirect once more and finish the third threat.
+**ROTATION:** Use 90-second fixed roles, switch immediately, then change partner after one complete A/B cycle.
+{: #rotation}
 
-### FENCER B
-
-Cover only touches that can actually arrive. After the first cover, remain active and decide whether the new target also requires a cover. Do not wave, chase A's hand, or follow a rehearsed pattern.
-
-### STUDENT RULES
-
-A may change no more than twice. Every link must be able to touch if ignored. B does not counterattack. Reset after a touch, miss, loss of balance, early change, or third defense. No scorekeeping.
-
-### ROTATION
-
-Use 90-second fixed roles, switch immediately, then change partner after one complete A/B cycle.
-
-**SAY TO STUDENTS** Keep asking real questions. The moment one is not answered, finish it.
+**SAY TO STUDENTS:** Keep asking real questions. The moment one is not answered, finish it.
 
 ## Known Chain - acquire the rhythm
 
@@ -118,31 +107,25 @@ Use 90-second fixed roles, switch immediately, then change partner after one com
 
 Use two known parries so students can build three connected threats and feel where each change must happen before blade control.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** The defensive route is temporarily known so students can develop economical changes, stable footwork, and a second and third threat that do not fade into gestures.
+{: #why-this-game-now_1}
 
-The defensive route is temporarily known so students can develop economical changes, stable footwork, and a second and third threat that do not fade into gestures.
+**STARTING STATE:** Full gear and swords. Agree on a three-line route, such as A threatening upper left, then upper right, then a lower opening. B attempts the matching parry against each of the first two threats.
+{: #starting-state_1}
 
-### STARTING STATE
+**FENCER A:** Threaten the first opening with enough extension and measure to land. As B commits, clear the parry and immediately threaten the second opening. When B commits again, clear it and finish the third opening.
+{: #fencer-a_1}
 
-Full gear and swords. Agree on a three-line route, such as A threatening upper left, then upper right, then a lower opening. B attempts the matching parry against each of the first two threats.
+**FENCER B:** Begin from a neutral guard. Build each parry only after its threat becomes real. Make the second defensive decision from A's new attack rather than moving through two rehearsed guard positions automatically.
+{: #fencer-b_1}
 
-### FENCER A
+**RULES:** B does not counterattack yet. If either parry controls A's blade, pause and reset. Every threat must reach if B stops defending. Use exactly two changes for acquisition, then mirror the route. No points.
+{: #rules}
 
-Threaten the first opening with enough extension and measure to land. As B commits, clear the parry and immediately threaten the second opening. When B commits again, clear it and finish the third opening.
+**ROTATION:** Use 90-second roles. Switch immediately; change partners after the A/B cycle when time allows.
+{: #rotation_1}
 
-### FENCER B
-
-Begin from a neutral guard. Build each parry only after its threat becomes real. Make the second defensive decision from A's new attack rather than moving through two rehearsed guard positions automatically.
-
-### RULES
-
-B does not counterattack yet. If either parry controls A's blade, pause and reset. Every threat must reach if B stops defending. Use exactly two changes for acquisition, then mirror the route. No points.
-
-### ROTATION
-
-Use 90-second roles. Switch immediately; change partners after the A/B cycle when time allows.
-
-**SUCCESS** Three credible threats arrive as one continuous attack, each change clears before control, and the final cut needs no extra windup.
+**SUCCESS:** Three credible threats arrive as one continuous attack, each change clears before control, and the final cut needs no extra windup.
 
 ## Make every link a new decision
 
@@ -150,11 +133,11 @@ Use 90-second roles. Switch immediately; change partners after the A/B cycle whe
 
 Use the known chain to distinguish responsive chaining from a rehearsed combination that continues regardless of the defender.
 
-### ASK BEFORE YOU EXPLAIN
+**ASK BEFORE YOU EXPLAIN:** Could every threat in the chain have landed if the defender stopped moving? What actual movement caused the first change? What caused the second? Did the middle action become a real attack, or only a bridge to the planned finish? Did either change begin after the defender had already controlled the blade? When should the chain have ended earlier?
+{: #ask-before-you-explain}
 
-Could every threat in the chain have landed if the defender stopped moving? What actual movement caused the first change? What caused the second? Did the middle action become a real attack, or only a bridge to the planned finish? Did either change begin after the defender had already controlled the blade? When should the chain have ended earlier?
-
-### SHOW THREE CONTRASTS
+**SHOW THREE CONTRASTS**
+{: #show-three-contrasts}
 
 | EXAMPLE | WHAT HAPPENS | COACHING MEANING |
 | --- | --- | --- |
@@ -167,11 +150,10 @@ Could every threat in the chain have landed if the defender stopped moving? What
 |  | The defender finds and controls the blade before A changes. |  |
 |  |  | The compound attack failed. A must manage the riposte, not force the planned finish. |
 
-### FEEDBACK RHYTHM
+**FEEDBACK RHYTHM:** Watch several exchanges. Name one observable event, ask what caused each continuation, give one cue, and let the next exchange test it. Correct a weak middle threat before asking for more speed.
+{: #feedback-rhythm}
 
-Watch several exchanges. Name one observable event, ask what caused each continuation, give one cue, and let the next exchange test it. Correct a weak middle threat before asking for more speed.
-
-**KEY PHRASE** Threaten. Read. Change. Repeat only if another defense actually appears.
+**KEY PHRASE:** Threaten. Read. Change. Repeat only if another defense actually appears.
 
 ## Changing and deceiving the defense
 
@@ -183,27 +165,22 @@ Meyer's changing actions give a historical lens for threatening one opening and 
 
 "When you note that he wants to meet your oncoming strike, then jerk and cut to the other side." [1]
 
-### CHANGING
+**CHANGING:** Meyer explains that this is useful against fencers who cut toward the incoming sword rather than the body. The attacker notices the attempt to meet the strike, withdraws from that meeting, and cuts to the other side. [1]
+{: #changing}
 
-Meyer explains that this is useful against fencers who cut toward the incoming sword rather than the body. The attacker notices the attempt to meet the strike, withdraws from that meeting, and cuts to the other side. [1]
+**DECEIVING:** In the same handwork list, Meyer describes showing an intention toward one opening and striking elsewhere. He links this to working quickly against opponents who eagerly set off or cut away attacks. [1]
+{: #deceiving}
 
-### DECEIVING
+**WHAT THIS SUPPORTS:** The source supports the lesson's core relationship: present a believable line, perceive the defender moving to close it, and redirect to the opening that movement creates. The same relationship can repeat when the new threat draws another defense.
+{: #what-this-supports}
 
-In the same handwork list, Meyer describes showing an intention toward one opening and striking elsewhere. He links this to working quickly against opponents who eagerly set off or cut away attacks. [1]
+**MODERN TERMINOLOGY:** Meyer does not label this a 'compound attack.' Modern fencing uses that term for an attack containing one or more feints before the final action. Modern rules also treat a blade found during a feint as a successful parry, which is why today's lesson insists on changing before control. [2]
+{: #modern-terminology}
 
-### WHAT THIS SUPPORTS
+**HISTORICAL BOUNDARY:** The source actions are historical; the two-change cap, soft-glove game, 90-second roles, target constraints, timing, and success tests are modern coaching design. They make repeated changing easier to perceive and practice safely.
+{: #historical-boundary}
 
-The source supports the lesson's core relationship: present a believable line, perceive the defender moving to close it, and redirect to the opening that movement creates. The same relationship can repeat when the new threat draws another defense.
-
-### MODERN TERMINOLOGY
-
-Meyer does not label this a 'compound attack.' Modern fencing uses that term for an attack containing one or more feints before the final action. Modern rules also treat a blade found during a feint as a successful parry, which is why today's lesson insists on changing before control. [2]
-
-### HISTORICAL BOUNDARY
-
-The source actions are historical; the two-change cap, soft-glove game, 90-second roles, target constraints, timing, and success tests are modern coaching design. They make repeated changing easier to perceive and practice safely.
-
-**DEMONSTRA TION** Show one threat finished immediately, one changed once, one changed twice, and one stopped because the defender gained blade control.
+**DEMONSTRA TION:** Show one threat finished immediately, one changed once, one changed twice, and one stopped because the defender gained blade control.
 
 ## Where compound attacks sit in the phrase
 
@@ -217,7 +194,8 @@ Compound attacks, second intention, and parry-riposte can appear in the same exc
 | Second intention - last week | The attacker expects a complete parry-riposte. The first attack may be successfully parried; the attacker reads the actual riposte, counter-parries it, and answers. |
 | Parry-riposte | The defender stops or controls the incoming attack with a parry, then immediately attacks back from the position created by that defense. No feint or deception is required. |
 
-### THE DECISION POINT
+**THE DECISION POINT**
+{: #the-decision-point}
 
 | WHAT B DOES | WHAT A SHOULD DO | WHAT THE PHRASE BECOMES |
 | --- | --- | --- |
@@ -231,15 +209,13 @@ Compound attacks, second intention, and parry-riposte can appear in the same exc
 |  | A reads the real riposte, counter-parries, and answers. |  |
 |  |  | Last week's second-intention problem. |
 
-### HOW THEY RELATE
+**HOW THEY RELATE:** Both lessons begin with a credible attack and demand quick decisions from real information. The difference is what the attacker intends to defeat. Today, A may defeat one or two parries while they are forming. In Second Intention I, A allows the parry to succeed and defeats the riposte that follows.
+{: #how-they-relate}
 
-Both lessons begin with a credible attack and demand quick decisions from real information. The difference is what the attacker intends to defeat. Today, A may defeat one or two parries while they are forming. In Second Intention I, A allows the parry to succeed and defeats the riposte that follows.
+**WHY THE DISTINCTION MATTERS:** If A changes after the blade is already controlled, that is not a successful compound attack. If B merely starts moving toward the first line but never stops the blade, B has not yet earned a parry-riposte.
+{: #why-the-distinction-matters}
 
-### WHY THE DISTINCTION MATTERS
-
-If A changes after the blade is already controlled, that is not a successful compound attack. If B merely starts moving toward the first line but never stops the blade, B has not yet earned a parry-riposte.
-
-**QUICK CUE** Before control: change and threaten again. After control: defend. If you planned for the riposte, confirm its line before answering.
+**QUICK CUE:** Before control: change and threaten again. After control: defend. If you planned for the riposte, confirm its line before answering.
 
 ## How Long Is the Chain?
 
@@ -247,31 +223,25 @@ If A changes after the blade is already controlled, that is not a successful com
 
 The defender may answer zero, one, or two threats. The attacker must discover the correct chain length instead of completing the known route.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** Students know how a three-threat chain feels. Now they must end after the first, second, or third threat according to B's actual choices.
+{: #why-this-game-now_2}
 
-Students know how a three-threat chain feels. Now they must end after the first, second, or third threat according to B's actual choices.
+**STARTING STATE:** Full gear and swords. A begins with the same agreed first attack. B privately chooses to defend zero, one, or two credible threats.
+{: #starting-state_2}
 
-### STARTING STATE
+**FENCER A:** Finish the current threat whenever B leaves it open. When B begins a parry, clear it and make the next opening into another attack. Continue once more only when a second parry genuinely begins.
+{: #fencer-a_2}
 
-Full gear and swords. A begins with the same agreed first attack. B privately chooses to defend zero, one, or two credible threats.
+**FENCER B:** Choose the chain length independently each repetition. Never announce it. Once you decide not to parry a threat, let it finish safely rather than adding a late defense.
+{: #fencer-b_2}
 
-### FENCER A
+**RULES:** B does not counterattack yet. A may change no more than twice. Reset after the hit, miss, unnecessary continuation, blade control, loss of balance, or a third defensive action. No points.
+{: #rules_1}
 
-Finish the current threat whenever B leaves it open. When B begins a parry, clear it and make the next opening into another attack. Continue once more only when a second parry genuinely begins.
+**ROTATION:** Use 90-second roles, then change partners after a complete A/B cycle. Keep resets quick so each student receives many short decisions.
+{: #rotation_2}
 
-### FENCER B
-
-Choose the chain length independently each repetition. Never announce it. Once you decide not to parry a threat, let it finish safely rather than adding a late defense.
-
-### RULES
-
-B does not counterattack yet. A may change no more than twice. Reset after the hit, miss, unnecessary continuation, blade control, loss of balance, or a third defensive action. No points.
-
-### ROTATION
-
-Use 90-second roles, then change partners after a complete A/B cycle. Keep resets quick so each student receives many short decisions.
-
-**COACH WATCHES** Does every link remain credible? Can A stop after any threat, or does the body keep performing the remembered three-cut route?
+**COACH WATCHES:** Does every link remain credible? Can A stop after any threat, or does the body keep performing the remembered three-cut route?
 
 ## Chain Against a Live Defender
 
@@ -279,31 +249,25 @@ Use 90-second roles, then change partners after a complete A/B cycle. Keep reset
 
 The attacker chooses the first line. The defender protects openings naturally and may riposte whenever a parry gains real control.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** The final constrained game removes the preset route. A must choose each new opening from B's real defense while recognizing when the chain has ended.
+{: #why-this-game-now_3}
 
-The final constrained game removes the preset route. A must choose each new opening from B's real defense while recognizing when the chain has ended.
+**STARTING STATE:** Full gear and swords. A may begin a controlled attack to any agreed opening. B defends naturally and may use an immediate controlled riposte after a successful parry.
+{: #starting-state_3}
 
-### STARTING STATE
+**FENCER A:** Threaten the chosen line. Finish if it stays open. Each time B commits a parry, change to an opening that action creates and make it credible. Use no more than two changes. If B controls the blade, defend or leave.
+{: #fencer-a_3}
 
-Full gear and swords. A may begin a controlled attack to any agreed opening. B defends naturally and may use an immediate controlled riposte after a successful parry.
+**FENCER B:** Parry each threat naturally, but do not chase a blade that has already cleared. If any parry gains control, riposte immediately so A learns that the compound chain has ended.
+{: #fencer-b_3}
 
-### FENCER A
+**RULES:** One offensive phrase, then reset after a hit, clean separation, B's riposte, or A's second change. No extended scrambling, no simultaneous counterattack, and no points.
+{: #rules_2}
 
-Threaten the chosen line. Finish if it stays open. Each time B commits a parry, change to an opening that action creates and make it credible. Use no more than two changes. If B controls the blade, defend or leave.
+**ROTATION:** Use 90-second roles. Change partners after a complete A/B cycle so the decision is tested against different defensive habits.
+{: #rotation_3}
 
-### FENCER B
-
-Parry each threat naturally, but do not chase a blade that has already cleared. If any parry gains control, riposte immediately so A learns that the compound chain has ended.
-
-### RULES
-
-One offensive phrase, then reset after a hit, clean separation, B's riposte, or A's second change. No extended scrambling, no simultaneous counterattack, and no points.
-
-### ROTATION
-
-Use 90-second roles. Change partners after a complete A/B cycle so the decision is tested against different defensive habits.
-
-**LESSON TEST** Every new threat asks a real question. Stop when one is unanswered, when the blade is controlled, or after two changes.
+**LESSON TEST:** Every new threat asks a real question. Stop when one is unanswered, when the blade is controlled, or after two changes.
 
 ## Different shapes for the same chaining problem
 
@@ -322,7 +286,8 @@ The route may change, but each link must remain a possible finish and every cont
 | Shorter chain | Begin any route, but finish after the first or second threat when the defender stops closing lines. |  |
 |  |  | This is correct, not incomplete. |
 
-### TERMS THAT SHOULD NOT BLUR TOGETHER
+**TERMS THAT SHOULD NOT BLUR TOGETHER**
+{: #terms-that-should-not-blur-together}
 
 | TERM | PLAIN-LANGUAGE DISTINCTION |
 | --- | --- |
@@ -331,7 +296,7 @@ The route may change, but each link must remain a possible finish and every cont
 | Second intention | A tactical plan to provoke an expected response so a later action can defeat it; the response may include a riposte. |
 | Renewal | A new offensive effort after the original attack missed, fell short, or was parried. |
 
-**TODAY'S BOUNDARY** Allow no more than two changes. The goal is a responsive chain, not the longest possible combination.
+**TODAY'S BOUNDARY:** Allow no more than two changes. The goal is a responsive chain, not the longest possible combination.
 
 ## Let the defender decide the chain length
 
@@ -339,27 +304,22 @@ The route may change, but each link must remain a possible finish and every cont
 
 Students fence normally and chain compound attacks only while an opponent continues closing threatened lines without gaining blade control.
 
-### FORMAT
+**FORMAT:** Use normal Steel Crown fencing, intensity agreements, and pairings. Aim for five four-minute rounds with short partner changes, then use the remaining time for gear transition and individual feedback. Adapt freely to the room.
+{: #format}
 
-Use normal Steel Crown fencing, intensity agreements, and pairings. Aim for five four-minute rounds with short partner changes, then use the remaining time for gear transition and individual feedback. Adapt freely to the room.
+**SHARED OBJECTIVE:** "Fence normally. Make every threat real. Finish when a line stays open; change when a parry forms; repeat once only if another real parry appears."
+{: #shared-objective}
 
-### SHARED OBJECTIVE
+**COACH BEHAVIOR:** Watch several exchanges before speaking. Give one individual adjustment between rounds. Open sparring is the transfer test, not another constrained game.
+{: #coach-behavior}
 
-"Fence normally. Make every threat real. Finish when a line stays open; change when a parry forms; repeat once only if another real parry appears."
+**TRANSFER EVIDENCE:** The fencer uses the tactic against an opponent who repeatedly commits to parries. Every threat reaches a distance and line that must be respected. Each continuation is selected from the parry that actually occurs. The chain ends immediately when an opening stays open; it never runs automatically to three actions. After two changes or real blade control, the fencer finishes, defends, recovers, or leaves.
+{: #transfer-evidence}
 
-### COACH BEHAVIOR
+**OPTIONAL CLOSE:** Ask one question if it helps: What caused each link in your longest successful chain, and where could it have ended earlier?
+{: #optional-close}
 
-Watch several exchanges before speaking. Give one individual adjustment between rounds. Open sparring is the transfer test, not another constrained game.
-
-### TRANSFER EVIDENCE
-
-The fencer uses the tactic against an opponent who repeatedly commits to parries. Every threat reaches a distance and line that must be respected. Each continuation is selected from the parry that actually occurs. The chain ends immediately when an opening stays open; it never runs automatically to three actions. After two changes or real blade control, the fencer finishes, defends, recovers, or leaves.
-
-### OPTIONAL CLOSE
-
-Ask one question if it helps: What caused each link in your longest successful chain, and where could it have ended earlier?
-
-**STEEL CROWN STANDARD** A priority rule may help classify the phrase, but a double still fails the lesson. The goal is a clean tactical solution.
+**STEEL CROWN STANDARD:** A priority rule may help classify the phrase, but a double still fails the lesson. The goal is a clean tactical solution.
 
 ## Adjust the task without removing the decision
 
@@ -367,7 +327,8 @@ Ask one question if it helps: What caused each link in your longest successful c
 
 Reduce speed, uncertainty, or movement volume while preserving the relationship between threat, parry, and change.
 
-### SAFETY AND ADAPTATION
+**SAFETY AND ADAPTATION**
+{: #safety-and-adaptation}
 
 | CONDITION | PLANNED RESPONSE |
 | --- | --- |
@@ -376,7 +337,8 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 | Odd attendance | Use attacker, defender, and observer. The observer names what caused each change and where the chain ended before rotating. |
 | Limited space or injury | Shorten lanes, lower or remove jumps, reduce sword speed, or use controlled steps. Keep the decision intact. |
 
-### COACH TROUBLESHOOTING
+**COACH TROUBLESHOOTING**
+{: #coach-troubleshooting}
 
 | IF YOU SEE... | DO THIS |
 | --- | --- |
@@ -390,7 +352,7 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 |  | Reset after the second change. More actions are not useful when perception and structure decay. |
 | Doubles increase | Reduce speed and defender choice. Require A to survive for the final hit to count as learning. |
 
-**FEEDBACK** Observation -&gt; question -&gt; one cue -&gt; re-test. Preserve the decision even when the movement is simplified.
+**FEEDBACK:** Observation -&gt; question -&gt; one cue -&gt; re-test. Preserve the decision even when the movement is simplified.
 
 ## Notes from the class
 
@@ -428,7 +390,7 @@ A Constraints-Led Perspective to Understanding Skill Acquisition and Game Play. 
 
 Plyometric Exercises: low-volume jumping and stretch-shortening work. Source link
 
-**READY** Threaten. Read. Change. Repeat only if another real defense appears - and stop after two changes.
+**READY:** Threaten. Read. Change. Repeat only if another real defense appears - and stop after two changes.
 
 ## Source links
 

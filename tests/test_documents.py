@@ -2,6 +2,7 @@
 from pathlib import Path
 import unittest
 import json
+import re
 from datetime import date
 from bs4 import BeautifulSoup
 
@@ -25,7 +26,7 @@ class DocumentTests(unittest.TestCase):
         article = soup.select_one('.sc-document')
         self.assertIsNotNone(article)
         self.assertEqual(len(article.find_all('h1')), 1)
-        for selector, count in [('.sc-section', 6), ('.sc-callout', 1), ('.sc-table-scroll', 0), ('table', 1), ('.sc-minor-point', 3), ('.sc-cover-logo', 1), ('[data-sc-print]', 1)]:
+        for selector, count in [('.sc-section', 6), ('.sc-callout', 1), ('.sc-table-scroll', 0), ('table', 1), ('.sc-minor-point', 0), ('.sc-cover-logo', 1), ('[data-sc-print]', 1)]:
             self.assertEqual(len(article.select(selector)), count, selector)
 
     def test_migrated_pages(self):
@@ -38,6 +39,9 @@ class DocumentTests(unittest.TestCase):
                 self.assertEqual(len(article.find_all('h1')), 1)
                 self.assertEqual(len(article.select('[data-sc-print]')), 1)
                 self.assertNotIn('In review', article.select_one('.sc-metadata').get_text())
+                self.assertFalse(article.select('.sc-minor-point'))
+                for label in article.select('.sc-section-label'):
+                    self.assertIsNone(re.match(r'^\d+\s*\|', label.get_text()))
 
     def test_excluded_pages_keep_legacy_layout(self):
         for name in EXCLUDED:
@@ -71,6 +75,18 @@ class DocumentTests(unittest.TestCase):
                 metadata = built(source).select_one('.sc-metadata').get_text()
                 self.assertIn(date.fromisoformat(month + '-01').strftime('%B %Y'), metadata)
                 self.assertIn('Version ' + version, metadata)
+
+    def test_preserved_class_heading_anchors(self):
+        expected = json.loads(Path('tests/class_heading_anchors.json').read_text())
+        for slug, anchors in expected.items():
+            article = built(DOCS / 'Classes and Lessons' / (slug + '.md'))
+            actual = {node['id'] for node in article.select('[id]')}
+            with self.subTest(page=slug):
+                self.assertTrue(set(anchors) <= actual, set(anchors) - actual)
+                for heading in article.find_all(['h3','h4','h5','h6']):
+                    label = heading.get_text().strip()
+                    if not re.match(r'^(?:\d+\.|\[\d+\])', label):
+                        self.assertFalse(label.isupper(), label)
 
 
 if __name__ == '__main__':
