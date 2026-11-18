@@ -10,7 +10,7 @@ The existing curriculum, reference, and standards pages have since been migrated
 
 Open Sans and PT Serif are bundled with licenses and checked hashes. The logo is the original image extracted from the supplied formatting PDF, not a redraw. The shared layout follows that reference's cover, oxblood section labels and rules, italic purpose lines, tables, and main-point panels. Print uses US Letter and white backgrounds.
 
-The optional `presentation` mapping holds template choices, not custom CSS. `presentation.cover: true` gives a separate printed cover; omitting it gives a compact title block. `presentation.sections` is keyed by existing heading anchors; each entry may supply a short `label` and a `subtitle` explaining the section's purpose. Section numbers and visual treatments are generated consistently. These additions are editorial labels; technical content still requires normal review.
+The optional `presentation` mapping holds template choices, not custom CSS. `presentation.cover: true` gives a separate printed cover; omitting it gives a compact title block. `presentation.sections` is keyed by existing heading anchors; each entry may supply a short `label` and a `subtitle` explaining the section's purpose. Explicit labels are unnumbered; no default section counters or repeated document-type labels are generated. These additions are editorial labels; technical content still requires normal review.
 
 Automated release PDFs and full curriculum validation are deferred. Browser Print is not a pinned, authoritative PDF pipeline.
 
@@ -44,6 +44,8 @@ There is no per-document approval status. Review content before committing it; a
 The hook rejects missing metadata, unsupported metadata values, an unmatched title, and changed/missing bundled fonts. It is not a full link, historical, safety, or accessibility audit.
 
 Ordinary labeled blockquotes create shared callouts:
+
+Use headings for genuine topics, activities, and subsections, not for every coaching cue or paragraph. Put short cues in ordinary paragraphs with bold leads (for example, `**Coach watches:** ...`). Bold leads stay inline; the publisher does not promote them to separate display labels. When demoting an existing heading, retain its published anchor using a paragraph attribute such as `{: #coach-watches}`. PDF page numbers belong only in print footers, not in Markdown headings.
 
 ```markdown
 > **Main point** State the takeaway.

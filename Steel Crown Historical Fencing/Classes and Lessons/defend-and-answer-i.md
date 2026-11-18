@@ -27,23 +27,19 @@ duration_minutes: 120
 
 Students solve a committed attack with a genuine parry, then immediately answer the opening that the defense creates.
 
-### CENTRAL QUESTION
+**CENTRAL QUESTION:** How can I stop a committed attack and regain the initiative before the attacker safely recovers?
+{: #central-question}
 
-How can I stop a committed attack and regain the initiative before the attacker safely recovers?
+**END-OF-CLASS BEHAVIOR:** Students recognize when the opponent owns the attacking turn, remove the incoming sword with a compact parry, and riposte before the opponent can recover or renew. They select a real opening and finish without accepting a double.
+{: #end-of-class-behavior}
 
-### END-OF-CLASS BEHAVIOR
+**HISTORICAL ANCHOR:** Meyer's instruction to meet an incoming cut actively and early, weaken it through displacement, and follow immediately to the arm or the next opening.
+{: #historical-anchor}
 
-Students recognize when the opponent owns the attacking turn, remove the incoming sword with a compact parry, and riposte before the opponent can recover or renew. They select a real opening and finish without accepting a double.
+**THE CUE:** Make it safe. Take your turn. Answer clean.
+{: #the-cue}
 
-### HISTORICAL ANCHOR
-
-Meyer's instruction to meet an incoming cut actively and early, weaken it through displacement, and follow immediately to the arm or the next opening.
-
-### THE CUE
-
-Make it safe. Take your turn. Answer clean.
-
-**CLASS BOUNDARY** This lesson is parry followed by riposte. A simultaneous strike, stop-hit, or counterattack into the opponent's ongoing attack is a different solution and does not satisfy today's objective.
+**CLASS BOUNDARY:** This lesson is parry followed by riposte. A simultaneous strike, stop-hit, or counterattack into the opponent's ongoing attack is a different solution and does not satisfy today's objective.
 
 ## What a real parry-riposte looks like
 
@@ -61,17 +57,14 @@ The sequence succeeds only when the incoming attack is actually removed before t
 
 ### The lesson spine
 
-### QUESTION
+**QUESTION:** Did I stop their attack before I started mine?
+{: #question}
 
-Did I stop their attack before I started mine?
+**EVIDENCE:** The original strike is genuinely removed; the answer starts from the parry's finishing position; and the target is still open.
+{: #evidence}
 
-### EVIDENCE
-
-The original strike is genuinely removed; the answer starts from the parry's finishing position; and the target is still open.
-
-### COMMON NON-EXAMPLE
-
-I hit into the attack, allowed the first hit to land, made an oversized block, or returned to guard before choosing an answer.
+**COMMON NON-EXAMPLE:** I hit into the attack, allowed the first hit to land, made an oversized block, or returned to guard before choosing an answer.
+{: #common-non-example}
 
 ## 120-minute lesson plan
 
@@ -92,11 +85,10 @@ A movement warm-up leads into one turn-taking problem: first without equipment, 
 | 1:30-1:55 | Open sparring | Normal fencing with one transfer objective | Selective transfer |
 | 1:55-2:00 | Gear and feedback | Individual feedback; optional one-question close | Next cue |
 
-**IF TIME IS TIGHT** Shorten one role interval or the discussion. Preserve the no-gear game, the first sword problem, one variable-recovery progression, open sparring, and a calm finish.
+**IF TIME IS TIGHT:** Shorten one role interval or the discussion. Preserve the no-gear game, the first sword problem, one variable-recovery progression, open sparring, and a calm finish.
 
-### ROTATION STANDARD
-
-Use 90-second fixed roles, switch immediately, and change partners after a complete A/B cycle. Keep the game explanation short enough to preserve meaningful live attempts.
+**ROTATION STANDARD:** Use 90-second fixed roles, switch immediately, and change partners after a complete A/B cycle. Keep the game explanation short enough to preserve meaningful live attempts.
+{: #rotation-standard}
 
 ## Recognize whose turn it is
 
@@ -104,19 +96,16 @@ Use 90-second fixed roles, switch immediately, and change partners after a compl
 
 A committed incoming attack must be defended before the other fencer earns a genuine parry-riposte.
 
-### OPENING SENTENCE
+**OPENING SENTENCE:** "If somebody attacks you, you do not win this problem by trying to hit at the same time. You solve their attack, and the instant it is safe, you take your turn back."
+{: #opening-sentence}
 
-"If somebody attacks you, you do not win this problem by trying to hit at the same time. You solve their attack, and the instant it is safe, you take your turn back."
+**SUCCESS DEFINITION:** A real incoming attack is removed with a parry; the defender answers immediately from that position; the opening exists; and neither fencer receives an unnecessary return.
+{: #success-definition}
 
-### SUCCESS DEFINITION
+**CLASS ARC:** Prepare the feet; learn attack-and-answer timing without gear; add swords; examine Meyer; then vary the attacker's recovery and release the problem into freer fencing.
+{: #class-arc}
 
-A real incoming attack is removed with a parry; the defender answers immediately from that position; the opening exists; and neither fencer receives an unnecessary return.
-
-### CLASS ARC
-
-Prepare the feet; learn attack-and-answer timing without gear; add swords; examine Meyer; then vary the attacker's recovery and release the problem into freer fencing.
-
-**KEY DISTINCTION** A parry-riposte is a defensive action followed by an offensive action. A hit made during the opponent's attack is a counterattack, even if it lands first.
+**KEY DISTINCTION:** A parry-riposte is a defensive action followed by an offensive action. A hit made during the opponent's attack is a counterattack, even if it lands first.
 
 ## Build spring, acceleration, and controlled recovery
 
@@ -130,19 +119,16 @@ Use the established Steel Crown movement warm-up: low boxes, pogo hops, and shor
 | 0:10-0:15 | Pogo hops | Short, springy hops in place or over a small distance | Keep contacts quick, posture tall, and volume controlled |
 | 0:15-0:20 | Short sprints | Short accelerations followed by slow walks back | Use room-length lanes; stop before form or braking breaks down |
 
-### BOX VARIATIONS
+**BOX VARIATIONS:** Use both-feet jumps on and off, single-foot variations when appropriate, and lateral movements on or across the box. Keep the box low enough for clean, confident landings.
+{: #box-variations}
 
-Use both-feet jumps on and off, single-foot variations when appropriate, and lateral movements on or across the box. Keep the box low enough for clean, confident landings.
+**POGO GUIDANCE:** Use short sets of quick, low hops. Keep the torso organized, the contacts light, and the movement springy rather than deep or exhausting.
+{: #pogo-guidance}
 
-### POGO GUIDANCE
+**SPRINT GUIDANCE:** Accelerate over a short lane, decelerate under control, and walk slowly back before the next effort. The walk is recovery, not another conditioning interval.
+{: #sprint-guidance}
 
-Use short sets of quick, low hops. Keep the torso organized, the contacts light, and the movement springy rather than deep or exhausting.
-
-### SPRINT GUIDANCE
-
-Accelerate over a short lane, decelerate under control, and walk slowly back before the next effort. The walk is recovery, not another conditioning interval.
-
-**LOAD CONTROL** Stop before landings become noisy, posture breaks down, or speed drops. Step down or use lower-impact variations when ankles, knees, fatigue, or experience call for it. [6-7]
+**LOAD CONTROL:** Stop before landings become noisy, posture breaks down, or speed drops. Step down or use lower-impact variations when ankles, knees, fatigue, or experience call for it. [6-7]
 
 ## Shoulders and Knees - wait for your turn
 
@@ -150,31 +136,25 @@ Accelerate over a short lane, decelerate under control, and walk slowly back bef
 
 Practice seeing an attack finish before answering, without swords, masks, fencing jackets, or impact.
 
-### STARTING STATE
+**STARTING STATE:** No protective gear and no swords. Partners face one another at light-touch distance. Use open hands or soft gloves; legal touch targets are the shoulders and the outside knee area.
+{: #starting-state}
 
-No protective gear and no swords. Partners face one another at light-touch distance. Use open hands or soft gloves; legal touch targets are the shoulders and the outside knee area.
+**FENCER A:** Initiate one clear, light touch attempt to a shoulder or outside knee area, then recover honestly. Do not chain attacks together or crash into your partner.
+{: #fencer-a}
 
-### FENCER A
+**FENCER B:** Avoid, move away, or lightly redirect the incoming hand. You may touch A only after the original attack has finished or has been clearly displaced and no longer threatens.
+{: #fencer-b}
 
-Initiate one clear, light touch attempt to a shoulder or outside knee area, then recover honestly. Do not chain attacks together or crash into your partner.
+**WHAT ENDS THE ATTACK:** The attack is over when it lands, clearly misses, or is redirected out of the target line. If it lands, reset; the defender does not earn a return after accepting the first touch.
+{: #what-ends-the-attack}
 
-### FENCER B
+**SAY TO STUDENTS:** "Do not hit while their attack is still happening. Make it miss, let their turn end, and touch the opening they leave."
+{: #say-to-students}
 
-Avoid, move away, or lightly redirect the incoming hand. You may touch A only after the original attack has finished or has been clearly displaced and no longer threatens.
+**ROTATION:** 90 seconds as attacker, 90 seconds as defender, then change partner after a complete A/B cycle. Use no points or scorekeeping.
+{: #rotation}
 
-### WHAT ENDS THE ATTACK
-
-The attack is over when it lands, clearly misses, or is redirected out of the target line. If it lands, reset; the defender does not earn a return after accepting the first touch.
-
-### SAY TO STUDENTS
-
-"Do not hit while their attack is still happening. Make it miss, let their turn end, and touch the opening they leave."
-
-### ROTATION
-
-90 seconds as attacker, 90 seconds as defender, then change partner after a complete A/B cycle. Use no points or scorekeeping.
-
-**NO-GEAR SAFETY** Use light fingertip or soft-glove touches only. No head, face, throat, hard slaps, grabbing, direct pressure on the kneecap, diving, or twisting the knee.
+**NO-GEAR SAFETY:** Use light fingertip or soft-glove touches only. No head, face, throat, hard slaps, grabbing, direct pressure on the kneecap, diving, or twisting the knee.
 
 ## Defend, Then Answer - add the swords
 
@@ -182,31 +162,25 @@ The attack is over when it lands, clearly misses, or is redirected out of the ta
 
 Transfer the no-gear turn-taking problem into a genuine parry followed by a clean, immediate riposte.
 
-### WHY THIS GAME NOW
+**WHY THIS GAME NOW:** Students already understand that their answer cannot begin during the opponent's attacking turn. Swords add the requirement that the defending blade actually removes the threat.
+{: #why-this-game-now}
 
-Students already understand that their answer cannot begin during the opponent's attacking turn. Swords add the requirement that the defending blade actually removes the threat.
+**STARTING STATE:** Both fencers wear full protective equipment and use swords. Fencer A begins at workable measure and delivers one committed, controlled high cut from an agreed side.
+{: #starting-state_1}
 
-### STARTING STATE
+**FENCER A:** Make the initial attack credible. After it is parried, recover honestly and defend or make one controlled renewal only if the defender leaves you time.
+{: #fencer-a_1}
 
-Both fencers wear full protective equipment and use swords. Fencer A begins at workable measure and delivers one committed, controlled high cut from an agreed side.
+**FENCER B:** Meet and displace the incoming sword, then immediately answer the nearest available opening from the position your parry creates. Do not counterattack into the original cut.
+{: #fencer-b_1}
 
-### FENCER A
+**SAY TO STUDENTS:** "They attack first. Stop the sword first. Then take your turn before they recover."
+{: #say-to-students_1}
 
-Make the initial attack credible. After it is parried, recover honestly and defend or make one controlled renewal only if the defender leaves you time.
+**RULES AND ROTATION:** The attack and riposte must be distinct actions. A landed initial attack, an early counterattack, or a double ends the exchange without success. Use 90-second roles and no scorekeeping.
+{: #rules-and-rotation}
 
-### FENCER B
-
-Meet and displace the incoming sword, then immediately answer the nearest available opening from the position your parry creates. Do not counterattack into the original cut.
-
-### SAY TO STUDENTS
-
-"They attack first. Stop the sword first. Then take your turn before they recover."
-
-### RULES AND ROTATION
-
-The attack and riposte must be distinct actions. A landed initial attack, an early counterattack, or a double ends the exchange without success. Use 90-second roles and no scorekeeping.
-
-**COACH QUESTION** Could someone watching clearly see the first attack, the completed parry, and the answer - in that order?
+**COACH QUESTION:** Could someone watching clearly see the first attack, the completed parry, and the answer - in that order?
 
 ## Make the defense useful, then remove the pause
 
@@ -232,9 +206,8 @@ The sword stops the attack but the hands travel too far, the fencer admires the 
 
 The attack is actively removed, the defending position remains organized, and the next action reaches the opening before recovery.
 
-### ONE CUE FOR THE RE-TEST
-
-Make it safe. Take your turn. Answer clean.
+**ONE CUE FOR THE RE-TEST:** Make it safe. Take your turn. Answer clean.
+{: #one-cue-for-the-re-test}
 
 ## Active defense creates the answer
 
@@ -244,19 +217,17 @@ Read Meyer in English: remove the opponent's attack with purpose, then strike th
 
 ### 1570 Dusack, Chapter 6 - classroom English rendering
 
-**ACTIVE PARRY** Do not hold your weapon still and simply allow the opponent to strike it. Meet the incoming high cut actively. Receiving the attack earlier and higher weakens it and makes the following cut more useful and safer to complete.
+**ACTIVE PARRY:** Do not hold your weapon still and simply allow the opponent to strike it. Meet the incoming high cut actively. Receiving the attack earlier and higher weakens it and makes the following cut more useful and safer to complete.
 
-### WHAT MEYER IS SOLVING
-
-A passive block may stop the immediate blow but leave the defender late, crowded, or unable to answer. An active displacement changes the incoming blade while preserving the position needed for the next action. [1]
+**WHAT MEYER IS SOLVING:** A passive block may stop the immediate blow but leave the defender late, crowded, or unable to answer. An active displacement changes the incoming blade while preserving the position needed for the next action. [1]
+{: #what-meyer-is-solving}
 
 ### 1570 Dusack, Chapter 5 - classroom English rendering
 
-**THE OPENING** Notice the side from which the opponent begins the cut. Remove that cut without being struck, then answer promptly toward the opening their action exposes. Often, the line the attack came through becomes the available opening.
+**THE OPENING:** Notice the side from which the opponent begins the cut. Remove that cut without being struck, then answer promptly toward the opening their action exposes. Often, the line the attack came through becomes the available opening.
 
-### READING NOTE
-
-These are modern classroom English renderings of Meyer's original material, not a claim that the 1570 text describes this exact game or a modern tournament rule. [1]
+**READING NOTE:** These are modern classroom English renderings of Meyer's original material, not a claim that the 1570 text describes this exact game or a modern tournament rule. [1]
+{: #reading-note}
 
 ## Displace first; strike from what remains
 
@@ -266,7 +237,7 @@ The historical pattern is sequential: a real threat is displaced, then the neare
 
 ### Meyer manuscript comparison, folio 31r.3 - English
 
-**AFTER THE PARRY** When you displace from your right toward the opponent's left, answer from below with the short edge toward the arm. When the displacement goes the other direction, reverse the answer and continue toward the next available opening.
+**AFTER THE PARRY:** When you displace from your right toward the opponent's left, answer from below with the short edge toward the arm. When the displacement goes the other direction, reverse the answer and continue toward the next available opening.
 
 ### 1. RECOGNIZE
 
@@ -284,9 +255,8 @@ When the attack is genuinely stopped, cut or thrust to the nearest real opening 
 
 Stay protected through the hit and recovery. If the opening has closed or the original threat was never removed, defend again or leave rather than forcing the answer.
 
-### HISTORICAL BOUNDARY
-
-The named passages come from Meyer's dusack material and manuscript comparison. Applying their active displacement and following-cut relationship to this longsword lesson is a modern coaching interpretation. [1-2]
+**HISTORICAL BOUNDARY:** The named passages come from Meyer's dusack material and manuscript comparison. Applying their active displacement and following-cut relationship to this longsword lesson is a modern coaching interpretation. [1-2]
+{: #historical-boundary}
 
 ## Opening Changes - read the recovery
 
@@ -294,31 +264,25 @@ The named passages come from Meyer's dusack material and manuscript comparison. 
 
 Keep the parry-riposte requirement while allowing the attacker's cut and recovery to reveal different answers.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Fencer A may initiate a controlled high cut from either side and recovers into one of two clearly different blade positions.
+{: #starting-state_2}
 
-Full gear and swords. Fencer A may initiate a controlled high cut from either side and recovers into one of two clearly different blade positions.
+**FENCER A:** Attack with genuine commitment, then recover naturally into either a high/closed line or a lower/opposite-side line. Defend the first recovery honestly.
+{: #fencer-a_2}
 
-### FENCER A
+**FENCER B:** Parry the actual incoming attack, notice which line is exposed, and riposte into the nearest available opening. If the expected opening closes, choose the other one or reset safely.
+{: #fencer-b_2}
 
-Attack with genuine commitment, then recover naturally into either a high/closed line or a lower/opposite-side line. Defend the first recovery honestly.
+**SAY TO STUDENTS:** "Do not decide the answer before the attack. Stop their sword, see what they leave open, and hit that."
+{: #say-to-students_2}
 
-### FENCER B
+**RULES:** No simultaneous counterattack, no preset target, and no points. The defender must genuinely stop the first attack before beginning the riposte.
+{: #rules}
 
-Parry the actual incoming attack, notice which line is exposed, and riposte into the nearest available opening. If the expected opening closes, choose the other one or reset safely.
+**ROTATION:** Use 90-second fixed roles. Change partner after a full attacker/defender cycle when time allows.
+{: #rotation_1}
 
-### SAY TO STUDENTS
-
-"Do not decide the answer before the attack. Stop their sword, see what they leave open, and hit that."
-
-### RULES
-
-No simultaneous counterattack, no preset target, and no points. The defender must genuinely stop the first attack before beginning the riposte.
-
-### ROTATION
-
-Use 90-second fixed roles. Change partner after a full attacker/defender cycle when time allows.
-
-**COACH WATCHES** Look for students who memorize one return, chase a closed line, or reset to guard instead of answering from the parry's finish.
+**COACH WATCHES:** Look for students who memorize one return, chase a closed line, or reset to guard instead of answering from the parry's finish.
 
 ## Take Back Initiative - release the phrase
 
@@ -326,31 +290,25 @@ Use 90-second fixed roles. Change partner after a full attacker/defender cycle w
 
 Add a freer onset and an honest renewed attack without changing the sequence: attack, parry, riposte.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Partners begin outside measure and move naturally. Fencer A owns the first genuine high-line attack; Fencer B owns the defensive role.
+{: #starting-state_3}
 
-Full gear and swords. Partners begin outside measure and move naturally. Fencer A owns the first genuine high-line attack; Fencer B owns the defensive role.
+**FENCER A:** Choose when to commit the initial attack. After it is defended, recover, close the line, or attempt one controlled renewed attack if the defender hesitates.
+{: #fencer-a_3}
 
-### FENCER A
+**FENCER B:** Read the real attack rather than every preparation. Parry it, take the initiative with an immediate riposte, and stay protected against the possible renewal.
+{: #fencer-b_3}
 
-Choose when to commit the initial attack. After it is defended, recover, close the line, or attempt one controlled renewed attack if the defender hesitates.
+**SAY TO STUDENTS:** "Let them start. Stop what actually comes. Take your turn back before they can start again."
+{: #say-to-students_3}
 
-### FENCER B
+**RULES:** The target behavior remains sequential parry-riposte only. If the initial attack lands, the defender counterattacks early, or both are hit, reset without awarding success.
+{: #rules_1}
 
-Read the real attack rather than every preparation. Parry it, take the initiative with an immediate riposte, and stay protected against the possible renewal.
+**ROTATION:** 90 seconds as initial attacker, then 90 seconds as defender. Keep explanations short and preserve continuous, controlled attempts.
+{: #rotation_2}
 
-### SAY TO STUDENTS
-
-"Let them start. Stop what actually comes. Take your turn back before they can start again."
-
-### RULES
-
-The target behavior remains sequential parry-riposte only. If the initial attack lands, the defender counterattacks early, or both are hit, reset without awarding success.
-
-### ROTATION
-
-90 seconds as initial attacker, then 90 seconds as defender. Keep explanations short and preserve continuous, controlled attempts.
-
-**PROGRESS OR REGRESS** If the group is ready, vary entry rhythm and initial attack side. If the task breaks down, return to the agreed high cut and one obvious recovery line.
+**PROGRESS OR REGRESS:** If the group is ready, vary entry rhythm and initial attack side. If the task breaks down, return to the agreed high cut and one obvious recovery line.
 
 ## Understand the phrase without excusing the double
 
@@ -358,31 +316,25 @@ The target behavior remains sequential parry-riposte only. If the initial attack
 
 Published HEMA and modern fencing rules distinguish an original attack, a genuine parry-riposte, and an attacker's renewed action.
 
-### ORIGINAL ATTACK
+**ORIGINAL ATTACK:** The fencer who initiates a credible offensive action creates the problem that the opponent must first solve. A stop-hit into that live action is a counterattack, not this lesson's parry-riposte.
+{: #original-attack}
 
-The fencer who initiates a credible offensive action creates the problem that the opponent must first solve. A stop-hit into that live action is a counterattack, not this lesson's parry-riposte.
+**PARRY:** The defending weapon must actually prevent the original attack from arriving. A brief, incidental blade touch does not automatically mean the attack was removed.
+{: #parry}
 
-### PARRY
+**RIPOSTE:** The defender's offensive action comes after the parry. It may be direct or indirect, but it must grow out of the completed defensive action rather than racing the incoming blade.
+{: #riposte}
 
-The defending weapon must actually prevent the original attack from arriving. A brief, incidental blade touch does not automatically mean the attack was removed.
+**RENEWED ATTACK:** The original attacker may try to attack again after being parried. If the defender gives away time, the renewal becomes a live tactical problem.
+{: #renewed-attack}
 
-### RIPOSTE
+**EXAMPLE HEMA CONVENTION:** Iron Gate Exhibition's published longsword rules explicitly list Parry-Riposte &gt; Renewed Attack in their tactical-priority hierarchy. Treat that as one event-specific example, not a universal HEMA rule. [4]
+{: #example-hema-convention}
 
-The defender's offensive action comes after the parry. It may be direct or indirect, but it must grow out of the completed defensive action rather than racing the incoming blade.
+**MODERN FENCING TERMINOLOGY:** The FIE defines a riposte as the offensive action made by the fencer who has parried an attack and distinguishes it from a counterattack made during the opponent's action. [5]
+{: #modern-fencing-terminology}
 
-### RENEWED ATTACK
-
-The original attacker may try to attack again after being parried. If the defender gives away time, the renewal becomes a live tactical problem.
-
-### EXAMPLE HEMA CONVENTION
-
-Iron Gate Exhibition's published longsword rules explicitly list Parry-Riposte &gt; Renewed Attack in their tactical-priority hierarchy. Treat that as one event-specific example, not a universal HEMA rule. [4]
-
-### MODERN FENCING TERMINOLOGY
-
-The FIE defines a riposte as the offensive action made by the fencer who has parried an attack and distinguishes it from a counterattack made during the opponent's action. [5]
-
-**STEEL CROWN STANDARD** An event may award priority in a double, but this class still aims to remove the attack and finish clean. Right of way explains the fencing phrase; it does not make being hit a good outcome.
+**STEEL CROWN STANDARD:** An event may award priority in a double, but this class still aims to remove the attack and finish clean. Right of way explains the fencing phrase; it does not make being hit a good outcome.
 
 ## Transfer the answer to ordinary fencing
 
@@ -390,23 +342,19 @@ The FIE defines a riposte as the offensive action made by the fencer who has par
 
 Students fence normally and use sequential parry-riposte when a real committed attack creates the opportunity.
 
-### FORMAT
+**FORMAT:** Five four-minute rounds with short rotation and water breaks. Use normal Steel Crown intensity agreements and pair by compatible control and size.
+{: #format}
 
-Five four-minute rounds with short rotation and water breaks. Use normal Steel Crown intensity agreements and pair by compatible control and size.
+**SHARED OBJECTIVE:** "Fence normally. When they genuinely attack you, stop the attack first and answer from the position your defense creates."
+{: #shared-objective}
 
-### SHARED OBJECTIVE
+**COACH BEHAVIOR:** Watch several exchanges before speaking. Offer one individual cue between rounds rather than turning open fencing into another constrained game.
+{: #coach-behavior}
 
-"Fence normally. When they genuinely attack you, stop the attack first and answer from the position your defense creates."
+**TRANSFER EVIDENCE:** The fencer recognizes a committed attack, performs a real parry, answers before the opponent safely recovers, and declines the riposte when the opening is gone.
+{: #transfer-evidence}
 
-### COACH BEHAVIOR
-
-Watch several exchanges before speaking. Offer one individual cue between rounds rather than turning open fencing into another constrained game.
-
-### TRANSFER EVIDENCE
-
-The fencer recognizes a committed attack, performs a real parry, answers before the opponent safely recovers, and declines the riposte when the opening is gone.
-
-**FINISH \| 1:55-2:00** Use the final minutes for gear transition and individual feedback. If a whole-group close helps, ask: 'What told you their attack was over and your answer could begin?'
+**FINISH \| 1:55-2:00:** Use the final minutes for gear transition and individual feedback. If a whole-group close helps, ask: 'What told you their attack was over and your answer could begin?'
 
 ## Adjust the task without losing the defensive problem
 
@@ -441,7 +389,7 @@ The most useful intervention makes the original attack, the completed defense, a
 | Priority becomes an excuse for doubles | State that event rules may award a priority exchange, but the class standard remains a defended first attack and a clean, protected answer. |
 | Box jumps become a conditioning test | Reduce box height, contacts, or speed. Step down, recover, and keep the warm-up sharp rather than exhausting. |
 
-**CLASS STANDARD** Use one adjustment at a time: a clearer attack, a smaller parry, an earlier answer, or a better target. Let the next live exchange test the change.
+**CLASS STANDARD:** Use one adjustment at a time: a clearer attack, a smaller parry, an earlier answer, or a better target. Let the next live exchange test the change.
 
 ## What to watch during live fencing
 
@@ -463,9 +411,8 @@ Track whether students respect the attacking turn, create a real defensive stop,
 
 Observation -&gt; question -&gt; one cue -&gt; re-test. Name what happened, ask what the fencer noticed, offer one change, and let the next exchange test it.
 
-### CLASS-LEVEL SUCCESS EVIDENCE
-
-Early counterattacks decrease, parries become more compact, unnecessary resets disappear, ripostes follow real openings, and clean defensive answers appear in open fencing.
+**CLASS-LEVEL SUCCESS EVIDENCE:** Early counterattacks decrease, parries become more compact, unnecessary resets disappear, ripostes follow real openings, and clean defensive answers appear in open fencing.
+{: #class-level-success-evidence}
 
 ## Shoulders and Knees
 
@@ -473,29 +420,23 @@ Early counterattacks decrease, parries become more compact, unnecessary resets d
 
 Recognize when an incoming attack has finished before taking the answering turn.
 
-### STARTING STATE
+**STARTING STATE:** No gear or swords. Partners use open hands or soft gloves to attempt light touches to shoulders and the outside knee area.
+{: #starting-state_4}
 
-No gear or swords. Partners use open hands or soft gloves to attempt light touches to shoulders and the outside knee area.
+**SAY TO STUDENTS:** "Make their attack miss or finish. Only then take your turn and touch the opening they leave."
+{: #say-to-students_4}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per fixed role. Switch immediately and change partner after a full A/B cycle.
+{: #dose-and-rotation}
 
-"Make their attack miss or finish. Only then take your turn and touch the opening they leave."
+**COACH WATCHES:** The initial attack; whether the defender answers too soon; safe knee-area touches; balance; and an immediate answer after the threat ends.
+{: #coach-watches}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Vary the target, attacking rhythm, and recovery direction while keeping the original one-attack rule.
+{: #if-the-room-is-ready}
 
-90 seconds per fixed role. Switch immediately and change partner after a full A/B cycle.
-
-### COACH WATCHES
-
-The initial attack; whether the defender answers too soon; safe knee-area touches; balance; and an immediate answer after the threat ends.
-
-### IF THE ROOM IS READY
-
-Vary the target, attacking rhythm, and recovery direction while keeping the original one-attack rule.
-
-### IF THE ROOM NEEDS LESS
-
-Use shoulder targets only, slow the touch attempt, and make the end of the attacking action unmistakable.
+**IF THE ROOM NEEDS LESS:** Use shoulder targets only, slow the touch attempt, and make the end of the attacking action unmistakable.
+{: #if-the-room-needs-less}
 
 ## Defend, Then Answer
 
@@ -503,29 +444,23 @@ Use shoulder targets only, slow the touch attempt, and make the end of the attac
 
 Transfer the no-gear turn-taking problem into a genuine parry followed by an immediate riposte.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Fencer A makes one controlled high cut from an agreed side; Fencer B must remove the attack first.
+{: #starting-state_5}
 
-Full gear and swords. Fencer A makes one controlled high cut from an agreed side; Fencer B must remove the attack first.
+**SAY TO STUDENTS:** "They attack. Stop the sword. Then take your turn before they recover."
+{: #say-to-students_5}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per role; switch immediately; reset after a landed first attack, early counterattack, double, or clean answer.
+{: #dose-and-rotation_1}
 
-"They attack. Stop the sword. Then take your turn before they recover."
+**COACH WATCHES:** Clear attack-parry-riposte order; compact defensive structure; immediate answer; nearest opening; and safe recovery.
+{: #coach-watches_1}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Allow the attacker to vary rhythm or defend honestly after the first attack has been parried.
+{: #if-the-room-is-ready_1}
 
-90 seconds per role; switch immediately; reset after a landed first attack, early counterattack, double, or clean answer.
-
-### COACH WATCHES
-
-Clear attack-parry-riposte order; compact defensive structure; immediate answer; nearest opening; and safe recovery.
-
-### IF THE ROOM IS READY
-
-Allow the attacker to vary rhythm or defend honestly after the first attack has been parried.
-
-### IF THE ROOM NEEDS LESS
-
-Announce the attack side, reduce speed, and briefly hold the recovery so the defender can recognize the opening.
+**IF THE ROOM NEEDS LESS:** Announce the attack side, reduce speed, and briefly hold the recovery so the defender can recognize the opening.
+{: #if-the-room-needs-less_1}
 
 ## Opening Changes
 
@@ -533,29 +468,23 @@ Announce the attack side, reduce speed, and briefly hold the recovery so the def
 
 Prevent a memorized riposte by changing the attacker's side and recovery position.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Fencer A cuts high from either side, then recovers into one of two different lines.
+{: #starting-state_6}
 
-Full gear and swords. Fencer A cuts high from either side, then recovers into one of two different lines.
+**SAY TO STUDENTS:** "Stop the attack. See what the recovery leaves open. Answer that opening."
+{: #say-to-students_6}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per fixed role; change partners after a full A/B cycle when time allows.
+{: #dose-and-rotation_2}
 
-"Stop the attack. See what the recovery leaves open. Answer that opening."
+**COACH WATCHES:** Real removal of the attack; useful parry finish; eyes on the opponent; target selection; and an answer without a separate reset.
+{: #coach-watches_2}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Allow the attacker to withdraw, close a line sooner, or vary the timing of the initial cut.
+{: #if-the-room-is-ready_2}
 
-90 seconds per fixed role; change partners after a full A/B cycle when time allows.
-
-### COACH WATCHES
-
-Real removal of the attack; useful parry finish; eyes on the opponent; target selection; and an answer without a separate reset.
-
-### IF THE ROOM IS READY
-
-Allow the attacker to withdraw, close a line sooner, or vary the timing of the initial cut.
-
-### IF THE ROOM NEEDS LESS
-
-Return to a known-side attack and announce the recovery position before each exchange.
+**IF THE ROOM NEEDS LESS:** Return to a known-side attack and announce the recovery position before each exchange.
+{: #if-the-room-needs-less_2}
 
 ## Take Back Initiative
 
@@ -563,29 +492,23 @@ Return to a known-side attack and announce the recovery position before each exc
 
 Release the parry-riposte into a freer fencing phrase with a genuine attack and possible renewal.
 
-### STARTING STATE
+**STARTING STATE:** Full gear and swords. Fencers move freely; A owns the first committed high-line attack; B owns the defensive role.
+{: #starting-state_7}
 
-Full gear and swords. Fencers move freely; A owns the first committed high-line attack; B owns the defensive role.
+**SAY TO STUDENTS:** "Let them start. Stop what comes. Take your turn back before they can start again."
+{: #say-to-students_7}
 
-### SAY TO STUDENTS
+**DOSE AND ROTATION:** 90 seconds per role; reset after a clean answer, an unsafe double, or a clearly resolved exchange.
+{: #dose-and-rotation_3}
 
-"Let them start. Stop what comes. Take your turn back before they can start again."
+**COACH WATCHES:** Recognition of preparation versus attack; a genuine parry; answer timing; the renewed attack; and protected recovery.
+{: #coach-watches_3}
 
-### DOSE AND ROTATION
+**IF THE ROOM IS READY:** Vary the initial side, approach rhythm, or recovery while keeping the attacker/defender roles clear.
+{: #if-the-room-is-ready_3}
 
-90 seconds per role; reset after a clean answer, an unsafe double, or a clearly resolved exchange.
-
-### COACH WATCHES
-
-Recognition of preparation versus attack; a genuine parry; answer timing; the renewed attack; and protected recovery.
-
-### IF THE ROOM IS READY
-
-Vary the initial side, approach rhythm, or recovery while keeping the attacker/defender roles clear.
-
-### IF THE ROOM NEEDS LESS
-
-Return to a known high cut, slower entry, and one obvious recovery opening.
+**IF THE ROOM NEEDS LESS:** Return to a known high cut, slower entry, and one obvious recovery opening.
+{: #if-the-room-needs-less_3}
 
 ## Notes from the class
 
@@ -617,7 +540,7 @@ Meyer supplies the historical material. Published rules clarify the fencing phra
 
 [9] Renshaw, Ian, Jia Yi Chow, Keith Davids, and John Hammond. 'A Constraints-Led Perspective to Understanding Skill Acquisition and Game Play.' Physical Education and Sport Pedagogy 24 (2019): 103- 116. DOI
 
-**READY** Make the original attack safe, take your turn back, and answer the real opening without accepting the return.
+**READY:** Make the original attack safe, take your turn back, and answer the real opening without accepting the return.
 
 ## Source links
 

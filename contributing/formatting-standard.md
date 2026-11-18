@@ -103,6 +103,8 @@ Short documents use a compact title block. Longer guides may use the sample's ce
 
 Use one document title, then main sections and subheadings without skipped levels. Store headings in sentence case; templates may uppercase a cover title or short label. Do not write whole paragraphs in capitals.
 
+Do not generate section numbers or repeated type labels above headings. Keep short coaching cues as bold paragraph leads, not headings, and keep those leads inline in both outputs. Headings mark meaningful topics or activities rather than source-PDF page boundaries. Preserve published anchors when cleaning up imported headings. Actual page counters are print-footer content only.
+
 Keep headings with the following paragraph. Avoid single-line paragraph fragments at page edges. Repeat table headers across pages and do not split a short row. Footer format is document type and page number. Templates control page breaks; start a new page only when it helps navigation, not automatically for every section.
 
 ## Markdown source and document structure

@@ -27,21 +27,17 @@ duration_minutes: 120
 
 This class develops compact diagonal cuts to the upper openings: launch from a usable forward position, cut with real edge alignment and body support, then arrest, redirect, cover, or leave without a large reset. It does not reward wrist taps, uncontrolled doubles, or huge cutting combinations.
 
-### CLASS TITLE
+**CLASS TITLE:** Efficient Cutting I
+{: #class-title}
 
-Efficient Cutting I
+**CENTRAL QUESTION:** How can I make a real cut arrive quickly, stay covered, and leave me ready for the next action?
+{: #central-question}
 
-### CENTRAL QUESTION
+**END-OF-CLASS BEHAVIOR:** Students make a credible diagonal cut by using only as much path as the target requires. They finish balanced, with the sword still between them and the opponent, and choose a second cut only when the first action actually leaves one available.
+{: #end-of-class-behavior}
 
-How can I make a real cut arrive quickly, stay covered, and leave me ready for the next action?
-
-### END-OF-CLASS BEHAVIOR
-
-Students make a credible diagonal cut by using only as much path as the target requires. They finish balanced, with the sword still between them and the opponent, and choose a second cut only when the first action actually leaves one available.
-
-### HISTORICAL ANCHOR
-
-Meyer's quick short-edge continuations and the Liechtenauer glosses' immediate actions after blade contact. The sources support prompt, protected continuation; the lesson's compact-cut mechanics, exercise choices, and tournament success test are modern coaching adaptations.
+**HISTORICAL ANCHOR:** Meyer's quick short-edge continuations and the Liechtenauer glosses' immediate actions after blade contact. The sources support prompt, protected continuation; the lesson's compact-cut mechanics, exercise choices, and tournament success test are modern coaching adaptations.
+{: #historical-anchor}
 
 ## Target-action success test
 
@@ -56,7 +52,7 @@ The target behavior counts only when all four observable conditions are present.
 | Readiness | The fencer can arrest or redirect the sword while remaining balanced and covered, rather than needing a separate reset before the next decision. |
 | Judgment | The fencer links a second cut only when it is still available; otherwise they recover, cover, or leave without accepting the return. |
 
-**NO DOUBLE** A result that leaves both fencers validly hit does not satisfy the lesson, even if one blade arrived first.
+**NO DOUBLE:** A result that leaves both fencers validly hit does not satisfy the lesson, even if one blade arrived first.
 
 ### Primary functional model
 
@@ -83,15 +79,13 @@ Preserve the sequence. If time is lost, compress explanation before removing ope
 | 1:30-1:55 | Open sparring | Five 4-minute rounds; normal fencing | Transfer |
 | 1:55-2:00 | Reflection &amp; close | Name cues, choices, failures, and next action | Consolidation |
 
-**TIME CHECK** 5 + 15 + 20 + 15 + 10 + 25 + 25 + 5 = 120 minutes.
+**TIME CHECK:** 5 + 15 + 20 + 15 + 10 + 25 + 25 + 5 = 120 minutes.
 
-### TRANSITION PLAN
+**TRANSITION PLAN:** Students gear before the opening. Pair by compatible control and size. Keep masks and gloves on from problem exposure through sparring. Use one audible timer and announce rotations before each interval ends.
+{: #transition-plan}
 
-Students gear before the opening. Pair by compatible control and size. Keep masks and gloves on from problem exposure through sparring. Use one audible timer and announce rotations before each interval ends.
-
-### IF RUNNING LATE
-
-Shorten the guided discussion or historical explanation by 2-3 minutes and reduce Game 2 by one role interval. Preserve at least one open-sparring round and the reflection.
+**IF RUNNING LATE:** Shorten the guided discussion or historical explanation by 2-3 minutes and reduce Game 2 by one role interval. Preserve at least one open-sparring round and the reflection.
+{: #if-running-late}
 
 ## Arrival and orientation
 
@@ -99,19 +93,16 @@ Shorten the guided discussion or historical explanation by 2-3 minutes and reduc
 
 Students understand the problem, success test, and class arc.
 
-### OPENING SENTENCE
+**OPENING SENTENCE:** "Tonight we are solving one problem: How can I make a real cut arrive quickly, stay covered, and leave me ready for the next action?"
+{: #opening-sentence}
 
-"Tonight we are solving one problem: How can I make a real cut arrive quickly, stay covered, and leave me ready for the next action?"
+**SUCCESS DEFINITION:** State the four-part success test in plain language and make clear that a double is a failed solution.
+{: #success-definition}
 
-### SUCCESS DEFINITION
+**CLASS ARC:** Experience the problem first; compare what worked; examine one historical lens; increase choice and pressure; test transfer in open fencing.
+{: #class-arc}
 
-State the four-part success test in plain language and make clear that a double is a failed solution.
-
-### CLASS ARC
-
-Experience the problem first; compare what worked; examine one historical lens; increase choice and pressure; test transfer in open fencing.
-
-**DO NOT** Teach the complete historical solution before the first game. Students should possess the problem before receiving the model.
+**DO NOT:** Teach the complete historical solution before the first game. Students should possess the problem before receiving the model.
 
 ## Athletic development
 
@@ -119,13 +110,11 @@ Experience the problem first; compare what worked; examine one historical lens; 
 
 Build the ability to accelerate, decelerate, and redirect the sword through a stable shoulder, rotating forearm, controlled grip, and balanced base - without stiffness or fatigue.
 
-### WHAT THIS BLOCK IS
+**WHAT THIS BLOCK IS:** A short movement lesson, not conditioning. Demonstrate each exercise once, keep the volume low, and stop or regress when posture or landing quality deteriorates.
+{: #what-this-block-is}
 
-A short movement lesson, not conditioning. Demonstrate each exercise once, keep the volume low, and stop or regress when posture or landing quality deteriorates.
-
-### TARGET QUALITY
-
-Build the ability to accelerate, decelerate, and redirect the sword through a stable shoulder, rotating forearm, controlled grip, and balanced base - without stiffness or fatigue.
+**TARGET QUALITY:** Build the ability to accelerate, decelerate, and redirect the sword through a stable shoulder, rotating forearm, controlled grip, and balanced base - without stiffness or fatigue.
+{: #target-quality}
 
 ### Exercise sequence
 
@@ -158,9 +147,8 @@ Without a sword, trace a diagonal cut from a forward hand position toward an ima
 
 With a trainer and full room awareness, begin just outside a partner's measure. On an agreed opening cue, take one controlled approach step and deliver a light diagonal cut to a legal protected target or a safe target substitute. Freeze for one second in the finish before moving again. Do not chase speed; own the endpoint. Cue: 'One step, one cut, one ready shape.'
 
-### REGRESSION AND STOP RULE
-
-Reduce speed, distance, or impact; replace jumps with controlled steps. Stop for pain, dizziness, repeated loss of balance, loud uncontrolled landings, or a student who cannot maintain the described posture.
+**REGRESSION AND STOP RULE:** Reduce speed, distance, or impact; replace jumps with controlled steps. Stop for pain, dizziness, repeated loss of balance, loud uncontrolled landings, or a student who cannot maintain the described posture.
+{: #regression-and-stop-rule}
 
 ## Representative problem exposure: Cut and Recover
 
@@ -168,31 +156,25 @@ Reduce speed, distance, or impact; replace jumps with controlled steps. Stop for
 
 Establish a real but controlled first cut, and reveal whether it leaves the attacker capable of protecting themselves immediately afterward.
 
-### STARTING STATE
+**STARTING STATE:** Partners work in a lane at the edge of one-step cutting distance. The defender begins in a mobile high guard and, on the attacker’s approach, either leaves one upper opening genuinely available for a beat or closes it with a simple high cover. The attacker may make one diagonal cut only.
+{: #starting-state}
 
-Partners work in a lane at the edge of one-step cutting distance. The defender begins in a mobile high guard and, on the attacker’s approach, either leaves one upper opening genuinely available for a beat or closes it with a simple high cover. The attacker may make one diagonal cut only.
+**PLAYER GOALS:** Attacker chooses a compact diagonal cut only when the upper line is truly open, lands with controlled structure, then returns to a usable forward cover. Defender gives an honest opening or cover and may make one light return only against an attacker who overtravels or hangs unprotected.
+{: #player-goals}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** The attacker gets one approach and one cut. If the defender closes the line in time, the correct answer is to recover or leave - not to strike through the cover. Keep impacts light and stop after the first clean outcome or safe separation.
+{: #rules-and-constraints}
 
-Attacker chooses a compact diagonal cut only when the upper line is truly open, lands with controlled structure, then returns to a usable forward cover. Defender gives an honest opening or cover and may make one light return only against an attacker who overtravels or hangs unprotected.
+**SCORING:** Clean cut to an open line plus usable recovery 2; correct abort or covered exit when the line closes 1; defender return against an overextended finish 1; loose tap, forced cut into cover, double, or accepted return 0-0.
+{: #scoring}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** 4 minutes each role; change partner and repeat on the opposite diagonal. Use the final 2 minutes of the block to compare what made one cut feel ready and another feel stranded.
+{: #dose-and-rotation}
 
-The attacker gets one approach and one cut. If the defender closes the line in time, the correct answer is to recover or leave - not to strike through the cover. Keep impacts light and stop after the first clean outcome or safe separation.
+**INSTRUCTOR OBSERVES:** Large backward windups, shoulder tension, edge drift, feet arriving after the sword, sword traveling far past the target, and attackers who only learn about their recovery when the defender hits them back.
+{: #instructor-observes}
 
-### SCORING
-
-Clean cut to an open line plus usable recovery 2; correct abort or covered exit when the line closes 1; defender return against an overextended finish 1; loose tap, forced cut into cover, double, or accepted return 0-0.
-
-### DOSE AND ROTATION
-
-4 minutes each role; change partner and repeat on the opposite diagonal. Use the final 2 minutes of the block to compare what made one cut feel ready and another feel stranded.
-
-### INSTRUCTOR OBSERVES
-
-Large backward windups, shoulder tension, edge drift, feet arriving after the sword, sword traveling far past the target, and attackers who only learn about their recovery when the defender hits them back.
-
-**COACH POSTURE** Observe across the room before intervening. Record common patterns and let several exchanges occur before deciding what the class needs.
+**COACH POSTURE:** Observe across the room before intervening. Record common patterns and let several exchanges occur before deciding what the class needs.
 
 ## Guided coaching
 
@@ -212,19 +194,16 @@ Use the first game's evidence to provide the smallest intervention that improves
 
 5. Which part of the action made you feel slow: the launch, the arrival, or the recovery?
 
-### PRIMARY INTERVENTION
+**PRIMARY INTERVENTION:** Demonstrate the same diagonal cut three ways: a large shoulder windup, a loose flick, and a compact cut that reaches the target and finishes ready. Keep the language simple: 'Start present. Cut through the opening. Finish useful.' Then show that a second cut is a choice made from the first finish, not a mandatory pattern.
+{: #primary-intervention}
 
-Demonstrate the same diagonal cut three ways: a large shoulder windup, a loose flick, and a compact cut that reaches the target and finishes ready. Keep the language simple: 'Start present. Cut through the opening. Finish useful.' Then show that a second cut is a choice made from the first finish, not a mandatory pattern.
+**VARIABLE REHEARSAL:** Partners re-test the target problem at approximately 60-70% intensity. Keep at least one meaningful variable - side, rhythm, distance, pressure, or response - rather than feeding identical repetitions.
+{: #variable-rehearsal}
 
-### VARIABLE REHEARSAL
+**FEEDBACK PLAN:** Use one cue at a time. Correct immediate danger at once; otherwise give feedback between sets of three attempts. Ask the student to identify the information that shaped the action.
+{: #feedback-plan}
 
-Partners re-test the target problem at approximately 60-70% intensity. Keep at least one meaningful variable - side, rhythm, distance, pressure, or response - rather than feeding identical repetitions.
-
-### FEEDBACK PLAN
-
-Use one cue at a time. Correct immediate danger at once; otherwise give feedback between sets of three attempts. Ask the student to identify the information that shaped the action.
-
-**AVOID** Turning the block into a long lecture or adding several fixes before students can test the first one.
+**AVOID:** Turning the block into a long lecture or adding several fixes before students can test the first one.
 
 ## Historical integration: Meyer + Liechtenauer Lens
 
@@ -232,23 +211,19 @@ Use one cue at a time. Correct immediate danger at once; otherwise give feedback
 
 Connect the experienced tactical problem to a documented historical principle without claiming that the source prescribes the modern game.
 
-### SOURCE IDENTIFICATION
+**SOURCE IDENTIFICATION:** Meyer's quick short-edge continuations and the Liechtenauer glosses' immediate actions after blade contact. The sources support prompt, protected continuation; the lesson's compact-cut mechanics, exercise choices, and tournament success test are modern coaching adaptations.
+{: #source-identification}
 
-Meyer's quick short-edge continuations and the Liechtenauer glosses' immediate actions after blade contact. The sources support prompt, protected continuation; the lesson's compact-cut mechanics, exercise choices, and tournament success test are modern coaching adaptations.
+**VERIFIED HISTORICAL CLAIM:** Meyer includes several short-edge continuations to be performed quickly after a prior action, including the After-cut from Below; the Liechtenauer glosses likewise describe striking again immediately from the sword after a clash. Together, these sources support prompt action that remains connected to a threatening line. They do not prescribe the exact modern cut size, speed test, or physical training used here. [1] [2]
+{: #verified-historical-claim}
 
-### VERIFIED HISTORICAL CLAIM
+**MODERN TRAINING INTERPRETATION:** Use a slow crosswise-cut or short-edge continuation as the historical example: the hands and cross stay protective while the weapon changes line quickly. Then show the modern lesson translation: a diagonal cut should not need a giant loop before it can threaten again. The goal is not to make every cut small; it is to choose the smallest path that can still produce a real, defensible threat.
+{: #modern-training-interpretation}
 
-Meyer includes several short-edge continuations to be performed quickly after a prior action, including the After-cut from Below; the Liechtenauer glosses likewise describe striking again immediately from the sword after a clash. Together, these sources support prompt action that remains connected to a threatening line. They do not prescribe the exact modern cut size, speed test, or physical training used here. [1] [2]
+**DEMONSTRATION:** Show three slow examples: one successful application, one common failure, and one case in which the action should be declined. Let students rehearse briefly, then return to live choice.
+{: #demonstration}
 
-### MODERN TRAINING INTERPRETATION
-
-Use a slow crosswise-cut or short-edge continuation as the historical example: the hands and cross stay protective while the weapon changes line quickly. Then show the modern lesson translation: a diagonal cut should not need a giant loop before it can threaten again. The goal is not to make every cut small; it is to choose the smallest path that can still produce a real, defensible threat.
-
-### DEMONSTRATION
-
-Show three slow examples: one successful application, one common failure, and one case in which the action should be declined. Let students rehearse briefly, then return to live choice.
-
-**EVIDENCE LINE** Historical text supplies the cited principle or action. The success test, games, scoring, cues, and safety adaptations are modern coaching design.
+**EVIDENCE LINE:** Historical text supplies the cited principle or action. The success test, games, scoring, cues, and safety adaptations are modern coaching design.
 
 ## Build the mechanics behind the cut
 
@@ -282,7 +257,7 @@ Use empty hands first, then a safe trainer if the space permits. Deliver one dia
 
 Link one diagonal cut to the opposite upper opening only if the first finish makes it available. Keep the path small and quiet; stop immediately if the sequence becomes a big loop or the grip locks up. Once a week, film two repetitions from the side and look for the reset you are trying to remove.
 
-**SIMPLE WEEKLY PLAN** Run items 1-4 as a 10-minute body-prep circuit twice per week. Add items 5-6 for 5-8 minutes on one or two separate days. Speed belongs at the end of a well-controlled progression, never before it.
+**SIMPLE WEEKLY PLAN:** Run items 1-4 as a 10-minute body-prep circuit twice per week. Add items 5-6 for 5-8 minutes on one or two separate days. Speed belongs at the end of a well-controlled progression, never before it.
 
 ## Progressive constraints
 
@@ -334,13 +309,11 @@ second, double, or afterblow 0.
 
  Change initiator every 3 minutes; release the role in the final minute.
 
-### PROGRESSION TRIGGER
+**PROGRESSION TRIGGER:** Either fencer may create the compact-cut sequence in normal onset.
+{: #progression-trigger}
 
-Either fencer may create the compact-cut sequence in normal onset.
-
-### REGRESSION TRIGGER
-
-Return to one known side and cover. Add the second cut only after the opening is clear.
+**REGRESSION TRIGGER:** Return to one known side and cover. Add the second cut only after the opening is clear.
+{: #regression-trigger}
 
 ## Open sparring
 
@@ -348,23 +321,20 @@ Return to one known side and cover. Add the second cut only after the opening is
 
 Test whether the behavior appears without forced actions or bonus scoring.
 
-### FORMAT
+**FORMAT:** Five 4-minute rounds with approximately 1 minute between rounds for rotation and brief feedback. Use normal open-fencing rules and the club's usual intensity agreement.
+{: #format}
 
-Five 4-minute rounds with approximately 1 minute between rounds for rotation and brief feedback. Use normal open-fencing rules and the club's usual intensity agreement.
+**SHARED OBJECTIVE:** "Fence normally. Seek clean upper-opening and hand opportunities, but make each cut only as large as the window needs. A sharp cut is one that can score, keep you covered, and leave you ready to solve the next exchange."
+{: #shared-objective}
 
-### SHARED OBJECTIVE
-
-"Fence normally. Seek clean upper-opening and hand opportunities, but make each cut only as large as the window needs. A sharp cut is one that can score, keep you covered, and leave you ready to solve the next exchange."
-
-### PAIRING PLAN
-
-Use compatible control and size, then rotate across different rhythms and preferences. Supervise novice pairings and avoid a large mismatch solely to complete the rotation.
+**PAIRING PLAN:** Use compatible control and size, then rotate across different rhythms and preferences. Supervise novice pairings and avoid a large mismatch solely to complete the rotation.
+{: #pairing-plan}
 
 ### Coach records
 
  Sword begins usable and forward enough to threaten  Diagonal path and edge alignment are clear  Shoulder stays mobile; torso and feet support the action  Can arrest, cover, or redirect from the finish  Second cut appears only when the defender leaves it available  Clean score survives the immediate return  Uses compactness selectively at appropriate measure
 
-**FEEDBACK** Observe during rounds and coach mainly between them. Open sparring is not another constrained game.
+**FEEDBACK:** Observe during rounds and coach mainly between them. Open sparring is not another constrained game.
 
 ## Reflection and close
 
@@ -384,15 +354,13 @@ answer?
 
 4. What did the defender do that exposed an overlong or late recovery?
 
-### INDIVIDUAL NEXT ACTION
+**INDIVIDUAL NEXT ACTION:** Each student states one small, observable action they will test the next time this problem appears.
+{: #individual-next-action}
 
-Each student states one small, observable action they will test the next time this problem appears.
+**INSTRUCTOR CLOSE:** Restate the functional success test, not a technique name. Record any safety issue, equipment problem, or student who needs a lower-intensity follow-up.
+{: #instructor-close}
 
-### INSTRUCTOR CLOSE
-
-Restate the functional success test, not a technique name. Record any safety issue, equipment problem, or student who needs a lower-intensity follow-up.
-
-**END ON TIME** Do not let the final sparring round consume reflection. The class is incomplete until students name the information that shaped their decision.
+**END ON TIME:** Do not let the final sparring round consume reflection. The class is incomplete until students name the information that shaped their decision.
 
 ## Cut and Recover
 
@@ -400,37 +368,29 @@ Restate the functional success test, not a technique name. Record any safety iss
 
 Establish a real but controlled first cut, and reveal whether it leaves the attacker capable of protecting themselves immediately afterward.
 
-### STARTING STATE
+**STARTING STATE:** Partners work in a lane at the edge of one-step cutting distance. The defender begins in a mobile high guard and, on the attacker’s approach, either leaves one upper opening genuinely available for a beat or closes it with a simple high cover. The attacker may make one diagonal cut only.
+{: #starting-state_1}
 
-Partners work in a lane at the edge of one-step cutting distance. The defender begins in a mobile high guard and, on the attacker’s approach, either leaves one upper opening genuinely available for a beat or closes it with a simple high cover. The attacker may make one diagonal cut only.
+**PLAYER GOALS:** Attacker chooses a compact diagonal cut only when the upper line is truly open, lands with controlled structure, then returns to a usable forward cover. Defender gives an honest opening or cover and may make one light return only against an attacker who overtravels or hangs unprotected.
+{: #player-goals_1}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** The attacker gets one approach and one cut. If the defender closes the line in time, the correct answer is to recover or leave - not to strike through the cover. Keep impacts light and stop after the first clean outcome or safe separation.
+{: #rules-and-constraints_1}
 
-Attacker chooses a compact diagonal cut only when the upper line is truly open, lands with controlled structure, then returns to a usable forward cover. Defender gives an honest opening or cover and may make one light return only against an attacker who overtravels or hangs unprotected.
+**SCORING:** Clean cut to an open line plus usable recovery 2; correct abort or covered exit when the line closes 1; defender return against an overextended finish 1; loose tap, forced cut into cover, double, or accepted return 0-0.
+{: #scoring_1}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** 4 minutes each role; change partner and repeat on the opposite diagonal. Use the final 2 minutes of the block to compare what made one cut feel ready and another feel stranded.
+{: #dose-and-rotation_1}
 
-The attacker gets one approach and one cut. If the defender closes the line in time, the correct answer is to recover or leave - not to strike through the cover. Keep impacts light and stop after the first clean outcome or safe separation.
+**COACH OBSERVES:** Large backward windups, shoulder tension, edge drift, feet arriving after the sword, sword traveling far past the target, and attackers who only learn about their recovery when the defender hits them back.
+{: #coach-observes}
 
-### SCORING
+**PROGRESSION:** Let the defender vary which upper opening is available and vary the timing of the closing cover.
+{: #progression}
 
-Clean cut to an open line plus usable recovery 2; correct abort or covered exit when the line closes 1; defender return against an overextended finish 1; loose tap, forced cut into cover, double, or accepted return 0-0.
-
-### DOSE AND ROTATION
-
-4 minutes each role; change partner and repeat on the opposite diagonal. Use the final 2 minutes of the block to compare what made one cut feel ready and another feel stranded.
-
-### COACH OBSERVES
-
-Large backward windups, shoulder tension, edge drift, feet arriving after the sword, sword traveling far past the target, and attackers who only learn about their recovery when the defender hits them back.
-
-### PROGRESSION
-
-Let the defender vary which upper opening is available and vary the timing of the closing cover.
-
-### REGRESSION
-
-Use one known opening, slower approach speed, and a target substitute. Require the attacker to freeze after the cut before adding a defender return.
+**REGRESSION:** Use one known opening, slower approach speed, and a target substitute. Require the attacker to freeze after the cut before adding a defender return.
+{: #regression}
 
 ## One Cut, Two Windows
 
@@ -438,37 +398,29 @@ Use one known opening, slower approach speed, and a target substitute. Require t
 
 Make the attacker select a compact cut for the opening that actually appears, while the defender tests whether the cut can be recovered safely.
 
-### STARTING STATE
+**STARTING STATE:** At edge measure, the defender invites one upper line, closes it, or gives ground. The initiator uses footwork, then makes one diagonal cut followed by recovery or cover.
+{: #starting-state_2}
 
-At edge measure, the defender invites one upper line, closes it, or gives ground. The initiator uses footwork, then makes one diagonal cut followed by recovery or cover.
+**PLAYER GOALS:** Initiator takes only a real upper window with no extra windup and survives the response. Defender returns against overtravel or poor recovery.
+{: #player-goals_2}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** One scoring cut only. Defender may use distance or a high cover, but not a pre-frozen parry. Count only a stable forward cover.
+{: #rules-and-constraints_2}
 
-Initiator takes only a real upper window with no extra windup and survives the response. Defender returns against overtravel or poor recovery.
+**SCORING:** Selected cut plus covered recovery 2; covered no-cut or exit 1; defender return 1; wrong window, loose tap, double, or accepted return 0.
+{: #scoring_2}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** 5 minutes each role; 2 minutes for explanation and reset.
+{: #dose-and-rotation_2}
 
-One scoring cut only. Defender may use distance or a high cover, but not a pre-frozen parry. Count only a stable forward cover.
+**COACH OBSERVES:** Whether the attacker recognizes the difference between an invitation and a real window, whether the hand path stays economical, and whether recovery happens because it was planned rather than because the blade bounced somewhere useful.
+{: #coach-observes_1}
 
-### SCORING
+**PROGRESSION:** Allow the defender to use one small rhythm change or false preparation before choosing the window.
+{: #progression_1}
 
-Selected cut plus covered recovery 2; covered no-cut or exit 1; defender return 1; wrong window, loose tap, double, or accepted return 0.
-
-### DOSE AND ROTATION
-
-5 minutes each role; 2 minutes for explanation and reset.
-
-### COACH OBSERVES
-
-Whether the attacker recognizes the difference between an invitation and a real window, whether the hand path stays economical, and whether recovery happens because it was planned rather than because the blade bounced somewhere useful.
-
-### PROGRESSION
-
-Allow the defender to use one small rhythm change or false preparation before choosing the window.
-
-### REGRESSION
-
-Announce the upper opening before each exchange and remove the defender return until the attacker can freeze in a usable finish.
+**REGRESSION:** Announce the upper opening before each exchange and remove the defender return until the attacker can freeze in a usable finish.
+{: #regression_1}
 
 ## Cut, Change, or Leave
 
@@ -476,37 +428,29 @@ Announce the upper opening before each exchange and remove the defender return u
 
 A sharp first cut becomes a second only when the defender genuinely leaves the second opening available.
 
-### STARTING STATE
+**STARTING STATE:** Free onset just outside measure. Initiator may cut to either upper opening; defender parries, retreats, or covers and returns once. Initiator may redirect once or leave.
+{: #starting-state_3}
 
-Free onset just outside measure. Initiator may cut to either upper opening; defender parries, retreats, or covers and returns once. Initiator may redirect once or leave.
+**PLAYER GOALS:** Initiator makes a real first cut, then reads the result. Change lines only when the opening exists; defender punishes overtravel and scripting.
+{: #player-goals_3}
 
-### PLAYER GOALS
+**RULES AND CONSTRAINTS:** Maximum two cuts. The second needs a real path; no looped reset. Halt on clean score, double, or safe separation.
+{: #rules-and-constraints_3}
 
-Initiator makes a real first cut, then reads the result. Change lines only when the opening exists; defender punishes overtravel and scripting.
+**SCORING:** First cut plus safe finish 2; compact redirection plus finish 3; covered leave 2; defender hit 1; forced second, double, or afterblow 0.
+{: #scoring_3}
 
-### RULES AND CONSTRAINTS
+**DOSE AND ROTATION:** Change initiator every 3 minutes; release the role in the final minute.
+{: #dose-and-rotation_3}
 
-Maximum two cuts. The second needs a real path; no looped reset. Halt on clean score, double, or safe separation.
+**COACH OBSERVES:** Whether the second cut grows from the first finish, whether students force it after a solid parry, whether the point and hilt keep protecting during the change, and whether either fencer mistakes a frantic double for a good combination.
+{: #coach-observes_2}
 
-### SCORING
+**PROGRESSION:** Either fencer may create the compact-cut sequence in normal onset.
+{: #progression_2}
 
-First cut plus safe finish 2; compact redirection plus finish 3; covered leave 2; defender hit 1; forced second, double, or afterblow 0.
-
-### DOSE AND ROTATION
-
-Change initiator every 3 minutes; release the role in the final minute.
-
-### COACH OBSERVES
-
-Whether the second cut grows from the first finish, whether students force it after a solid parry, whether the point and hilt keep protecting during the change, and whether either fencer mistakes a frantic double for a good combination.
-
-### PROGRESSION
-
-Either fencer may create the compact-cut sequence in normal onset.
-
-### REGRESSION
-
-Return to one known side and cover. Add the second cut only after the opening is clear.
+**REGRESSION:** Return to one known side and cover. Add the second cut only after the opening is clear.
+{: #regression_2}
 
 ## Plan modifications before the room forces them
 
@@ -571,9 +515,9 @@ Historical claims are kept narrower than the modern class design. Representative
 
 [5] Renshaw, Ian, Jia Yi Chow, Keith Davids, and John Hammond. "A Constraints-Led Perspective to Understanding Skill Acquisition and Game Play." Physical Education and Sport Pedagogy 24, no. 2 (2019): 103-116. doi:10.1080/17408989.2018.1552676. DOI
 
-**TERMS** Historical terminology and English renderings vary by manuscript and translation. This plan paraphrases short claims and identifies modern coaching labels as modern.
+**TERMS:** Historical terminology and English renderings vary by manuscript and translation. This plan paraphrases short claims and identifies modern coaching labels as modern.
 
-**READY** Start present, cut through a real window, finish useful, and redirect only when the next opening actually exists.
+**READY:** Start present, cut through a real window, finish useful, and redirect only when the next opening actually exists.
 
 ## Source links
 
