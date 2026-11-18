@@ -38,6 +38,14 @@
 
     [Browse →](../Montante/index.md){ .md-button }
 
+-   :material-file-document-multiple:{ .lg .middle } **Classes and Lessons**
+
+    ---
+
+    Handouts and lesson materials from Steel Crown classes, available as PDFs.
+
+    [Browse →](../Classes and Lessons/index.md){ .md-button }
+
 -   :material-progress-wrench:{ .lg .middle } **Joachim Meyer** *(Work in Progress)*
 
     ---
