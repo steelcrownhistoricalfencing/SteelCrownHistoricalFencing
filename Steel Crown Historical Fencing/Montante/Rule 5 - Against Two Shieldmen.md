@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: montante-rule-5-against-two-shieldmen
+title: Rule 5 — Against Two Shieldmen
+summary: Source text and summary for Godinho's Rule 5 of the montante.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 5 — Against Two Shieldmen
 
 ---

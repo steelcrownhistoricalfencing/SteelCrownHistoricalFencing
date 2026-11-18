@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: the-four-openings
+title: The Four Openings
+summary: How the body is divided into targets, and why that vocabulary matters for every exchange.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Steel Crown
+---
+
 # The Four Openings
 
 *Quattro Partimenti*

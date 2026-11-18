@@ -1,3 +1,18 @@
+---
+format: steel-crown-v1
+id: punta
+title: Punta
+summary: A reference on Punta, the Thrust, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+status: review
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Punta
 
 *The Thrust*
@@ -10,7 +25,7 @@ Fiore emphasizes the importance of the point throughout his system. While he doe
 
 ---
 
-## **Fiore’s Description**
+## Fiore’s Description
 
 The thrust is one of the seven fundamental blows of the sword.
 
@@ -24,11 +39,11 @@ The one who controls the centerline with the point has the advantage.
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
 The punta is defined by its direct path and efficient movement.
 
-### **Path of the Blade**
+### Path of the Blade
 
 The blade travels in a straight line from the fencer to the target.
 
@@ -36,7 +51,7 @@ There is no arc or curve. The point leads the motion, moving along the centerlin
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 The thrust is typically delivered with a forward step.
 
@@ -48,7 +63,7 @@ The action should feel like an extension of the body, not a separate movement of
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The thrust most commonly finishes in Posta Longa, with the arms extended and the point directed forward.
 
@@ -56,7 +71,7 @@ From this position, the fencer may remain extended to maintain pressure or recov
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The punta is one of the fastest and most direct attacks in the system.
 
@@ -70,7 +85,7 @@ Perhaps most importantly, the thrust establishes priority on the line. When two 
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the punta is often one of the most reliable scoring actions.
 
@@ -82,11 +97,11 @@ However, reliance on the thrust alone can create predictability. The most effect
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
 The thrust can be delivered from any guard, but some positions are more naturally suited to it.
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 Posta di Fenestra is the most natural starting position for the punta, as the point is already directed forward toward the opponent.
 
@@ -94,7 +109,7 @@ Posta Longa also supports immediate thrusting, as the arms are already extended.
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The thrust most commonly finishes in Posta Longa, maintaining pressure on the opponent.
 
@@ -102,7 +117,7 @@ From there, the fencer may recover to Posta di Fenestra or transition into anoth
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The punta reflects all four of Fiore’s virtues.
 
@@ -116,7 +131,7 @@ The **Elephant** maintains structure, ensuring the body supports the action with
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The thrust is often used to control the centerline. By extending the point toward the opponent, the fencer forces them to respond before advancing.
 
@@ -128,7 +143,7 @@ Timing is critical. A poorly timed thrust may be parried or countered before it 
 
 ---
 
-## **What This Action Is Not For**
+## What This Action Is Not For
 
 The punta is not effective if delivered without structure. Leaning forward or reaching with the arms reduces control and exposes the body.
 
@@ -138,13 +153,13 @@ Finally, the thrust is not a substitute for controlling the opponent’s blade. 
 
 ---
 
-## **Training the Thrust**
+## Training the Thrust
 
 The following drills develop the mechanics and precision of the punta.
 
 ---
 
-### **Drill 1 — Basic Thrusting**
+### Drill 1 — Basic Thrusting
 
 Begin in Posta di Fenestra Destra.
 
@@ -156,7 +171,7 @@ The point should lead the motion, with the hands and body supporting it.
 
 ---
 
-### **Drill 2 — Target Precision**
+### Drill 2 — Target Precision
 
 With a partner, practice delivering the thrust slowly without contact.
 
@@ -168,7 +183,7 @@ Switch roles and repeat.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is allowing the point to wander off target. The eyes should remain focused on the target, with the point following the gaze.
 
@@ -178,7 +193,7 @@ Some students lean forward instead of stepping. This breaks structure and reduce
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The punta is the most direct expression of control.
 
