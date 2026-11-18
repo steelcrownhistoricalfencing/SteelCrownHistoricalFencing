@@ -77,7 +77,7 @@ class DocumentTests(unittest.TestCase):
                 self.assertIn('Version ' + version, metadata)
 
     def test_guard_lesson_and_reference(self):
-        import xml.etree.ElementTree as ET
+        import hashlib
         reference = DOCS / 'Classes and Lessons/meyer-longsword-guards.md'
         lesson = DOCS / 'Classes and Lessons/guards-with-a-purpose-i.md'
         text = reference.read_text()
@@ -85,23 +85,21 @@ class DocumentTests(unittest.TestCase):
                      'Zornhut', 'Wechsel', 'Nebenhut', 'Eisenport', 'Schlüssel',
                      'Einhorn', 'Schrankhut']:
             self.assertIn(name, text)
-        images = built(reference).select('img[src$=".svg"]')
-        self.assertEqual(len(images), 7)
+        images = built(reference).select('img[src*="meyer-guards/plate-"]')
+        self.assertEqual(len(images), 6)
+        assets = DOCS / 'assets/references/meyer-guards'
+        manifest = json.loads((assets / 'sources.json').read_text())
+        sources = {item['file']: item for item in manifest['images']}
+        self.assertEqual({item['plate'] for item in sources.values()}, set('ABCDEF'))
         for image in images:
             self.assertTrue(image.get('alt'))
             filename = image['src'].rsplit('/', 1)[-1]
-            svg = ET.parse(DOCS / 'assets/references/meyer-guards' / filename)
-            self.assertTrue(svg.getroot().get('viewBox'))
-            _, _, width, height = map(float, svg.getroot().get('viewBox').split())
-            # Shared Letter print styles allow 6.5in width and cap diagrams at 7in high.
-            scale = min(6.5 * 72 / width, 7 * 72 / height)
-            for label in svg.getroot().iter('{http://www.w3.org/2000/svg}text'):
-                self.assertGreaterEqual(float(label.get('font-size')) * scale, 10)
-            labels = ' '.join(svg.getroot().itertext())
-            self.assertIn('fencer', labels)
-            self.assertIn('RIGHT hand', labels)
-            self.assertIn('LEFT hand', labels)
-            self.assertIn('three-quarter', labels)
+            data = (assets / filename).read_bytes()
+            self.assertTrue(data.startswith(b'\xff\xd8'))
+            self.assertGreaterEqual(sources[filename]['width'], 1600)
+            self.assertGreaterEqual(sources[filename]['height'], 1000)
+            self.assertEqual(hashlib.sha256(data).hexdigest(), sources[filename]['sha256'])
+        self.assertNotIn('.svg)', text)
         self.assertIn('## Look-alike guards: what actually changes?', text)
         self.assertIn('outlines can overlap', text)
         lesson_text = lesson.read_text()

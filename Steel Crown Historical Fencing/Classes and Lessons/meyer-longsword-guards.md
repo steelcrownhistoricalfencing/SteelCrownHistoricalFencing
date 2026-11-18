@@ -6,7 +6,7 @@ summary: Recognize the positions, understand what they prepare, and connect them
 type: reference
 audience: mixed
 visibility: public
-version: '1.0'
+version: '1.1'
 document_date: '2026-11'
 updated: '2026-11-18'
 authors:
@@ -27,11 +27,9 @@ For practice, ask four questions: **What can I threaten? What am I offering? Wha
 
 ## How to read the diagrams
 
-The figures are original Steel Crown three-quarter-view teaching reconstructions, not historical plates. The pale torso and its centerline make it possible to distinguish hands held beside the body from hands held in front. **R marks the fencer's right hand; L marks the left.** Trace the solid right arm and dashed left arm from their labeled shoulders to the hands. Right and left always mean the fencer's own sides, not the reader's. The illustrated grip is right-handed: right hand nearer the crossguard, left nearer the pommel. Left Ochs is a change of guard side, not a change to a left-handed grip.
+These are the original woodcuts from Meyer's 1570 book, reproduced from the historical hand-colored scans linked in [S3]. The complete plates retain their letter, background figures, and original body and hand positions. Captions identify the relevant **foreground** fencers; left and right in a caption mean the reader's view, while the formation descriptions use the fencer's own sides.
 
-The dark blade and crossguard show the sword's position; the filled and outlined hand shapes distinguish the two hands without relying on color. The close-ups for Key and Crossed Guard explain the crossed-forearm relationship. They are simplified grip schematics, not detailed thumb or finger instructions. Perspective foreshortens a point directed forward, so compare the captions and body relationship rather than measuring the blade's angle on the page.
-
-These are examples, not exact body proportions or compulsory joint angles. Edge rotation is stated in the captions and prose where it matters, not encoded by a different edge on a flat blade line. The illustrated left-side Wechsel is one low-side example, not a claim that Wechsel exists only on that side. Use the source descriptions and an instructor for grip rotation and individual adaptation. “Ground” describes Meyer's low positions; do not strike the floor or force the hands and joints to match a drawing.
+Read the pictures alongside Meyer's descriptions. A plate is not an exact technical blueprint: Meyer himself says that the arms in the Hanging Point illustration should be more extended. The book does not provide a separate labelled portrait for every guard in this catalogue, so Nebenhut and Eisenport remain explained in words rather than supplied with invented drawings. [S1]
 
 > **Safety** A historical point-to-face description is not a partner-drill instruction. Use approved protection, controlled trainers and contact, and instructor-set targets. Do not let someone enter onto a rigid extended point. Learn shapes in clear solo space before adding a live partner.
 
@@ -39,13 +37,13 @@ These are examples, not exact body proportions or compulsory joint angles. Edge 
 
 In the opening of chapter 3, Meyer names Ochs, Pflug, Tag, and Olber as the four principal guards. The remaining guards arise from them in his account. Principal does not mean “the only useful four” or a four-way defensive system. [S1, fols. 5r–5v]
 
-![Three-quarter reconstructions with separate right and left hand labels: right Ochs holds the hilt beside the right of the head; right Pflug beside the forward right knee.](../assets/references/meyer-guards/principal-guards.svg)
+![Meyer’s original plate B: foreground left fencer in Ochs and foreground right fencer in Pflug.](../assets/references/meyer-guards/plate-b.jpg)
 
-*Figure 1. Right Ochs and right Pflug. Trace each shoulder to its hand, then compare hand height, body side, and point direction.*
+*Figure 1. Plate B — Ochs at foreground left; Pflug at foreground right. Compare the high and low hilt positions.*
 
-![Three-quarter reconstructions of Tag with both hands above the head and upright point, and Alber with hands in front and the point low before the body. Both hands are labeled.](../assets/references/meyer-guards/high-and-low-principal-guards.svg)
+![Meyer’s original plate C: foreground left fencer in Tag and foreground right fencer in Alber.](../assets/references/meyer-guards/plate-c.jpg)
 
-*Figure 2. Tag and Alber. Compare high and low positions in front of the body, rather than confusing them with side chambers.*
+*Figure 2. Plate C — Tag at foreground left; Alber at foreground right. Compare the upright sword above the head with the low point in front.*
 
 | Guard | Formation landmarks in Meyer | Do not confuse it with |
 | --- | --- | --- |
@@ -60,14 +58,18 @@ These are paraphrased source landmarks, not exhaustive modern stance prescriptio
 
 These two secondary guards are especially useful for naming positions students already encounter while cutting, covering, and recovering. [S1, fols. 7v; 9r]
 
-![Three-quarter reconstructions trace both hands extended in front for Longpoint, versus forward at face height with a descending blade in Hanging Point. Right and left hands are individually labeled.](../assets/references/meyer-guards/longpoint-and-hanging-point.svg)
+![Meyer’s original plate A, including the foreground left fencer extending the sword in Longpoint.](../assets/references/meyer-guards/plate-a.jpg)
 
-*Figure 3. Extension does not always mean the same thing. Longpoint directs the point forward; Hanging Point lowers the blade from forward, high hands.*
+*Figure 3. Plate A — Longpoint is shown by the foreground fencer on the left, with arms and sword extended toward the opponent.*
 
 | Guard | Recognition | What matters in use |
 | --- | --- | --- |
 | **Langort — Longpoint** | Arms extended before the face; point toward the opponent's face; Meyer's described example has the left foot forward. | Extension needs a relationship to the opponent. Do not lock the arms and wait to be struck around or displaced. |
 | **Hangetort — Hanging Point** | Right foot forward in the described example; arms extended forward at face height, blade hanging downward. Meyer cautions that the plate's arms are not extended enough. | It is a recognizable position, not proof that the incoming cut is caught. Cover the actual line and remain able to answer or leave. |
+
+![Meyer’s original plate F: foreground left fencer in Schrankhut and foreground right fencer in Hanging Point.](../assets/references/meyer-guards/plate-f.jpg)
+
+*Figure 4. Plate F — Schrankhut at foreground left; Hanging Point at foreground right. Meyer explicitly corrects the Hanging Point picture: the arms should extend farther forward. [S1, fol. 9r]*
 
 You may encounter spellings such as Hängenort or Hengetort in other material. This page uses **Hangetort**, following the chapter heading. Naming differences do not remove the need to check the actual position and action.
 
@@ -86,25 +88,19 @@ The formation column summarizes chapter 3. The final column gives modern practic
 
 **Wechsel is not simply Nebenhut with another name.** Both can look low in a sketch; compare the side, lead foot, and short-edge orientation in the descriptions. Likewise, a familiar shoulder guard from another tradition is not automatically Meyer's described Tag.
 
-![Three-quarter views of Zornhut with hands at the right shoulder and blade hanging behind, and Einhorn with crossed hands raised to the right and point upward and outward. Both hands are labeled.](../assets/references/meyer-guards/wrath-guard-and-unicorn.svg)
+![Meyer’s original plate E: foreground left fencer in Zornhut and foreground right fencer in Einhorn.](../assets/references/meyer-guards/plate-e.jpg)
 
-*Figure 4. Two right-side preparations: Zornhut chambers the blade behind; Einhorn raises the crossed hands and point. Neither should be identified simply as “hands high.”*
+*Figure 5. Plate E — Zornhut at foreground left; Einhorn at foreground right. Compare the sword chambered behind the shoulder with the raised crossed hands and upward point.*
 
-![Three-quarter views compare a left-side low Wechsel example with right-side Nebenhut. Captions specify short edge toward the opponent for Wechsel and toward the fencer for Nebenhut; hands are labeled separately.](../assets/references/meyer-guards/change-and-side-guard.svg)
+![Meyer’s original plate D: foreground left fencer in Schlüssel and foreground right fencer in Wechsel.](../assets/references/meyer-guards/plate-d.jpg)
 
-*Figure 5. Low-side guards. The edge-direction captions are essential: side and point height alone do not identify these guards.*
-
-![Key shows crossed hands before the chest with a crossed-forearm close-up. Left Ochs shows the same right-handed grip carried beside the left of the head, with the point forward.](../assets/references/meyer-guards/key-and-left-ox.svg)
-
-*Figure 6. Key's chest-height crossed-hand chamber, and a left Ochs example. The R/L labels identify the hands; they do not swap when the sword changes sides.*
+*Figure 6. Plate D — Schlüssel at foreground left; Wechsel at foreground right. Compare the crossed-hand chest position with the low side position.*
 
 ## Iron Gate and Crossed Guard are different
 
 Meyer explicitly separates **Eisenport** from **Schrankhut**, despite reporting that people confuse them. Iron Gate has a rising point; Schrankhut has crossed hands and a point directed to the ground. The similar names and low hands are not enough to identify them. [S1, fol. 8r]
 
-![Three-quarter views show Iron Gate's low hands before the knee with rising point, versus Crossed Guard's crossed hands in front with descending point. A close-up traces the crossed forearms to the labeled right and left hands.](../assets/references/meyer-guards/iron-gate-and-crossed-guard.svg)
-
-*Figure 7. Compare point direction and arm relationship, not just low hands. Schrankhut has the crossed-hand arrangement enlarged in the inset.*
+See **Figure 4 (plate F)** above for Schrankhut at foreground left. Eisenport is described in the text; do not identify the point-down Schrankhut as Iron Gate.
 
 **Why the lists sometimes differ:** The introductory list in the book includes Brechfenster and Schrankhut among the secondary guards. Chapter 3's opening list instead includes Nebenhut and Hangetort. Chapter 3 then discusses Schrankhut while distinguishing it from Eisenport. This sheet follows the chapter's four-plus-eight list and adds that comparison; it does not pretend every list in the book is identical. Brechfenster is noted here as a list variation, not supplied with an invented standalone posture. [S1; S2]
 
@@ -150,12 +146,12 @@ Read the guard together with measure, blade relationship, and movement. It sugge
 - Trace a slow solo cut and name a guard it passes through without pausing there.
 - With an equipped partner at safe distance, identify one opening you appear to offer and an alternative response you must still handle.
 
-For live practice, use the linked [lesson's equipment checks, permitted-action choices, and games](guards-with-a-purpose-i.md#before-anyone-fences). A cuts-only game cannot test the point's scoring threat in the same way as a ruleset that permits thrusts. This reference alone is not permission to experiment with unprotected partner attacks.
+For live practice, use the linked [lesson's guard experiments and games](guards-with-a-purpose-i.md#game-1-make-it-earn-its-place). A cuts-only game cannot test the point's scoring threat in the same way as a ruleset that permits thrusts. This reference alone is not permission to experiment with unprotected partner attacks.
 
 ## Sources and diagram credit
 
-**[S1]** Joachim Meyer, *Gründtliche Beschreibung der Kunst des Fechtens* (1570), longsword, chapter 3, fols. 5r–10r. Original German descriptions and guard-transition passages, consulted alongside Rebecca L. R. Garber's English translation: [Chapter 3: The Guards](https://sprechfenster.org/meyer/1570/longsword-chapter-3-the-guards/), accessed November 18, 2026. Formation landmarks are independent concise paraphrases of the historical descriptions; no translated passage or historical plate is reproduced.
+**[S1]** Joachim Meyer, *Gründtliche Beschreibung der Kunst des Fechtens* (1570), longsword, chapter 3, fols. 5r–10r. Original German descriptions and guard-transition passages, consulted alongside Rebecca L. R. Garber's English translation: [Chapter 3: The Guards](https://sprechfenster.org/meyer/1570/longsword-chapter-3-the-guards/), accessed November 18, 2026. Formation landmarks are independent concise paraphrases of the historical descriptions; no translated passage is reproduced.
 
 **[S2]** Meyer, same work, longsword introduction, fol. 2r, principal/secondary guard list: [Introduction and Contents](https://sprechfenster.org/meyer/1570/longsword-introduction-contents/), accessed November 18, 2026. Compare this list with the chapter 3 list before combining catalogues from different sections or manuscripts.
 
-**Figures 1–7:** Original Steel Crown three-quarter teaching reconstructions, 2026, based on the positional landmarks in [S1]. Editable SVG sources are stored with the website assets. The right-handed grip, stylized body projection, and close-up diagrams are modern teaching reconstructions; no unique historical finger placement or exact joint angle is claimed. Edge orientation is given in words rather than implied by a blade line. They are not traced or copied from a modern illustrator.
+**[S3] Original illustrations:** Joachim Meyer, *Gründtliche Beschreibung der Kunst des Fechtens* (Strasbourg, 1570), longsword plates A–F. Historical woodcuts, public domain; historical hand-colored scans from [Diestro / Sprechfenster’s chapter 3 edition](https://sprechfenster.org/meyer/1570/longsword-chapter-3-the-guards/), accessed November 18, 2026. Direct scan links: [A](https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_A.png), [B](https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_B.png), [C](https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_C.png), [D](https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_D.png), [E](https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_E.png), [F](https://sprechfenster.org/scans/meyer/Meyer_1570_Sword_F.png). Scans are encoded as JPEG for website delivery, with no cropping, redrawing, or recoloring. Figure numbering and identifying captions are modern Steel Crown additions outside the images. Source files, dimensions, and checksums are recorded with the website assets.
