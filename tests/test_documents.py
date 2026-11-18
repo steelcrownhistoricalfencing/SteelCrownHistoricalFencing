@@ -19,7 +19,7 @@ def built(source):
 
 class DocumentTests(unittest.TestCase):
     def test_pilot(self):
-        soup = BeautifulSoup(Path('site/Fencing Concepts/Inside and Outside Line/index.html').read_text(), 'html.parser')
+        soup = BeautifulSoup(Path('site/Fencing Concepts/Inside and Outside Line/index.html').read_text(encoding='utf-8'), 'html.parser')
         article = soup.select_one('.sc-document')
         self.assertIsNotNone(article)
         self.assertEqual(len(article.find_all('h1')), 1)
@@ -46,11 +46,11 @@ class DocumentTests(unittest.TestCase):
         lessons = list((DOCS / 'Classes and Lessons').glob('*.md'))
         pages = [p for p in lessons if p.name != 'index.md']
         self.assertEqual(len(pages), 14)
-        index = (DOCS / 'Classes and Lessons/index.md').read_text()
+        index = (DOCS / 'Classes and Lessons/index.md').read_text(encoding='utf-8')
         for page in pages:
             with self.subTest(page=page.name):
                 self.assertIn('(' + page.name + ')', index)
-                text = page.read_text()
+                text = page.read_text(encoding='utf-8')
                 self.assertIn('format: steel-crown-v1', text)
                 self.assertNotIn('source.pdf', text)
                 self.assertIn('Print / Save as PDF', built(page).get_text())
