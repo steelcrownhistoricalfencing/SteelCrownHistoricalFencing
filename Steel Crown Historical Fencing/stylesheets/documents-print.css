@@ -71,6 +71,8 @@
   .sc-callout-body { background: #f0f0ed; color: #202020; display: table-cell; padding: 8pt; }
   .sc-document img,
   .sc-document svg { max-width: 100%; max-height: 7in; object-fit: contain; }
+  /* Leading manuscript plates must fit beneath the compact title block. */
+  .sc-document .manuscript-img { display: block; width: auto; max-height: 4.25in; margin: 0 auto; }
   .sc-document figure { break-inside: avoid; }
   .sc-document figcaption { break-before: avoid; }
   .sc-document details { display: block; }
