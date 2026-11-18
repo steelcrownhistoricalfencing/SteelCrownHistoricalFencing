@@ -28,7 +28,7 @@ class DocumentTests(unittest.TestCase):
 
     def test_migrated_pages(self):
         sources = [p for p in DOCS.rglob('*.md') if 'format: steel-crown-v1' in p.read_text(encoding='utf-8')]
-        self.assertEqual(len(sources), 71)
+        self.assertEqual(len(sources), 74)
         for source in sources:
             with self.subTest(source=str(source)):
                 article = built(source)
@@ -45,7 +45,9 @@ class DocumentTests(unittest.TestCase):
     def test_lesson_collection(self):
         lessons = list((DOCS / 'Classes and Lessons').glob('*.md'))
         pages = [p for p in lessons if p.name != 'index.md']
-        self.assertEqual(len(pages), 14)
+        self.assertEqual(len(pages), 17)
+        self.assertEqual(sum('type: lesson' in p.read_text() for p in pages), 14)
+        self.assertEqual(sum('type: reference' in p.read_text() for p in pages), 3)
         index = (DOCS / 'Classes and Lessons/index.md').read_text(encoding='utf-8')
         for page in pages:
             with self.subTest(page=page.name):
