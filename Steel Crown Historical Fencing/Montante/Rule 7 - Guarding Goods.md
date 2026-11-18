@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-rule-7-guarding-goods
+title: Rule 7 — To Guard Goods and Cloak
+summary: Source text and summary for Godinho's Rule 7 of the montante.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 7 — To Guard Goods and Cloak
 
 ---

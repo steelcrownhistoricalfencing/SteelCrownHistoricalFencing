@@ -1,4 +1,18 @@
-﻿# Dente di Zenghiaro Destra and Sinestra
+---
+format: steel-crown-v1
+id: dente-di-zenghiaro
+title: Dente di Zenghiaro Destra and Sinestra
+summary: A reference on Dente di Zenghiaro, the Wild Boar’s Tooth, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
+# Dente di Zenghiaro Destra and Sinestra
 
 <img src="../../../assets/fiore/guards/dente-di-zenghiaro.jpg" alt="Dente di Zenghiaro" class="manuscript-img">
 <p class="manuscript-caption"><em>Getty MS Ludwig XV 13, c. 1409 - J. Paul Getty Museum (Open Content)</em></p>
@@ -19,13 +33,13 @@ This chapter treats Dente di Zenghiaro Destra and Sinestra together, since the t
 
 ---
 
-## **Fiore’s Description**
+## Fiore’s Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Questo si e dente di zenghiaro perche a modo di senghiaro sie feri. E talvolta fa le punte forti de sotto in suso ala faza senza passare del pe. E torna cum la punta per la medesima strada cum rebatter fendente ale braze. Anchora fa la punta alta ala faza cum lo pe denanci passando fora de strada. E torna cum fendenti ala testa e ale braze e torna in sua guardia. E subito tira un'altra punta cum lo pe denanci passando fora de strada. E questa guardia si po fare bona defensa in zogho stretto."*
 
-### **Translation**
+### Translation
 
 “This is the Boar’s Tooth, because it strikes the way the wild boar strikes. Sometimes it makes powerful thrusts from below up into the face, without stepping forward, and it returns along the same path with a downward strike to the arms. Other times as it thrusts the point of the sword high into the face, it advances the front foot forwards, then returns to its guard with a downward strike to the head or the arms. Then it quickly launches another thrust with another advance of the front foot. And this guard can mount a good defense against the Narrow Game.”
 
@@ -35,7 +49,7 @@ Dente di Zenghiaro is active, probing, and cyclical. It rises upward into attack
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 The name “Dente di Zenghiaro,” or “Wild Boar’s Tooth,” describes both the shape and behavior of the guard.
 
@@ -49,11 +63,11 @@ The sword rises into the attack, then returns downward along the same path.
 
 ---
 
-## **Right and Left Variations**
+## Right and Left Variations
 
 Like many positions in Fiore’s system, Dente di Zenghiaro can be expressed on both sides of the body.
 
-### **Dente di Zenghiaro Destra**
+### Dente di Zenghiaro Destra
 
 In the right-side variation, the sword is held low near the right hip with the point projecting forward from below.
 
@@ -61,7 +75,7 @@ The rear hand remains structurally connected to the hip while the forward hand g
 
 From this position, the sword naturally rises upward into thrusts and sottani from the right side.
 
-### **Dente di Zenghiaro Sinestra**
+### Dente di Zenghiaro Sinestra
 
 The left-side variation mirrors the same structure on the opposite side of the body.
 
@@ -73,11 +87,11 @@ Training both sides reinforces an important principle in Fiore’s art: guards a
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
 Dente di Zenghiaro is held low and compact with the sword connected closely to the body.
 
-### **Body Position**
+### Body Position
 
 The stance is grounded and balanced, usually with slight forward pressure through the lead foot.
 
@@ -87,7 +101,7 @@ Unlike guards such as Fenestra, which project immediate point threat, Dente di Z
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 The hands are held low near the hip.
 
@@ -101,7 +115,7 @@ The sword should feel grounded, compact, and ready to spring upward.
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Dente di Zenghiaro is a guard of probing offense, rising attacks, and immediate continuation.
 
@@ -121,7 +135,7 @@ Fiore also notes that the guard performs well in the Narrow Game, meaning it rem
 
 ---
 
-## **Probing and Pressure**
+## Probing and Pressure
 
 Fiore describes Dente di Zenghiaro as probing against all guards.
 
@@ -135,7 +149,7 @@ This is a stable guard, but not a passive one.
 
 ---
 
-## **Rising Actions and the Sottano**
+## Rising Actions and the Sottano
 
 Because Dente di Zenghiaro begins low, it naturally generates rising actions such as sottani.
 
@@ -156,7 +170,7 @@ Low guards naturally generate rising blows.
 
 ---
 
-## **The Rising Thrust into Returning Fendente**
+## The Rising Thrust into Returning Fendente
 
 One of the defining tactical patterns of Dente di Zenghiaro is the transition from rising thrust into descending strike.
 
@@ -174,7 +188,7 @@ The motion should feel fluid and uninterrupted rather than divided into separate
 
 ---
 
-## **Defense in the Narrow Game**
+## Defense in the Narrow Game
 
 Fiore notes that Dente di Zenghiaro “can mount a good defense against the Narrow Game.”
 
@@ -186,7 +200,7 @@ The guard’s structure allows it to defend, strike, and recover quickly at clos
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Dente di Zenghiaro is often misunderstood as either purely defensive or overly static.
 
@@ -205,7 +219,7 @@ The mirrored left-side variation is especially important in modern fencing becau
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Dente di Zenghiaro strongly expresses the Elephant.
 
@@ -217,7 +231,7 @@ The Lion appears in the commitment to entering upward into the opponent’s line
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Dente di Zenghiaro is strongest when allowed to attack upward from below the line.
 
@@ -234,7 +248,7 @@ Because the guard relies on cyclical motion, interrupting the transition between
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Dente di Zenghiaro is not designed for large sweeping motions or wide rotational strikes.
 
@@ -246,13 +260,13 @@ Finally, the guard should not be exaggerated into an overly elevated “point-up
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
 The following drills develop the structure, rising actions, and tactical rhythm of Dente di Zenghiaro.
 
 ---
 
-### **Drill 1 — Establishing Structure**
+### Drill 1 — Establishing Structure
 
 Begin in Dente di Zenghiaro with the sword held low near the hip.
 
@@ -264,7 +278,7 @@ Practice from both Destra and Sinestra.
 
 ---
 
-### **Drill 2 — Rising Thrusts**
+### Drill 2 — Rising Thrusts
 
 From Dente di Zenghiaro, launch a thrust upward toward the opponent’s face without stepping.
 
@@ -280,7 +294,7 @@ Repeat from both sides.
 
 ---
 
-### **Drill 3 — Rising Thrust into Fendente**
+### Drill 3 — Rising Thrust into Fendente
 
 Launch an upward thrust from Dente di Zenghiaro.
 
@@ -292,7 +306,7 @@ Practice from both Destra and Sinestra.
 
 ---
 
-### **Drill 4 — Advancing Probes**
+### Drill 4 — Advancing Probes
 
 From Dente di Zenghiaro, advance the front foot while launching the upward thrust described by Fiore.
 
@@ -302,7 +316,7 @@ This drill develops the probing rhythm described in the Getty manuscript.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is raising the point too high while waiting in guard. The Getty manuscript consistently depicts a lower, more grounded position.
 
@@ -312,7 +326,7 @@ Some students also separate the rising thrust and returning strike into disconne
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Dente di Zenghiaro is a guard of rising pressure and continuous offense.
 

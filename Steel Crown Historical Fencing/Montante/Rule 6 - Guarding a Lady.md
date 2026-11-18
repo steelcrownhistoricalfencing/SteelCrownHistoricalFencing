@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: montante-rule-6-guarding-a-lady
+title: Rule 6 — Guarding a Lady and Goods
+summary: Source text and summary for Godinho's Rule 6 of the montante.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Rule 6 — Guarding a Lady and Goods
 
 ---

@@ -4,6 +4,9 @@ site_url: https://steelcrownhistoricalfencing.com/
 docs_dir: 'Steel Crown Historical Fencing'
 site_dir: site
 
+hooks:
+  - hooks/document_formatting.py
+
 theme:
   name: material
   logo: assets/Logo.png
@@ -43,9 +46,12 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/documents.css
+  - stylesheets/documents-print.css
 
 extra_javascript:
   - assets/js/traditions-interactive.js
+  - assets/js/document-print.js
 
 nav:
   - Home: index.md

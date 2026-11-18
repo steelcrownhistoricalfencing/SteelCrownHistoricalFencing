@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: peasants-blow
+title: Peasant's Blow — Colpo di Villano
+summary: The counter to an overcommitted strike.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Peasant's Blow — Colpo di Villano
 
 <img src="../../../../assets/fiore/plays/colpo-di-villano.jpg" alt="Colpo di Villano, Peasant's Blow" class="manuscript-img">
@@ -15,13 +29,13 @@ It teaches you when to stop contesting the bind and step out of it entirely.
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Questo zogho si'e chiamado colpo di villano e sta in tal modo, Zoe che si de aspettare lo villano che vada ultra la coverta, e poy da lo fora de strada dal lato che va la spada."*
 
-### **Translation**
+### Translation
 
 "This play is called the Peasant's Blow, and it is like this: you must wait for the villano to go past the cover, and then give it to him from outside the line on the side where the sword goes."
 
@@ -33,7 +47,7 @@ Fiore is not mocking the attack. He is describing what happens mechanically. The
 
 ---
 
-## **The Setup**
+## The Setup
 
 The opponent delivers a descending strike, typically a *fendente*, and the blades meet in a bind.
 
@@ -47,7 +61,7 @@ That continuation is what you are waiting for.
 
 ---
 
-## **The Technique**
+## The Technique
 
 **Recognize that you are weak in the bind.** This is the critical first step. You are not going to win this contest of force. Accepting that fact is what makes the play possible.
 
@@ -61,7 +75,7 @@ The geometry is simple: a fencer whose blade has passed center cannot immediatel
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 A controlled strike stops at the center line.
 
@@ -77,7 +91,7 @@ The *colpo di villano* exploits that window.
 
 ---
 
-## **The Counter Master's Lesson**
+## The Counter Master's Lesson
 
 The Counter Master in this play does not demonstrate a counter-technique.
 
@@ -91,7 +105,7 @@ The same principle applies against an axe or a staff strike delivered with the s
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The *colpo di villano* sits as the fourth play of the Second Remedy Master of wide play.
 
@@ -101,7 +115,7 @@ It also connects to a broader principle in Fiore's system: the fencer who cannot
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern HEMA competition, the *colpo di villano* pattern appears constantly, though rarely by name.
 
@@ -113,7 +127,7 @@ Train the outside-line step as a reflex. When the bind feels wrong, when you are
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Lynx** governs this play entirely.
 
@@ -129,7 +143,7 @@ The **Elephant**, structural strength, is notably *absent* from this play. The p
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The *colpo di villano* does not work against a controlled strike.
 
@@ -141,9 +155,9 @@ Finally, it is not a solution to a bind that is merely difficult. Difficult bind
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — Recognizing the Overextension**
+### Drill 1 — Recognizing the Overextension
 
 Partner A delivers a *fendente* in two versions, alternating without signaling which:
 
@@ -158,7 +172,7 @@ Do not tell Partner B which is coming. The goal is recognition, not anticipation
 
 ---
 
-### **Drill 2 — Outside-Line Entry**
+### Drill 2 — Outside-Line Entry
 
 Partner A delivers the overcommitted *fendente*.
 
@@ -172,7 +186,7 @@ Partner A should occasionally deliver a controlled blow (Drill 1 behavior) to pr
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common error is attempting the play against a controlled strike. The geometry does not work. If the opponent's blade has not passed center, stepping to the outside line puts you beside a weapon that can still threaten you.
 
@@ -182,7 +196,7 @@ Many students also try to win the bind instead of leaving it. When the blade pre
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The *colpo di villano* does not win by being stronger.
 

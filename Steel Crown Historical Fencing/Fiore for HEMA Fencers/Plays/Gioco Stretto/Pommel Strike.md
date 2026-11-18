@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: pommel-strike
+title: Pommel Strike — Colpo di Pomo
+summary: The primary entry into stretto from the mandritto side.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Pommel Strike — Colpo di Pomo
 
 <img src="../../../../assets/fiore/plays/pommel-strike.jpg" alt="Pommel Strike, Colpo di Pomo" class="manuscript-img">
@@ -19,13 +33,13 @@ This technique is also called the *volta di pomo*, the pommel turn, which better
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Questo si chiama volta di pomo, e fa si in questo modo: quando io son in lo stretto cum lo compagno... io metto lo mio pomo in la so facia... e la mia spada va de dredo lo so collo... e io gli dago una bona streta in la gola."*
 
-### **Translation**
+### Translation
 
 "This is called the pommel turn, and is done in this way: when I am in narrow play with my companion... I put my pommel in his face... and my sword goes behind his neck... and I give him a good binding cut at the throat."
 
@@ -35,7 +49,7 @@ It is one of the more vivid statements about physical consequence in the entire 
 
 ---
 
-## **The Setup**
+## The Setup
 
 You have entered stretto. The blades are in contact at mid-sword or near the hilt.
 
@@ -45,7 +59,7 @@ You are close to the opponent's body.
 
 ---
 
-## **The Technique**
+## The Technique
 
 **Roll your sword under the bind.** This is the pivoting motion that defines the technique. Using the opponent's blade as a fulcrum, rotate your sword so that it passes beneath their blade. The hilt drops. The point begins to rise and arc behind the opponent.
 
@@ -57,7 +71,7 @@ You are close to the opponent's body.
 
 ---
 
-## **Why It Works**
+## Why It Works
 
 The *volta di pomo* works because it uses the opponent's resistance against them.
 
@@ -69,7 +83,7 @@ The blade wrap behind the neck then creates a situation with no good exit: a pul
 
 ---
 
-## **The Counter-Remedy**
+## The Counter-Remedy
 
 The opponent can defeat this play by controlling your pommel before the rotation completes.
 
@@ -81,7 +95,7 @@ This is why the *volta di pomo* must be executed with commitment and speed, not 
 
 ---
 
-## **Connection to the System**
+## Connection to the System
 
 The pommel strike is the entry point for the entire stretto game from the mandritto side.
 
@@ -98,7 +112,7 @@ The riverso side, when contact is on your left, requires a different approach. T
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern HEMA competition, the *volta di pomo* principle, using the bind as a fulcrum rather than fighting it directly, is directly applicable.
 
@@ -108,7 +122,7 @@ The key competitive insight is this: in close measure, many fencers default to t
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The **Tiger** governs the speed of the rotation. From close range, the pivot must happen before the opponent can react to the new direction of the sword.
 
@@ -120,7 +134,7 @@ The **Lion** governs commitment. The technique requires a complete rotation, not
 
 ---
 
-## **What This Play Is Not For**
+## What This Play Is Not For
 
 The pommel strike does not work from the riverso bind.
 
@@ -132,9 +146,9 @@ Finally, the pommel turn is not complete without the blade arc behind the neck. 
 
 ---
 
-## **Training the Play**
+## Training the Play
 
-### **Drill 1 — The Rotation in Isolation**
+### Drill 1 — The Rotation in Isolation
 
 Without a partner, hold the sword and practice the pivoting motion of the *volta di pomo*.
 
@@ -148,7 +162,7 @@ Practice until the motion is smooth and continuous, not a pommel strike followed
 
 ---
 
-### **Drill 2 — From a Stretto Bind**
+### Drill 2 — From a Stretto Bind
 
 Partner A and Partner B stand in a stretto bind: blades crossing near the hilt, bodies close, both hands on the sword.
 
@@ -160,7 +174,7 @@ Partner A offers a constant pressure in the bind but does not counter yet.
 
 ---
 
-### **Drill 3 — Entry and Follow-Through**
+### Drill 3 — Entry and Follow-Through
 
 From Drill 2, extend the sequence: after the pommel arrives at the face and the blade is behind the neck, Partner B makes the decision, pull (threat of throat cut + throw) or transition to a joint lock.
 
@@ -170,7 +184,7 @@ Partner A responds in slow motion to whichever follow-up Partner B selects.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 A common mistake is swinging the pommel like a punch. The pommel strike is not a hit from a distance, it is a close rotation using the bind as a pivot. If you attempt it from more than arm's length, you are not executing the technique correctly.
 
@@ -180,7 +194,7 @@ Many students also attempt the pommel strike from the riverso bind. This is the 
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The *volta di pomo* does not fight the bind.
 

@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: opposition-and-cover
+title: Opposition and Cover
+summary: The difference between deflecting an attack and controlling the line.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Steel Crown
+---
+
 # Opposition and Cover
 
 Not all defenses are equal.

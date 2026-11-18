@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: bicorno
+title: Bicorno
+summary: A reference on Bicorno, the Two-Horned Guard, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Bicorno
 
 <img src="../../../assets/fiore/guards/bicorno.jpg" alt="Bicorno" class="manuscript-img">
@@ -17,13 +31,13 @@ Fiore calls it "perfect defense." That precision of language is worth noting. No
 
 ---
 
-## **Fiore's Description**
+## Fiore's Description
 
-### **Getty Manuscript Text**
+### Getty Manuscript Text
 
 *"Bicorno son chiamado, per nome si perfecta, che cum doe punte e cum doe tagli, facio mia defesa perfecta. E posso ferir e defender cum li agudissimi mei corni. E per tal cason io son contra le altre prese ad ogne homo adorni."*
 
-### **Translation**
+### Translation
 
 "I am called Two-Horned, by name so perfect, for with two points and two edges I make my defense perfect. And I can strike and defend with my very sharp horns. And for this reason I am against the other grips, adorned for every man."
 
@@ -33,7 +47,7 @@ The language of "horns" is deliberate and precise. The guard does not simply hav
 
 ---
 
-## **The Meaning of the Name**
+## The Meaning of the Name
 
 *Bicorno* means *Two-Horned*, from the Italian *bi* (two) and *corno* (horn).
 
@@ -43,7 +57,7 @@ The shape of the guard itself expresses the name: the elbows pressed inward and 
 
 ---
 
-## **The Reversed Grip**
+## The Reversed Grip
 
 Bicorno introduces a grip configuration found nowhere else in Fiore's longsword system.
 
@@ -61,9 +75,9 @@ This reversed configuration accomplishes several things.
 
 ---
 
-## **Physical Structure**
+## Physical Structure
 
-### **Body Position**
+### Body Position
 
 The stance is forward-weighted, reflecting the guard's commitment to close-quarters engagement.
 
@@ -71,7 +85,7 @@ The body leans slightly into the overhead structure. Where Posta Corona and Post
 
 ---
 
-### **Hand and Sword Position**
+### Hand and Sword Position
 
 Both hands grip the handle: the rear hand in a standard grip, the front hand reversed near the pommel with the palm facing outward.
 
@@ -83,7 +97,7 @@ The pommel, held by the reversed front hand, remains available for striking or h
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 Bicorno's tactical identity is built around one specific context: *gioco stretto*, the narrow play at close distance where the opponent's blade is no longer free to swing.
 
@@ -97,7 +111,7 @@ When two fencers have closed to bind distance and the full cutting arcs of the l
 
 ---
 
-## **The Two Horns**
+## The Two Horns
 
 Understanding both horns of Bicorno as active and simultaneous threats is essential to understanding the guard correctly.
 
@@ -109,7 +123,7 @@ An opponent who tries to close against Bicorno discovers that both ends of the w
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, Bicorno is most relevant in two contexts.
 
@@ -119,7 +133,7 @@ In modern fencing, Bicorno is most relevant in two contexts.
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 Bicorno most strongly expresses the **Elephant**.
 
@@ -133,7 +147,7 @@ The **Lion** commits to the close-quarters range that Bicorno requires. Maintain
 
 ---
 
-## **Defeating the Guard**
+## Defeating the Guard
 
 Bicorno is most vulnerable before close distance is established.
 
@@ -145,7 +159,7 @@ Finally, the overhead structure leaves the lower body and legs more exposed than
 
 ---
 
-## **What This Guard Is Not For**
+## What This Guard Is Not For
 
 Bicorno is not a guard for middle or long measure. Its design is explicitly for close quarters — the narrow play where other guards have lost their primary function.
 
@@ -155,9 +169,9 @@ Finally, the guard requires familiarity with the reversed grip before it can be 
 
 ---
 
-## **Training the Guard**
+## Training the Guard
 
-### **Drill 1 — Establishing the Reversed Grip**
+### Drill 1 — Establishing the Reversed Grip
 
 Begin by establishing the reversed grip: rear hand on the handle with a standard grip, front hand reversed near the pommel with the palm facing outward.
 
@@ -169,7 +183,7 @@ Hold for ten seconds, then rest. Repeat five times. Focus on the structural tria
 
 ---
 
-### **Drill 2 — The Overhead Thrust**
+### Drill 2 — The Overhead Thrust
 
 From Bicorno, step forward and deliver a controlled thrust downward and forward from the overhead position.
 
@@ -181,7 +195,7 @@ The goal is to experience the distinctive angle of the overhead thrust and the w
 
 ---
 
-### **Drill 3 — Defending the Overhead**
+### Drill 3 — Defending the Overhead
 
 One fencer assumes Bicorno. The partner delivers a slow descending Fendente toward the Bicorno fencer's head.
 
@@ -193,7 +207,7 @@ Repeat ten times, then switch roles. The lesson: the overhead structure in Bicor
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 The most common mistake is allowing the elbows to collapse outward rather than pressing them inward. The elbows-in position is what creates the structural lock and the characteristic "horned" shape. Elbows pointing outward convert Bicorno into an unstable overhead position with no structural advantage.
 
@@ -205,7 +219,7 @@ Finally, hunched or collapsed shoulders reduce the structural integrity of the o
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 Bicorno is the guard of the narrow space.
 

@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: fendente-destra
+title: Fendente Destra
+summary: A reference on Fendente Destra, the Descending Cut from the Right, in Fiore's longsword system.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Fendente Destra
 
 <img src="../../../assets/fiore/guards/fendente.jpg" alt="Fendente, Downward Blows" class="manuscript-img">
@@ -13,9 +27,9 @@ This strike is closely associated with Posta di Donna, where the blade begins in
 
 ---
 
-## **Physical Description**
+## Physical Description
 
-### **Path of the Blade**
+### Path of the Blade
 
 The fendente begins high on the right side, most commonly from Posta di Donna Destra.
 
@@ -25,7 +39,7 @@ The motion should feel continuous, with the blade accelerating as it descends.
 
 ---
 
-### **Body Mechanics**
+### Body Mechanics
 
 The cut is typically delivered with a forward step of the right foot.
 
@@ -35,7 +49,7 @@ The arms guide the cut, but the power comes from the coordinated movement of the
 
 ---
 
-### **Ending Position**
+### Ending Position
 
 The fendente most commonly finishes in Dente di Zenghiaro, a low guard with the point forward.
 
@@ -45,7 +59,7 @@ In either case, the blade should end low with structure intact, ready to continu
 
 ---
 
-## **Tactical Function**
+## Tactical Function
 
 The fendente is a primary offensive action used to attack from above with force and control.
 
@@ -55,7 +69,7 @@ The guards that generate the fendente — particularly Posta di Donna and Posta 
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 In modern fencing, the fendente is often delivered in a more compact form than described in the manuscripts.
 
@@ -65,11 +79,11 @@ Because modern training weapons do not bite like sharp blades, control of the sw
 
 ---
 
-## **Connection to Guards**
+## Connection to Guards
 
 The fendente is closely linked to several guards.
 
-### **Primary Starting Guards**
+### Primary Starting Guards
 
 The most common starting position is Posta di Donna Destra, where the blade is already chambered for a descending strike.
 
@@ -77,7 +91,7 @@ It may also be delivered from Posta Breve for a quicker, more compact version, o
 
 ---
 
-### **Ending Guards**
+### Ending Guards
 
 The strike most often concludes in Dente di Zenghiaro, providing a strong low position for continuation.
 
@@ -85,7 +99,7 @@ It may also end in Porta di Ferro Mezzana when the cut finishes at a higher leve
 
 ---
 
-## **Connection to the Four Virtues**
+## Connection to the Four Virtues
 
 The fendente reflects all four of Fiore’s virtues in action.
 
@@ -99,7 +113,7 @@ The **Lynx** governs targeting and distance, ensuring the cut lands accurately.
 
 ---
 
-## **Common Tactics**
+## Common Tactics
 
 The fendente is most commonly used as an initiating attack from above, forcing the opponent to defend or yield the line.
 
@@ -111,7 +125,7 @@ Because of its committed nature, timing is critical. A poorly timed fendente may
 
 ---
 
-## **What This Cut Is Not For**
+## What This Cut Is Not For
 
 The fendente is not well suited to very close distance. If the opponent is already within range, the descending motion may be too large to deploy effectively.
 
@@ -121,11 +135,11 @@ Finally, the cut should not be performed with excessive tension or force. Attemp
 
 ---
 
-## **Training the Cut**
+## Training the Cut
 
 The following drills develop the mechanics and application of the fendente.
 
-### **Drill 1 — Solo Cutting**
+### Drill 1 — Solo Cutting
 
 Begin in Posta di Donna Destra with the blade chambered over the right shoulder.
 
@@ -139,7 +153,7 @@ The cut should feel natural, with gravity assisting the motion rather than resis
 
 ---
 
-### **Drill 2 — Targeting**
+### Drill 2 — Targeting
 
 With a partner, practice delivering the fendente in slow motion without contact.
 
@@ -151,7 +165,7 @@ Switch roles and repeat.
 
 ---
 
-## **Common Errors**
+## Common Errors
 
 Students often stop the cut at the point of contact during solo practice. The blade should continue through its full arc, finishing in a stable guard.
 
@@ -161,7 +175,7 @@ Finally, some students rely only on their arms. The cut must be driven by the co
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The fendente is a cut of structure and acceleration.
 

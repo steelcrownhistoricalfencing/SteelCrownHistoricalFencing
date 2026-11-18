@@ -1,3 +1,17 @@
+---
+format: steel-crown-v1
+id: entering-at-the-crossing
+title: Entering at the Crossing — Incrosar
+summary: How to read the crossing and decide which play applies.
+type: reference
+audience: mixed
+visibility: public
+version: "0.1"
+updated: 2026-11-17
+authors:
+  - Chris Mineweaser
+---
+
 # Entering at the Crossing — Incrosar
 
 <img src="../../../../assets/fiore/plays/incrosar.jpg" alt="Entering at the Crossing, Incrosar" class="manuscript-img">
@@ -15,7 +29,7 @@ When two swords first make contact, whether from a strike, a parry, or deliberat
 
 ---
 
-## **The Crossing as a Decision Point**
+## The Crossing as a Decision Point
 
 In Fiore's system, the crossing is not something that happens to you.
 
@@ -29,11 +43,11 @@ The crossing tells you where you are. Before any technique can be chosen, the cr
 
 ---
 
-## **The Three Crossings**
+## The Three Crossings
 
 Fiore identifies three types of blade crossing, distinguished by where on the blades contact is made.
 
-### **The Punta Crossing — Contact at the Tips**
+### The Punta Crossing — Contact at the Tips
 
 When the blades meet at their points, neither fencer has leverage over the other.
 
@@ -43,7 +57,7 @@ Fiore's First Remedy Master addresses this crossing with a single instruction: a
 
 At the punta crossing, only wide play is possible. You are too far from the opponent for narrow play. And the contact is too weak for any technique that requires stability.
 
-### **The Mezza Spada Crossing — Contact at Mid-Blade**
+### The Mezza Spada Crossing — Contact at Mid-Blade
 
 When the blades meet near their midpoints, the situation becomes richer.
 
@@ -55,7 +69,7 @@ From the *mezza spada*, both wide play and narrow play are available. A cut or t
 
 The *mezza spada* is the decision point: go wide, or go close.
 
-### **The Tutta Crossing — Contact Near the Hilt**
+### The Tutta Crossing — Contact Near the Hilt
 
 When the blades meet near the hilt, one fencer has gained a significant mechanical advantage.
 
@@ -67,7 +81,7 @@ Whether you intended to be at *tutta* crossing or not, you are in the narrow gam
 
 ---
 
-## **The Foot Position Tells You Which Game**
+## The Foot Position Tells You Which Game
 
 The crossing tells you what is possible. The foot position confirms which game you are in.
 
@@ -81,7 +95,7 @@ When you find yourself with the right foot forward after a wide-play action, thi
 
 ---
 
-## **Which Guards Produce Which Crossings**
+## Which Guards Produce Which Crossings
 
 Through mechanical analysis, we can observe that some guards naturally tend toward one crossing type — though Fiore does not map these correlations explicitly in the Getty.
 
@@ -95,7 +109,7 @@ These are tendencies, not rules. The opponent's actions also determine where the
 
 ---
 
-## **The Left-Right-Left Pattern**
+## The Left-Right-Left Pattern
 
 Fiore's wide play follows a rhythm of left and right.
 
@@ -111,7 +125,7 @@ This three-beat rhythm, left forward, right forward, left to outside, is the str
 
 ---
 
-## **Modern Application**
+## Modern Application
 
 The ability to read a crossing at speed is the most important diagnostic skill in Fiore-based competition.
 
@@ -123,9 +137,9 @@ Train the crossing read explicitly. In partner drilling, pause at the moment of 
 
 ---
 
-## **Training the Crossing**
+## Training the Crossing
 
-### **Drill 1 — Crossing Identification**
+### Drill 1 — Crossing Identification
 
 Partner A strikes toward Partner B in slow motion, seeking blade contact.
 
@@ -141,7 +155,7 @@ Resume. Repeat with different entry angles, guards, and strike types to vary whi
 
 ---
 
-### **Drill 2 — Crossing to Game**
+### Drill 2 — Crossing to Game
 
 Partner A strikes toward Partner B, establishing a crossing.
 
@@ -156,7 +170,7 @@ The goal is not perfect technique, it is connecting the crossing read to an imme
 
 ---
 
-## **Key Idea**
+## Key Idea
 
 The crossing is where the fight resolves.
 
