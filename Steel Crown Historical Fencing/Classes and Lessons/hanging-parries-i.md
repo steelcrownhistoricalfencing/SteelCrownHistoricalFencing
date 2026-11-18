@@ -9,11 +9,13 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-07'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
 ---
+
+<span id="class-title"></span>
 
 # Hanging Parries I
 
@@ -23,12 +25,7 @@ duration_minutes: 120
 
 ## The problem, behavior, and boundaries
 
-**A \| CLASS SNAPSHOT**
-
 This is a longsword class for committed descending and diagonal cuts only. Students work both right- and left-side hanging-parry shapes, with modern padded jackets and clamshell gloves in mind. The lesson does not add thrusts, lower-line attacks, feint layers, or extended bind sequences.
-
-**CLASS TITLE:** Hanging Parries I
-{: #class-title}
 
 **CENTRAL QUESTION:** How can I use an opponent's committed high cut to make a protected answer or leave safely, without remaining in a passive hanging parry?
 {: #central-question}
@@ -40,8 +37,6 @@ This is a longsword class for committed descending and diagonal cuts only. Stude
 {: #historical-anchor}
 
 ## Target-action success test
-
-**A \| SUCCESS EVIDENCE**
 
 The target behavior counts only when all four observable conditions are present.
 
@@ -63,8 +58,6 @@ Receive a committed upper-line cut on a raised, hanging blade with the hands and
 Students will often catch too late, leave the blade hanging after contact, over-compress the arms in clamshell gloves, or force a riposte after the attacker has recovered. Others will stop after landing their own first hit and eat the opponent's afterblow rather than use the hanging shape as exit cover.
 
 ## Exact 120-minute plan
-
-**B \| RUN OF SHOW**
 
 Preserve the sequence. If time is lost, compress explanation before removing open sparring or reflection.
 
@@ -229,47 +222,29 @@ Increase uncertainty while preserving the lesson's central information-action re
 
 Make the defender choose between a clean parry-riposte and a protected exit instead of forcing a preselected follow-up.
 
- Partners begin at high-cut range. Attacker gives one committed high or diagonal cut to either side, then
+- Partners begin at high-cut range. Attacker gives one committed high or diagonal cut to either side, then may recover and defend normally. Defender begins mobile and may use either side of the hanging parry.
 
-may recover and defend normally. Defender begins mobile and may use either side of the hanging parry.
+- Defender catches safely and chooses the best immediate resolution: zwerch/cross-cut riposte if the opening remains, or angled exit if the attacker has recovered or distance closes poorly.
 
- Defender catches safely and chooses the best immediate resolution: zwerch/cross-cut riposte if the
+- One defensive reception, then one immediate answer or exit. A riposte must arrive while the defender remains covered; no second chase. Attacker may make one controlled afterblow against a passive or uncovered defender.
 
-opening remains, or angled exit if the attacker has recovered or distance closes poorly.
+- Clean catch, clean riposte, and no return 2; clean catch and protected exit 2; clean riposte that accepts an afterblow 0; attacker clean hit 1; double 0-0.
 
- One defensive reception, then one immediate answer or exit. A riposte must arrive while the defender
-
-remains covered; no second chase. Attacker may make one controlled afterblow against a passive or uncovered defender.
-
- Clean catch, clean riposte, and no return 2; clean catch and protected exit 2; clean riposte that accepts
-
-an afterblow 0; attacker clean hit 1; double 0-0.
-
- 5 minutes each role; 2 minutes to explain the change in scoring and transition to the next game.
+- 5 minutes each role; 2 minutes to explain the change in scoring and transition to the next game.
 
 ### Game 3 - Hit, Cover, Leave \| 13 minutes
 
 Train the user’s primary competition application: after landing or threatening a score, use a hanging- parry shape as cover for the opponent’s committed return and leave on your terms.
 
- Initiator begins from just outside measure and makes one controlled scoring attack to an upper
+- Initiator begins from just outside measure and makes one controlled scoring attack to an upper opening. Responder then gives one committed high or diagonal return at the initiator's upper line. The initiator must recognize the return, cover with the appropriate hanging-parry side, and leave at an angle; roles alternate every exchange.
 
-opening. Responder then gives one committed high or diagonal return at the initiator's upper line. The initiator must recognize the return, cover with the appropriate hanging-parry side, and leave at an angle; roles alternate every exchange.
+- Initiator lands or credibly threatens the first action, then turns the opponent's committed return into cover for a safe angled departure. The responder learns to punish a stationary, uncovered finish.
 
- Initiator lands or credibly threatens the first action, then turns the opponent's committed return into
+- The initial action can be any safe upper-line attack. The responder's return must be a real committed high/diagonal cut, not a pre-frozen feed. The initiator may riposte only if it is immediately available; otherwise leaving is the correct answer. Halt once safe separation is established.
 
-cover for a safe angled departure. The responder learns to punish a stationary, uncovered finish.
+- Clean initial score or credible threat plus covered angled exit 2; cover plus clean immediate riposte plus exit 3; initial score followed by a valid return hit 0; double 0-0.
 
- The initial action can be any safe upper-line attack. The responder's return must be a real committed
-
-high/diagonal cut, not a pre-frozen feed. The initiator may riposte only if it is immediately available; otherwise leaving is the correct answer. Halt once safe separation is established.
-
- Clean initial score or credible threat plus covered angled exit 2; cover plus clean immediate riposte
-
-plus exit 3; initial score followed by a valid return hit 0; double 0-0.
-
- Rotate initiator/responder every 3 minutes. Use the final minute to remove the announced return and
-
-prepare for open fencing.
+- Rotate initiator/responder every 3 minutes. Use the final minute to remove the announced return and prepare for open fencing.
 
 **PROGRESSION TRIGGER:** Remove the announced first attacker; either fencer may score first, and the scorer must solve the first committed upper-line return that follows.
 {: #progression-trigger}
@@ -294,7 +269,14 @@ Test whether the behavior appears without forced actions or bonus scoring.
 
 ### Coach records
 
- Selects committed upper-line attacks rather than late or speculative catches  Head protected; flat/strong receives; hands remain usable in gloves  Can receive left and right without defaulting to one unsafe shape  Moves while the opponent is committed, not after the hit  Ripostes only when opening remains and stays covered  Changes angle with the sword covering the line  Prevents the return and avoids doubles  Uses the action selectively in open fencing
+- Selects committed upper-line attacks rather than late or speculative catches
+- Head protected; flat/strong receives; hands remain usable in gloves
+- Can receive left and right without defaulting to one unsafe shape
+- Moves while the opponent is committed, not after the hit
+- Ripostes only when opening remains and stays covered
+- Changes angle with the sword covering the line
+- Prevents the return and avoids doubles
+- Uses the action selectively in open fencing
 
 **FEEDBACK:** Observe during rounds and coach mainly between them. Open sparring is not another constrained game.
 
@@ -414,8 +396,6 @@ Train the user’s primary competition application: after landing or threatening
 
 ## Plan modifications before the room forces them
 
-**E \| SAFETY AND ADAPTATION**
-
 Preserve the information and decision while reducing uncertainty, speed, distance, or impact.
 
 | CONDITION | PLANNED RESPONSE |
@@ -430,8 +410,6 @@ Preserve the information and decision while reducing uncertainty, speed, distanc
 | Time loss | Compress explanation and one role interval; preserve open transfer and reflection. |
 
 ## What to watch without interrupting every exchange
-
-**F \| INSTRUCTOR OBSERVATION**
 
 Use the checklist to distinguish learning from mere scoring.
 
@@ -452,13 +430,13 @@ Observation -&gt; question -&gt; one cue -&gt; re-test. Name what happened, ask 
 
 ### Class-level success evidence
 
- Cleaner solutions and fewer doubles from Game 1 to Game 3.  Students can name at least one reliable cue.  The target behavior appears selectively in open fencing.  Students can explain why an unsafe score does not satisfy the lesson.  Beginners show safer structure even when they do not score.
+- Cleaner solutions and fewer doubles from Game 1 to Game 3.
+- Students can name at least one reliable cue.
+- The target behavior appears selectively in open fencing.
+- Students can explain why an unsafe score does not satisfy the lesson.
+- Beginners show safer structure even when they do not score.
 
-## Instructor notes
-
-**G \| INSTRUCTOR NOTES**
-
-Use this page for handwritten notes.
+<span id="instructor-notes"></span>
 
 ## Historical and coaching source note
 

@@ -9,11 +9,13 @@ audience: instructors
 visibility: public
 version: '1.2'
 document_date: '2026-07'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
 ---
+
+<span id="class-title"></span>
 
 # Decisive Action I
 
@@ -23,14 +25,9 @@ duration_minutes: 120
 
 ## The problem, behavior, and boundaries
 
-**A \| CLASS SNAPSHOT**
-
 A decision lesson that helps students make timely, trained choices against a live opponent. It does not ask them to react randomly or to chase an imaginary perfect answer.
 
-**CLASS TITLE:** Decisive Action I
-{: #class-title}
-
-**SUBHEADER:** Doing Something Is Better Than Nothing
+*Doing Something Is Better Than Nothing*
 {: #subheader}
 
 **CENTRAL QUESTION:** How can I recognize a meaningful cue, choose from a small prepared menu, and act before the window closes?
@@ -48,8 +45,6 @@ A decision lesson that helps students make timely, trained choices against a liv
 **SAFETY BOUNDARY:** A decision must remain controlled, structurally sound, and appropriate to the partner. Panic swings, reckless entries, and continuing after a clear failure are not successes.
 
 ## What the fencing evidence actually supports
-
-**B \| THE RESEARCH**
 
 The useful evidence is about choice load, sport-specific information, and transfer. It does not show that a faster first motion or more technical options will solve the problem.
 
@@ -70,8 +65,6 @@ A 2024 systematic review and meta-analysis of 22 studies (45 effect sizes) found
 **THE TAKEAWAY:** Clean drills are the start of the lesson, not proof that the skill transferred. Restore real information quickly: a moving opponent, genuine measure, variable timing, and a consequence for waiting.
 
 ## The conversation to have before fencing
-
-**C \| RESEARCH INTERPRETATION**
 
 Keep the claim human and precise. The point is not to make students think less; it is to give thinking a fast, usable structure.
 
@@ -98,8 +91,6 @@ A point can count even if the hit does not land when the student saw the cue and
 **REPEAT ALL CLASS:** See something real. Pick one answer. Commit cleanly. Recover if it is wrong.
 
 ## Exact 120-minute plan
-
-**D \| RUN OF SHOW**
 
 The lesson progresses from known answers to real choice, then releases the behavior into score pressure and open fencing.
 
@@ -139,7 +130,9 @@ Stay at sword-safe distance with no cuts. The leader chooses one honest movement
 
 ### A successful repetition looks like this
 
- The follower waits for an actual change in distance rather than moving on a guess.  The first step fits what the partner did: make room when they close, take space when they give it.  Both fencers finish balanced enough to stop, change direction, or add a sword action next.
+- The follower waits for an actual change in distance rather than moving on a guess.
+- The first step fits what the partner did: make room when they close, take space when they give it.
+- Both fencers finish balanced enough to stop, change direction, or add a sword action next.
 
 **PARTNER RULE:** The leader may wait as long as they like before making a real step. Do not fake cues. The follower resets if they move before the step or remain frozen after it.
 
@@ -180,7 +173,10 @@ The opponent owns the cue. The actor does not know which answer is appropriate u
 
 ### Coach prompts
 
- Which cue did you see?  Which answer fit it?  Were you still safe at that measure?  Did you leave after the decision?
+- Which cue did you see?
+- Which answer fit it?
+- Were you still safe at that measure?
+- Did you leave after the decision?
 
 **NEXT STEP:** Once both choices are clean, give the feeder a neutral preparation before either entry. The actor must now wait for information without becoming passive.
 

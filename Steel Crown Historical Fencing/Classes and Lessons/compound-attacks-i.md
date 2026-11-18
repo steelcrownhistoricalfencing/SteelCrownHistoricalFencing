@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-09'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -57,12 +57,9 @@ Use the familiar plyometric block to prepare quick acceleration and controlled c
 
 | SECTION | MOVEMENT OPTIONS | COACHING FOCUS |
 | --- | --- | --- |
-| Low-box jumps | Two-foot on/off; single-foot variations; lateral on/off |  |
-|  |  | Quiet landings; stable knees; own the box and the floor |
-| Pogo hops | Quick, low contacts in place or over a short distance |  |
-|  |  | Tall posture; elastic ankles; stop before rhythm gets heavy |
-| Short sprints | Brief accelerations followed by slow walks back |  |
-|  |  | Sharp start; controlled braking; the walk is recovery |
+| Low-box jumps | Two-foot on/off; single-foot variations; lateral on/off | Quiet landings; stable knees; own the box and the floor |
+| Pogo hops | Quick, low contacts in place or over a short distance | Tall posture; elastic ankles; stop before rhythm gets heavy |
+| Short sprints | Brief accelerations followed by slow walks back | Sharp start; controlled braking; the walk is recovery |
 
 **PURPOSE FOR THIS LESSON:** Every link in the chain needs a real acceleration, followed by enough balance to brake and redirect again. The warm-up prepares repeated intent and recovery without rehearsing a fixed sword combination.
 {: #purpose-for-this-lesson}
@@ -141,14 +138,9 @@ Use the known chain to distinguish responsive chaining from a rehearsed combinat
 
 | EXAMPLE | WHAT HAPPENS | COACHING MEANING |
 | --- | --- | --- |
-| Memorized combination |  |  |
-|  | A performs all three cuts whether B defends or not. |  |
-|  |  | The sequence has replaced perception. |
-| Responsive chain | Each credible threat draws a new parry; A changes only when that parry begins. |  |
-|  |  | Every link is both a possible finish and the start of the next decision. |
-| Parried, then continued |  |  |
-|  | The defender finds and controls the blade before A changes. |  |
-|  |  | The compound attack failed. A must manage the riposte, not force the planned finish. |
+| Memorized combination | A performs all three cuts whether B defends or not. | The sequence has replaced perception. |
+| Responsive chain | Each credible threat draws a new parry; A changes only when that parry begins. | Every link is both a possible finish and the start of the next decision. |
+| Parried, then continued | The defender finds and controls the blade before A changes. | The compound attack failed. A must manage the riposte, not force the planned finish. |
 
 **FEEDBACK RHYTHM:** Watch several exchanges. Name one observable event, ask what caused each continuation, give one cue, and let the next exchange test it. Correct a weak middle threat before asking for more speed.
 {: #feedback-rhythm}
@@ -200,14 +192,9 @@ Compound attacks, second intention, and parry-riposte can appear in the same exc
 | WHAT B DOES | WHAT A SHOULD DO | WHAT THE PHRASE BECOMES |
 | --- | --- | --- |
 | Does not close the first line | Finish the original attack. | A simple direct finish; no compound action was needed. |
-| Begins a parry but has not controlled the blade |  |  |
-|  | Change and make the next opening a real threat; repeat once only if another parry forms. |  |
-|  |  | Today's compound-attack chain. |
-| Finds and controls A's blade | Stop forcing the attack; defend B's immediate answer. |  |
-|  |  | B now has a parry-riposte. |
-| Controls the blade, ripostes, and A was prepared for it |  |  |
-|  | A reads the real riposte, counter-parries, and answers. |  |
-|  |  | Last week's second-intention problem. |
+| Begins a parry but has not controlled the blade | Change and make the next opening a real threat; repeat once only if another parry forms. | Today's compound-attack chain. |
+| Finds and controls A's blade | Stop forcing the attack; defend B's immediate answer. | B now has a parry-riposte. |
+| Controls the blade, ripostes, and A was prepared for it | A reads the real riposte, counter-parries, and answers. | Last week's second-intention problem. |
 
 **HOW THEY RELATE:** Both lessons begin with a credible attack and demand quick decisions from real information. The difference is what the attacker intends to defeat. Today, A may defeat one or two parries while they are forming. In Second Intention I, A allows the parry to succeed and defeats the riposte that follows.
 {: #how-they-relate}
@@ -277,14 +264,10 @@ The route may change, but each link must remain a possible finish and every cont
 
 | ACTION | STRUCTURE | COACHING NOTE |
 | --- | --- | --- |
-| Upper - upper - lower | Threaten one upper opening; clear its parry; threaten the other; clear again; finish below. |  |
-|  |  | Today's known-chain example. |
-| High - low - high | Draw a high closure; redirect below; if B drops to defend, return to the newly opened high line. |  |
-|  |  | Same two-change decision with a vertical route. |
-| Thrust - disengage - return | Threaten with the point; pass around the first search; threaten again; return around a second search. |  |
-|  |  | Same structure with thrusts. |
-| Shorter chain | Begin any route, but finish after the first or second threat when the defender stops closing lines. |  |
-|  |  | This is correct, not incomplete. |
+| Upper - upper - lower | Threaten one upper opening; clear its parry; threaten the other; clear again; finish below. | Today's known-chain example. |
+| High - low - high | Draw a high closure; redirect below; if B drops to defend, return to the newly opened high line. | Same two-change decision with a vertical route. |
+| Thrust - disengage - return | Threaten with the point; pass around the first search; threaten again; return around a second search. | Same structure with thrusts. |
+| Shorter chain | Begin any route, but finish after the first or second threat when the defender stops closing lines. | This is correct, not incomplete. |
 
 **TERMS THAT SHOULD NOT BLUR TOGETHER**
 {: #terms-that-should-not-blur-together}
@@ -343,20 +326,16 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 | IF YOU SEE... | DO THIS |
 | --- | --- |
 | Empty feints | Let B ignore them. Require the first line to arrive safely if no defense occurs. |
-| Memorized three-cut sequence |  |
-|  | Vary chain length. Require A to stop the instant B leaves any threat unanswered. |
+| Memorized three-cut sequence | Vary chain length. Require A to stop the instant B leaves any threat unanswered. |
 | Weak middle threat | Let B ignore it. Require every link to reach and become a possible finish before adding speed. |
 | Change begins too early | Delay or withhold B's parry. Ask A to name the movement that caused each change. |
 | Blade is already controlled | Let B riposte. Teach A to accept the failed attack and defend instead of forcing the plan. |
-| Chain grows past two changes |  |
-|  | Reset after the second change. More actions are not useful when perception and structure decay. |
+| Chain grows past two changes | Reset after the second change. More actions are not useful when perception and structure decay. |
 | Doubles increase | Reduce speed and defender choice. Require A to survive for the final hit to count as learning. |
 
 **FEEDBACK:** Observation -&gt; question -&gt; one cue -&gt; re-test. Preserve the decision even when the movement is simplified.
 
 ## Notes from the class
-
-**INSTRUCTOR NOTES**
 
 Record how long the chains became, whether every link remained credible, what caused each change, and where students should have stopped.
 

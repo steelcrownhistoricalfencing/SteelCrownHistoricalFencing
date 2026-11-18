@@ -76,6 +76,26 @@ class DocumentTests(unittest.TestCase):
                 self.assertIn(date.fromisoformat(month + '-01').strftime('%B %Y'), metadata)
                 self.assertIn('Version ' + version, metadata)
 
+    def test_lesson_import_readability(self):
+        for source in (DOCS / 'Classes and Lessons').glob('*.md'):
+            if source.name == 'index.md':
+                continue
+            text = source.read_text()
+            article = built(source)
+            with self.subTest(page=source.name):
+                self.assertNotIn('', text)
+                self.assertNotRegex(text, r'(?:\\_){5,}')
+                self.assertNotIn('**CLASS TITLE:**', text)
+                self.assertNotIn('Use this page for handwritten notes.', text)
+                for table in article.find_all('table'):
+                    for row in table.select('tbody tr'):
+                        cells = row.find_all('td', recursive=False)
+                        self.assertTrue(cells[0].get_text(strip=True), str(row))
+                if source.stem.startswith('meyer-longsword-'):
+                    summary = article.select_one('.sc-summary').get_text(' ', strip=True)
+                    matches = [p for p in article.find_all('p') if p.get_text(' ', strip=True) == summary]
+                    self.assertEqual(len(matches), 1)
+
     def test_preserved_class_heading_anchors(self):
         expected = json.loads(Path('tests/class_heading_anchors.json').read_text())
         for slug, anchors in expected.items():

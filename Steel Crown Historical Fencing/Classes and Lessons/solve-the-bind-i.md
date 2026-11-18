@@ -9,11 +9,13 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-07'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
 ---
+
+<span id="class-title"></span>
 
 # Solve the Bind I
 
@@ -23,12 +25,7 @@ duration_minutes: 120
 
 ## The problem, behavior, and boundaries
 
-**A \| CLASS SNAPSHOT**
-
 The class introduces one binary information problem - hard or soft pressure - and two broad responses. It does not attempt to teach the complete winding system.
-
-**CLASS TITLE:** Solve the Bind I
-{: #class-title}
 
 **CENTRAL QUESTION:** When the swords meet and remain in contact, how can I use pressure information to choose a safe continuation?
 {: #central-question}
@@ -40,8 +37,6 @@ The class introduces one binary information problem - hard or soft pressure - an
 {: #historical-anchor}
 
 ## Target-action success test
-
-**A \| SUCCESS EVIDENCE**
 
 The target behavior counts only when all four observable conditions are present.
 
@@ -63,8 +58,6 @@ At the instant of contact, keep the hands functional and point threatening. If t
 Students will decide the technique before contact, stare at the blades, push against strength, or interpret any initial collision as a stable hard bind.
 
 ## Exact 120-minute plan
-
-**B \| RUN OF SHOW**
 
 Preserve the sequence. If time is lost, compress explanation before removing open sparring or reflection.
 
@@ -229,25 +222,24 @@ Increase uncertainty while preserving the lesson's central information-action re
 
 Prevent students from treating hard and soft as fixed partner identities.
 
- Begin from blade contact created by a controlled cut and parry. Pressure leader may remain firm,
+- Begin from blade contact created by a controlled cut and parry. Pressure leader may remain firm, yield, or change once.
 
-yield, or change once.
+- Solver follows current information and reaches a safe opening without losing control.
+- One pressure change maximum; no grappling; halt on clean touch, double, or broken contact with safe separation.
 
- Solver follows current information and reaches a safe opening without losing control.  One pressure change maximum; no grappling; halt on clean touch, double, or broken contact with safe
-
-separation.
-
- Correct adaptation and clean touch 2; safe disengagement 1; leader clean hit 1; double 0.  5 minutes each role; 2 minutes transition.
+- Correct adaptation and clean touch 2; safe disengagement 1; leader clean hit 1; double 0.
+- 5 minutes each role; 2 minutes transition.
 
 ### Game 3 - Earn the Bind \| 13 minutes
 
 Connect tactile decision-making to the exchange that creates contact.
 
- Free onset; one fencer initiates a controlled cut that the other may meet, avoid, or counter.  If sustained contact occurs, either fencer may solve it using pressure information. No one is required
+- Free onset; one fencer initiates a controlled cut that the other may meet, avoid, or counter.
+- If sustained contact occurs, either fencer may solve it using pressure information. No one is required to remain in a poor bind.
 
-to remain in a poor bind.
-
- Normal movement; no grappling; continue to clean score, double, or safe separation.  Clean score after correct bind decision 2; any other clean score 1; double 0.  Change initiator every 3 minutes; final minute reset.
+- Normal movement; no grappling; continue to clean score, double, or safe separation.
+- Clean score after correct bind decision 2; any other clean score 1; double 0.
+- Change initiator every 3 minutes; final minute reset.
 
 **PROGRESSION TRIGGER:** Open fencing with no designated initiator.
 {: #progression-trigger}
@@ -272,7 +264,13 @@ Test whether the behavior appears without forced actions or bonus scoring.
 
 ### Coach records
 
- Looks at opponent while receiving blade information  Maintains useful, non-rigid connection  Distinguishes sustained hard/soft pressure  Updates continuation from pressure  Point and hilt remain protective  Reaches opening without strength contest  Uses feeling only when bind persists
+- Looks at opponent while receiving blade information
+- Maintains useful, non-rigid connection
+- Distinguishes sustained hard/soft pressure
+- Updates continuation from pressure
+- Point and hilt remain protective
+- Reaches opening without strength contest
+- Uses feeling only when bind persists
 
 **FEEDBACK:** Observe during rounds and coach mainly between them. Open sparring is not another constrained game.
 
@@ -390,8 +388,6 @@ Connect tactile decision-making to the exchange that creates contact.
 
 ## Plan modifications before the room forces them
 
-**E \| SAFETY AND ADAPTATION**
-
 Preserve the information and decision while reducing uncertainty, speed, distance, or impact.
 
 | CONDITION | PLANNED RESPONSE |
@@ -406,8 +402,6 @@ Preserve the information and decision while reducing uncertainty, speed, distanc
 | Time loss | Compress explanation and one role interval; preserve open transfer and reflection. |
 
 ## What to watch without interrupting every exchange
-
-**F \| INSTRUCTOR OBSERVATION**
 
 Use the checklist to distinguish learning from mere scoring.
 
@@ -427,13 +421,13 @@ Observation -&gt; question -&gt; one cue -&gt; re-test. Name what happened, ask 
 
 ### Class-level success evidence
 
- Cleaner solutions and fewer doubles from Game 1 to Game 3.  Students can name at least one reliable cue.  The target behavior appears selectively in open fencing.  Students can explain why an unsafe score does not satisfy the lesson.  Beginners show safer structure even when they do not score.
+- Cleaner solutions and fewer doubles from Game 1 to Game 3.
+- Students can name at least one reliable cue.
+- The target behavior appears selectively in open fencing.
+- Students can explain why an unsafe score does not satisfy the lesson.
+- Beginners show safer structure even when they do not score.
 
-## Instructor notes
-
-**G \| INSTRUCTOR NOTES**
-
-Use this page for handwritten notes.
+<span id="instructor-notes"></span>
 
 ## Historical and coaching source note
 

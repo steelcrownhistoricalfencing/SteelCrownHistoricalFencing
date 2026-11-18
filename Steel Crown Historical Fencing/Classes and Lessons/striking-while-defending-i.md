@@ -9,11 +9,13 @@ audience: instructors
 visibility: public
 version: '1.2'
 document_date: '2026-07'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
 ---
+
+<span id="class-title"></span>
 
 # Striking While Defending I
 
@@ -23,12 +25,7 @@ duration_minutes: 120
 
 ## The problem, behavior, and boundaries
 
-**A \| CLASS SNAPSHOT**
-
 This plan narrows the class to countering committed high cuts. It does not attempt to teach counterattacks against every possible action.
-
-**CLASS TITLE:** Striking While Defending I
-{: #class-title}
 
 **CENTRAL QUESTION:** How can I strike into an incoming attack so that one continuous action both protects me and hits my opponent?
 {: #central-question}
@@ -40,8 +37,6 @@ This plan narrows the class to countering committed high cuts. It does not attem
 {: #historical-anchor}
 
 ## Target-action success test
-
-**A \| SUCCESS EVIDENCE**
 
 The target behavior is not simply a simultaneous hit. All four conditions must be present.
 
@@ -67,8 +62,6 @@ Students may find another safe one-action solution. The class rewards the functi
 The most common failure will be treating the counterattack as a race. Students are likely to prioritize arrival speed over blade relationship and body displacement, creating doubles. Scoring and coaching must keep protection non-negotiable.
 
 ## Exact 120-minute plan
-
-**B \| RUN OF SHOW**
 
 Preserve the sequence. If time is lost, compress explanation before removing open sparring or reflection.
 
@@ -191,7 +184,12 @@ Students encounter the one-action counterattack problem against an adaptive oppo
 
 ### Coach observes
 
- Guessing before the attack supplies usable information.  Countercuts that land but fail to close the incoming line.  Passive blocks followed by a second attacking motion.  Hands dropping below the incoming blade.  Straight-line entries that leave the head in the attack's path.  Successful use of the strong to receive while the outer blade reaches the target.
+- Guessing before the attack supplies usable information.
+- Countercuts that land but fail to close the incoming line.
+- Passive blocks followed by a second attacking motion.
+- Hands dropping below the incoming blade.
+- Straight-line entries that leave the head in the attack's path.
+- Successful use of the strong to receive while the outer blade reaches the target.
 
 **COACH ROLE:** Observe patterns across the room. Correct immediate safety issues, but do not stop every failed attempt.
 
@@ -261,13 +259,20 @@ Students compare the target countercut with other defenses, then re-test it from
 
 The attacker may make a high cut from either side and vary distance and rhythm. The defender may use any defense and is no longer limited to one sword action.
 
- Clean single-action countercut: 2 points.  Any other clean hit, including parry-riposte: 1 point.  Clean attacker hit: 1 point.  Double: 0 points.  Fence five minutes in each role, with two minutes total for explanation and transition.
+- Clean single-action countercut: 2 points.
+- Any other clean hit, including parry-riposte: 1 point.
+- Clean attacker hit: 1 point.
+- Double: 0 points.
+- Fence five minutes in each role, with two minutes total for explanation and transition.
 
 ### Game 3 - Earn It From the Onset \| 13 minutes
 
 Both begin in a free onset. One fencer is designated the initiator and must launch a high-line attack within eight seconds. The initiator may change guards, manipulate distance, and use one feint. The defender fences freely; continue until a clean hit, double, or clear disengagement.
 
- Target single-action countercut: 2 points.  Any other clean score: 1 point.  Double: 0 points.  Change roles every three minutes; use the remaining minute for reset and transition.
+- Target single-action countercut: 2 points.
+- Any other clean score: 1 point.
+- Double: 0 points.
+- Change roles every three minutes; use the remaining minute for reset and transition.
 
 **PROGRESSION TRIGGER:** Increase speed, side choice, or deception only when the defender consistently receives the attack on the strong, lands, and remains protected.
 {: #progression-trigger}
@@ -298,7 +303,12 @@ Students transfer the behavior into the least constrained environment and abando
 
 ### Coach records
 
- Was the response based on a real attacking cue or a guess?  Did one continuous action both protect and threaten?  Did the strong receive the incoming blade?  Did the body leave or close the attack's line?  Did the behavior appear without bonus scoring?  Did the fencer abandon the attempt when the timing or geometry was wrong?
+- Was the response based on a real attacking cue or a guess?
+- Did one continuous action both protect and threaten?
+- Did the strong receive the incoming blade?
+- Did the body leave or close the attack's line?
+- Did the behavior appear without bonus scoring?
+- Did the fencer abandon the attempt when the timing or geometry was wrong?
 
 **FEEDBACK:** Observe during rounds; coach primarily between rounds. Open sparring is not another constrained game.
 
@@ -419,8 +429,6 @@ Release the skill into a representative onset where the opportunity must be reco
 
 ## Plan modifications before the room forces them
 
-**E \| SAFETY AND ADAPTATION**
-
 The target is skilled perception and protective geometry. More speed is never the default solution to a struggling task.
 
 | CONDITION | PLANNED RESPONSE |
@@ -435,8 +443,6 @@ The target is skilled perception and protective geometry. More speed is never th
 | Time loss | Compress explanation and one constrained role interval; preserve at least one open round and the reflection block. |
 
 ## What to watch without interrupting every exchange
-
-**F \| INSTRUCTOR OBSERVATION**
 
 Use the checklist to distinguish learning from mere scoring.
 
@@ -457,13 +463,13 @@ Observation -&gt; question -&gt; one cue -&gt; re-test. Example: 'Your cut lande
 
 ### Class-level success evidence
 
- More clean target actions and fewer doubles from Game 1 to Game 3.  Students can identify at least one reliable cue of commitment.  Students use the action selectively during open sparring.  Students can explain why a landed double does not satisfy the target.  Beginners show safer structure even if they do not yet score.
+- More clean target actions and fewer doubles from Game 1 to Game 3.
+- Students can identify at least one reliable cue of commitment.
+- Students use the action selectively during open sparring.
+- Students can explain why a landed double does not satisfy the target.
+- Beginners show safer structure even if they do not yet score.
 
-## Instructor notes
-
-**G \| INSTRUCTOR NOTES**
-
-Use this page for handwritten notes.
+<span id="instructor-notes"></span>
 
 ## Historical source note
 

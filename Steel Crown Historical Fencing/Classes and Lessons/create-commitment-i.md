@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '2.2'
 document_date: '2026-08'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -125,7 +125,7 @@ Use a short progression from general movement to fencing-specific and partnered 
 **TODAY, LISTEN FOR:** Can each person enter, stop, cover, and leave in balance? Are masks, gloves, distance, and partner control ready before the first game?
 {: #today-listen-for}
 
-**INSTRUCTOR NOTE:** Warm-up choice for this class: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Instructor preparation:** Choose the warm-up before class using the guidance above.
 {: #instructor-note}
 
 ## Make Me Answer
@@ -162,7 +162,9 @@ Use evidence from the first game to help students distinguish an empty gesture, 
 
 ### Ask before you explain
 
- What did they have to do because of your first action?  What did you actually see before you chose the next action?  What happened when they did not give the response you expected?
+- What did they have to do because of your first action?
+- What did you actually see before you chose the next action?
+- What happened when they did not give the response you expected?
 
 ### Show three outcomes
 
@@ -421,11 +423,7 @@ Make provocation compete with direct attack and safe disengagement in a freer co
 **IF THE ROOM NEEDS LESS:** Return to a fixed initial threat and two defender choices.
 {: #if-the-room-needs-less_2}
 
-## Notes from the class
-
-**INSTRUCTOR NOTES**
-
-Use this page for observations, adjustments, and ideas for the next delivery.
+<span id="notes-from-the-class"></span>
 
 ## Historical and coaching references
 

@@ -9,11 +9,13 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-07'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
 ---
+
+<span id="class-title"></span>
 
 # Choose the Right Answer I
 
@@ -23,12 +25,7 @@ duration_minutes: 120
 
 ## The problem, behavior, and boundaries
 
-**A \| CLASS SNAPSHOT**
-
 The class develops choice among four broad defensive families. It is an assessment and decision lesson, not a test of named techniques.
-
-**CLASS TITLE:** Choose the Right Answer I
-{: #class-title}
 
 **CENTRAL QUESTION:** When an opponent attacks, how do I choose among counterattacking, parry-riposte, evading, or withdrawing?
 {: #central-question}
@@ -40,8 +37,6 @@ The class develops choice among four broad defensive families. It is an assessme
 {: #historical-anchor}
 
 ## Target-action success test
-
-**A \| SUCCESS EVIDENCE**
 
 The target behavior counts only when all four observable conditions are present.
 
@@ -63,8 +58,6 @@ Use the simplest response that solves the present attack. More ambitious actions
 Students will force their favorite response, label the choice only after the fact, or treat retreat as failure even when it is the safest solution.
 
 ## Exact 120-minute plan
-
-**B \| RUN OF SHOW**
 
 Preserve the sequence. If time is lost, compress explanation before removing open sparring or reflection.
 
@@ -229,13 +222,21 @@ Increase uncertainty while preserving the lesson's central information-action re
 
 Show that the same attack may require a different solution at a different distance.
 
- Attacker secretly chooses close edge, normal edge, or stretched entry before a committed high cut.  Defender selects a response suited to actual distance and remains safe.  Either side high cut; no feints; exchange may continue through one immediate answer.  Appropriate clean solution 2; safe disengagement 1; attacker clean hit 1; double 0.  5 minutes each role; 2 minutes transition.
+- Attacker secretly chooses close edge, normal edge, or stretched entry before a committed high cut.
+- Defender selects a response suited to actual distance and remains safe.
+- Either side high cut; no feints; exchange may continue through one immediate answer.
+- Appropriate clean solution 2; safe disengagement 1; attacker clean hit 1; double 0.
+- 5 minutes each role; 2 minutes transition.
 
 ### Game 3 - Decision Under Uncertainty \| 13 minutes
 
 Test whether choices survive a more representative attack environment.
 
- Free onset; designated attacker initiates within eight seconds and may use one feint.  Defender solves the attack with any safe family and continues only while the opportunity remains.  Normal movement; continue to clean hit, double, or safe separation; no bonus for a named technique.  Clean defensive solution 2; safe withdrawal/reset 1; attacker clean hit 1; double 0.  Change attacker every 3 minutes; final minute reset.
+- Free onset; designated attacker initiates within eight seconds and may use one feint.
+- Defender solves the attack with any safe family and continues only while the opportunity remains.
+- Normal movement; continue to clean hit, double, or safe separation; no bonus for a named technique.
+- Clean defensive solution 2; safe withdrawal/reset 1; attacker clean hit 1; double 0.
+- Change attacker every 3 minutes; final minute reset.
 
 **PROGRESSION TRIGGER:** Remove designated attacker and scoring categories.
 {: #progression-trigger}
@@ -260,7 +261,13 @@ Test whether the behavior appears without forced actions or bonus scoring.
 
 ### Coach records
 
- Sees line, distance, and commitment  Choice fits time and geometry  Threat is removed or avoided  Uses simplest adequate response  Changes answer as attack changes  Clean resolution; doubles decline  Chooses freely without bonuses
+- Sees line, distance, and commitment
+- Choice fits time and geometry
+- Threat is removed or avoided
+- Uses simplest adequate response
+- Changes answer as attack changes
+- Clean resolution; doubles decline
+- Chooses freely without bonuses
 
 **FEEDBACK:** Observe during rounds and coach mainly between them. Open sparring is not another constrained game.
 
@@ -378,8 +385,6 @@ Test whether choices survive a more representative attack environment.
 
 ## Plan modifications before the room forces them
 
-**E \| SAFETY AND ADAPTATION**
-
 Preserve the information and decision while reducing uncertainty, speed, distance, or impact.
 
 | CONDITION | PLANNED RESPONSE |
@@ -394,8 +399,6 @@ Preserve the information and decision while reducing uncertainty, speed, distanc
 | Time loss | Compress explanation and one role interval; preserve open transfer and reflection. |
 
 ## What to watch without interrupting every exchange
-
-**F \| INSTRUCTOR OBSERVATION**
 
 Use the checklist to distinguish learning from mere scoring.
 
@@ -415,13 +418,13 @@ Observation -&gt; question -&gt; one cue -&gt; re-test. Name what happened, ask 
 
 ### Class-level success evidence
 
- Cleaner solutions and fewer doubles from Game 1 to Game 3.  Students can name at least one reliable cue.  The target behavior appears selectively in open fencing.  Students can explain why an unsafe score does not satisfy the lesson.  Beginners show safer structure even when they do not score.
+- Cleaner solutions and fewer doubles from Game 1 to Game 3.
+- Students can name at least one reliable cue.
+- The target behavior appears selectively in open fencing.
+- Students can explain why an unsafe score does not satisfy the lesson.
+- Beginners show safer structure even when they do not score.
 
-## Instructor notes
-
-**G \| INSTRUCTOR NOTES**
-
-Use this page for handwritten notes.
+<span id="instructor-notes"></span>
 
 ## Historical and coaching source note
 

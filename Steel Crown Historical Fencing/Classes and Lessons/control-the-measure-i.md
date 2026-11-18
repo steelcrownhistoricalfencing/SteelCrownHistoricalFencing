@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '3.0'
 document_date: '2026-08'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -189,7 +189,11 @@ Use the room's own exchanges to identify effective probing, compact footwork, pr
 
 ### Ask before you explain
 
- What told you the planted fencer could reach you?  How did the edge change when the glove became a sword?  Which movements let you reverse direction without standing up or crossing your feet?  What happened when your body entered before your blade?  Did the touch still count as a good solution if you could not get out?
+- What told you the planted fencer could reach you?
+- How did the edge change when the glove became a sword?
+- Which movements let you reverse direction without standing up or crossing your feet?
+- What happened when your body entered before your blade?
+- Did the touch still count as a good solution if you could not get out?
 
 ### Show three useful contrasts
 
@@ -460,11 +464,7 @@ Teach the moving fencer to respect the extra distance created by a defender's av
 **IF THE ROOM NEEDS LESS:** Slow the lunge, shorten its depth, or return to the fully planted defender.
 {: #if-the-room-needs-less_2}
 
-## Notes from the class
-
-**INSTRUCTOR NOTES**
-
-Use this page for observations, adjustments, and ideas for the next delivery.
+<span id="notes-from-the-class"></span>
 
 ## Historical, boxing, and coaching references
 

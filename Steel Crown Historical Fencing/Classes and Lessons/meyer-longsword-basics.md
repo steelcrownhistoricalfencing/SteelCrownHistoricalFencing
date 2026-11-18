@@ -19,8 +19,6 @@ authors:
 
 [← All classes and lessons](index.md)
 
-The opening tells you where a cut is aimed. The cut name tells you how the blade travels. This review covers those two ideas and how to tell a separate parry from a cut that defends as it strikes.
-
 ## The Four Openings
 
 Meyer divides the body down the middle and across the belt. That gives an upper and a lower opening on each side. He uses the same four-part division for the head itself.

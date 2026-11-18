@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '2.0'
 document_date: '2026-09'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -56,12 +56,9 @@ Use familiar plyometric work to prepare the feet and legs without turning the op
 
 | SECTION | MOVEMENT OPTIONS | COACHING FOCUS |
 | --- | --- | --- |
-| Low-box jumps | Two-foot on/off; single-foot variations; lateral on/off |  |
-|  |  | Quiet landings; stable knees; own the box and the floor |
-| Pogo hops | Quick, low contacts in place or over a short distance |  |
-|  |  | Tall posture; elastic ankles; stop before rhythm gets heavy |
-| Short sprints | Brief accelerations followed by slow walks back |  |
-|  |  | Sharp start; controlled braking; the walk is recovery |
+| Low-box jumps | Two-foot on/off; single-foot variations; lateral on/off | Quiet landings; stable knees; own the box and the floor |
+| Pogo hops | Quick, low contacts in place or over a short distance | Tall posture; elastic ankles; stop before rhythm gets heavy |
+| Short sprints | Brief accelerations followed by slow walks back | Sharp start; controlled braking; the walk is recovery |
 
 **PURPOSE FOR THIS LESSON:** Second intention requires a credible first acceleration followed by enough balance and availability to defend and accelerate again. The warm-up prepares that repeatability without rehearsing the tactical answer in advance.
 {: #purpose-for-this-lesson}
@@ -141,11 +138,8 @@ Use the first sword game to show how a plan can remain responsive to live inform
 | EXAMPLE | WHAT THE FENCER DOES | WHAT IT TEACHES |
 | --- | --- | --- |
 | Empty invitation | A's first attack stops short or cannot land. | B does not need to give a meaningful answer. |
-| Predetermined sequence |  |  |
-|  | A begins the counter-parry before B's riposte has a line. |  |
-|  |  | The plan has replaced perception. |
-| Responsive intention | A attacks credibly, recognizes the reply, and counter-parries the actual line. |  |
-|  |  | The plan prepares attention without deciding the answer early. |
+| Predetermined sequence | A begins the counter-parry before B's riposte has a line. | The plan has replaced perception. |
+| Responsive intention | A attacks credibly, recognizes the reply, and counter-parries the actual line. | The plan prepares attention without deciding the answer early. |
 
 **FEEDBACK RHYTHM:** Watch several exchanges. Name one observable event, ask what the student noticed, give one cue, and let the next exchange test it. Do not stack several technical corrections before the student can re-enter the decision.
 {: #feedback-rhythm}
@@ -245,12 +239,9 @@ The first example is today's lesson. The others show the larger tactical family 
 | --- | --- | --- |
 | Credible attack | Parry followed by riposte | Counter-parry the actual riposte and answer. Today's lesson. |
 | Recoverable attack | Immediate counterattack | Abandon the first finish, parry the counterattack, and riposte. Often called counter-time. |
-| Threat to a protected line | Opponent searches or closes with the blade |  |
-|  |  | Disengage around the committed blade action and finish the newly open line. |
-| Pressure in contact | Opponent presses strongly back |  |
-|  |  | Release or redirect around the committed resistance. |
-| Threat at the edge of measure |  |  |
-|  | Opponent retreats predictably | Use the expected retreat to continue into the new distance without reaching after the old target. |
+| Threat to a protected line | Opponent searches or closes with the blade | Disengage around the committed blade action and finish the newly open line. |
+| Pressure in contact | Opponent presses strongly back | Release or redirect around the committed resistance. |
+| Threat at the edge of measure | Opponent retreats predictably | Use the expected retreat to continue into the new distance without reaching after the old target. |
 
 **NOT AUTOMATICALLY SECOND INTENTION:** An accidental miss followed by another attack, a memorized combination performed regardless of the opponent, or a desperate continuation after being parried does not become second intention merely because it contains multiple actions.
 {: #not-automatically-second-intention}
@@ -306,8 +297,7 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 | --- | --- |
 | Decorative first attack | Let B ignore it. Require the attack to reach safely before rewarding any continuation. |
 | Counter-parry begins early | Have B alternate the riposte line or withhold it. Ask A what information started the defense. |
-| Sequence becomes mechanical |  |
-|  | Shorten explanations, change partners, and return to fast resets with only one new defender choice. |
+| Sequence becomes mechanical | Shorten explanations, change partners, and return to fast resets with only one new defender choice. |
 | Huge defensive action | Slow the reply and ask for the smallest counter-parry that genuinely removes it. |
 | A chases after no reply | Use parry-and-hold more often. Require visible recovery or safe separation. |
 | Doubles increase | Reduce speed and choice. Restore the rule that the final hit counts as learning only when A also survives. |
@@ -315,8 +305,6 @@ Reduce speed, uncertainty, or movement volume while preserving the relationship 
 **FEEDBACK:** Observation -&gt; question -&gt; one cue -&gt; re-test. Correct immediate danger at once; otherwise let the next live exchange test the smallest useful change.
 
 ## Notes from the class
-
-**INSTRUCTOR NOTES**
 
 Record what students actually did, where the decision broke down, and what should change in the next delivery.
 

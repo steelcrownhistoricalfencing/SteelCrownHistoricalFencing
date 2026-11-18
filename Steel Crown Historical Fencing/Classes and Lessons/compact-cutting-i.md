@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-10'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -264,7 +264,5 @@ Protect the distinction between efficient movement and meaningless contact. More
 {: #supporting-references}
 
 ## Notes from the class
-
-**INSTRUCTOR NOTES**
 
 Use this page for observations, adjustments, and ideas for Compact Cutting II.

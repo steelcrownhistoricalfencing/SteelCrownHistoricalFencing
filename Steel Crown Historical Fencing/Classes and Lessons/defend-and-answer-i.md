@@ -9,7 +9,7 @@ audience: instructors
 visibility: public
 version: '2.0'
 document_date: '2026-08'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
@@ -190,7 +190,11 @@ Use the room's own exchanges to distinguish early counterattacks, passive blocks
 
 ### Ask before you explain
 
- Did the original attack actually stop before the answer began?  Where did your hands and sword finish after the parry?  Could you reach an opening from that exact position?  What did the attacker's recovery reveal or close?  If both fencers were hit, did the solution meet the class objective?
+- Did the original attack actually stop before the answer began?
+- Where did your hands and sword finish after the parry?
+- Could you reach an opening from that exact position?
+- What did the attacker's recovery reveal or close?
+- If both fencers were hit, did the solution meet the class objective?
 
 ### Show three useful contrasts
 
@@ -510,11 +514,7 @@ Release the parry-riposte into a freer fencing phrase with a genuine attack and 
 **IF THE ROOM NEEDS LESS:** Return to a known high cut, slower entry, and one obvious recovery opening.
 {: #if-the-room-needs-less_3}
 
-## Notes from the class
-
-**INSTRUCTOR NOTES**
-
-Use this page for observations, adjustments, and ideas for the next delivery.
+<span id="notes-from-the-class"></span>
 
 ## Historical, tournament, and coaching references
 

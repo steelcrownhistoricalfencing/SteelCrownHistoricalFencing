@@ -9,11 +9,13 @@ audience: instructors
 visibility: public
 version: '1.0'
 document_date: '2026-08'
-updated: '2026-11-17'
+updated: '2026-11-18'
 authors:
 - Chris Mineweaser
 duration_minutes: 120
 ---
+
+<span id="class-title"></span>
 
 # Efficient Cutting I
 
@@ -23,12 +25,7 @@ duration_minutes: 120
 
 ## The problem, behavior, and boundaries
 
-**A \| CLASS SNAPSHOT**
-
 This class develops compact diagonal cuts to the upper openings: launch from a usable forward position, cut with real edge alignment and body support, then arrest, redirect, cover, or leave without a large reset. It does not reward wrist taps, uncontrolled doubles, or huge cutting combinations.
-
-**CLASS TITLE:** Efficient Cutting I
-{: #class-title}
 
 **CENTRAL QUESTION:** How can I make a real cut arrive quickly, stay covered, and leave me ready for the next action?
 {: #central-question}
@@ -40,8 +37,6 @@ This class develops compact diagonal cuts to the upper openings: launch from a u
 {: #historical-anchor}
 
 ## Target-action success test
-
-**A \| SUCCESS EVIDENCE**
 
 The target behavior counts only when all four observable conditions are present.
 
@@ -63,8 +58,6 @@ Begin with the sword present enough to threaten. Use the hands and forearms to o
 Students will often load behind the body, lead with a tense shoulder, flick loosely at the target, cut so far past it that the sword must travel back before it can defend, or throw a second cut by habit when the opponent has already recovered. Some will mistake frantic speed for sharpness and score an initial touch while accepting the immediate return.
 
 ## Exact 120-minute plan
-
-**B \| RUN OF SHOW**
 
 Preserve the sequence. If time is lost, compress explanation before removing open sparring or reflection.
 
@@ -227,8 +220,6 @@ Connect the experienced tactical problem to a documented historical principle wi
 
 ## Build the mechanics behind the cut
 
-**D \| HOME TRAINING**
-
 A short 2-3x/week routine for shoulder stability, forearm control, grip balance, trunk control, and controlled solo cutting. This is practice, not a speed test.
 
 Keep every repetition smooth. Begin with no load or a very light object; use a waster or synthetic trainer for solo cutting only in a clear space, never near people, pets, glass, or low ceilings. Stop if wrist, elbow, or shoulder pain increases.
@@ -269,45 +260,29 @@ Increase uncertainty while preserving the lesson's central information-action re
 
 Make the attacker select a compact cut for the opening that actually appears, while the defender tests whether the cut can be recovered safely.
 
- At edge measure, the defender invites one upper line, closes it, or gives ground. The initiator uses
+- At edge measure, the defender invites one upper line, closes it, or gives ground. The initiator uses footwork, then makes one diagonal cut followed by recovery or cover.
 
-footwork, then makes one diagonal cut followed by recovery or cover.
+- Initiator takes only a real upper window with no extra windup and survives the response. Defender returns against overtravel or poor recovery.
 
- Initiator takes only a real upper window with no extra windup and survives the response. Defender
+- One scoring cut only. Defender may use distance or a high cover, but not a pre-frozen parry. Count only a stable forward cover.
 
-returns against overtravel or poor recovery.
+- Selected cut plus covered recovery 2; covered no-cut or exit 1; defender return 1; wrong window, loose tap, double, or accepted return 0.
 
- One scoring cut only. Defender may use distance or a high cover, but not a pre-frozen parry. Count
-
-only a stable forward cover.
-
- Selected cut plus covered recovery 2; covered no-cut or exit 1; defender return 1; wrong window, loose
-
-tap, double, or accepted return 0.
-
- 5 minutes each role; 2 minutes for explanation and reset.
+- 5 minutes each role; 2 minutes for explanation and reset.
 
 ### Game 3 - Cut, Change, or Leave \| 13 minutes
 
 A sharp first cut becomes a second only when the defender genuinely leaves the second opening available.
 
- Free onset just outside measure. Initiator may cut to either upper opening; defender parries, retreats,
+- Free onset just outside measure. Initiator may cut to either upper opening; defender parries, retreats, or covers and returns once. Initiator may redirect once or leave.
 
-or covers and returns once. Initiator may redirect once or leave.
+- Initiator makes a real first cut, then reads the result. Change lines only when the opening exists; defender punishes overtravel and scripting.
 
- Initiator makes a real first cut, then reads the result. Change lines only when the opening exists;
+- Maximum two cuts. The second needs a real path; no looped reset. Halt on clean score, double, or safe separation.
 
-defender punishes overtravel and scripting.
+- First cut plus safe finish 2; compact redirection plus finish 3; covered leave 2; defender hit 1; forced second, double, or afterblow 0.
 
- Maximum two cuts. The second needs a real path; no looped reset. Halt on clean score, double, or safe
-
-separation.
-
- First cut plus safe finish 2; compact redirection plus finish 3; covered leave 2; defender hit 1; forced
-
-second, double, or afterblow 0.
-
- Change initiator every 3 minutes; release the role in the final minute.
+- Change initiator every 3 minutes; release the role in the final minute.
 
 **PROGRESSION TRIGGER:** Either fencer may create the compact-cut sequence in normal onset.
 {: #progression-trigger}
@@ -332,7 +307,13 @@ Test whether the behavior appears without forced actions or bonus scoring.
 
 ### Coach records
 
- Sword begins usable and forward enough to threaten  Diagonal path and edge alignment are clear  Shoulder stays mobile; torso and feet support the action  Can arrest, cover, or redirect from the finish  Second cut appears only when the defender leaves it available  Clean score survives the immediate return  Uses compactness selectively at appropriate measure
+- Sword begins usable and forward enough to threaten
+- Diagonal path and edge alignment are clear
+- Shoulder stays mobile; torso and feet support the action
+- Can arrest, cover, or redirect from the finish
+- Second cut appears only when the defender leaves it available
+- Clean score survives the immediate return
+- Uses compactness selectively at appropriate measure
 
 **FEEDBACK:** Observe during rounds and coach mainly between them. Open sparring is not another constrained game.
 
@@ -454,8 +435,6 @@ A sharp first cut becomes a second only when the defender genuinely leaves the s
 
 ## Plan modifications before the room forces them
 
-**E \| SAFETY AND ADAPTATION**
-
 Preserve the information and decision while reducing uncertainty, speed, distance, or impact.
 
 | CONDITION | PLANNED RESPONSE |
@@ -470,8 +449,6 @@ Preserve the information and decision while reducing uncertainty, speed, distanc
 | Time loss | Compress explanation and one role interval; preserve open transfer and reflection. |
 
 ## What to watch without interrupting every exchange
-
-**F \| INSTRUCTOR OBSERVATION**
 
 Use the checklist to distinguish learning from mere scoring.
 
@@ -491,13 +468,13 @@ Observation -&gt; question -&gt; one cue -&gt; re-test. Name what happened, ask 
 
 ### Class-level success evidence
 
- Cleaner solutions and fewer doubles from Game 1 to Game 3.  Students can name at least one reliable cue.  The target behavior appears selectively in open fencing.  Students can explain why an unsafe score does not satisfy the lesson.  Beginners show safer structure even when they do not score.
+- Cleaner solutions and fewer doubles from Game 1 to Game 3.
+- Students can name at least one reliable cue.
+- The target behavior appears selectively in open fencing.
+- Students can explain why an unsafe score does not satisfy the lesson.
+- Beginners show safer structure even when they do not score.
 
-## Instructor notes
-
-**G \| INSTRUCTOR NOTES**
-
-Use this page for handwritten notes.
+<span id="instructor-notes"></span>
 
 ## Historical and coaching source note
 
