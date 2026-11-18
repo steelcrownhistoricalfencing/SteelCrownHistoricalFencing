@@ -60,6 +60,10 @@
   .sc-document hr { border: 0; border-top: 0.5pt solid #9da4a8; margin: 12pt 0; }
   .sc-table-scroll { overflow: visible; margin: 8pt 0; }
   .sc-document table { border-collapse: collapse; font: 10pt/1.4 "SC PT Serif" !important; table-layout: fixed; width: 100%; }
+  /* Reset dark-theme table surfaces before applying paper row shading. */
+  .sc-document table,
+  .sc-document tbody,
+  .sc-document tbody tr { background: #ffffff !important; color: #202020 !important; }
   .sc-document th { background: #202020 !important; color: #ffffff !important; text-align: left; }
   .sc-document th,
   .sc-document td { border: 0; padding: 6pt !important; overflow-wrap: anywhere; vertical-align: top; }
@@ -94,6 +98,8 @@
   .sc-document .sc-cover p { text-align: center !important; }
   .sc-section { margin: 0 0 24pt; }
   .sc-section-heading { break-inside: avoid; break-after: avoid; margin: 0 0 14pt; }
+  /* Imported activity labels must not strand the heading before its explanation. */
+  .sc-section-heading + p:has(> strong:only-child) { break-after: avoid; }
   .sc-document .sc-section-label { color: #4a0404 !important; font: bold 11pt/1.3 "SC PT Serif" !important; margin: 0 0 8pt !important; text-transform: uppercase; }
   .sc-document .sc-section h2 { border-bottom: 2pt solid #4a0404 !important; margin: 0 0 10pt !important; padding-bottom: 8pt !important; }
   .sc-document .sc-section-subtitle { color: #676767 !important; font: italic 12pt/1.4 "SC PT Serif" !important; margin: 0 !important; }
