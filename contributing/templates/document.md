@@ -6,7 +6,6 @@ summary: Replace with one sentence describing what this material is for.
 type: reference
 audience: mixed
 visibility: public
-status: draft
 version: "0.1"
 updated: 2026-11-17
 authors:

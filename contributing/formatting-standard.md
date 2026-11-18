@@ -5,7 +5,6 @@ summary: A shared system for curriculum, teaching materials, and reference docum
 type: guide
 audience: instructors
 visibility: internal
-status: draft
 version: "0.1"
 updated: 2026-11-17
 authors:
@@ -104,7 +103,7 @@ Short documents use a compact title block. Longer guides may use the sample's ce
 
 Use one document title, then main sections and subheadings without skipped levels. Store headings in sentence case; templates may uppercase a cover title or short label. Do not write whole paragraphs in capitals.
 
-Keep headings with the following paragraph. Avoid single-line paragraph fragments at page edges. Repeat table headers across pages and do not split a short row. Footer format is document type, page number, and an unobtrusive draft marker when applicable. Templates control page breaks; start a new page only when it helps navigation, not automatically for every section.
+Keep headings with the following paragraph. Avoid single-line paragraph fragments at page edges. Repeat table headers across pages and do not split a short row. Footer format is document type and page number. Templates control page breaks; start a new page only when it helps navigation, not automatically for every section.
 
 ## Markdown source and document structure
 
@@ -120,7 +119,6 @@ summary: Use distance changes to invite a readable response.
 type: lesson
 audience: instructors
 visibility: internal
-status: draft
 version: "0.1"
 updated: 2026-11-17
 authors:
@@ -130,9 +128,9 @@ historical_lens: null
 ---
 ```
 
-Required fields are id, title, summary, type, audience, visibility, status, version, updated, and authors. The final two fields above are optional lesson fields; omit them when irrelevant. Other specialist fields need a documented purpose and schema before use.
+Required fields are id, title, summary, type, audience, visibility, version, updated, and authors. The final two fields above are optional lesson fields; omit them when irrelevant. Other specialist fields need a documented purpose and schema before use.
 
-Use a stable lowercase-hyphen id and filename, such as distance-as-a-feint.md. Keep an existing public URL stable even if the title changes. Allowed types are lesson, reference, curriculum, and guide. Allowed status values are draft, review, approved, and archived. Audience is students, instructors, or mixed; visibility is public or internal. These labels do not provide access control.
+Use a stable lowercase-hyphen id and filename, such as distance-as-a-feint.md. Keep an existing public URL stable even if the title changes. Allowed types are lesson, reference, curriculum, and guide. Audience is students, instructors, or mixed; visibility is public or internal. These labels do not provide access control.
 
 ### Body and assets
 
@@ -190,7 +188,7 @@ Record the creator, source, permission or license, and any adaptations for borro
 
 ### Safety must remain local and visible
 
-Put an activity's safety requirements beside its instructions, even if a broader safety policy is also linked. State the equipment, contact constraints, stop conditions, and supervision requirements that actually apply. Formatting a document is not approval of its training content.
+Put an activity's safety requirements beside its instructions, even if a broader safety policy is also linked. State the equipment, contact constraints, stop conditions, and supervision requirements that actually apply. Reformatting a document does not review its training content.
 
 Do not infer new safety limits, modify technical instructions, or remove warnings during migration. Flag unclear or contradictory material for an instructor's decision.
 
@@ -223,7 +221,7 @@ The build should embed fonts, preserve live links, and produce searchable text. 
 
 ## Review, publishing, and adoption
 
-The repository holds the editable Markdown, assets, shared styles, and build configuration. Published pages and PDFs are generated from an identified approved revision. Generated files may be deployment artifacts rather than committed files; decide this when inspecting the existing website.
+The repository holds the editable Markdown, assets, shared styles, and build configuration. Published pages and PDFs are generated from an identified committed revision. Generated files may be deployment artifacts rather than committed files; decide this when inspecting the existing website.
 
 ### Proposed publishing workflow
 
@@ -232,9 +230,9 @@ The repository holds the editable Markdown, assets, shared styles, and build con
 | Plan and write content | Manual | Develop the material here or in an editor; choose its document type. |
 | Save a proposed change | Manual trigger | With repository write access configured, an assistant or author creates a reviewable change. Otherwise export the Markdown and add it manually. |
 | Validate and preview | Automatic after setup | Check the schema and links; generate HTML and a preview PDF from the same revision. |
-| Review and approve | Manual | Check teaching meaning, sources, safety, figures, and the rendered layouts. |
-| Publish | Automatic after approval | Merge or release triggers website deployment and a release PDF, if configured. |
-| Print | Manual | Open the approved PDF, choose printer and settings, and print. |
+| Review | Manual | Check teaching meaning, sources, safety, figures, and the rendered layouts before committing. A committed page is treated as reviewed; there is no separate per-document approval status. |
+| Publish | Automatic after merge | Merge or release triggers website deployment and a release PDF, if configured. |
+| Print | Manual | Open the published PDF, choose printer and settings, and print. |
 
 Automation here is a proposed configuration, not a claim that it is connected now. A chat response alone does not commit or publish content. Internal material must be excluded from public builds or protected by real access control; an internal metadata label is not sufficient.
 

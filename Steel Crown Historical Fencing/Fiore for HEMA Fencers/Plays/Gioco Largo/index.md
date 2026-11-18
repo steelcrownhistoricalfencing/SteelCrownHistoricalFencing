@@ -6,7 +6,6 @@ summary: Wide play at extended measure, where the blades first make contact near
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

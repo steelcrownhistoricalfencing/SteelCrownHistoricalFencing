@@ -6,7 +6,6 @@ summary: A joint lock that drives the arm high, leading naturally into a throw.
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

@@ -6,7 +6,6 @@ summary: Background on Fiore dei Liberi and the historical context of the Flower
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

@@ -6,7 +6,6 @@ summary: The standards all Steel Crown instructors are expected to uphold.
 type: guide
 audience: instructors
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

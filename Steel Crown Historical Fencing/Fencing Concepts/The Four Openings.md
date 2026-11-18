@@ -6,7 +6,6 @@ summary: How the body is divided into targets, and why that vocabulary matters f
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

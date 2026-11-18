@@ -6,7 +6,6 @@ summary: Overview of the Montante and its role in Godinho's system.
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

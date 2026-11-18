@@ -1,6 +1,6 @@
 # steel-crown-v1 migration checklist
 
-Migration of existing pages to the shared document format (November 17, 2026). The [workflow](document-workflow.md) describes the conventions used. All converted pages are `status: review`, `version: "0.1"`, `visibility: public`, with compact title blocks and the default section labels. Only the pilot has a separate print cover.
+Migration of existing pages to the shared document format (November 17, 2026). The [workflow](document-workflow.md) describes the conventions used. All converted pages are `version: "0.1"` and `visibility: public`, with compact title blocks and the default section labels. Only the pilot has a separate print cover. Pages carry no approval status: a committed page is treated as reviewed.
 
 ## Converted (57 including the pilot)
 
@@ -32,7 +32,6 @@ The source changes are mechanical. Front matter was added and a leading byte-ord
 ## Unresolved questions for the owner
 
 - **Authorship.** Fiore and Montante pages credit Chris Mineweaser because their collection index pages say so. Confirm this is right for every page, including the Montante source-text translations (the translator is not identified on the site).
-- **Status.** Every converted page is marked "In review", and Material shows an unlabeled status icon beside each one in the navigation (the pilot already had this). Decide whether to label the icon, hide it, or approve pages individually.
 - **Section labels.** Sections use the default label (`01 | REFERENCE`, `01 | GUIDE`). Custom labels and subtitles were not invented; add them per page only where useful.
 - **Who We Are** still contains placeholder "Lorem ipsum" bios (pre-existing; not changed).
 - **Historical Longsword Traditions** omits its collapsed card text when printed (pre-existing; not changed).

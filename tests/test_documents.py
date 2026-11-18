@@ -35,6 +35,7 @@ class DocumentTests(unittest.TestCase):
                 self.assertIsNotNone(article.select_one('.sc-document'))
                 self.assertEqual(len(article.find_all('h1')), 1)
                 self.assertEqual(len(article.select('[data-sc-print]')), 1)
+                self.assertNotIn('In review', article.select_one('.sc-metadata').get_text())
 
     def test_excluded_pages_keep_legacy_layout(self):
         for name in EXCLUDED:

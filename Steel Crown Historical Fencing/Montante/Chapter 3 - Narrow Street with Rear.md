@@ -6,7 +6,6 @@ summary: Source text and summary for Godinho's Chapter 3 of the montante.
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

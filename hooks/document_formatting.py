@@ -27,12 +27,13 @@ def on_page_content(html, page, config, files, **kwargs):
         raise PluginError(f"{page.file.src_uri}: internal material cannot be published here")
     if "format" not in meta:
         return html
-    required = ("id", "title", "summary", "type", "audience", "visibility", "status", "version", "updated", "authors")
+    if "status" in meta:
+        raise PluginError(f"{page.file.src_uri}: remove status; committed pages are treated as reviewed")
+    required = ("id", "title", "summary", "type", "audience", "visibility", "version", "updated", "authors")
     if meta["format"] != "steel-crown-v1" or any(not meta.get(key) for key in required):
         raise PluginError(f"{page.file.src_uri}: missing metadata or unsupported format")
     choices = {"type": {"lesson", "reference", "curriculum", "guide"},
-               "audience": {"students", "instructors", "mixed"}, "visibility": {"public"},
-               "status": {"draft", "review", "approved", "archived"}}
+               "audience": {"students", "instructors", "mixed"}, "visibility": {"public"}}
     if any(not isinstance(meta[key], str) or meta[key] not in values for key, values in choices.items()):
         raise PluginError(f"{page.file.src_uri}: unsupported metadata value")
     if not all(isinstance(meta[key], str) for key in ("id", "title", "summary", "version")):
@@ -48,7 +49,6 @@ def on_page_content(html, page, config, files, **kwargs):
     heading = re.findall(r"<h1(?:\s[^>]*)?>(.*?)</h1>", html, re.DOTALL)
     if len(heading) != 1 or unescape(re.sub(r"<[^>]*>", "", heading[0])) != meta["title"]:
         raise PluginError(f"{page.file.src_uri}: use one H1 matching title")
-    status = {"draft": "Draft", "review": "In review", "approved": "Approved", "archived": "Archived"}[meta["status"]]
     presentation = meta.get("presentation", {})
     if not isinstance(presentation, dict) or not isinstance(presentation.get("sections", {}), dict):
         raise PluginError(f"{page.file.src_uri}: presentation and sections must be mappings")
@@ -56,7 +56,7 @@ def on_page_content(html, page, config, files, **kwargs):
         raise PluginError(f"{page.file.src_uri}: presentation.cover must be true or false")
     details = " | ".join((", ".join(meta["authors"]),
                           date.fromisoformat(str(meta["updated"])).strftime("%B %Y"),
-                          f"Version {meta['version']}", status))
+                          f"Version {meta['version']}"))
     logo = get_relative_url("assets/steel-crown-print-logo.png", page.url)
     cover_class = "sc-cover--separate" if presentation.get("cover", False) else "sc-cover--compact"
     title = re.search(r"<h1(?:\s[^>]*)?>.*?</h1>", html, re.DOTALL)
@@ -125,5 +125,5 @@ def on_page_content(html, page, config, files, **kwargs):
             rule.decompose()
     html = str(soup)
     return (f'<div class="sc-document" data-sc-id="{escape(meta["id"])}" '
-            f'data-sc-type="{escape(meta["type"].upper())}" data-sc-status="{escape(status.upper())}">'
+            f'data-sc-type="{escape(meta["type"].upper())}">'
             + html + '</div>')

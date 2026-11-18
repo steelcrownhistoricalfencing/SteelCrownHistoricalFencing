@@ -6,7 +6,6 @@ summary: A reference on Mezzano Destra, the Horizontal Cut from the Right, in Fi
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

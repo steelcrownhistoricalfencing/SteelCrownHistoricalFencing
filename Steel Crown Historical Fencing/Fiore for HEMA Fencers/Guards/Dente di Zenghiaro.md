@@ -6,7 +6,6 @@ summary: A reference on Dente di Zenghiaro, the Wild Boar’s Tooth, in Fiore's 
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

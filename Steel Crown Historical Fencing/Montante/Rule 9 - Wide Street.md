@@ -6,7 +6,6 @@ summary: Source text and summary for Godinho's Rule 9 of the montante.
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

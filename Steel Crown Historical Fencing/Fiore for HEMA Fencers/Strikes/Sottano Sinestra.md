@@ -6,7 +6,6 @@ summary: A reference on Sottano Sinestra, the Rising Cut from the Left, in Fiore
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

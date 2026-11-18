@@ -6,7 +6,6 @@ summary: A reference on Posta di Fenestra, the Window Guard, in Fiore's longswor
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

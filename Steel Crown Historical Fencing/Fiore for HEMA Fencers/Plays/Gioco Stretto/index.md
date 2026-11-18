@@ -6,7 +6,6 @@ summary: Narrow play at compressed measure, where contact is at the mid-blade or
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

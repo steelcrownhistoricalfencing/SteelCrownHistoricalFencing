@@ -6,7 +6,6 @@ summary: A joint lock at shoulder height, applied through a spiraling arm wrap.
 type: reference
 audience: mixed
 visibility: public
-status: review
 version: "0.1"
 updated: 2026-11-17
 authors:

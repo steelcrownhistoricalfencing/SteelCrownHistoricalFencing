@@ -4,7 +4,7 @@ This repository is the public Steel Crown website and curriculum source.
 
 - Read `contributing/formatting-standard.md` and `contributing/document-workflow.md` before creating or reformatting teaching material.
 - Keep Markdown as the master. Shared hooks and styles control appearance; generated PDFs and `site/` are not editable masters.
-- The formatting standard is a draft. Do not promote it or a document to approved status without the owner's approval.
+- Documents have no approval status: a committed page is treated as reviewed. Do not add a `status` field. The formatting standard itself is still labeled draft 0.1.
 - New or explicitly migrated documents opt in with `format: steel-crown-v1`. Do not bulk-convert legacy material as an incidental cleanup.
 - Preserve published paths, links, historical terminology, citations, warnings, and technical meaning. Flag substantive issues separately.
 - Never resolve the existing competing wording in `Posta di Donna Destra.md` without an instructor's decision.
