@@ -28,12 +28,14 @@ Lesson plans from Steel Crown classes. Open a lesson to read it online, or use *
 
 ## Reading and decision-making
 
+- [Guards with a Purpose I](guards-with-a-purpose-i.md)
 - [Choose the Right Answer I](choose-the-right-answer-i.md)
 - [Solve the Bind I](solve-the-bind-i.md)
 - [Decisive Action I](decisive-action-i.md)
 
 ## Review and reference sheets
 
+- [Meyer Longsword Guards](meyer-longsword-guards.md)
 - [Meyer Longsword Basics](meyer-longsword-basics.md)
 - [Meyer Longsword Cuts and Parries](meyer-longsword-cuts-and-parries.md)
 - [Fencing Actions Quick Reference](fencing-actions-quick-reference.md)

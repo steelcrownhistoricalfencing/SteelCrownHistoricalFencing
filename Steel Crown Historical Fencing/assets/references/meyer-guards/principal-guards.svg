@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 1052" role="img" aria-labelledby="title desc">
+<title id="title">Meyer's four principal guards</title>
+<desc id="desc">Abstract side views compare hilt height and sword direction, not edge rotation, exact grip, or feet.</desc>
+<rect width="760" height="1052" fill="#ffffff"/>
+<g fill="#202020" font-family="Arial, sans-serif">
+<g transform="translate(0 0)">
+<text x="24" y="38" font-size="25" font-weight="700">Ochs / Ox</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L98 215L136.0099848190943 223.3841076157544M138 280L110 205L150.00262758397218 223.83792305677747" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M122.01734205421644 222.93029217473133L155 224" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M155 224L340 230" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M154.41652300439893 241.9905406977001L155.58347699560107 206.0094593022999" stroke="#202020" stroke-width="5"/>
+<circle cx="141.00735723512213" cy="223.54618455897693" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">High hilt; point forward</text>
+</g>
+<g transform="translate(380 0)">
+<text x="24" y="38" font-size="25" font-weight="700">Pflug / Plow</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L153 335L162.7228894915986 361.2964549533954M138 280L165 325L173.979707760947 352.9727513035251" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M151.4660712222502 369.6201586032657L178 350" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M178 350L320 245" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M188.7019046926904 364.4730520605908L167.2980953073096 335.5269479394092" stroke="#202020" stroke-width="5"/>
+<circle cx="166.7431817306516" cy="358.3237036498703" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">Low hilt; point rising</text>
+</g>
+<g transform="translate(0 500)">
+<text x="24" y="38" font-size="25" font-weight="700">Tag / High Guard</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L83 245L150 214M138 280L95 235L150 200" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M150 228L150 195" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M150 195L150 60" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M168 195L132 195" stroke="#202020" stroke-width="5"/>
+<circle cx="150" cy="209" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">Hilt overhead; point up</text>
+</g>
+<g transform="translate(380 500)">
+<text x="24" y="38" font-size="25" font-weight="700">Alber / Fool</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L153 315L169.58289267905923 313.89537025135036M138 280L165 305L180.94286649448927 322.07772901351325" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M158.2229188636292 305.71301148918747L185 325" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M185 325L328 428" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M174.47982444864772 339.6056806198386L195.52017555135228 310.3943193801614" stroke="#202020" stroke-width="5"/>
+<circle cx="173.64002618456996" cy="316.8176412378371" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">Point low in front</text>
+</g>
+<text x="24" y="1032" font-size="22">Landmarks only · facing right · not to scale · read formation text</text>
+</g>
+</svg>
+

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 552" role="img" aria-labelledby="title desc">
+<title id="title">Iron Gate is not Crossed Guard</title>
+<desc id="desc">Iron Gate has low hands and rising point. Crossed Guard has descending point and crossed hands, with hand detail explained in the prose.</desc>
+<rect width="760" height="552" fill="#ffffff"/>
+<g fill="#202020" font-family="Arial, sans-serif">
+<g transform="translate(0 0)">
+<text x="24" y="38" font-size="25" font-weight="700">Eisenport / Iron Gate</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L141 333L162.7343155770366 369.5495118608024M138 280L153 323L173.2458725202728 360.3025031212638" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M152.22275863380042 378.79652060034095L177 357" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M177 357L310 240" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M188.88901123654963 370.51485892701794L165.11098876345037 343.48514107298206" stroke="#202020" stroke-width="5"/>
+<circle cx="166.48844305676383" cy="366.2470087395386" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">Low hilt; point rises</text>
+</g>
+<g transform="translate(380 0)">
+<text x="24" y="38" font-size="25" font-weight="700">Schrankhut / Crossed</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L140 322L178.25624466127212 311.8809608130325M138 280L152 312L188.38322227928214 321.5476212665875" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M168.12926704326213 302.2143003594775L192 325" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M192 325L302 430" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M179.57143655971498 338.0203997945843L204.42856344028502 311.9796002054157" stroke="#202020" stroke-width="5"/>
+<circle cx="181.87302238198998" cy="315.333339546445" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">Point down; hands crossed</text>
+</g>
+<text x="24" y="532" font-size="22">Landmarks only · facing right · not to scale · read formation text</text>
+</g>
+</svg>
+

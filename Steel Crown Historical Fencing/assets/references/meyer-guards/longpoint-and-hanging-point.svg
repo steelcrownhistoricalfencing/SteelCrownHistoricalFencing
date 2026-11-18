@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 552" role="img" aria-labelledby="title desc">
+<title id="title">Longpoint and Hanging Point</title>
+<desc id="desc">Longpoint extends the point forward. Hanging Point has hands extended at face height with the blade descending.</desc>
+<rect width="760" height="552" fill="#ffffff"/>
+<g fill="#202020" font-family="Arial, sans-serif">
+<g transform="translate(0 0)">
+<text x="24" y="38" font-size="25" font-weight="700">Langort / Longpoint</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L161 273L196 248M138 280L173 263L210 248" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M182 248L215 248" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M215 248L350 248" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M215 266L215 230" stroke="#202020" stroke-width="5"/>
+<circle cx="201" cy="248" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">Point extends forward</text>
+</g>
+<g transform="translate(380 0)">
+<text x="24" y="38" font-size="25" font-weight="700">Hangetort</text>
+<path d="M30 440H350" stroke="#9da4a8" stroke-width="2"/>
+<circle cx="125" cy="240" r="25" fill="#f0f0ed" stroke="#676767" stroke-width="3"/>
+<path d="M125 266V350M125 350L72 430H52M125 350L190 430H214" fill="none" stroke="#676767" stroke-width="7" stroke-linecap="round"/>
+<path d="M115 280L165 266L207.99821392791753 230.2705352751715M138 280L177 256L216.8416352441888 241.12382507241355" fill="none" stroke="#676767" stroke-width="6" stroke-linecap="round"/>
+<path d="M199.15479261164623 219.41724547792944L220 245" stroke="#202020" stroke-width="7" stroke-linecap="round"/>
+<path d="M220 245L330 380" stroke="#202020" stroke-width="6" stroke-linecap="round"/>
+<path d="M206.04577026068878 256.3701131209202L233.95422973931122 233.62988687907975" stroke="#202020" stroke-width="5"/>
+<circle cx="211.1565786837287" cy="234.14671020275796" r="10" fill="#fff" stroke="#4a0404" stroke-width="3"/>
+<text x="24" y="474" font-size="23">High hands; blade descends</text>
+</g>
+<text x="24" y="532" font-size="22">Landmarks only · facing right · not to scale · read formation text</text>
+</g>
+</svg>
+
