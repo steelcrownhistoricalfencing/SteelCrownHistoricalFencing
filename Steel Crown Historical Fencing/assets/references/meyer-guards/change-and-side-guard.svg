@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 890" role="img" aria-labelledby="title desc">
+<title id="title">Low side positions: Change and Side Guard</title><desc id="desc">Front three-quarter reconstructions. R labels the fencer's right hand and L the left. Solid right arm and dashed left arm trace each shoulder to its hand. Body centerline shows lateral placement. Grip details remain schematic.</desc>
+<rect width="1040" height="890" fill="#fff"/>
+<g fill="#202020" font-family="Arial, sans-serif">
+<g transform="translate(0 0)"><title>Wechsel / Change</title>
+<text x="22" y="42" font-size="30" font-weight="700">Wechsel / Change</text>
+<path d="M40 676H490" stroke="#9da4a8" stroke-width="3"/>
+<polygon points="177.0 372.1 303.0 360.9 280.5 494.1 199.5 501.4" fill="#f0f0ed" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 361.3 240.0 503.0" fill="none" stroke="#676767" stroke-width="3" stroke-dasharray="7 7"/>
+<polyline points="199.5 501.4 211.5 588.6 227.0 670.6" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="280.5 494.1 279.0 563.3 270.5 634.6" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="227.0 670.6 241.0 674.8" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<polyline points="270.5 634.6 284.5 638.9" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="240" cy="303.5" rx="27" ry="34" fill="#fff" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 338.1 240.0 359.1" fill="none" stroke="#676767" stroke-width="9"/>
+<path d="M248 296L264 305L251 311" fill="none" stroke="#676767" stroke-width="3"/>
+<text x="174" y="391" font-size="28" fill="#676767">R</text><text x="283" y="381" font-size="28" fill="#676767">L</text>
+<polyline points="303.0 360.9 350.0 427.5 326.3 444.6" fill="none" stroke="#202020" stroke-width="9" stroke-dasharray="12 7" stroke-linecap="round"/>
+<polyline points="177.0 372.1 249.5 434.1 346.3 477.0" fill="none" stroke="#4a0404" stroke-width="10" stroke-linecap="round"/>
+<line x1="316.554142601804" y1="428.83113862995623" x2="357" y2="494.35" stroke="#202020" stroke-width="10" stroke-linecap="round"/>
+<line x1="357" y1="494.35" x2="475" y2="685.5" stroke="#202020" stroke-width="6"/>
+<line x1="376.57124803469827" y1="482.2683506769846" x2="337.42875196530173" y2="506.43164932301545" stroke="#202020" stroke-width="7"/>
+<circle cx="316.554142601804" cy="428.83113862995623" r="10" fill="#f0f0ed" stroke="#202020" stroke-width="3"/><ellipse cx="346.30741700967235" cy="477.02892170677" rx="12" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<path d="M346.30741700967235 477.02892170677L299.30741700967235 444.02892170677" stroke="#676767" stroke-width="2.8"/>
+<rect x="280.30741700967235" y="422.02892170677" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="299.30741700967235" y="451.02892170677" text-anchor="middle" font-size="28" font-weight="700">R</text><ellipse cx="326.3169357668858" cy="444.64603620203576" rx="12" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<path d="M326.3169357668858 444.64603620203576L368.3169357668858 479.64603620203576" stroke="#676767" stroke-width="2.8"/>
+<rect x="349.3169357668858" y="457.64603620203576" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="368.3169357668858" y="486.64603620203576" text-anchor="middle" font-size="28" font-weight="700">L</text><text x="22" y="718" font-size="28">LEFT-side low example; point down.</text><text x="22" y="754" font-size="28">Short edge faces the OPPONENT.</text></g>
+<g transform="translate(520 0)"><title>Nebenhut / Side Guard</title>
+<text x="22" y="42" font-size="30" font-weight="700">Nebenhut / Side Guard</text>
+<path d="M40 676H490" stroke="#9da4a8" stroke-width="3"/>
+<polygon points="177.0 372.1 303.0 360.9 280.5 494.1 199.5 501.4" fill="#f0f0ed" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 361.3 240.0 503.0" fill="none" stroke="#676767" stroke-width="3" stroke-dasharray="7 7"/>
+<polyline points="199.5 501.4 162.0 573.8 144.5 645.9" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="280.5 494.1 328.5 578.2 353.0 659.4" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="144.5 645.9 158.5 650.1" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<polyline points="353.0 659.4 367.0 663.6" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="240" cy="303.5" rx="27" ry="34" fill="#fff" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 338.1 240.0 359.1" fill="none" stroke="#676767" stroke-width="9"/>
+<path d="M248 296L264 305L251 311" fill="none" stroke="#676767" stroke-width="3"/>
+<text x="174" y="391" font-size="28" fill="#676767">R</text><text x="283" y="381" font-size="28" fill="#676767">L</text>
+<polyline points="303.0 360.9 252.5 433.3 148.7 443.0" fill="none" stroke="#202020" stroke-width="9" stroke-dasharray="12 7" stroke-linecap="round"/>
+<polyline points="177.0 372.1 146.0 439.8 160.6 479.2" fill="none" stroke="#4a0404" stroke-width="10" stroke-linecap="round"/>
+<line x1="142.88332707350622" y1="425.33588152088544" x2="167" y2="498.6" stroke="#202020" stroke-width="10" stroke-linecap="round"/>
+<line x1="167" y1="498.6" x2="229" y2="686.95" stroke="#202020" stroke-width="6"/>
+<line x1="188.84682040406003" y1="491.4085857974424" x2="145.15317959593997" y2="505.79141420255763" stroke="#202020" stroke-width="7"/>
+<circle cx="142.88332707350622" cy="425.33588152088544" r="10" fill="#f0f0ed" stroke="#202020" stroke-width="3"/><ellipse cx="160.6243278470189" cy="479.2313249997743" rx="12" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<path d="M160.6243278470189 479.2313249997743L113.62432784701889 446.2313249997743" stroke="#676767" stroke-width="2.8"/>
+<rect x="94.62432784701889" y="424.2313249997743" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="113.62432784701889" y="453.2313249997743" text-anchor="middle" font-size="28" font-weight="700">R</text><ellipse cx="148.70459295231507" cy="443.02032391239584" rx="12" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<path d="M148.70459295231507 443.02032391239584L190.70459295231507 478.02032391239584" stroke="#676767" stroke-width="2.8"/>
+<rect x="171.70459295231507" y="456.02032391239584" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="190.70459295231507" y="485.02032391239584" text-anchor="middle" font-size="28" font-weight="700">L</text><text x="22" y="718" font-size="28">Sword beside the RIGHT side, low.</text><text x="22" y="754" font-size="28">Short edge faces the FENCER.</text></g>
+<text x="22" y="815" font-size="28">R = fencer's RIGHT hand (solid arm); L = LEFT hand (dashed arm).</text>
+<text x="22" y="856" font-size="28">Front three-quarter view · right-handed grip · not to scale.</text>
+</g></svg>

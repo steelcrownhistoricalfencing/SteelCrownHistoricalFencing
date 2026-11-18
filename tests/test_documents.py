@@ -31,7 +31,7 @@ class DocumentTests(unittest.TestCase):
 
     def test_migrated_pages(self):
         sources = [p for p in DOCS.rglob('*.md') if 'format: steel-crown-v1' in p.read_text(encoding='utf-8')]
-        self.assertEqual(len(sources), 74)
+        self.assertEqual(len(sources), 76)
         for source in sources:
             with self.subTest(source=str(source)):
                 article = built(source)
@@ -51,9 +51,9 @@ class DocumentTests(unittest.TestCase):
     def test_lesson_collection(self):
         lessons = list((DOCS / 'Classes and Lessons').glob('*.md'))
         pages = [p for p in lessons if p.name != 'index.md']
-        self.assertEqual(len(pages), 17)
-        self.assertEqual(sum('type: lesson' in p.read_text() for p in pages), 14)
-        self.assertEqual(sum('type: reference' in p.read_text() for p in pages), 3)
+        self.assertEqual(len(pages), 19)
+        self.assertEqual(sum('type: lesson' in p.read_text() for p in pages), 15)
+        self.assertEqual(sum('type: reference' in p.read_text() for p in pages), 4)
         index = (DOCS / 'Classes and Lessons/index.md').read_text(encoding='utf-8')
         for page in pages:
             with self.subTest(page=page.name):
@@ -75,6 +75,41 @@ class DocumentTests(unittest.TestCase):
                 metadata = built(source).select_one('.sc-metadata').get_text()
                 self.assertIn(date.fromisoformat(month + '-01').strftime('%B %Y'), metadata)
                 self.assertIn('Version ' + version, metadata)
+
+    def test_guard_lesson_and_reference(self):
+        import xml.etree.ElementTree as ET
+        reference = DOCS / 'Classes and Lessons/meyer-longsword-guards.md'
+        lesson = DOCS / 'Classes and Lessons/guards-with-a-purpose-i.md'
+        text = reference.read_text()
+        for name in ['Ochs', 'Pflug', 'Tag', 'Alber', 'Langort', 'Hangetort',
+                     'Zornhut', 'Wechsel', 'Nebenhut', 'Eisenport', 'Schlüssel',
+                     'Einhorn', 'Schrankhut']:
+            self.assertIn(name, text)
+        images = built(reference).select('img[src$=".svg"]')
+        self.assertEqual(len(images), 7)
+        for image in images:
+            self.assertTrue(image.get('alt'))
+            filename = image['src'].rsplit('/', 1)[-1]
+            svg = ET.parse(DOCS / 'assets/references/meyer-guards' / filename)
+            self.assertTrue(svg.getroot().get('viewBox'))
+            _, _, width, height = map(float, svg.getroot().get('viewBox').split())
+            # Shared Letter print styles allow 6.5in width and cap diagrams at 7in high.
+            scale = min(6.5 * 72 / width, 7 * 72 / height)
+            for label in svg.getroot().iter('{http://www.w3.org/2000/svg}text'):
+                self.assertGreaterEqual(float(label.get('font-size')) * scale, 10)
+            labels = ' '.join(svg.getroot().itertext())
+            self.assertIn('fencer', labels)
+            self.assertIn('RIGHT hand', labels)
+            self.assertIn('LEFT hand', labels)
+            self.assertIn('three-quarter', labels)
+        self.assertIn('## Look-alike guards: what actually changes?', text)
+        self.assertIn('outlines can overlap', text)
+        lesson_text = lesson.read_text()
+        self.assertIn('duration_minutes: 120', lesson_text)
+        self.assertIn('Game 1: Make it earn its place', lesson_text)
+        self.assertIn('Game 2: Offer, read, leave', lesson_text)
+        self.assertIn('(meyer-longsword-guards.md)', lesson_text)
+        self.assertIn('(guards-with-a-purpose-i.md)', text)
 
     def test_lesson_import_readability(self):
         for source in (DOCS / 'Classes and Lessons').glob('*.md'):

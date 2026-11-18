@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 890" role="img" aria-labelledby="title desc">
+<title id="title">Right shoulder and high right: Wrath Guard and Unicorn</title><desc id="desc">Front three-quarter reconstructions. R labels the fencer's right hand and L the left. Solid right arm and dashed left arm trace each shoulder to its hand. Body centerline shows lateral placement. Grip details remain schematic.</desc>
+<rect width="1040" height="890" fill="#fff"/>
+<g fill="#202020" font-family="Arial, sans-serif">
+<g transform="translate(0 0)"><title>Zornhut / Wrath Guard</title>
+<text x="22" y="42" font-size="30" font-weight="700">Zornhut / Wrath Guard</text>
+<path d="M40 676H490" stroke="#9da4a8" stroke-width="3"/>
+<polygon points="177.0 372.1 303.0 360.9 280.5 494.1 199.5 501.4" fill="#f0f0ed" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 361.3 240.0 503.0" fill="none" stroke="#676767" stroke-width="3" stroke-dasharray="7 7"/>
+<polyline points="199.5 501.4 162.0 573.8 144.5 645.9" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="280.5 494.1 328.5 578.2 353.0 659.4" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="144.5 645.9 158.5 650.1" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<polyline points="353.0 659.4 367.0 663.6" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="240" cy="303.5" rx="27" ry="34" fill="#fff" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 338.1 240.0 359.1" fill="none" stroke="#676767" stroke-width="9"/>
+<path d="M248 296L264 305L251 311" fill="none" stroke="#676767" stroke-width="3"/>
+<text x="174" y="391" font-size="28" fill="#676767">R</text><text x="283" y="381" font-size="28" fill="#676767">L</text>
+<polyline points="303.0 360.9 207.5 349.8 170.2 257.6" fill="none" stroke="#202020" stroke-width="9" stroke-dasharray="12 7" stroke-linecap="round"/>
+<polyline points="177.0 372.1 106.5 364.9 150.9 285.1" fill="none" stroke="#4a0404" stroke-width="10" stroke-linecap="round"/>
+<line x1="179.67179406246743" y1="244.1040787012659" x2="140.5" y2="299.9" stroke="#202020" stroke-width="10" stroke-linecap="round"/>
+<line x1="140.5" y1="299.9" x2="38" y2="445.9" stroke="#202020" stroke-width="6"/>
+<line x1="159.32414459511406" y1="313.1155809657479" x2="121.67585540488594" y2="286.6844190342521" stroke="#202020" stroke-width="7"/>
+<circle cx="179.67179406246743" cy="244.1040787012659" r="10" fill="#f0f0ed" stroke="#202020" stroke-width="3"/><ellipse cx="150.8557616486983" cy="285.1493541394151" rx="12" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<path d="M150.8557616486983 285.1493541394151L103.85576164869829 252.1493541394151" stroke="#676767" stroke-width="2.8"/>
+<rect x="84.85576164869829" y="230.1493541394151" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="103.85576164869829" y="259.1493541394151" text-anchor="middle" font-size="28" font-weight="700">R</text><ellipse cx="170.2165334266994" cy="257.5720597044086" rx="12" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<path d="M170.2165334266994 257.5720597044086L212.2165334266994 292.5720597044086" stroke="#676767" stroke-width="2.8"/>
+<rect x="193.2165334266994" y="270.5720597044086" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="212.2165334266994" y="299.5720597044086" text-anchor="middle" font-size="28" font-weight="700">L</text><text x="22" y="718" font-size="28">Hands at the RIGHT shoulder.</text><text x="22" y="754" font-size="28">Blade hangs BEHIND, not upright.</text></g>
+<g transform="translate(520 0)"><title>Einhorn / Unicorn</title>
+<text x="22" y="42" font-size="30" font-weight="700">Einhorn / Unicorn</text>
+<path d="M40 676H490" stroke="#9da4a8" stroke-width="3"/>
+<polygon points="177.0 372.1 303.0 360.9 280.5 494.1 199.5 501.4" fill="#f0f0ed" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 361.3 240.0 503.0" fill="none" stroke="#676767" stroke-width="3" stroke-dasharray="7 7"/>
+<polyline points="199.5 501.4 162.0 573.8 144.5 645.9" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="280.5 494.1 328.5 578.2 353.0 659.4" fill="none" stroke="#676767" stroke-width="13" stroke-linecap="round"/>
+<polyline points="144.5 645.9 158.5 650.1" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<polyline points="353.0 659.4 367.0 663.6" fill="none" stroke="#676767" stroke-width="15" stroke-linecap="round"/>
+<ellipse cx="240" cy="303.5" rx="27" ry="34" fill="#fff" stroke="#676767" stroke-width="4"/>
+<polyline points="240.0 338.1 240.0 359.1" fill="none" stroke="#676767" stroke-width="9"/>
+<path d="M248 296L264 305L251 311" fill="none" stroke="#676767" stroke-width="3"/>
+<text x="174" y="391" font-size="28" fill="#676767">R</text><text x="283" y="381" font-size="28" fill="#676767">L</text>
+<polyline points="303.0 360.9 208.0 293.9 147.1 274.3" fill="none" stroke="#202020" stroke-width="9" stroke-dasharray="12 7" stroke-linecap="round"/>
+<polyline points="177.0 372.1 118.0 307.1 165.3 255.5" fill="none" stroke="#4a0404" stroke-width="10" stroke-linecap="round"/>
+<line x1="138.26387683743903" y1="283.4009270677153" x2="175" y2="245.5" stroke="#202020" stroke-width="10" stroke-linecap="round"/>
+<line x1="175" y1="245.5" x2="277.5" y2="139.75" stroke="#202020" stroke-width="6"/>
+<line x1="158.48474365761905" y1="229.49230472724304" x2="191.51525634238095" y2="261.50769527275696" stroke="#202020" stroke-width="7"/>
+<circle cx="138.26387683743903" cy="283.4009270677153" r="10" fill="#f0f0ed" stroke="#202020" stroke-width="3"/><ellipse cx="165.28815134782872" cy="255.51978531675232" rx="12" ry="10" fill="#4a0404" stroke="#202020" stroke-width="3"/>
+<path d="M165.28815134782872 255.51978531675232L118.28815134782872 222.51978531675232" stroke="#676767" stroke-width="2.8"/>
+<rect x="99.28815134782872" y="200.51978531675232" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="118.28815134782872" y="229.51978531675232" text-anchor="middle" font-size="28" font-weight="700">R</text><ellipse cx="147.13121691116064" cy="274.2524274306806" rx="12" ry="10" fill="#fff" stroke="#202020" stroke-width="3"/>
+<path d="M147.13121691116064 274.2524274306806L189.13121691116064 309.2524274306806" stroke="#676767" stroke-width="2.8"/>
+<rect x="170.13121691116064" y="287.2524274306806" width="38" height="38" rx="7" fill="#fff" stroke="#202020" stroke-width="2.8"/>
+<text x="189.13121691116064" y="316.2524274306806" text-anchor="middle" font-size="28" font-weight="700">L</text><text x="22" y="718" font-size="28">Crossed hands raised to the RIGHT.</text><text x="22" y="754" font-size="28">Point UP and outward; not Ochs.</text></g>
+<text x="22" y="815" font-size="28">R = fencer's RIGHT hand (solid arm); L = LEFT hand (dashed arm).</text>
+<text x="22" y="856" font-size="28">Front three-quarter view · right-handed grip · not to scale.</text>
+</g></svg>
