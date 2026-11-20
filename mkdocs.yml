@@ -53,6 +53,10 @@ extra_javascript:
   - assets/js/traditions-interactive.js
   - assets/js/document-print.js
 
+extra_javascript:
+  - configs/pdf-config.js
+  - assets/js/pdf-download.js
+
 nav:
   - Home: index.md
   - About:
